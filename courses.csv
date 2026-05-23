@@ -1,0 +1,498 @@
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Tecnologia,Engenharia Civil,9
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Tecnologia,Engenharia Mecânica,9
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Tecnologia,Engenharia Elétrica,9
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Tecnologia,Engenharia Química,9
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Tecnologia,Engenharia de Computação,9
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Tecnologia,Engenharia de Produção,9
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Tecnologia,Engenharia Biomédica,9
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Tecnologia,Engenharia de Materiais,9
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Tecnologia,Engenharia Têxtil,9
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Ciências da Saúde,Medicina,5
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Ciências da Saúde,Enfermagem,5
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Ciências da Saúde,Odontologia,5
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Ciências da Saúde,Farmácia,5
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Ciências da Saúde,Fisioterapia,5
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Ciências Exatas e da Terra,Física,3
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Ciências Exatas e da Terra,Química,3
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Centro de Ciências Exatas e da Terra,Matemática,3
+2,USP,Universidade de São Paulo,Tier-1,Escola Politécnica (Poli),Engenharia Civil,8
+2,USP,Universidade de São Paulo,Tier-1,Escola Politécnica (Poli),Engenharia Elétrica,8
+2,USP,Universidade de São Paulo,Tier-1,Escola Politécnica (Poli),Engenharia Mecânica,8
+2,USP,Universidade de São Paulo,Tier-1,Escola Politécnica (Poli),Engenharia de Produção,8
+2,USP,Universidade de São Paulo,Tier-1,Escola Politécnica (Poli),Engenharia Metalúrgica,8
+2,USP,Universidade de São Paulo,Tier-1,Escola Politécnica (Poli),Engenharia Ambiental,8
+2,USP,Universidade de São Paulo,Tier-1,Escola Politécnica (Poli),Engenharia Naval,8
+2,USP,Universidade de São Paulo,Tier-1,Escola Politécnica (Poli),Engenharia de Computação,8
+2,USP,Universidade de São Paulo,Tier-1,Faculdade de Medicina,Medicina,3
+2,USP,Universidade de São Paulo,Tier-1,Faculdade de Medicina,Odontologia,3
+2,USP,Universidade de São Paulo,Tier-1,Faculdade de Medicina,Farmácia,3
+2,USP,Universidade de São Paulo,Tier-1,Faculdade de Direito,Direito,2
+2,USP,Universidade de São Paulo,Tier-1,Faculdade de Direito,Ciências Sociais,2
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Matemática e Estatística,Matemática,3
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Matemática e Estatística,Estatística,3
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Matemática e Estatística,Computação Teórica,3
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Química,Química Pura,3
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Química,Química Aplicada,3
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Química,Engenharia Química,3
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Física,Física Experimental,3
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Física,Física Teórica,3
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Física,Astrofísica,3
+2,USP,Universidade de São Paulo,Tier-1,Faculdade de Economia e Administração (FEA),Economia,3
+2,USP,Universidade de São Paulo,Tier-1,Faculdade de Economia e Administração (FEA),Administração,3
+2,USP,Universidade de São Paulo,Tier-1,Faculdade de Economia e Administração (FEA),Contabilidade,3
+2,USP,Universidade de São Paulo,Tier-1,Faculdade de Arquitetura e Urbanismo (FAU),Arquitetura,3
+2,USP,Universidade de São Paulo,Tier-1,Faculdade de Arquitetura e Urbanismo (FAU),Design,3
+2,USP,Universidade de São Paulo,Tier-1,Faculdade de Arquitetura e Urbanismo (FAU),Urbanismo,3
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro Tecnológico,Engenharia Mecânica,8
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro Tecnológico,Engenharia Elétrica,8
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro Tecnológico,Engenharia Civil,8
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro Tecnológico,Engenharia Ambiental,8
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro Tecnológico,Engenharia de Produção,8
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro Tecnológico,Engenharia de Materiais,8
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro Tecnológico,Engenharia de Computação,8
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro Tecnológico,Engenharia de Controle e Automação,8
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro de Ciências da Saúde,Medicina,5
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro de Ciências da Saúde,Farmácia,5
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro de Ciências da Saúde,Nutrição,5
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro de Ciências da Saúde,Odontologia,5
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro de Ciências da Saúde,Enfermagem,5
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro de Ciências Físicas e Matemáticas,Física,4
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro de Ciências Físicas e Matemáticas,Química,4
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro de Ciências Físicas e Matemáticas,Matemática,4
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Centro de Ciências Físicas e Matemáticas,Ciências,4
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Escola de Engenharia,Engenharia Elétrica,7
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Escola de Engenharia,Engenharia Civil,7
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Escola de Engenharia,Engenharia Mecânica,7
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Escola de Engenharia,Engenharia Química,7
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Escola de Engenharia,Engenharia de Computação,7
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Escola de Engenharia,Engenharia Ambiental,7
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Escola de Engenharia,Engenharia de Controle e Automação,7
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Faculdade de Medicina,Medicina,4
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Faculdade de Medicina,Odontologia,4
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Faculdade de Medicina,Enfermagem,4
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Faculdade de Medicina,Farmácia,4
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Instituto de Física,Física Experimental,2
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Instituto de Física,Física Teórica,2
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Instituto de Química,Química Pura,2
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Instituto de Química,Química Aplicada,2
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Instituto de Matemática,Matemática Pura,2
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Instituto de Matemática,Matemática Aplicada,2
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Instituto de Informática,Ciência da Computação,2
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Instituto de Informática,Sistemas de Informação,2
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Escola Politécnica,Engenharia Civil,8
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Escola Politécnica,Engenharia Elétrica,8
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Escola Politécnica,Engenharia Mecânica,8
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Escola Politécnica,Engenharia de Produção,8
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Escola Politécnica,Engenharia de Computação,8
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Escola Politécnica,Engenharia Química,8
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Escola Politécnica,Engenharia de Petróleo,8
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Escola Politécnica,Engenharia Metalúrgica,8
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Química,Química Pura,3
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Química,Química Aplicada,3
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Química,Química Medicinal,3
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Física,Física Experimental,3
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Física,Física Teórica,3
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Física,Astrofísica,3
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Matemática,Matemática Pura,2
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Matemática,Matemática Aplicada,2
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Faculdade de Medicina,Medicina,2
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Faculdade de Medicina,Odontologia,2
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Engenharia Elétrica e de Computação (FEEC),Engenharia Elétrica,4
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Engenharia Elétrica e de Computação (FEEC),Engenharia de Computação,4
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Engenharia Elétrica e de Computação (FEEC),Telecomunicações,4
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Engenharia Elétrica e de Computação (FEEC),Eletrônica,4
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Engenharia Mecânica (FEM),Engenharia Mecânica,4
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Engenharia Mecânica (FEM),Automação,4
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Engenharia Mecânica (FEM),Energia,4
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Engenharia Mecânica (FEM),Robótica,4
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Instituto de Química (IQ),Química Pura,3
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Instituto de Química (IQ),Química Aplicada,3
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Instituto de Química (IQ),Engenharia Química,3
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Instituto de Física,Física Experimental,3
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Instituto de Física,Física Teórica,3
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Instituto de Física,Materiais,3
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Ciências Médicas,Medicina,3
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Ciências Médicas,Farmácia,3
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Ciências Médicas,Saúde Coletiva,3
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Engenharia de Alimentos (FEA),Engenharia de Alimentos,3
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Engenharia de Alimentos (FEA),Nutrição,3
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Faculdade de Engenharia de Alimentos (FEA),Tecnologia de Alimentos,3
+7,UFC,Universidade Federal do Ceará,Tier-2,Centro Tecnológico,Engenharia Elétrica,5
+7,UFC,Universidade Federal do Ceará,Tier-2,Centro Tecnológico,Engenharia Mecânica,5
+7,UFC,Universidade Federal do Ceará,Tier-2,Centro Tecnológico,Engenharia de Computação,5
+7,UFC,Universidade Federal do Ceará,Tier-2,Centro Tecnológico,Engenharia Civil,5
+7,UFC,Universidade Federal do Ceará,Tier-2,Centro Tecnológico,Engenharia Química,5
+7,UFC,Universidade Federal do Ceará,Tier-2,Faculdade de Medicina,Medicina,3
+7,UFC,Universidade Federal do Ceará,Tier-2,Faculdade de Medicina,Enfermagem,3
+7,UFC,Universidade Federal do Ceará,Tier-2,Faculdade de Medicina,Saúde Pública,3
+7,UFC,Universidade Federal do Ceará,Tier-2,Centro de Ciências,Ciências do Mar,4
+7,UFC,Universidade Federal do Ceará,Tier-2,Centro de Ciências,Matemática,4
+7,UFC,Universidade Federal do Ceará,Tier-2,Centro de Ciências,Física,4
+7,UFC,Universidade Federal do Ceará,Tier-2,Centro de Ciências,Biologia,4
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Escola de Engenharia,Engenharia Civil,7
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Escola de Engenharia,Engenharia Metalúrgica,7
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Escola de Engenharia,Engenharia Elétrica,7
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Escola de Engenharia,Engenharia Mecânica,7
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Escola de Engenharia,Engenharia de Computação,7
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Escola de Engenharia,Engenharia de Produção,7
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Escola de Engenharia,Engenharia Ambiental,7
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Faculdade de Medicina,Medicina,3
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Faculdade de Medicina,Odontologia,3
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Faculdade de Medicina,Enfermagem,3
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Instituto de Ciências Biológicas,Biologia,3
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Instituto de Ciências Biológicas,Bioquímica,3
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Instituto de Ciências Biológicas,Microbiologia,3
+9,UFPA,Universidade Federal do Pará,Tier-2,Instituto de Tecnologia,Engenharia Civil,4
+9,UFPA,Universidade Federal do Pará,Tier-2,Instituto de Tecnologia,Engenharia Elétrica,4
+9,UFPA,Universidade Federal do Pará,Tier-2,Instituto de Tecnologia,Engenharia Mecânica,4
+9,UFPA,Universidade Federal do Pará,Tier-2,Instituto de Tecnologia,Engenharia Química,4
+9,UFPA,Universidade Federal do Pará,Tier-2,Ciências Exatas e Naturais,Matemática,4
+9,UFPA,Universidade Federal do Pará,Tier-2,Ciências Exatas e Naturais,Física,4
+9,UFPA,Universidade Federal do Pará,Tier-2,Ciências Exatas e Naturais,Química,4
+9,UFPA,Universidade Federal do Pará,Tier-2,Ciências Exatas e Naturais,Biologia,4
+9,UFPA,Universidade Federal do Pará,Tier-2,Medicina e Saúde Comunitária,Medicina,3
+9,UFPA,Universidade Federal do Pará,Tier-2,Medicina e Saúde Comunitária,Enfermagem,3
+9,UFPA,Universidade Federal do Pará,Tier-2,Medicina e Saúde Comunitária,Saúde Coletiva,3
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Tecnologia e Geociências,Engenharia Civil,4
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Tecnologia e Geociências,Engenharia Elétrica,4
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Tecnologia e Geociências,Engenharia Mecânica,4
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Tecnologia e Geociências,Engenharia Química,4
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Ciências,Informática,4
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Ciências,Química,4
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Ciências,Física,4
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Ciências,Matemática,4
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Ciências da Saúde,Medicina,3
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Ciências da Saúde,Ciências Biológicas,3
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Ciências da Saúde,Odontologia,3
+11,UTFPR,Universidade Tecnológica Federal do Paraná,Tier-2,Departamentos Principais,Engenharia Elétrica,5
+11,UTFPR,Universidade Tecnológica Federal do Paraná,Tier-2,Departamentos Principais,Engenharia Mecânica,5
+11,UTFPR,Universidade Tecnológica Federal do Paraná,Tier-2,Departamentos Principais,Engenharia de Computação,5
+11,UTFPR,Universidade Tecnológica Federal do Paraná,Tier-2,Departamentos Principais,Engenharia de Controle e Automação,5
+11,UTFPR,Universidade Tecnológica Federal do Paraná,Tier-2,Departamentos Principais,Ciência da Computação,5
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Centro de Ciências Exatas e Tecnologia,Engenharia de Materiais,5
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Centro de Ciências Exatas e Tecnologia,Engenharia Química,5
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Centro de Ciências Exatas e Tecnologia,Engenharia de Produção,5
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Centro de Ciências Exatas e Tecnologia,Ciência da Computação,5
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Centro de Ciências Exatas e Tecnologia,Engenharia de Controle e Automação,5
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Centro de Ciências Biológicas e da Saúde,Biotecnologia,3
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Centro de Ciências Biológicas e da Saúde,Biologia,3
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Centro de Ciências Biológicas e da Saúde,Farmácia,3
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Faculdade de Engenharia,Engenharia Elétrica,5
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Faculdade de Engenharia,Engenharia Mecânica,5
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Faculdade de Engenharia,Engenharia Biomédica,5
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Faculdade de Engenharia,Engenharia Agrícola,5
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Faculdade de Engenharia,Engenharia Civil,5
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Instituto de Computação,Ciência da Computação,2
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Instituto de Computação,Sistemas de Informação,2
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Centro de Tecnologia,Engenharia de Controle e Automação,6
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Centro de Tecnologia,Engenharia Agrícola,6
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Centro de Tecnologia,Engenharia Elétrica,6
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Centro de Tecnologia,Engenharia Mecânica,6
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Centro de Tecnologia,Engenharia Química,6
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Centro de Tecnologia,Engenharia Civil,6
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Outros Centros,Ciência da Computação,3
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Outros Centros,Física,3
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Outros Centros,Matemática,3
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Departamentos Principais,Engenharia Aeronáutica,5
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Departamentos Principais,Engenharia Eletrônica,5
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Departamentos Principais,Engenharia Mecânica,5
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Departamentos Principais,Engenharia de Computação,5
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Departamentos Principais,Engenharia Civil-Aeronáutica,5
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Tecnologia,Engenharia Elétrica,5
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Tecnologia,Engenharia Civil,5
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Tecnologia,Engenharia Mecânica,5
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Tecnologia,Engenharia de Computação,5
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Tecnologia,Engenharia de Materiais,5
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Ciências da Saúde,Medicina,4
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Ciências da Saúde,Odontologia,4
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Ciências da Saúde,Farmácia,4
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Ciências da Saúde,Enfermagem,4
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Ciências Exatas,Química,4
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Ciências Exatas,Física,4
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Ciências Exatas,Matemática,4
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Centro de Ciências Exatas,Biologia,4
+17,UnB,Universidade de Brasília,Tier-2,Faculdade de Tecnologia,Engenharia Civil,6
+17,UnB,Universidade de Brasília,Tier-2,Faculdade de Tecnologia,Engenharia Elétrica,6
+17,UnB,Universidade de Brasília,Tier-2,Faculdade de Tecnologia,Engenharia Mecânica,6
+17,UnB,Universidade de Brasília,Tier-2,Faculdade de Tecnologia,Engenharia Ambiental,6
+17,UnB,Universidade de Brasília,Tier-2,Faculdade de Tecnologia,Engenharia de Computação,6
+17,UnB,Universidade de Brasília,Tier-2,Faculdade de Tecnologia,Engenharia de Produção,6
+17,UnB,Universidade de Brasília,Tier-2,Instituto de Ciências Exatas,Matemática,4
+17,UnB,Universidade de Brasília,Tier-2,Instituto de Ciências Exatas,Física,4
+17,UnB,Universidade de Brasília,Tier-2,Instituto de Ciências Exatas,Química,4
+17,UnB,Universidade de Brasília,Tier-2,Instituto de Ciências Exatas,Estatística,4
+17,UnB,Universidade de Brasília,Tier-2,Instituto de Ciências Biológicas,Biologia,3
+17,UnB,Universidade de Brasília,Tier-2,Instituto de Ciências Biológicas,Ecologia,3
+17,UnB,Universidade de Brasília,Tier-2,Instituto de Ciências Biológicas,Botânica,3
+17,UnB,Universidade de Brasília,Tier-2,Instituto de Ciências Humanas,Ciência Política,3
+17,UnB,Universidade de Brasília,Tier-2,Instituto de Ciências Humanas,Sociologia,3
+17,UnB,Universidade de Brasília,Tier-2,Instituto de Ciências Humanas,Antropologia,3
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Departamento de Engenharia,Engenharia Elétrica,5
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Departamento de Engenharia,Engenharia Mecânica,5
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Departamento de Engenharia,Engenharia de Produção,5
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Departamento de Engenharia,Engenharia Civil,5
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Departamento de Engenharia,Engenharia Ambiental,5
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Departamento de Computação,Ciência da Computação,3
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Departamento de Computação,Matemática Aplicada,3
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Departamento de Computação,Engenharia de Computação,3
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Departamento de Física,Física,2
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Departamento de Física,Física Aplicada,2
+19,UNESP,Universidade Estadual Paulista,Tier-1,Faculdades de Engenharia,Engenharia Elétrica,6
+19,UNESP,Universidade Estadual Paulista,Tier-1,Faculdades de Engenharia,Engenharia Civil,6
+19,UNESP,Universidade Estadual Paulista,Tier-1,Faculdades de Engenharia,Engenharia Mecânica,6
+19,UNESP,Universidade Estadual Paulista,Tier-1,Faculdades de Engenharia,Engenharia Química,6
+19,UNESP,Universidade Estadual Paulista,Tier-1,Faculdades de Engenharia,Engenharia de Computação,6
+19,UNESP,Universidade Estadual Paulista,Tier-1,Faculdades de Engenharia,Engenharia de Produção,6
+19,UNESP,Universidade Estadual Paulista,Tier-1,Faculdades de Medicina,Medicina,3
+19,UNESP,Universidade Estadual Paulista,Tier-1,Faculdades de Medicina,Odontologia,3
+19,UNESP,Universidade Estadual Paulista,Tier-1,Faculdades de Medicina,Fonoaudiologia,3
+19,UNESP,Universidade Estadual Paulista,Tier-1,Instituto de Ciências,Biociências,5
+19,UNESP,Universidade Estadual Paulista,Tier-1,Instituto de Ciências,Farmácia,5
+19,UNESP,Universidade Estadual Paulista,Tier-1,Instituto de Ciências,Física,5
+19,UNESP,Universidade Estadual Paulista,Tier-1,Instituto de Ciências,Química,5
+19,UNESP,Universidade Estadual Paulista,Tier-1,Instituto de Ciências,Matemática,5
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Tecnologia,Engenharia Elétrica,6
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Tecnologia,Engenharia Civil,6
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Tecnologia,Engenharia Mecânica,6
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Tecnologia,Engenharia Ambiental,6
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Tecnologia,Engenharia de Produção,6
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Tecnologia,Engenharia Química,6
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Ciências,Medicina,6
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Ciências,Biologia,6
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Ciências,Computação,6
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Ciências,Química,6
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Ciências,Física,6
+20,UFPR,Universidade Federal do Paraná,Tier-2,Setor de Ciências,Matemática,6
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Tecnologia,Engenharia Civil,5
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Tecnologia,Engenharia Mecânica,5
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Tecnologia,Engenharia Química,5
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Tecnologia,Engenharia Eletrônica,5
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Tecnologia,Engenharia de Computação,5
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Ciências da Saúde,Medicina,4
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Ciências da Saúde,Odontologia,4
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Ciências da Saúde,Enfermagem,4
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Ciências da Saúde,Farmácia,4
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Educação e Humanidades,Direito,3
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Educação e Humanidades,Administração,3
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Centro de Educação e Humanidades,Ciências Sociais,3
+22,UFBA,Universidade Federal da Bahia,Tier-2,Escola Politécnica,Engenharia Química,6
+22,UFBA,Universidade Federal da Bahia,Tier-2,Escola Politécnica,Engenharia Civil,6
+22,UFBA,Universidade Federal da Bahia,Tier-2,Escola Politécnica,Engenharia Elétrica,6
+22,UFBA,Universidade Federal da Bahia,Tier-2,Escola Politécnica,Engenharia de Materiais,6
+22,UFBA,Universidade Federal da Bahia,Tier-2,Escola Politécnica,Engenharia Mecânica,6
+22,UFBA,Universidade Federal da Bahia,Tier-2,Escola Politécnica,Engenharia Ambiental,6
+22,UFBA,Universidade Federal da Bahia,Tier-2,Faculdade de Medicina,Medicina,4
+22,UFBA,Universidade Federal da Bahia,Tier-2,Faculdade de Medicina,Saúde Coletiva,4
+22,UFBA,Universidade Federal da Bahia,Tier-2,Faculdade de Medicina,Odontologia,4
+22,UFBA,Universidade Federal da Bahia,Tier-2,Faculdade de Medicina,Enfermagem,4
+22,UFBA,Universidade Federal da Bahia,Tier-2,Instituto de Ciências,Biologia,4
+22,UFBA,Universidade Federal da Bahia,Tier-2,Instituto de Ciências,Física,4
+22,UFBA,Universidade Federal da Bahia,Tier-2,Instituto de Ciências,Química,4
+22,UFBA,Universidade Federal da Bahia,Tier-2,Instituto de Ciências,Computação,4
+23,UNIFEI,Universidade Federal de Itajubá,Tier-2,Departamentos Principais,Engenharia Elétrica,6
+23,UNIFEI,Universidade Federal de Itajubá,Tier-2,Departamentos Principais,Engenharia Mecânica,6
+23,UNIFEI,Universidade Federal de Itajubá,Tier-2,Departamentos Principais,Engenharia Civil,6
+23,UNIFEI,Universidade Federal de Itajubá,Tier-2,Departamentos Principais,Engenharia de Computação,6
+23,UNIFEI,Universidade Federal de Itajubá,Tier-2,Departamentos Principais,Engenharia de Materiais,6
+23,UNIFEI,Universidade Federal de Itajubá,Tier-2,Departamentos Principais,Engenharia Ambiental,6
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Escola Politécnica,Engenharia Elétrica,5
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Escola Politécnica,Engenharia Mecânica,5
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Escola Politécnica,Engenharia de Computação,5
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Escola Politécnica,Engenharia de Produção,5
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Escola Politécnica,Engenharia Civil,5
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Faculdade de Medicina,Medicina,4
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Faculdade de Medicina,Psicologia,4
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Faculdade de Medicina,Odontologia,4
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Faculdade de Medicina,Farmácia,4
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Outros,Ciência da Computação,3
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Outros,Física,3
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Outros,Química,3
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Engenharia,Engenharia Química,5
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Engenharia,Engenharia Elétrica,5
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Engenharia,Engenharia Mecânica,5
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Engenharia,Engenharia Civil,5
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Engenharia,Engenharia de Computação,5
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Ciências,Medicina,4
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Ciências,Saúde Coletiva,4
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Ciências,Biociências,4
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Ciências,Biologia,4
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Computação,Ciência da Computação,2
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Computação,Sistemas de Informação,2
+26,UFABC,Universidade Federal do ABC,Tier-2,Centro de Engenharias,"Engenharias Estruturadas: Energia, Informação, Materiais",1
+26,UFABC,Universidade Federal do ABC,Tier-2,Centro de Ciências Naturais e Humanas,Ciência da Computação,5
+26,UFABC,Universidade Federal do ABC,Tier-2,Centro de Ciências Naturais e Humanas,Matemática Aplicada,5
+26,UFABC,Universidade Federal do ABC,Tier-2,Centro de Ciências Naturais e Humanas,Física,5
+26,UFABC,Universidade Federal do ABC,Tier-2,Centro de Ciências Naturais e Humanas,Ciências da Natureza,5
+26,UFABC,Universidade Federal do ABC,Tier-2,Centro de Ciências Naturais e Humanas,Engenharia Biomédica,5
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Departamentos Principais,Engenharia de Minas,5
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Departamentos Principais,Engenharia Metalúrgica,5
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Departamentos Principais,Engenharia Civil,5
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Departamentos Principais,Engenharia Elétrica,5
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Departamentos Principais,Engenharia de Computação,5
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Outros,Medicina,5
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Outros,Farmácia,5
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Outros,Biologia,5
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Outros,Química,5
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Outros,Física,5
+28,UCS,Universidade de Caxias do Sul,Tier-2,Departamentos Principais,Engenharia Mecânica,5
+28,UCS,Universidade de Caxias do Sul,Tier-2,Departamentos Principais,Engenharia de Computação,5
+28,UCS,Universidade de Caxias do Sul,Tier-2,Departamentos Principais,Engenharia Ambiental,5
+28,UCS,Universidade de Caxias do Sul,Tier-2,Departamentos Principais,Engenharia Elétrica,5
+28,UCS,Universidade de Caxias do Sul,Tier-2,Departamentos Principais,Engenharia Civil,5
+28,UCS,Universidade de Caxias do Sul,Tier-2,Saúde e Ciências,Medicina,4
+28,UCS,Universidade de Caxias do Sul,Tier-2,Saúde e Ciências,Biologia,4
+28,UCS,Universidade de Caxias do Sul,Tier-2,Saúde e Ciências,Psicologia,4
+28,UCS,Universidade de Caxias do Sul,Tier-2,Saúde e Ciências,Odontologia,4
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Departamentos Principais,Engenharia Elétrica,5
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Departamentos Principais,Engenharia de Computação,5
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Departamentos Principais,Engenharia Civil,5
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Departamentos Principais,Engenharia Mecânica,5
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Departamentos Principais,Engenharia de Produção,5
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Outros,Arquitetura,4
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Outros,Direito,4
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Outros,Administração,4
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Outros,Biociências,4
+30,UFV,Universidade Federal de Viçosa,Tier-2,Centro de Ciências Agrárias,Agronomia,5
+30,UFV,Universidade Federal de Viçosa,Tier-2,Centro de Ciências Agrárias,Engenharia Florestal,5
+30,UFV,Universidade Federal de Viçosa,Tier-2,Centro de Ciências Agrárias,Engenharia Agrícola,5
+30,UFV,Universidade Federal de Viçosa,Tier-2,Centro de Ciências Agrárias,Zootecnia,5
+30,UFV,Universidade Federal de Viçosa,Tier-2,Centro de Ciências Agrárias,Medicina Veterinária,5
+30,UFV,Universidade Federal de Viçosa,Tier-2,Centro Tecnológico,Engenharia Civil,4
+30,UFV,Universidade Federal de Viçosa,Tier-2,Centro Tecnológico,Engenharia Mecânica,4
+30,UFV,Universidade Federal de Viçosa,Tier-2,Centro Tecnológico,Engenharia Elétrica,4
+30,UFV,Universidade Federal de Viçosa,Tier-2,Centro Tecnológico,Engenharia de Computação,4
+30,UFV,Universidade Federal de Viçosa,Tier-2,Ciências,Biologia,3
+30,UFV,Universidade Federal de Viçosa,Tier-2,Ciências,Bioquímica,3
+30,UFV,Universidade Federal de Viçosa,Tier-2,Ciências,Química,3
+31,UFG,Universidade Federal de Goiás,Tier-2,Escola de Engenharia,Engenharia Elétrica,7
+31,UFG,Universidade Federal de Goiás,Tier-2,Escola de Engenharia,Engenharia Civil,7
+31,UFG,Universidade Federal de Goiás,Tier-2,Escola de Engenharia,Engenharia Mecânica,7
+31,UFG,Universidade Federal de Goiás,Tier-2,Escola de Engenharia,Engenharia de Computação,7
+31,UFG,Universidade Federal de Goiás,Tier-2,Escola de Engenharia,Engenharia Ambiental,7
+31,UFG,Universidade Federal de Goiás,Tier-2,Escola de Engenharia,Engenharia Química,7
+31,UFG,Universidade Federal de Goiás,Tier-2,Escola de Engenharia,Engenharia de Produção,7
+31,UFG,Universidade Federal de Goiás,Tier-2,Saúde e Ciências,Medicina,6
+31,UFG,Universidade Federal de Goiás,Tier-2,Saúde e Ciências,Enfermagem,6
+31,UFG,Universidade Federal de Goiás,Tier-2,Saúde e Ciências,Farmácia,6
+31,UFG,Universidade Federal de Goiás,Tier-2,Saúde e Ciências,Biologia,6
+31,UFG,Universidade Federal de Goiás,Tier-2,Saúde e Ciências,Química,6
+31,UFG,Universidade Federal de Goiás,Tier-2,Saúde e Ciências,Física,6
+32,UNIOESTE,Universidade Estadual do Oeste do Paraná,Tier-2,Centro Multidisciplinar,Engenharia Agrícola,4
+32,UNIOESTE,Universidade Estadual do Oeste do Paraná,Tier-2,Centro Multidisciplinar,Engenharia Ambiental,4
+32,UNIOESTE,Universidade Estadual do Oeste do Paraná,Tier-2,Centro Multidisciplinar,Engenharia Civil,4
+32,UNIOESTE,Universidade Estadual do Oeste do Paraná,Tier-2,Centro Multidisciplinar,Engenharia de Computação,4
+32,UNIOESTE,Universidade Estadual do Oeste do Paraná,Tier-2,Outros,Agronomia,4
+32,UNIOESTE,Universidade Estadual do Oeste do Paraná,Tier-2,Outros,Biologia,4
+32,UNIOESTE,Universidade Estadual do Oeste do Paraná,Tier-2,Outros,Química,4
+32,UNIOESTE,Universidade Estadual do Oeste do Paraná,Tier-2,Outros,Administração,4
+33,UPE,Universidade de Pernambuco,Tier-2,Departamentos Principais,Engenharia de Computação,4
+33,UPE,Universidade de Pernambuco,Tier-2,Departamentos Principais,Engenharia Elétrica,4
+33,UPE,Universidade de Pernambuco,Tier-2,Departamentos Principais,Engenharia Civil,4
+33,UPE,Universidade de Pernambuco,Tier-2,Departamentos Principais,Engenharia Mecânica,4
+33,UPE,Universidade de Pernambuco,Tier-2,Saúde,Medicina,3
+33,UPE,Universidade de Pernambuco,Tier-2,Saúde,Odontologia,3
+33,UPE,Universidade de Pernambuco,Tier-2,Saúde,Saúde Coletiva,3
+34,FEI,Fundação Educacional Inaciana Pe. Saboia de Medeiros,Tier-2,Engenharias,Engenharia Elétrica,5
+34,FEI,Fundação Educacional Inaciana Pe. Saboia de Medeiros,Tier-2,Engenharias,Engenharia Mecânica,5
+34,FEI,Fundação Educacional Inaciana Pe. Saboia de Medeiros,Tier-2,Engenharias,Engenharia Química,5
+34,FEI,Fundação Educacional Inaciana Pe. Saboia de Medeiros,Tier-2,Engenharias,Engenharia de Produção,5
+34,FEI,Fundação Educacional Inaciana Pe. Saboia de Medeiros,Tier-2,Engenharias,Engenharia de Computação,5
+34,FEI,Fundação Educacional Inaciana Pe. Saboia de Medeiros,Tier-2,Administração,Administração,3
+34,FEI,Fundação Educacional Inaciana Pe. Saboia de Medeiros,Tier-2,Administração,Física,3
+34,FEI,Fundação Educacional Inaciana Pe. Saboia de Medeiros,Tier-2,Administração,Matemática,3
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Departamentos Principais,Engenharia Elétrica,5
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Departamentos Principais,Engenharia de Computação,5
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Departamentos Principais,Engenharia Civil,5
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Departamentos Principais,Engenharia Mecânica,5
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Departamentos Principais,Engenharia de Produção,5
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Saúde e Ciências,Ciências Biológicas,4
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Saúde e Ciências,Medicina,4
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Saúde e Ciências,Psicologia,4
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Saúde e Ciências,Farmácia,4
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Departamentos Principais,Engenharia Agrícola,5
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Departamentos Principais,Engenharia Civil,5
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Departamentos Principais,Engenharia Elétrica,5
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Departamentos Principais,Engenharia Mecânica,5
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Departamentos Principais,Engenharia de Computação,5
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Outros,Agronomia,4
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Outros,Biologia,4
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Outros,Química,4
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Outros,Administração,4
+37,UNIP,Universidade Paulista,Tier-2,Engenharias,Engenharia Elétrica,5
+37,UNIP,Universidade Paulista,Tier-2,Engenharias,Engenharia Civil,5
+37,UNIP,Universidade Paulista,Tier-2,Engenharias,Engenharia Mecânica,5
+37,UNIP,Universidade Paulista,Tier-2,Engenharias,Engenharia de Computação,5
+37,UNIP,Universidade Paulista,Tier-2,Engenharias,Engenharia de Produção,5
+37,UNIP,Universidade Paulista,Tier-2,Direito e Administração,Direito,3
+37,UNIP,Universidade Paulista,Tier-2,Direito e Administração,Administração,3
+37,UNIP,Universidade Paulista,Tier-2,Direito e Administração,Arquitetura,3
+37,UNIP,Universidade Paulista,Tier-2,Saúde,Biomedicina,4
+37,UNIP,Universidade Paulista,Tier-2,Saúde,Farmácia,4
+37,UNIP,Universidade Paulista,Tier-2,Saúde,Psicologia,4
+37,UNIP,Universidade Paulista,Tier-2,Saúde,Odontologia,4
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Departamentos Principais,Engenharia de Alimentos,5
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Departamentos Principais,Química,5
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Departamentos Principais,Nutrição,5
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Departamentos Principais,Biotecnologia,5
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Departamentos Principais,Tecnologia de Alimentos,5
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Análises,Microbiologia,2
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Análises,Química dos Alimentos,2
+39,UNISO,Universidade de Sorocaba,Tier-3,Engenharias,Engenharia Agronômica,5
+39,UNISO,Universidade de Sorocaba,Tier-3,Engenharias,Engenharia de Produção,5
+39,UNISO,Universidade de Sorocaba,Tier-3,Engenharias,Engenharia de Computação,5
+39,UNISO,Universidade de Sorocaba,Tier-3,Engenharias,Engenharia Ambiental,5
+39,UNISO,Universidade de Sorocaba,Tier-3,Engenharias,Engenharia Mecânica,5
+39,UNISO,Universidade de Sorocaba,Tier-3,Saúde e Ciências,Biologia,4
+39,UNISO,Universidade de Sorocaba,Tier-3,Saúde e Ciências,Farmácia,4
+39,UNISO,Universidade de Sorocaba,Tier-3,Saúde e Ciências,Psicologia,4
+39,UNISO,Universidade de Sorocaba,Tier-3,Saúde e Ciências,Medicina Veterinária,4
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Engenharias,Engenharia Mecânica,5
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Engenharias,Engenharia Eletrônica,5
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Engenharias,Engenharia Química,5
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Engenharias,Engenharia de Produção,5
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Engenharias,Engenharia de Computação,5
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Tecnologia e Alimentos,Ciência e Tecnologia de Alimentos,1
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Administração,Administração,4
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Administração,Design,4
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Administração,Matemática,4
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Administração,Física,4
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Engenharias,Engenharia Química,5
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Engenharias,Engenharia Ambiental,5
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Engenharias,Engenharia Civil,5
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Engenharias,Engenharia de Produção,5
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Engenharias,Engenharia de Computação,5
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Administração e Saúde,Administração,3
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Administração e Saúde,Contabilidade,3
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Administração e Saúde,Direito,3
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Saúde,Biomedicina,5
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Saúde,Enfermagem,5
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Saúde,Odontologia,5
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Saúde,Farmácia,5
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Saúde,Educação Física,5
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Engenharias,Engenharia de Computação,4
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Engenharias,Engenharia Mecânica,4
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Engenharias,Engenharia Eletrônica,4
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Engenharias,Engenharia Mecatrônica,4
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Gestão,Economia,3
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Gestão,Administração,3
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Gestão,Direito,3
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Ciência e Dados,Ciência de Dados,3
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Ciência e Dados,Matemática Aplicada,3
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Ciência e Dados,Sistemas de Informação,3
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Engenharias,Engenharia de Computação,7
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Engenharias,Engenharia Elétrica,7
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Engenharias,Engenharia Mecânica,7
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Engenharias,Engenharia Civil,7
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Engenharias,Engenharia de Produção,7
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Engenharias,Engenharia Química,7
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Engenharias,Engenharia Ambiental,7
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Design e Arquitetura,Arquitetura e Urbanismo,3
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Design e Arquitetura,Design,3
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Design e Arquitetura,Administração,3
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Engenharias,Engenharia Civil,5
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Engenharias,Engenharia Mecânica,5
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Engenharias,Engenharia Elétrica,5
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Engenharias,Engenharia de Produção,5
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Engenharias,Engenharia de Computação,5
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Arquitetura e Administração,Arquitetura e Urbanismo,2
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Arquitetura e Administração,Administração,2
