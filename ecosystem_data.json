@@ -8,7 +8,8 @@
             "volume": "80+ startups",
             "focus": "Deep Tech, Biotechnology, Materials, ICT",
             "website": "https://cietec.org.br/",
-            "contact": "contato@cietec.org.br"
+            "contact": "contato@cietec.org.br",
+            "contacts": "Sergio Risola (Diretor Executivo)"
         },
         {
             "name": "INCAMP (UNICAMP)",
@@ -18,7 +19,8 @@
             "volume": "30+ startups",
             "focus": "ICT, Engineering, Biotechnology",
             "website": "https://parque.inova.unicamp.br/traga-sua-empresa/incubadas/",
-            "contact": "incamp@inova.unicamp.br"
+            "contact": "incamp@inova.unicamp.br",
+            "contacts": "Prof. Dr. Renato Lopes (Diretor Executivo)"
         },
         {
             "name": "Nexus Hub (PqTec SJC)",
@@ -38,7 +40,9 @@
             "volume": "20+ startups",
             "focus": "ICT, Biotechnology, Materials, Energy",
             "website": "https://bhtec.org.br/",
-            "contact": "comunicacao@bhtec.org.br"
+            "contact": "comunicacao@bhtec.org.br",
+            "contacts": "Marco Crocco (Diretor Presidente)",
+            "phone": "(31) 3401-1000"
         },
         {
             "name": "Parque Tecnol\u00f3gico da UFRJ",
@@ -48,7 +52,8 @@
             "volume": "30+ companies",
             "focus": "Energy, Oil & Gas, ICT",
             "website": "https://www.parque.ufrj.br/",
-            "contact": "contato@parque.ufrj.br"
+            "contact": "contato@parque.ufrj.br",
+            "contacts": "Vicente Ferreira (Diretor)"
         },
         {
             "name": "CELTA (CERTI)",
@@ -58,7 +63,8 @@
             "volume": "40+ startups",
             "focus": "Electronics, Software, Automation",
             "website": "https://celta.org.br/",
-            "contact": "celta@certi.org.br"
+            "contact": "celta@certi.org.br",
+            "contacts": "Tony Chierighini (Diretor Executivo)"
         },
         {
             "name": "SUPERA Parque",
@@ -98,7 +104,8 @@
             "volume": "N/A",
             "focus": "Innovation Management, Tech Transfer",
             "website": "https://www.inova.unicamp.br/",
-            "contact": "comunica@inova.unicamp.br"
+            "contact": "comunica@inova.unicamp.br",
+            "contacts": "Prof. Dr. Renato Lopes (Diretor Executivo)"
         },
         {
             "name": "Hub USP Inova\u00e7\u00e3o",
@@ -188,7 +195,8 @@
             "volume": "Coworking/Hub",
             "focus": "Startups",
             "website": "https://parque.inova.unicamp.br/",
-            "contact": "contato@inova.unicamp.br"
+            "contact": "contato@inova.unicamp.br",
+            "contacts": "Prof. Dr. Renato Lopes (Diretor Executivo)"
         },
         {
             "name": "Inova USP",
@@ -312,7 +320,7 @@
             "status": "Graduada",
             "website": "https://www.esss.co/",
             "adherence_reason": "L\u00edder em simula\u00e7\u00e3o (CAE) na AL, parceira estrat\u00e9gica em tecnologias de engenharia.",
-            "contacts": "Clovis Maliska Jr."
+            "contacts": "Clovis Maliska Jr. (Presidente)"
         },
         {
             "name": "Welle Laser",
@@ -324,7 +332,7 @@
             "status": "Graduada",
             "website": "https://wellelaser.com/",
             "adherence_reason": "Tecnologia laser para marca\u00e7\u00e3o e rastreabilidade industrial, Ind\u00fastria 4.0.",
-            "contacts": "Gabriel de Castro (Fundador)"
+            "contacts": "Gabriel de Castro"
         },
         {
             "name": "593ICAN",
@@ -385,7 +393,7 @@
             "status": "Graduada",
             "website": "https://neuralmind.ai/",
             "adherence_reason": "IA avan\u00e7ada para processamento de documentos e vis\u00e3o computacional industrial.",
-            "contacts": "Roberto Lotufo"
+            "contacts": "Patricia Tavares / Roberto Lotufo"
         },
         {
             "name": "Photonita",
@@ -469,7 +477,7 @@
             "status": "Graduada",
             "website": "https://treevia.com.br/",
             "adherence_reason": "IoT e Big Data para monitoramento de ativos florestais.",
-            "contacts": "N/A"
+            "contacts": "Mayra Castro / Estevam Claudio"
         },
         {
             "name": "Reason",
@@ -505,7 +513,7 @@
             "status": "Empresa Consolidada",
             "website": "https://www.altus.com.br/",
             "adherence_reason": "CLPs e software de automa\u00e7\u00e3o, concorrente/parceira potencial no ecossistema industrial.",
-            "contacts": "N/A"
+            "contacts": "Ricardo Felizzola"
         },
         {
             "name": "Eigendauer",
@@ -625,7 +633,7 @@
             "academic_link": "CIETEC/USP",
             "website": "https://www.simulate.com.br/",
             "adherence_reason": "Alta ader\u00eancia ao portf\u00f3lio de simula\u00e7\u00e3o e manufatura digital (Tecnomatix/Simcenter).",
-            "contacts": "Leonardo Chwif (Fundador)",
+            "contacts": "Leonardo Chwif",
             "email": "simulate@simulate.com.br"
         },
         {
@@ -638,7 +646,7 @@
             "academic_link": "CIETEC/USP",
             "website": "https://nexxto.com/",
             "adherence_reason": "Monitoramento IoT em tempo real, alinhado com MindSphere/Xcelerator.",
-            "contacts": "Antonio Rossini (Fundador)",
+            "contacts": "Antonio Rossini",
             "email": "contato@nexxto.com"
         },
         {
