@@ -1,35 +1,5 @@
 [
   {
-    "nome": "Anna Helena Reali Costa",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Cíntia Borges Margi",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Jaime Simão Sichman",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
     "nome": "André Fábio Kohn",
     "email": "andfkohn@leb.usp.br",
     "unidade": "Escola Politécnica",
@@ -130,26 +100,6 @@
     "laboratorio": "Não especificado"
   },
   {
-    "nome": "André Leme Fleury",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Marly Monteiro de Carvalho",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
     "nome": "Beta Araújo Prates",
     "email": "beta@pea.usp.br",
     "unidade": "Escola Politécnica",
@@ -166,156 +116,6 @@
     "departamento": "PEA",
     "instituto": "Escola Politécnica",
     "url": "https://www.pea.usp.br/departamento/",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Alfredo Goldman vel Lejbman",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/gold",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Fabio Kon",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/kon",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "João Eduardo Ferreira",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/jef",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Marcelo Finger",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/mfinger",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Renata Wassermann",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/renata",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Ronaldo Fumio Hashimoto",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/ronaldo",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Carlos Eduardo Ferreira",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/cef",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Nina S. T. Hirata",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/nina",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Ernesto G. Birgin",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Matemática Aplicada",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/egbirgin",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Walter Figueiredo Mascarenhas",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Matemática Aplicada",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/walterfm",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "João do Espírito Santo Batista Neto",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Ciências de Computação",
-    "instituto": "ICMC-USP",
-    "url": "https://www.icmc.usp.br/pessoas?id=1586133",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Mariana Cúri",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Matemática Aplicada e Estatística",
-    "instituto": "ICMC-USP",
-    "url": "https://www.icmc.usp.br/pessoas?id=3191783",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Regilene Delazari dos Santos Oliveira",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Matemática",
-    "instituto": "ICMC-USP",
-    "url": "https://www.icmc.usp.br/pessoas?id=4324535",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Ellen Francine Barbosa",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Sistemas de Computação",
-    "instituto": "ICMC-USP",
-    "url": "https://www.icmc.usp.br/pessoas?id=4325299",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Diego Furtado Silva",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Ciências de Computação",
-    "instituto": "ICMC-USP",
-    "url": "https://www.icmc.usp.br/pessoas?id=11780447",
     "data_acesso": "2025-05-22",
     "laboratorio": "Não especificado"
   },
@@ -440,26 +240,6 @@
     "laboratorio": "Não especificado"
   },
   {
-    "nome": "Glauco Arbix",
-    "email": "Indisponível",
-    "unidade": "FFLCH-USP",
-    "departamento": "C4AI",
-    "instituto": "C4AI",
-    "url": "https://c4ai.inova.usp.br/about.html",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Jean Paul Metzger",
-    "email": "Indisponível",
-    "unidade": "IB-USP",
-    "departamento": "Biota Síntese",
-    "instituto": "IEA-USP",
-    "url": "https://ccd.fapesp.br/",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
     "nome": "Antonio Mauro Saraiva",
     "email": "saraiva@usp.br",
     "unidade": "POLI-USP",
@@ -468,146 +248,6 @@
     "url": "https://pcs.usp.br/laboratorios/laboratorios-de-pesquisa/",
     "data_acesso": "2025-05-22",
     "laboratorio": "BIOCOMP"
-  },
-  {
-    "nome": "Anarosa Alves Franco Brandão",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Carlos Eduardo Cugnasca",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Eduardo Raul Hruschka",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Jorge Rady de Almeida Júnior",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "João Batista Camargo Junior",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Marcos Antonio Simplício Júnior",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Pedro Luiz Pizzigatti Corrêa",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Regina Melo Silveira",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Solange Nice Alves de Souza",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Tereza Cristina Melo de Brito Carvalho",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Edson Satoshi Gomi",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Edson Toshimi Midorikawa",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Fábio Levy Siqueira",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Ricardo Nakamura",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PCS",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pcs.usp.br/docentes/",
-    "data_acesso": "2025-05-22"
   },
   {
     "nome": "Andréia Posser Cargnin",
@@ -900,286 +540,6 @@
     "data_acesso": "2025-05-22"
   },
   {
-    "nome": "Aline Veronese da Silva",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Álvaro Euzébio Hernandez",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Ana Cristina Limongi-França",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Ana Paula Franco Paes Leme Barbosa",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Celma de Oliveira Ribeiro",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Clóvis Armando Alvarenga Netto",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Daniel de Oliveira Mota",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Dario Ikuo Miyake",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Davi Noboru Nakano",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Débora Pretti Ronconi",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Eduardo de Senzi Zancul",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Fernando Tobal Berssaneti",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Hugo Tsugunobu Yoshida Yoshizaki",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "João Amato Neto",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "João Eduardo de Morais Pinto Furtado",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "João Marcelo Leal Gomes Leite",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Leonardo Junqueira",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Marcelo Schneck de Paula Pessoa",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Marco Aurélio de Mesquita",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Mário Sérgio Salerno",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Mauro de Mesquita Spinola",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Paulino Graciano Francischini",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Reinaldo Pacheco da Costa",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Roberta de Castro Souza Pião",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Roberto Marx",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Thayla Tavares de Sousa Zomer",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Tiago Fonseca A. Cavalcanti Sigahi",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Uiara Bandineli Montedo",
-    "email": "Indisponível",
-    "unidade": "Escola Politécnica",
-    "departamento": "PRO",
-    "instituto": "Escola Politécnica",
-    "laboratorio": "Não especificado",
-    "url": "https://pro.poli.usp.br/corpo-docente/",
-    "data_acesso": "2025-05-22"
-  },
-  {
     "nome": "Alcione Anaya",
     "email": "alcione.anaya@usp.br",
     "unidade": "Escola Politécnica",
@@ -1330,216 +690,6 @@
     "data_acesso": "2025-05-22"
   },
   {
-    "nome": "Alair Pereira do Lago",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "laboratorio": "CCSL",
-    "url": "https://www.ime.usp.br/alair",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Arnaldo Mandel",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.ime.usp.br/am",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Cristina Gomes Fernandes",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.ime.usp.br/cris",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "José Coelho de Pina Junior",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.ime.usp.br/coelho",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Marcel Kenji de Carli Silva",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/mksilva",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Nami Kobayashi",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/nami",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Paulo Feofiloff",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/pf",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Yoshiharu Kohayakawa",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/yoshi",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Yoshiko Wakabayashi",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/yw",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Denis Deratani Mauá",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/ddm",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Junior Barrera",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/jb",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Roberto Hirata Junior",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/hirata",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Routo Terada",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/rt",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Alan Mitchell Durham",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/durham",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Leliane Nunes de Barros",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/leliane",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Marco Aurélio Gerosa",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/~gerosa",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Daniel Macêdo Batista",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/~batista/",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Kelly Rosa Braghetto",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Ciência da Computação",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/kellyrb",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Antoine Laurain",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Matemática Aplicada",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/~laurain/",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Gabriel Haeser",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Matemática Aplicada",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/~ghaeser/",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Julio Michael Stern",
-    "email": "Indisponível",
-    "unidade": "IME-USP",
-    "departamento": "Matemática Aplicada",
-    "instituto": "IME-USP",
-    "url": "https://www.ime.usp.br/~jstern/",
-    "data_acesso": "2025-05-22",
-    "laboratorio": "Não especificado"
-  },
-  {
     "nome": "Cecilia Maria Alves de Araujo",
     "email": "ceci@ime.usp.br",
     "unidade": "IME-USP",
@@ -1558,146 +708,6 @@
     "url": "https://www.ime.usp.br/contatos/",
     "data_acesso": "2025-05-22",
     "laboratorio": "Não especificado"
-  },
-  {
-    "nome": "Denise Casatti",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Apoio Acadêmico",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Marilia Finazzi de Andrade Marino",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Apoio Acadêmico",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Juliana de Souza Moraes",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Apoio Acadêmico",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Fabrício Simeoni de Sousa",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Matemática Aplicada e Estatística",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Alessandro Damiani Mota",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Sistemas de Computação",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Tiago Pereira da Silva",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Matemática Aplicada e Estatística",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Fernando Manfio",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Matemática",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Ana Elisa Serafim Jorge",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Matemática",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Erick Vansim Previato",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Apoio Acadêmico",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Kamila Rios da Hora Rodrigues",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Ciências de Computação",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Ester Lourdes Santos de Alencar",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Matemática",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Ana Carolina Faustino",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Matemática Aplicada e Estatística",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Livia Souza Freire Grion",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Matemática Aplicada e Estatística",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
-  },
-  {
-    "nome": "Denner Dias Barros",
-    "email": "Indisponível",
-    "unidade": "ICMC-USP",
-    "departamento": "Matemática",
-    "instituto": "ICMC-USP",
-    "laboratorio": "Não especificado",
-    "url": "https://www.icmc.usp.br/pessoas/docentes",
-    "data_acesso": "2025-05-22"
   },
   {
     "nome": "Adriano Schwartz",
@@ -1900,16 +910,6 @@
     "data_acesso": "2025-05-22"
   },
   {
-    "nome": "Claudio Pinhanez",
-    "email": "Indisponível",
-    "unidade": "IBM Research",
-    "departamento": "C4AI",
-    "instituto": "C4AI",
-    "laboratorio": "C4AI",
-    "url": "https://c4ai.inova.usp.br/about.html",
-    "data_acesso": "2025-05-22"
-  },
-  {
     "nome": "Julio Romano Meneghini",
     "email": "jmeneg@usp.br",
     "unidade": "POLI-USP",
@@ -1947,6 +947,856 @@
     "instituto": "Escola Politécnica",
     "laboratorio": "LSI - Laboratório de Sistemas Integráveis",
     "url": "https://www.lsi.usp.br/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Alfredo Jorge Aragona Vallejo",
+    "email": "aragona@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Antonio Carlos Asperti",
+    "email": "asperti@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Antonio Luiz Pereira",
+    "email": "alpereir@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Artur Hideyuki Tomita",
+    "email": "tomita@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Claudio Gorodski",
+    "email": "gorodski@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Daciberg Lima Gonçalves",
+    "email": "dlgoncal@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Edson de Faria",
+    "email": "edson@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Eduardo do Nascimento Marcos",
+    "email": "enmarcos@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Flavio Ulhoa Coelho",
+    "email": "fucoelho@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Ivan Chestakov",
+    "email": "shestak@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Jairo Zacarias Goncalves",
+    "email": "jzg@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Paolo Piccione",
+    "email": "piccione@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Ricardo Bianconi",
+    "email": "bianconi@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Severino Toscano do Rego Melo",
+    "email": "toscano@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Valentin Raphael Henri Ferenczi",
+    "email": "ferenczi@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Vyacheslav Futorny",
+    "email": "futorny@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Alexandre Grichkov",
+    "email": "grishkov@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Daniel Victor Tausk",
+    "email": "tausk@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Henri Nicolas Guillaume Anciaux",
+    "email": "henri@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Henrique Guzzo Junior",
+    "email": "guzzo@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Hugo Luiz Mariano",
+    "email": "hugomar@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Jaime Angulo Pava",
+    "email": "angulo@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Juan Carlos Gutierrez Fernandez",
+    "email": "jcgf@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Marcos Martins Alexandrino da Silva",
+    "email": "malex@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Mary Lilian Lourenco",
+    "email": "mllouren@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Mikhailo Dokuchaev",
+    "email": "dokucha@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Orlando Stanley Juriaans",
+    "email": "ostanley@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Oscar Joao Abdounur",
+    "email": "abdounur@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Pedro Antonio Santoro Salomão",
+    "email": "psalomao@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Pierluigi Benevieri",
+    "email": "pluigi@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Vitor de Oliveira Ferreira",
+    "email": "vofer@ime.usp.br",
+    "unidade": "IME-USP",
+    "departamento": "Matemática",
+    "instituto": "IME-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://www.ime.usp.br/~guzzo/Orientadores-USP-Pos-MAT",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Fuad Kassab Júnior",
+    "email": "fuad@lac.usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PTC",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LAC",
+    "url": "https://sites.usp.br/ptc/docentes/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Juan Luis Poletti Soto",
+    "email": "juan@lcs.poli.usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PTC",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LCS",
+    "url": "https://sites.usp.br/ptc/docentes/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Luiz Cezar Trintinalia",
+    "email": "lctrinti@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PTC",
+    "instituto": "Escola Politécnica",
+    "url": "https://sites.usp.br/ptc/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Luiz Henrique Alves Monteiro",
+    "email": "luizm@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PTC",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LAC",
+    "url": "https://sites.usp.br/ptc/docentes/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Marcio Eisencraft",
+    "email": "marcio@lcs.poli.usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PTC",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LCS",
+    "url": "https://sites.usp.br/ptc/docentes/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Maria D. Miranda",
+    "email": "maria@lcs.poli.usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PTC",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LCS",
+    "url": "https://sites.usp.br/ptc/docentes/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Murilo Hiroaki Seko",
+    "email": "murilo@lcs.poli.usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PTC",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LCS",
+    "url": "https://sites.usp.br/ptc/docentes/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Phillip Mark Seymour Burt",
+    "email": "phillip@lcs.poli.usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PTC",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LCS",
+    "url": "https://sites.usp.br/ptc/docentes/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Plinio Francisco dos Santos Rodrigues",
+    "email": "plinio@lcs.poli.usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PTC",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LCS",
+    "url": "https://sites.usp.br/ptc/docentes/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Renata Valeri de Freitas",
+    "email": "renata.valfreitas@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PTC",
+    "instituto": "Escola Politécnica",
+    "url": "https://sites.usp.br/ptc/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Ricardo Paulino Marques",
+    "email": "rpm@lac.usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PTC",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LAC",
+    "url": "https://sites.usp.br/ptc/docentes/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Adriano Rodrigues Azzoni",
+    "email": "adriano.azzoni@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Aldo Tonso",
+    "email": "atonso@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Antonio Carlos Silva Costa Teixeira",
+    "email": "acscteix@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Ardson dos Santos Vianna Junior",
+    "email": "ardson@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Carmen Cecilia Tadini",
+    "email": "catadini@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Cláudio Augusto Oller do Nascimento",
+    "email": "oller@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Darci Odloak",
+    "email": "odloak@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Galo Antonio Carrillo Le Roux",
+    "email": "galoroux@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Jorge Alberto Soares Tenório",
+    "email": "jtenorio@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Jorge Andrey Wilhelms Gut",
+    "email": "jorgewgut@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Marcelo Martins Seckler",
+    "email": "marcelo.seckler@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Pedro de Alcântara Pessôa Filho",
+    "email": "pedropessoa@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PQI",
+    "instituto": "Escola Politécnica",
+    "url": "http://pqi.poli.usp.br/pessoal/docentes/",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Antônio Martins Figueiredo Neto",
+    "email": "afigueiredo@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Gil da Costa Marques",
+    "email": "marques@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Ivone Freire da Mota Albuquerque",
+    "email": "ifreire@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Marcelo Martinelli",
+    "email": "mmartine@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Marcos Nogueira Martins",
+    "email": "martins@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Paulo Alberto Nussenzveig",
+    "email": "nussen@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Vito Roberto Vanin",
+    "email": "vanin@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Airton Deppman",
+    "email": "deppman@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Arnaldo Gammal",
+    "email": "gammal@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Cristiano Luis Pinto de Oliveira",
+    "email": "crislpo@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Edivaldo Moura Santos",
+    "email": "emoura@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Fernando Tadeu Caldeira Brandt",
+    "email": "fbrandt@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Alessio Mangiarotti",
+    "email": "alessio@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Cristina Leite",
+    "email": "crislmilk@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Ewout Ter Haar",
+    "email": "ewout@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Ivã Gurgel",
+    "email": "gurgel@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Julio Antonio Larrea Jimenez",
+    "email": "larrea@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Maria Regina Dubeux Kawamura",
+    "email": "mrkawamura@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Nora Lia Maidana",
+    "email": "nmaidana@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Valentina Martelli",
+    "email": "martelli@if.usp.br",
+    "unidade": "IFUSP",
+    "departamento": "FEP",
+    "instituto": "IFUSP",
+    "url": "https://portal.if.usp.br/fep/pt-br/docentes",
+    "data_acesso": "2025-05-22",
+    "laboratorio": "Não especificado"
+  },
+  {
+    "nome": "Anna Helena Reali Costa",
+    "email": "anna.reali@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PCS",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LTI",
+    "url": "https://pcs.usp.br/anna/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Cíntia Borges Margi",
+    "email": "pcs.chefia.poli@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PCS",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "Não especificado",
+    "url": "https://pcs.usp.br/departamento/chefia/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "João Batista Camargo Junior",
+    "email": "joaocamargo@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PCS",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "GAS",
+    "url": "https://pcs.usp.br/en/laboratorios/laboratorios-de-pesquisa/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Edson Satoshi Gomi",
+    "email": "gomi@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PCS",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "KNOMA",
+    "url": "https://pcs.usp.br/en/laboratorios/laboratorios-de-pesquisa/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Carlos Eduardo Cugnasca",
+    "email": "carlos.cugnasca@poli.usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PCS",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LAA",
+    "url": "https://pcs.usp.br/en/laboratorios/laboratorios-de-pesquisa/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Edson Toshimi Midorikawa",
+    "email": "emidorik@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PCS",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LAHPC",
+    "url": "https://pcs.usp.br/en/laboratorios/laboratorios-de-pesquisa/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Tereza Cristina Melo de Brito Carvalho",
+    "email": "terezacarvalho@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PCS",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LASSU",
+    "url": "https://pcs.usp.br/en/laboratorios/laboratorios-de-pesquisa/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Ellen Francine Barbosa",
+    "email": "francine@icmc.usp.br",
+    "unidade": "ICMC-USP",
+    "departamento": "Sistemas de Computação",
+    "instituto": "ICMC-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://jl4d.org/index.php/ejl4d/article/view/1554",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Jose Carlos Maldonado",
+    "email": "jcmaldon@icmc.usp.br",
+    "unidade": "ICMC-USP",
+    "departamento": "Sistemas de Computação",
+    "instituto": "ICMC-USP",
+    "laboratorio": "Não especificado",
+    "url": "https://ieeexplore.ieee.org/iel7/7447900/7451633/07451649.pdf",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "João Antonio Martino",
+    "email": "martino@usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PSI",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LSI",
+    "url": "https://sites.usp.br/psi/departamento/docentes/",
+    "data_acesso": "2025-05-22"
+  },
+  {
+    "nome": "Ines Pereyra",
+    "email": "ipereyra@lme.usp.br",
+    "unidade": "Escola Politécnica",
+    "departamento": "PSI",
+    "instituto": "Escola Politécnica",
+    "laboratorio": "LME",
+    "url": "https://sites.usp.br/psi/departamento/docentes/",
     "data_acesso": "2025-05-22"
   }
 ]
