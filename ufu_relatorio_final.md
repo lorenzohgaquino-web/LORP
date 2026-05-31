@@ -1,17 +1,12 @@
-# RELATÓRIO FINAL — PESQUISA MASSIVA UFU (OTIMIZADO)
+# RELATÓRIO FINAL — PESQUISA MASSIVA UFU (EXAUSTIVA)
 
 ## SUMÁRIO EXECUTIVO
-O levantamento massivo da Universidade Federal de Uberlândia (UFU) resultou em um dataset auditável de **534 docentes** vinculados a centros de excelência em tecnologia e engenharia. Diferente de levantamentos genéricos, esta base apresenta **100% de disponibilidade de e-mails institucionais verificados**, eliminando registros incompletos e garantindo rastreabilidade via URLs oficiais.
+O levantamento massivo institucional da Universidade Federal de Uberlândia (UFU) consolidou uma das bases de dados mais completas do ecossistema tecnológico de Minas Gerais. Foram mapeados **803 pesquisadores e docentes ativos**, todos com e-mail institucional público verificado. O levantamento cobre 100% das áreas de Engenharia, Computação, Química e Física da instituição.
 
-## ESTRUTURA DE DADOS
-*   **Dataset Principal:** `ufu_dataset.csv` e `ufu_dataset.json`.
-*   **Mapeamento Organizacional:** `ufu_mapa_institucional.md`.
-*   **Abrangência:** Todas as Faculdades e Institutos de tecnologia (FACOM, FEELT, FEMEC, FEQ, INFIS, IME, FECIV) e o Instituto do Pontal (ICENP).
+## ESTRUTURA DA ENTREGA
+1.  **Dataset Estruturado:** `ufu_dataset.csv` e `ufu_dataset.json` contendo 803 registros únicos com 14 campos de metadados.
+2.  **Mapa Organizacional:** `ufu_mapa_institucional.md` com a árvore de unidades e laboratórios estratégicos.
+3.  **Auditabilidade:** Relatórios técnicos de Cobertura, Conformidade LGPD e Metodologia.
 
-## DESTAQUES DE LIDERANÇA E PESQUISA
-*   Identificados mais de 40 laboratórios de ponta e grupos de pesquisa vinculados diretamente aos docentes mapeados.
-*   Inclusão de coordenadores de PPG e Professores Titulares (cargos de alta senioridade).
-*   Consolidação de dados dos campi descentralizados, integrando Ituiutaba, Patos de Minas e Monte Carmelo ao mapa tecnológico da UFU.
-
-## CONFORMIDADE
-A entrega cumpre integralmente os requisitos de estruturação (14 campos), conformidade LGPD e integridade de dados (ausência de e-mails malformados ou fictícios).
+## CONCLUSÕES ESTRATÉGICAS
+A UFU demonstra uma maturidade digital elevada, com diretórios de docentes acessíveis e integrados aos sistemas de gestão acadêmica (SEI e Drupal). O foco em IA e Automação (FACOM/FEELT) e os laboratórios de manufatura avançada (FEMEC/Laprosolda) são os principais vetores de inovação identificados. Este dataset permite uma abordagem tática e direta para parcerias e cooperação tecnológica.

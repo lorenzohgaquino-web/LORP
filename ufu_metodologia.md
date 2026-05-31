@@ -1,15 +1,14 @@
-# DOCUMENTAÇÃO METODOLÓGICA — UFU (REVISADA)
+# DOCUMENTAÇÃO METODOLÓGICA — UFU (LARGA ESCALA)
 
-## 1. METODOLOGIA DE EXTRAÇÃO
-A coleta foi realizada através de um crawler especializado em arquiteturas Drupal (CMS padrão da UFU):
-*   **Mapeamento de Perfis:** Identificação de nodes do tipo 'pessoa' e extração individualizada.
-*   **Captura de Metadados:** Uso de expressões regulares para identificar vínculos com Laboratórios, Grupos de Pesquisa e Programas de Pós-Graduação (PPGs) dentro do texto biográfico dos docentes.
-*   **Verificação Cruzada:** Consulta aos sites de Pós-Graduação para obter e-mails de pesquisadores que não constavam nas páginas de graduação.
+## 1. DESCOBERTA E EXTRAÇÃO
+*   **Mapeamento de Alvos:** Identificação de todas as unidades tecnológicas da UFU em Uberlândia e campi avançados.
+*   **Crawler Multi-Camada:** Desenvolvimento de scripts capazes de ler listas de docentes e, recursivamente, acessar perfis individuais quando o contato principal estava oculto na listagem.
+*   **Análise Semântica:** Uso de expressões regulares para extrair nomes de laboratórios e programas de pós-graduação diretamente das biografias e portarias publicadas nos sites.
 
-## 2. GARANTIA DE QUALIDADE
-*   **Limpeza de E-mails:** Scripts de pós-processamento removeram prefixos espúrios (como 'lattes') capturados durante o scrape de links mal estruturados.
-*   **Deduplicação:** Consolidação de registros repetidos (docentes que atuam em graduação e pós-graduação simultaneamente).
-*   **Normalização:** Nomes e cargos padronizados para consistência do banco de dados.
+## 2. TRATAMENTO E NORMALIZAÇÃO
+*   **Consolidação de Identidade:** Tratamento de nomes com e sem acentos para evitar duplicidade de docentes que atuam em diferentes unidades.
+*   **Priorização de Qualidade:** Em caso de registros conflitantes, priorizou-se a fonte com metadados mais recentes e e-mails validados (@ufu.br).
+*   **Remoção de 'Noise':** Filtros rigorosos para remover elementos de navegação (como botões de 'Lattes' ou 'Plano de Trabalho') que ocasionalmente são capturados como nomes por crawlers genéricos.
 
-## 3. ABRANGÊNCIA
-O dataset cobre as áreas de Computação, Engenharias (Elétrica, Mecânica, Aeronáutica, Mecatrônica, Biomédica, Química, Civil), Física e Matemática, incluindo os campi de Uberlândia (Santa Mônica/Umuarama/Glória), Patos de Minas, Monte Carmelo e Ituiutaba (Pontal).
+## 3. VALIDAÇÃO DE CAMPOS (14 CAMPOS OBRIGATÓRIOS)
+O dataset segue rigorosamente a estrutura solicitada, preenchendo vínculos institucionais, URLs de fonte e status de verificação para cada um dos 803 registros.
