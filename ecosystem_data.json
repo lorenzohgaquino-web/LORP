@@ -9,7 +9,9 @@
             "focus": "Deep Tech, Biotechnology, Materials, ICT",
             "website": "https://cietec.org.br/",
             "contact": "contato@cietec.org.br",
-            "contacts": "Sergio Risola (Diretor Executivo)"
+            "contacts": "Paula Helena Ortiz Lima (Diretora-Presidente)",
+            "confidence": "Alta",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "INCAMP (UNICAMP)",
@@ -20,7 +22,9 @@
             "focus": "ICT, Engineering, Biotechnology",
             "website": "https://parque.inova.unicamp.br/traga-sua-empresa/incubadas/",
             "contact": "incamp@inova.unicamp.br",
-            "contacts": "Prof. Dr. Renato Lopes (Diretor Executivo)"
+            "contacts": "Prof. Dr. Renato Lopes (Diretor Executivo)",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Nexus Hub (PqTec SJC)",
@@ -30,7 +34,9 @@
             "volume": "100+ companies",
             "focus": "Aerospace, Defense, ICT, Energy",
             "website": "https://pqtec.org.br/nexus",
-            "contact": "nexus@pqtec.org.br"
+            "contact": "nexus@pqtec.org.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "BH-TEC (UFMG)",
@@ -42,7 +48,9 @@
             "website": "https://bhtec.org.br/",
             "contact": "comunicacao@bhtec.org.br",
             "contacts": "Marco Crocco (Diretor Presidente)",
-            "phone": "(31) 3401-1000"
+            "phone": "(31) 3401-1000",
+            "confidence": "Alta",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Parque Tecnol\u00f3gico da UFRJ",
@@ -53,7 +61,9 @@
             "focus": "Energy, Oil & Gas, ICT",
             "website": "https://www.parque.ufrj.br/",
             "contact": "contato@parque.ufrj.br",
-            "contacts": "Vicente Ferreira (Diretor)"
+            "contacts": "Vicente Ferreira (Diretor)",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "CELTA (CERTI)",
@@ -64,7 +74,9 @@
             "focus": "Electronics, Software, Automation",
             "website": "https://celta.org.br/",
             "contact": "celta@certi.org.br",
-            "contacts": "Tony Chierighini (Diretor Executivo)"
+            "contacts": "Tony Chierighini (Diretor Executivo)",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "SUPERA Parque",
@@ -74,7 +86,9 @@
             "volume": "70+ startups",
             "focus": "Health, AgTech, ICT",
             "website": "https://superaparque.com.br/",
-            "contact": "contato@superaparque.com.br"
+            "contact": "contato@superaparque.com.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "CIAEM (UFU)",
@@ -84,7 +98,9 @@
             "volume": "15+ startups",
             "focus": "AgTech, ICT, Engineering",
             "website": "http://www.ciaem.ufu.br/",
-            "contact": "ciaem@ufu.br"
+            "contact": "ciaem@ufu.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Sapiens Parque",
@@ -94,7 +110,9 @@
             "volume": "N/A",
             "focus": "ICT, Tourism, Energy",
             "website": "https://sapiensparque.com.br/",
-            "contact": "contato@sapiensparque.com.br"
+            "contact": "contato@sapiensparque.com.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Inova Unicamp",
@@ -105,7 +123,9 @@
             "focus": "Innovation Management, Tech Transfer",
             "website": "https://www.inova.unicamp.br/",
             "contact": "comunica@inova.unicamp.br",
-            "contacts": "Prof. Dr. Renato Lopes (Diretor Executivo)"
+            "contacts": "Prof. Dr. Renato Lopes (Diretor Executivo)",
+            "confidence": "Alta",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Hub USP Inova\u00e7\u00e3o",
@@ -115,7 +135,9 @@
             "volume": "N/A",
             "focus": "Ecosystem Portal",
             "website": "https://hubusp.inovacao.usp.br/",
-            "contact": "inovacao@usp.br"
+            "contact": "inovacao@usp.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "TecnoUFU",
@@ -125,7 +147,9 @@
             "volume": "N/A",
             "focus": "Technology Park Management",
             "website": "https://tecnoufu.ufu.br/",
-            "contact": "tecnoufu@ufu.br"
+            "contact": "tecnoufu@ufu.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Inova HC",
@@ -135,7 +159,9 @@
             "volume": "20+ projects",
             "focus": "HealthTech, Medical Devices",
             "website": "https://inovahc.org.br/",
-            "contact": "contato@inovahc.org.br"
+            "contact": "contato@inovahc.org.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "C4AI (USP)",
@@ -145,7 +171,9 @@
             "volume": "Research Center",
             "focus": "Artificial Intelligence",
             "website": "https://c4ai.inova.usp.br/",
-            "contact": "c4ai@usp.br"
+            "contact": "c4ai@usp.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Ocean USP",
@@ -155,7 +183,9 @@
             "volume": "Training/Innovation",
             "focus": "ICT, Mobile, IoT",
             "website": "https://oceanbrasil.com/",
-            "contact": "ocean@usp.br"
+            "contact": "ocean@usp.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Harena (USP RP)",
@@ -165,7 +195,9 @@
             "volume": "Health Innovation Hub",
             "focus": "HealthTech",
             "website": "https://harena.com.br/",
-            "contact": "contato@harena.com.br"
+            "contact": "contato@harena.com.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "InovaUFSC",
@@ -175,7 +207,9 @@
             "volume": "N/A",
             "focus": "Tech Transfer, Patents",
             "website": "https://inovacao.ufsc.br/",
-            "contact": "inovacao@contato.ufsc.br"
+            "contact": "inovacao@contato.ufsc.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "ParqTec",
@@ -185,7 +219,9 @@
             "volume": "50+ companies",
             "focus": "ICT, Engineering, Physics",
             "website": "https://parqtec.com.br/",
-            "contact": "parqtec@parqtec.com.br"
+            "contact": "parqtec@parqtec.com.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Habitas (Inova Unicamp)",
@@ -196,7 +232,9 @@
             "focus": "Startups",
             "website": "https://parque.inova.unicamp.br/",
             "contact": "contato@inova.unicamp.br",
-            "contacts": "Prof. Dr. Renato Lopes (Diretor Executivo)"
+            "contacts": "Prof. Dr. Renato Lopes (Diretor Executivo)",
+            "confidence": "Alta",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Inova USP",
@@ -206,7 +244,9 @@
             "volume": "N/A",
             "focus": "Interdisciplinary Innovation",
             "website": "https://inova.usp.br/",
-            "contact": "inova@usp.br"
+            "contact": "inova@usp.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Incubadora IEBT (UFMG)",
@@ -216,7 +256,9 @@
             "volume": "10+ startups",
             "focus": "Base Technology",
             "website": "https://bhtec.org.br/iebt/",
-            "contact": "iebt@bhtec.org.br"
+            "contact": "iebt@bhtec.org.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Incubadora de Empresas do NCE/UFRJ",
@@ -226,7 +268,9 @@
             "volume": "10+ startups",
             "focus": "ICT",
             "website": "https://incubadora.nce.ufrj.br/",
-            "contact": "incubadora@nce.ufrj.br"
+            "contact": "incubadora@nce.ufrj.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Itec/UFU",
@@ -236,7 +280,9 @@
             "volume": "10+ startups",
             "focus": "ICT, Automation",
             "website": "https://itec.ufu.br/",
-            "contact": "itec@ufu.br"
+            "contact": "itec@ufu.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Escola Polit\u00e9cnica da USP (Inova\u00e7\u00e3o)",
@@ -246,7 +292,9 @@
             "volume": "Research labs",
             "focus": "Engineering, Manufacturing",
             "website": "https://www.poli.usp.br/",
-            "contact": "comunicacao.poli@usp.br"
+            "contact": "comunicacao.poli@usp.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Instituto de Inform\u00e1tica da UFRGS (Inova\u00e7\u00e3o)",
@@ -256,7 +304,9 @@
             "volume": "Incubadora CEI",
             "focus": "ICT, AI",
             "website": "https://www.inf.ufrgs.br/cei/",
-            "contact": "cei@inf.ufrgs.br"
+            "contact": "cei@inf.ufrgs.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "CIT FIEMG",
@@ -266,7 +316,9 @@
             "volume": "Industry Lab",
             "focus": "Industrial Technology",
             "website": "https://www7.fiemg.com.br/cit",
-            "contact": "cit@fiemg.com.br"
+            "contact": "cit@fiemg.com.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "CIMATEC",
@@ -276,7 +328,9 @@
             "volume": "N/A",
             "focus": "Industry 4.0, Manufacturing",
             "website": "https://www.senaicimatec.com.br/",
-            "contact": "atendimento@senaicimatec.com.br"
+            "contact": "atendimento@senaicimatec.com.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Parque Tecnol\u00f3gico de Piracicaba",
@@ -286,7 +340,9 @@
             "volume": "40+ companies",
             "focus": "AgTech, Bioenergy",
             "website": "https://parqtecpiracicaba.com.br/",
-            "contact": "contato@parqtecpiracicaba.com.br"
+            "contact": "contato@parqtecpiracicaba.com.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Inova Unifesp",
@@ -296,7 +352,9 @@
             "volume": "N/A",
             "focus": "HealthTech, ICT",
             "website": "https://inovacao.unifesp.br/",
-            "contact": "inovacao@unifesp.br"
+            "contact": "inovacao@unifesp.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Inova ITA",
@@ -306,7 +364,9 @@
             "volume": "N/A",
             "focus": "Aeronautics, Space",
             "website": "http://www.ita.br/inovacao",
-            "contact": "inovacao@ita.br"
+            "contact": "inovacao@ita.br",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         }
     ],
     "startups": [
@@ -320,7 +380,9 @@
             "status": "Graduada",
             "website": "https://www.esss.co/",
             "adherence_reason": "L\u00edder em simula\u00e7\u00e3o (CAE) na AL, parceira estrat\u00e9gica em tecnologias de engenharia.",
-            "contacts": "Clovis Maliska Jr. (Presidente)"
+            "contacts": "Clovis Maliska Jr. (Presidente)",
+            "confidence": "Alta",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Welle Laser",
@@ -332,7 +394,9 @@
             "status": "Graduada",
             "website": "https://wellelaser.com/",
             "adherence_reason": "Tecnologia laser para marca\u00e7\u00e3o e rastreabilidade industrial, Ind\u00fastria 4.0.",
-            "contacts": "Gabriel de Castro"
+            "contacts": "Gabriel de Castro",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "593ICAN",
@@ -344,7 +408,9 @@
             "status": "Incubada",
             "website": "N/A",
             "adherence_reason": "Solu\u00e7\u00f5es em impress\u00e3o 3D, alinhada com o portf\u00f3lio de manufatura aditiva da Siemens.",
-            "contacts": "Jos\u00e9 Luis Davila Sanchez"
+            "contacts": "Jos\u00e9 Luis Davila Sanchez",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Inovia AI",
@@ -356,7 +422,9 @@
             "status": "Incubada",
             "website": "N/A",
             "adherence_reason": "Pesquisa e desenvolvimento em IA, aplic\u00e1vel \u00e0 otimiza\u00e7\u00e3o industrial.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Tauflow",
@@ -369,7 +437,9 @@
             "website": "https://tauflow.com/",
             "adherence_reason": "Simula\u00e7\u00e3o de fluidos e engenharia, compet\u00eancia direta para Simcenter.",
             "contacts": "Equipe de Engenharia",
-            "email": "N/A"
+            "email": "N/A",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Bioprocess Improvement",
@@ -381,7 +451,9 @@
             "status": "Incubada",
             "website": "https://bioprocessimprovement.com/",
             "adherence_reason": "Digital Twin para processos industriais biotecnol\u00f3gicos.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "NeuralMind",
@@ -389,11 +461,13 @@
             "state": "SP",
             "academic_link": "Inova Unicamp",
             "sector": "Intelig\u00eancia Artificial",
-            "foundation_year": "2018",
+            "foundation_year": "2017",
             "status": "Graduada",
             "website": "https://neuralmind.ai/",
             "adherence_reason": "IA avan\u00e7ada para processamento de documentos e vis\u00e3o computacional industrial.",
-            "contacts": "Patricia Tavares / Roberto Lotufo"
+            "contacts": "Patricia Tavares / Roberto Lotufo",
+            "confidence": "Alta",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Photonita",
@@ -405,7 +479,9 @@
             "status": "Graduada",
             "website": "http://www.photonita.com.br/",
             "adherence_reason": "Sistemas \u00f3pticos para medi\u00e7\u00e3o e teste industrial, alinhado com controle de qualidade.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Directa Automa\u00e7\u00e3o",
@@ -417,7 +493,9 @@
             "status": "Graduada",
             "website": "N/A",
             "adherence_reason": "Gest\u00e3o integrada de ch\u00e3o de f\u00e1brica (MES), aderente ao Opcenter.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Brame Automa\u00e7\u00e3o",
@@ -429,7 +507,9 @@
             "status": "Graduada",
             "website": "https://www.brame.com.br/",
             "adherence_reason": "Sistemas de software e hardware para automa\u00e7\u00e3o, alinhado com TIA Portal.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "H\u00f3rus Aeronaves",
@@ -441,7 +521,9 @@
             "status": "Graduada",
             "website": "https://horus.global/",
             "adherence_reason": "Fabrica\u00e7\u00e3o de drones e IA para processamento de imagens.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Medical Harbour",
@@ -453,7 +535,9 @@
             "status": "Graduada",
             "website": "https://medicalharbour.com/",
             "adherence_reason": "Visualiza\u00e7\u00e3o 3D de imagens e pr\u00f3teses, tecnologia de Digital Twin humano.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Massa",
@@ -465,7 +549,9 @@
             "status": "Graduada",
             "website": "https://massa.ind.br/",
             "adherence_reason": "Sistemas de medi\u00e7\u00e3o de massa e monitoramento ferrovi\u00e1rio.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Treevia",
@@ -477,7 +563,9 @@
             "status": "Graduada",
             "website": "https://treevia.com.br/",
             "adherence_reason": "IoT e Big Data para monitoramento de ativos florestais.",
-            "contacts": "Mayra Castro / Estevam Claudio"
+            "contacts": "Esthevan Augusto Goes Gasparoto / Emily Shinzato",
+            "confidence": "Alta",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Reason",
@@ -489,7 +577,9 @@
             "status": "Graduada",
             "website": "N/A",
             "adherence_reason": "Solu\u00e7\u00f5es para sistemas el\u00e9tricos e industriais (Adquirida pela Alstom/GE, mas de base acad\u00eamica).",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Pollux Automation",
@@ -498,10 +588,12 @@
             "academic_link": "UFSC Partner",
             "sector": "Rob\u00f3tica / Automa\u00e7\u00e3o",
             "foundation_year": "1996",
-            "status": "Empresa Consolidada",
+            "status": "Independente (desde set/2025)",
             "website": "https://www.pollux.com.br/",
             "adherence_reason": "L\u00edder em rob\u00f3tica e Ind\u00fastria 4.0 (Adquirida pela Accenture), forte v\u00ednculo acad\u00eamico.",
-            "contacts": "Jos\u00e9 Rizzo Rocha"
+            "contacts": "Jos\u00e9 Rizzo Hahn Filho",
+            "confidence": "Alta",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Altus",
@@ -513,7 +605,9 @@
             "status": "Empresa Consolidada",
             "website": "https://www.altus.com.br/",
             "adherence_reason": "CLPs e software de automa\u00e7\u00e3o, concorrente/parceira potencial no ecossistema industrial.",
-            "contacts": "Ricardo Felizzola"
+            "contacts": "Ricardo Felizzola",
+            "confidence": "Alta",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Eigendauer",
@@ -525,7 +619,9 @@
             "status": "Ativa",
             "website": "N/A",
             "adherence_reason": "G\u00eameo digital para processos de recobrimento e manufatura mec\u00e2nica.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "i3D Solu\u00e7\u00f5es",
@@ -537,7 +633,9 @@
             "status": "Ativa",
             "website": "N/A",
             "adherence_reason": "Especialista em impress\u00e3o 3D de metais e pol\u00edmeros industriais.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Csmart",
@@ -549,7 +647,9 @@
             "status": "Incubada",
             "website": "N/A",
             "adherence_reason": "Tecnologias para a cadeia de caf\u00e9, monitoramento IoT.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Flowell Solutions",
@@ -561,7 +661,9 @@
             "status": "Incubada",
             "website": "N/A",
             "adherence_reason": "Projetos de engenharia e simula\u00e7\u00e3o de fluidos.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Polaris Microsystems",
@@ -573,7 +675,9 @@
             "status": "Incubada",
             "website": "N/A",
             "adherence_reason": "Design de microssistemas e nanotecnologia, alinhado com design de chips (EDA/Siemens EDA).",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Singular Seeds",
@@ -585,7 +689,9 @@
             "status": "Incubada",
             "website": "N/A",
             "adherence_reason": "Biotecnologia aplicada ao agroneg\u00f3cio.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Rubian Extract",
@@ -597,7 +703,9 @@
             "status": "Graduada",
             "website": "N/A",
             "adherence_reason": "Extra\u00e7\u00e3o de ativos naturais com tecnologia supercr\u00edtica, processos industriais.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Automatisa",
@@ -609,7 +717,9 @@
             "status": "Graduada",
             "website": "http://www.automatisa.com.br/",
             "adherence_reason": "Solu\u00e7\u00f5es de corte e grava\u00e7\u00e3o a laser com automa\u00e7\u00e3o.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "M\u00e9dia",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "GreyLogix",
@@ -621,7 +731,9 @@
             "status": "Graduada",
             "website": "http://www.greylogix.com.br/",
             "adherence_reason": "Engenharia e automa\u00e7\u00e3o industrial de ponta a ponta.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Simulate",
@@ -634,20 +746,24 @@
             "website": "https://www.simulate.com.br/",
             "adherence_reason": "Alta ader\u00eancia ao portf\u00f3lio de simula\u00e7\u00e3o e manufatura digital (Tecnomatix/Simcenter).",
             "contacts": "Leonardo Chwif",
-            "email": "simulate@simulate.com.br"
+            "email": "simulate@simulate.com.br",
+            "confidence": "Alta",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Nexxto",
             "city": "S\u00e3o Paulo",
             "state": "SP",
-            "sector": "IoT Industrial",
+            "sector": "IoT para Sa\u00fade",
             "foundation_year": "2010",
             "status": "Graduada",
             "academic_link": "CIETEC/USP",
             "website": "https://nexxto.com/",
-            "adherence_reason": "Monitoramento IoT em tempo real, alinhado com MindSphere/Xcelerator.",
+            "adherence_reason": "Monitoramento IoT para sa\u00fade (vacinas/ambientes cr\u00edticos), alinhado com tecnologias de rastreabilidade Siemens.",
             "contacts": "Antonio Rossini",
-            "email": "contato@nexxto.com"
+            "email": "contato@nexxto.com",
+            "confidence": "Alta",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Tieta.ai",
@@ -659,7 +775,9 @@
             "status": "Incubada",
             "website": "N/A",
             "adherence_reason": "IA para visibilidade industrial e otimiza\u00e7\u00e3o de processos.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         },
         {
             "name": "Singularity Extraction",
@@ -671,7 +789,9 @@
             "status": "Incubada",
             "website": "N/A",
             "adherence_reason": "Tecnologias de extra\u00e7\u00e3o, aplic\u00e1vel a processos qu\u00edmicos industriais.",
-            "contacts": "N/A"
+            "contacts": "N/A",
+            "confidence": "Baixa",
+            "verification_date": "2026-05-31"
         }
     ]
 }
