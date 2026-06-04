@@ -1,21 +1,14 @@
-# Lacunas Institucionais e Páginas Desatualizadas - UFRJ
+# UFRJ Institutional Data Gaps & Updates (2025-02-14)
 
-Durante a pesquisa institucional massiva na UFRJ, foram identificadas as seguintes lacunas e problemas de acessibilidade de dados:
+## Structural Gaps
+* **Escola Politécnica (POLI):** Many department websites (e.g., Electronic Engineering, Industrial Engineering) do not list individual faculty emails publicly, using contact forms instead.
+* **COPPE (Atrio System):** The Atrio graduate management system (used by programs like PEE, PEU, PEM) obfuscates emails or requires login for full details.
+* **Instituto de Computação (IC):** Uses tag-injection antispam which prevents simple regex scraping without specialized de-obfuscation.
 
-## 1. Proteção de E-mails (Antispam)
-- **Instituto de Computação (IC):** Utiliza uma técnica de ofuscação de e-mail (`.textoantispam.br.naodeveaparecer`) que, embora reversível via script, dificulta a coleta manual e pode indicar políticas restritivas de contato.
-- **NCE:** Quase todos os e-mails de pesquisadores estão protegidos por scripts JavaScript que impedem a extração automatizada simples (exibindo "Este endereço de email está sendo protegido de spambots").
+## Outdated Pages
+* **Laboratórios de IA:** Several lab pages under the `liis.ufrj.br` and `lps.ufrj.br` domains have broken SSL certificates or 404 links to "Corpo Docente".
+* **NCE:** The faculty list is partially updated; some names link to Lattes pages that are over 2 years old without current institutional emails.
 
-## 2. Páginas Desatualizadas ou Inacessíveis
-- **Escola Politécnica (Poli):** O site principal (`poli.ufrj.br`) e várias subpáginas de departamentos (como Engenharia de Controle e Automação) apresentaram erros de conexão ou falta de listagem direta de docentes. Muitos links apontam para sistemas internos ou Moodle que exigem login.
-- **Centro de Tecnologia (CT):** A página de institutos e escolas (`ct.ufrj.br/institutos-e-escolas/`) apresentou instabilidade constante durante a coleta.
-
-## 3. Dispersão de Dados
-- Muitos docentes da Poli estão listados apenas em sites de programas de pós-graduação da COPPE (como PEE ou PESC), dificultando a atribuição exata ao departamento de graduação original sem consulta individual ao Currículo Lattes.
-
-## 4. Ausência de E-mails Públicos
-- **Hub Digital COPPE:** A listagem de gestores e pesquisadores fornece links para perfis (LinkedIn/Scholar), mas raramente exibe o e-mail institucional direto na página principal da equipe.
-- **Laboratórios Específicos:** Muitos laboratórios de IA e Automação possuem páginas puramente descritivas, sem listagem de membros ou contatos individuais.
-
-## 5. Status de Verificação
-- Aproximadamente **35%** dos registros foram marcados como "Indisponível" ou "Parcial" quanto ao e-mail institucional devido às proteções mencionadas acima.
+## Technical Blockers
+* **SSL Failures:** `if.ufrj.br` and `ccmn.ufrj.br` frequently fail standard certificate validation.
+* **Connection Throttling:** `ct.ufrj.br` and `ufrj.br` main portal implemented connection resets for high-frequency automated requests.

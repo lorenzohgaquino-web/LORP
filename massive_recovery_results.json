@@ -1,0 +1,532 @@
+[
+  {
+    "Nome": "ALCIR ANTONIO DA SILVA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "alcir@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "ALIRIO DE OLIVEIRA FILHO",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "alirio@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "ALLAN DA SILVA MAIA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "allan@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "AMILTON JOSE PEREIRA JUNIOR",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "amilton@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "ANDREA ALBUQUERQUE DE SA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "andreasa@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "ANDREA DE ALMEIDA ROSA SOARES",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "andreasoares@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "ANTONIO CARLOS DE ARRUDA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "arruda@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "ANTONIO JORGE MELLO ESTEVES",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "mello@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "ARIADNE PACHECO CLEMENTE",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "ariadne@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "BARBARA MICHELLE DE MELO NOBREGA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "barbarella@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "BIANA MOTA PENELVA DE ANDRADE",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "biana@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "BRUNA OLIVEIRA DE ASSIS",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "bruna@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "CASSIUS VINICIUS DE JESUS SANTOS",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "cassius@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "CLAUDIA DE SOUSA MACHARETT",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "macharett@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "EDSON DIAS REIS",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "dias@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "EDUARDO GREGÓRIO DOS SANTOS",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "eduardogregorio@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "ENRICO SALERNO NEVES",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "enricosn@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "FELIPE SPINOLA GONÇALVEZ",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "felipes@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "FLAVIO ANTONIO DA SILVA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "flavio@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "GUSTAVO MOTTA RUBINI",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "gustavorubini@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "HENRIQUE FRAGOSO DA SILVA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "henrique.fragoso@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "HERCULES JOSE ARRUDA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "hercules@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "IGOR DE SOUZA SILVA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "igor@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "IVAN RIBEIRO DE SÁ PEREIRA FILHO",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "ivan@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "JOSE BOMFIM ALVES",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "bomfim@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "JOSUE FRANCISCO DO NASCIMENTO",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "nascimento@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "JULIANA MACHADO NUNES ROMEIRO",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "julianaromeiro@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "KHRISNA FERNANDES TEIXEIRA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "khrisnaft@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "LUIZ ALEXANDRE BARBEITAS DE AZEVEDO",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "luiz@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "LUIZ ANTONIO DA SILVA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "antonio@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "LUIZ CARLOS MARCAL",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "marcal@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "LUIZ CARLOS NORTE",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "lcarlos@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "LUIZ COSMO MARIANO",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "cosmo@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "LUIZ FERNANDO APOLINÁRIO CARUSO",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "luizcaruso@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "MARIA CRISTINA FROTA DA COSTA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "mcris@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "MAURO DE SOUZA PAULA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "mpaula@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "NATALIA DE OLIVEIRA MANTUANO GUERRA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "natalia.mantuano@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "NILTON GODINHO TELLES",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "nilton@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "PAULO CESAR DOS SANTOS",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "paulocesar@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "PAULO ROBERTO LINHARES CARVALHO",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "paulo.linhares@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "RAFAEL ABRAHAO DE LIMA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "ral@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "RENATA AMARAL DA SILVA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "renata.amaral@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "RENATA BORGES LEAL",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "renatabl@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "RENATA NASCIMENTO BARBOSA BRANDÃO",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "renatabrandao@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "RICARDO JOSE SOARES",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "ricardo@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "RICARDO LIMA DE OLIVEIRA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "lima@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "RODRIGO ROSA DE BARROS",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "rbarros@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "RONALDO CARVALHO DA C. JÚNIOR",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "ronaldo@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "SERGIO PESSANHA DOS SANTOS",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "pessanha@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "SOLANGE DE CARVALHO LOPES",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "slopes@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "UBIRATAN DE AZEVEDO",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "ubiratan@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "VALDECI FREITAS DOS SANTOS",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "valdeci@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  },
+  {
+    "Nome": "WAGNER RODRIGUES COSTA",
+    "Cargo": "Docente/Funcionário",
+    "Unidade": "Instituto de Física",
+    "Instituto": "CCMN",
+    "Departamento": "Física",
+    "Laboratório": "N/A",
+    "E-mail institucional público": "wrcosta@if.ufrj.br",
+    "Source URL": "https://www.if.ufrj.br/funcionarios/"
+  }
+]
