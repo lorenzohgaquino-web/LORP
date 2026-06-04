@@ -1,0 +1,150 @@
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Instituto de Medicina Tropical (IMT),5
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Laboratório de Inovação Tecnológica em Saúde (LAIS),5
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Instituto de Estudos em Petróleo e Gás (IEPG),5
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Laboratório de Automação e Robótica (LAR),5
+1,UFRN,Universidade Federal do Rio Grande do Norte,Tier-1,Núcleo de Tecnologia Industrial (NTI),5
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Física,6
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Química,6
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Ciências Biomédicas,6
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Medicina Tropical,6
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Energia e Ambiente,6
+2,USP,Universidade de São Paulo,Tier-1,Instituto de Estudos Avançados,6
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,LabMat,5
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,INPEAU,5
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,NPE (Núcleo de Pesquisa em Energias),5
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Laboratório de Engenharia de Processos Biotecnológicos e Químicos,5
+3,UFSC,Universidade Federal de Santa Catarina,Tier-1,Núcleo de Auto-organização de Sistemas,5
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Instituto de Informática,6
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Instituto de Física,6
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,IPH (Instituto de Pesquisas Hidráulicas),6
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,CEMM (Centro de Micro-eletrônica),6
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Instituto de Química,6
+4,UFRGS,Universidade Federal do Rio Grande do Sul,Tier-1,Centro de Biotecnologia,6
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Biofísica Carlos Chagas Filho,6
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,COPPE/UFRJ,6
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Microbiologia,6
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Economia,6
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Núcleo de Biotecnologia,6
+5,UFRJ,Universidade Federal do Rio de Janeiro,Tier-1,Instituto de Energia,6
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Centro de Desenvolvimento de Materiais Funcionais (CDMF),4
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Centro de Pesquisas em Energia Elétrica (CPqD),4
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Centro de Pesquisa em Agricultura (CPQBA),4
+6,Unicamp,Universidade Estadual de Campinas,Tier-1,Laboratório de Tecnologia Celular,4
+7,UFC,Universidade Federal do Ceará,Tier-2,NPDM (Núcleo de Pesquisa em Desenvolvimento de Medicamentos),4
+7,UFC,Universidade Federal do Ceará,Tier-2,LABOMAR (Laboratório de Ciências do Mar),4
+7,UFC,Universidade Federal do Ceará,Tier-2,Instituto de Ciências do Mar,4
+7,UFC,Universidade Federal do Ceará,Tier-2,Núcleo de Energias Renováveis e Alternativas,4
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Instituto de Nanomateriais,4
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,René Rachou/FIOCRUZ MG,4
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Instituto de Ciências Biológicas,4
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Centro de Microscopia,4
+9,UFPA,Universidade Federal do Pará,Tier-2,Museu Paraense Emílio Goeldi,3
+9,UFPA,Universidade Federal do Pará,Tier-2,Instituto de Geociências,3
+9,UFPA,Universidade Federal do Pará,Tier-2,Laboratório de Fitoterapia da Amazônia,3
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,LIKA (Laboratório de Imunopatologia Keizo Asami),3
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,"Núcleo de Petróleo, Gás e Energia",3
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Centro de Nanociências,3
+11,UTFPR,Universidade Tecnológica Federal do Paraná,Tier-2,Núcleo de Pesquisa em Energias Renováveis (NPER),3
+11,UTFPR,Universidade Tecnológica Federal do Paraná,Tier-2,Centro Integrado de Manufatura e Tecnologia (CIMT),3
+11,UTFPR,Universidade Tecnológica Federal do Paraná,Tier-2,Laboratórios de Robótica e Sistemas Inteligentes,3
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Centro de Desenvolvimento de Materiais Funcionais (CDMF),3
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Laboratório de Biotecnologia Vegetal,3
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Laboratórios multiusuário,3
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Núcleo de Pesquisas em Energia Alternativa (NUPEA),3
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Centro de Inteligência Artificial e Sistemas Complexos,3
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Laboratórios multidisciplinares,3
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Instituto Nacional de Ciência e Tecnologia em Nanomateriais,3
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Laboratório de Processamento de Sinais e Imagens,3
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Centro de Processamento de Dados,3
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Divisão de Ciência e Tecnologia Aeroespacial (DCTA),4
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Centro Técnico Aeroespacial (CTA),4
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Laboratórios de Mecânica de Fluídos,4
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Laboratório de Propulsão,4
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Instituto de Pesquisa em Biodiversidade (IPeBio),3
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Núcleo de Estudos em Saúde Coletiva,3
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Laboratório de Energias Renováveis,3
+17,UnB,Universidade de Brasília,Tier-2,Instituto de Ciências Exatas (IE),3
+17,UnB,Universidade de Brasília,Tier-2,Laboratório de Métodos Quantitativos (LAMQ),3
+17,UnB,Universidade de Brasília,Tier-2,Centro de Estudos Avançados Multidisciplinares (CEAM),3
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Instituto Tecgraf,3
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Núcleo de Estudos em Inteligência Artificial,3
+18,PUC-Rio,Pontifícia Universidade Católica do Rio de Janeiro,Tier-1,Centro de Empreendedorismo Gênesis,3
+19,UNESP,Universidade Estadual Paulista,Tier-1,Centro de Pesquisas em Óptica e Fotônica (CPOF),3
+19,UNESP,Universidade Estadual Paulista,Tier-1,Centro de Estudos Ambientais e Agropecuários,3
+19,UNESP,Universidade Estadual Paulista,Tier-1,Laboratórios distribuídos,3
+20,UFPR,Universidade Federal do Paraná,Tier-2,Instituto de Tecnologia de Alimentos (ITAL),3
+20,UFPR,Universidade Federal do Paraná,Tier-2,Centro de Estudos do Petróleo,3
+20,UFPR,Universidade Federal do Paraná,Tier-2,Laboratórios multiusuários,3
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Instituto de Medicina Social,3
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Instituto de Biologia Roberto Alcântara Gomes,3
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Laboratórios multidisciplinares,3
+22,UFBA,Universidade Federal da Bahia,Tier-2,Instituto Nacional de Ciência e Tecnologia de Energia e Ambiente,3
+22,UFBA,Universidade Federal da Bahia,Tier-2,Instituto de Saúde Coletiva,3
+22,UFBA,Universidade Federal da Bahia,Tier-2,Centro de Pesquisa em Engenharia de Petróleo (CPPG),3
+23,UNIFEI,Universidade Federal de Itajubá,Tier-2,Laboratório de Energias Renováveis,3
+23,UNIFEI,Universidade Federal de Itajubá,Tier-2,Centro de Pesquisa em Sistemas Elétricos,3
+23,UNIFEI,Universidade Federal de Itajubá,Tier-2,Núcleo de Sistemas Computacionais de Alto Desempenho,3
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Instituto do Cérebro,4
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Tecnopuc,4
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Laboratórios de Inteligência Artificial,4
+24,PUC-RS,Pontifícia Universidade Católica do Rio Grande do Sul,Tier-1,Centro de Automação Industrial,4
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto Biomédico,3
+25,UFF,Universidade Federal Fluminense,Tier-2,Laboratório de Tecnologia Oceânica,3
+25,UFF,Universidade Federal Fluminense,Tier-2,Instituto de Computação,3
+26,UFABC,Universidade Federal do ABC,Tier-2,"Centro de Engenharia, Modelagem e Ciências Aplicadas",3
+26,UFABC,Universidade Federal do ABC,Tier-2,Núcleo de Estudos em Tecnologia da Informação,3
+26,UFABC,Universidade Federal do ABC,Tier-2,"Laboratórios de IA, robótica, materiais",3
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Instituto de Ciências Exatas e Biológicas,3
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Laboratório de Tecnologias Ambientais,3
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Laboratório de Farmacologia,3
+28,UCS,Universidade de Caxias do Sul,Tier-2,Centro de Pesquisa em Biotecnologia,3
+28,UCS,Universidade de Caxias do Sul,Tier-2,Núcleo de Inovação Tecnológica,3
+28,UCS,Universidade de Caxias do Sul,Tier-2,Laboratórios de Engenharia,3
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Centro de Radioastronomia e Astrofísica Mackenzie (CRAAM),3
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Laboratórios de Engenharia Biomédica,3
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Centro de Engenharia de Computação,3
+30,UFV,Universidade Federal de Viçosa,Tier-2,Centro de Ciências Agrárias,3
+30,UFV,Universidade Federal de Viçosa,Tier-2,Laboratório de Biotecnologia Vegetal e Animal,3
+30,UFV,Universidade Federal de Viçosa,Tier-2,Centro de Pesquisa em Economia Rural,3
+31,UFG,Universidade Federal de Goiás,Tier-2,Instituto de Estudos Sócio-Ambientais,3
+31,UFG,Universidade Federal de Goiás,Tier-2,Centro de Pesquisa em Biotecnologia e Biodiversidade,3
+31,UFG,Universidade Federal de Goiás,Tier-2,Núcleo de Pesquisas em Energia,3
+32,UNIOESTE,Universidade Estadual do Oeste do Paraná,Tier-2,Centro de Pesquisa em Agricultura Conservacionista,3
+32,UNIOESTE,Universidade Estadual do Oeste do Paraná,Tier-2,Laboratório de Tecnologias Ambientais,3
+32,UNIOESTE,Universidade Estadual do Oeste do Paraná,Tier-2,Núcleo de Produção de Biocombustíveis,3
+33,UPE,Universidade de Pernambuco,Tier-2,Laboratório de Imunopatologia Keizo Asami (LIKA),3
+33,UPE,Universidade de Pernambuco,Tier-2,Centro de Estudos em Pesquisas Biomédicas,3
+33,UPE,Universidade de Pernambuco,Tier-2,Núcleo de Inovação Tecnológica,3
+34,FEI,Fundação Educacional Inaciana Pe. Saboia de Medeiros,Tier-2,Núcleo de Pesquisa em Engenharia Automotiva,3
+34,FEI,Fundação Educacional Inaciana Pe. Saboia de Medeiros,Tier-2,Laboratório de Automação e Robótica,3
+34,FEI,Fundação Educacional Inaciana Pe. Saboia de Medeiros,Tier-2,Laboratório de Materiais e Processos,3
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Instituto de Ciências Biológicas,3
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Núcleo de Tecnologia em Saúde,3
+35,PUC Minas,Pontifícia Universidade Católica de Minas Gerais,Tier-2,Instituto Politécnico,3
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Centro de Pesquisa em Energia,3
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Laboratório de Pesquisa em Solos,3
+36,UNIJUI,Universidade Regional do Noroeste do Estado do Rio Grande do Sul,Tier-3,Núcleo de Estudos do Agronegócio,3
+37,UNIP,Universidade Paulista,Tier-2,Núcleo de Pesquisa e Desenvolvimento Tecnológico,3
+37,UNIP,Universidade Paulista,Tier-2,Núcleo de Estudos em Engenharia Aplicada,3
+37,UNIP,Universidade Paulista,Tier-2,Laboratórios de Saúde,3
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Centro de Tecnologia de Alimentos,3
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Laboratório de Processos Industriais,3
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Laboratório de Microbiologia,3
+39,UNISO,Universidade de Sorocaba,Tier-3,Centro de Pesquisa em Biotecnologia,3
+39,UNISO,Universidade de Sorocaba,Tier-3,Laboratório de Sustentabilidade,3
+39,UNISO,Universidade de Sorocaba,Tier-3,Laboratórios de Automação,3
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Centro de Inovação Tecnológica,3
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Laboratório de Automação Industrial,3
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Laboratório de Desenvolvimento de Novos Materiais,3
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Centro de Pesquisa em Saúde,3
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Laboratório de Análises Ambientais,3
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Núcleo de Sustentabilidade e Inovação,3
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Centro de Estudos em Finanças (CEF),3
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Laboratório de Engenharia de Inovação,3
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Núcleo de Ciência de Dados,3
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Instituto de Ciência e Tecnologia (ICTS),3
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Smart Campus Facens,3
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Laboratórios de Robótica,3
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Laboratório de Materiais e Construção Civil,3
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Laboratório de Sistemas Elétricos e Automação,3
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Núcleo de Pesquisa em Engenharia de Produção,3

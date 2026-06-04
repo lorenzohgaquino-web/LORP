@@ -1,0 +1,180 @@
+ID,SIGLA,University,Tier,Type,Name,Contact Name/Role,Email,Phone
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Institute,Instituto de Medicina Tropical (IMT),Margarida A. Mavromatis (Sec),imtsecretaria@gmail.com,+55 84 3342-2286
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Institute,Laboratório de Inovação Tecnológica em Saúde (LAIS),Direção Executiva,secretariado@lais.huol.ufrn.br,
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Institute,Núcleo de Tecnologia Industrial (NTI),Cláudio Romero Rodrigues de Almeida (Diretor),claudio.almeida@ufrn.br,
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Course,Engenharia Civil,Osvaldo de Freitas Neto (Chefe DECAM),decam@ct.ufrn.br,+55 84 3342-2324
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Course,Engenharia Mecânica,Rubens Gonçalves Salsa Júnior (Chefe),rubens.salsa@ufrn.br,+55 84 99193-6170
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Course,Engenharia Elétrica,Victor Ferraz de Araújo (Chefe),victor.ferraz@ufrn.br,
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Course,Engenharia de Computação,Anderson Luiz de Oliveira Cavalcanti (Chefe),chefia@dca.ufrn.br,+55 84 99193-6226
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Course,Engenharia de Produção,Ricardo Pires de Souza (Chefe),ricardo.pires@ufrn.br,+55 84 99193-6394
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Course,Engenharia de Materiais,Maria Carolina B. C. do Nascimento (Chefe),carolina.nascimento@ufrn.br,+55 84 99903-3411
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Course,Medicina,Joana Cristina Medeiros Tavares Marques (Diretora FACISA),direcaogeral@facisa.ufrn.br,+55 84 3342-2287
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Física,Secretaria DFN,secdfn@if.usp.br,+55 11 3091-6939
+3,UFSC,U. Federal de Santa Catarina,Tier-1,Institute,LabMat,Aloísio Klein (Coordenador),a.n.klein@ufsc.br,+55 48 3721-9268
+4,UFRGS,U. Federal do Rio Grande do Sul,Tier-1,Institute,Instituto de Informática,Secretaria,secretaria@inf.ufrgs.br,+55 51 3308-7019
+5,UFRJ,U. Federal do Rio de Janeiro,Tier-1,Institute,Instituto de Biofísica Carlos Chagas Filho,Robson Coutinho Silva (Diretor),diretor@biof.ufrj.br,+55 21 3938-6720
+5,UFRJ,U. Federal do Rio de Janeiro,Tier-1,Institute,COPPE/UFRJ,Suzana Kahn Ribeiro (Diretora),diretoria@coppe.ufrj.br,+55 21 3622-3477
+5,UFRJ,U. Federal do Rio de Janeiro,Tier-1,Institute,Instituto de Microbiologia,Beatriz Meurer Moreira (Diretora),direcao@micro.ufrj.br,+55 21 2562-6734
+5,UFRJ,U. Federal do Rio de Janeiro,Tier-1,Institute,Instituto de Economia,Fabio Neves Peracio de Freitas (Diretor),diretoria@ie.ufrj.br,+55 21 3938-5237
+5,UFRJ,U. Federal do Rio de Janeiro,Tier-1,Course,Engenharia Civil,Cláudia do Rosário Vaz Morgado (Diretora Poli),diretor@poli.ufrj.br,+55 21 3938-7010
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,CPQBA,Secretaria,cenpesq@cpqba.unicamp.br,+55 19 2139-2850
+7,UFC,Universidade Federal do Ceará,Tier-2,Institute,LABOMAR,Lidriana de Souza Pinheiro (Diretora),lidriana@ufc.br,+55 85 3366.7001
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Institute,Centro de Microscopia,Supervisão,supervisorme@microscopia.ufmg.br,+55 31 3409-7575
+9,UFPA,Universidade Federal do Pará,Tier-2,Institute,Instituto de Geociências,Secretaria Executiva,dirig@ufpa.br,+55 91 3201-7107
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Institute,LIKA,Direção/Secretaria,lika@ufpe.br,+55 81 2126-8484
+6,Unicamp,U. Estadual de Campinas,Tier-1,Course,Engenharia Elétrica,Secretaria FEEC,secgrad@fee.unicamp.br,+55 19 3521-3705
+7,UFC,Universidade Federal do Ceará,Tier-2,Course,Engenharia Civil,Secretaria CT,ct@ufc.br,+55 85 3366.9600
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Course,Informática,Secretaria CIN,secgrad@cin.ufpe.br,+55 81 2126-8430
+11,UTFPR,U. Tecnológica Federal do Paraná,Tier-2,Course,Engenharia de Computação,Coordenação,derac-gp@utfpr.edu.br,+55 45 3080-1800
+12,UFSCar,Universidade Federal de São Carlos,Tier-1,Institute,CDMF,Secretaria,cdmf@cdmf.org.br,
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Course,Administração,Coordenação,coadm@pontal.ufu.br,+55 34 3271-5222
+14,UFSM,Universidade Federal de Santa Maria,Tier-2,Course,Medicina,Sec. Integrada de Departamentos,departamentosmedicina@ufsm.br,+55 55 3220-8574
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Institute,DCTA,Secretaria da Direção IAE,protocolo.iae@fab.mil.br,+55 12 3947-6556
+11,UTFPR,U. Tecnológica Federal do Paraná,Tier-2,Course,Engenharia Mecânica,Coordenação DAMEC,anderson@utfpr.edu.br,+55 42 3220-4822
+13,UFU,Universidade Federal de Uberlândia,Tier-2,Course,Graduação,Pró-Reitoria,dinfa.dirac@prograd.ufu.br,
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Institute,CTA,Recursos Humanos,rhcap@ita.br,+55 12 3947-5765
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Institute,IPeFarM / IPeBio,Secretaria,pos-graduacao@ltf.ufpb.br,+55 83 3216-7502
+17,UnB,Universidade de Brasília,Tier-2,Course,Engenharia Civil,Secretaria FT,ft@unb.br,
+18,PUC-Rio,Pontifícia Univ. Católica do Rio de Janeiro,Tier-1,Institute,Instituto Tecgraf,Carlos Henrique Levy,contato.embrapii@tecgraf.puc-rio.br,
+19,UNESP,Universidade Estadual Paulista,Tier-1,Course,Engenharia Elétrica,Secretaria,graduacao.marilia@unesp.br,+55 14 3402-1319
+20,UFPR,Universidade Federal do Paraná,Tier-2,Course,Engenharia Civil,Setor de Tecnologia,tecnologia@ufpr.br,
+16,UFPB,Universidade Federal da Paraíba,Tier-2,Course,Biotecnologia,Secretaria,secretaria@cbiotec.ufpb.br,+55 83 3216-7173
+18,PUC-Rio,Pontifícia Univ. Católica do Rio de Janeiro,Tier-1,Course,Engenharia Mecânica,Departamento,dem@puc-rio.br,
+20,UFPR,Universidade Federal do Paraná,Tier-2,Course,Medicina,Setor de Ciências da Saúde,saude@ufpr.br,
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Institute,Instituto de Medicina Social,Secretaria,secretaria.ims@uerj.br,+55 21 2334-0504
+22,UFBA,Universidade Federal da Bahia,Tier-2,Course,Engenharia Química,Escola Politécnica,engquimica@ufba.br,
+23,UNIFEI,Universidade Federal de Itajubá,Tier-2,Course,Engenharia Elétrica,Secretaria,secrel@unifei.edu.br,
+24,PUC-RS,Pontifícia Univ. Católica do Rio Grande do Sul,Tier-1,Institute,Instituto do Cérebro,Secretaria,inscer@pucrs.br,+55 51 3320-5900
+25,UFF,Universidade Federal Fluminense,Tier-2,Course,Engenharia Civil,Secretaria,tcivil.eng@id.uff.br,
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Course,Engenharia Civil,Centro de Tecnologia,fen@uerj.br,
+24,PUC-RS,Pontifícia Univ. Católica do Rio Grande do Sul,Tier-1,Course,Engenharia de Computação,Escola Politécnica,politecnica@pucrs.br,
+25,UFF,Universidade Federal Fluminense,Tier-2,Institute,Instituto de Computação,Secretaria,secretaria@ic.uff.br,
+26,UFABC,Universidade Federal do ABC,Tier-2,Course,Ciência da Computação,Secretaria,computacao@ufabc.edu.br,
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Course,Engenharia Civil,Escola de Minas,escolademinas@ufop.edu.br,
+28,UCS,Universidade de Caxias do Sul,Tier-2,Course,Engenharia Mecânica,Secretaria,atendimento@ucs.br,+55 54 3218-2100
+29,UPM,Universidade Presbiteriana Mackenzie,Tier-2,Course,Engenharia Elétrica,Escola de Engenharia,ee@mackenzie.br,+55 11 2114-8000
+30,UFV,Universidade Federal de Viçosa,Tier-2,Institute,Centro de Ciências Agrárias,Mario Luiz Chizzotti (Diretor),cca@ufv.br,+55 31 3612-1401
+26,UFABC,Universidade Federal do ABC,Tier-2,Institute,CECS,Direção,cecs@ufabc.edu.br,
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Institute,ICEB,Direção,diretoria@iceb.ufop.br,
+30,UFV,Universidade Federal de Viçosa,Tier-2,Course,Engenharia Civil,Departamento,dec@ufv.br,
+31,UFG,Universidade Federal de Goiás,Tier-2,Institute,IESA,Diego Tarley Ferreira Nascimento,diego_nascimento@ufg.br,
+32,UNIOESTE,U. Estadual do Oeste do Paraná,Tier-2,Course,Engenharia Civil,Secretaria,reitoria@unioeste.br,
+33,UPE,Universidade de Pernambuco,Tier-2,Institute,LIKA,Secretaria,lika@upe.br,
+34,FEI,Fundação Educacional Inaciana,Tier-2,Course,Engenharia Elétrica,Secretaria,faleconosco@fei.edu.br,+55 11 4353-2900
+35,PUC Minas,Pontifícia Univ. Católica de Minas Gerais,Tier-2,Institute,Instituto Politécnico,Secretaria,ipucacademica@pucminas.br,+55 31 3319-4118
+31,UFG,Universidade Federal de Goiás,Tier-2,Course,Engenharia Civil,EECA,dteixeira@ufg.br,+62 32096263
+34,FEI,Fundação Educacional Inaciana,Tier-2,Institute,Engenharia Automotiva,Secretaria,automotiva@fei.edu.br,
+35,PUC Minas,Pontifícia Univ. Católica de Minas Gerais,Tier-2,Course,Medicina,Secretaria,saicbs@pucminas.br,+55 31 3319-4162
+36,UNIJUI,Univ. Regional do Noroeste do RS,Tier-3,Course,Engenharia Agrícola,Secretaria,atendimento@unijui.edu.br,
+37,UNIP,Universidade Paulista,Tier-2,Course,Engenharia Civil,Secretaria,secretaria.pos@unip.br,
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Institute,Centro de Tecnologia de Alimentos,Secretaria,ital@ital.sp.gov.br,+55 19 3743-1700
+39,UNISO,Universidade de Sorocaba,Tier-3,Course,Engenharia de Produção,Secretaria,atendimento@uniso.br,+55 15 2101-7000
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Course,Engenharia Mecânica,Secretaria,maua@maua.br,+55 11 4239-3200
+38,ITAL,Instituto de Tecnologia de Alimentos,Tier-2,Course,Engenharia de Alimentos,Secretaria,ital@ital.sp.gov.br,
+40,IMT,Instituto Mauá de Tecnologia,Tier-2,Institute,Centro de Inovação Tecnológica,Secretaria,cpit@maua.br,
+41,UNIMEP,Universidade Metodista de Piracicaba,Tier-2,Course,Graduação,Secretaria,atendimento@unimep.br,
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Course,Engenharia de Computação,Secretaria,candidato@insper.edu.br,+55 11 4380-8050
+43,FACENS,Faculdade de Engenharia de Sorocaba,Tier-2,Institute,Smart Campus,Secretaria,contato@facens.br,+55 15 3238-1188
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Course,Engenharia Civil,Patricia Tolaine do Amareal (Coordenadora),civil.eep@fumep.edu.br,+55 19 3412-1100
+44,EPP,Escola de Engenharia de Piracicaba,Tier-2,Course,Engenharia Mecânica,Carlos Eduardo Leite Pereira (Professor),carlos.pereira@eep.br,
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Institute,Núcleo de Ciência de Dados,Secretaria,posgraduacao@insper.edu.br,
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Course,Engenharia Química,Afonso Avelino Dantas Neto,aadantas@nupeg.ufrn.br,
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Course,Engenharia Química,André Anderson Costa Pereira,andre.pereira.1@ufrn.br,
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Course,Engenharia Química,André Luis Lopes Moriyama,andre.moriyama@ufrn.br,
+1,UFRN,U. Federal do Rio Grande do Norte,Tier-1,Course,Engenharia Química,Everaldo Silvino dos Santos,everaldo@ct.ufrn.br,
+4,UFRGS,U. Federal do Rio Grande do Sul,Tier-1,Institute,Instituto de Física,Marino Tedesco (Professor Emérito),marino.tedesco@ufrgs.br,
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Física,Osvaldo Novais de Oliveira Junior,chu@ifsc.usp.br,+55 16 3373-9828
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,CPQBA,Diretoria,diretoria@cpqba.unicamp.br,
+7,UFC,Universidade Federal do Ceará,Tier-2,Institute,LABOMAR,Michael Barbosa Viana,vianamb@ufc.br,+55 85 3366.7031
+7,UFC,Universidade Federal do Ceará,Tier-2,Institute,LABOMAR,Sandra Tédde Santaella,sandra@ufc.br,
+5,UFRJ,U. Federal do Rio de Janeiro,Tier-1,Institute,Instituto de Microbiologia,André Luís Souza Santos (Coord. Pós),andre@micro.ufrj.br,
+5,UFRJ,U. Federal do Rio de Janeiro,Tier-1,Institute,Instituto de Microbiologia,Renata Cristina Picão (Vice-Coord. Pós),renata.picao@micro.ufrj.br,
+5,UFRJ,U. Federal do Rio de Janeiro,Tier-1,Institute,Instituto de Microbiologia,Rosana Barreto Rocha Ferreira (Coord. Grad),rferreira@micro.ufrj.br,
+5,UFRJ,U. Federal do Rio de Janeiro,Tier-1,Institute,Instituto de Microbiologia,Dirlei Nico (Professora),dirlei@micro.ufrj.br,
+5,UFRJ,U. Federal do Rio de Janeiro,Tier-1,Institute,Instituto de Biofísica,Adalberto Ramon Vieyra (Professor),avieyra@biof.ufrj.br,
+4,UFRGS,U. Federal do Rio Grande do Sul,Tier-1,Institute,CEMM,Secretaria,cemm@inf.ufrgs.br,
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,CDMF,Elson Longo (Diretor),elson.longo@gmail.com,
+8,UFMG,Universidade Federal de Minas Gerais,Tier-1,Institute,Instituto de Ciências Biológicas,Diretoria,diretoria@icb.ufmg.br,+55 31 3409-2500
+9,UFPA,Universidade Federal do Pará,Tier-2,Institute,Museu Emílio Goeldi,Direção,direcao@museu-goeldi.br,
+10,UFPE,Universidade Federal de Pernambuco,Tier-2,Institute,Núcleo de Petróleo,Direção,direcao.nupeng@ufpe.br,
+17,UnB,Universidade de Brasília,Tier-2,Course,Matemática,Adail de Castro Cavalheiro,adail@unb.br,+55 61 3107-6400
+17,UnB,Universidade de Brasília,Tier-2,Course,Matemática,Alex Carrazedo Dantas,alexcdantas@unb.br,
+17,UnB,Universidade de Brasília,Tier-2,Course,Matemática,Alexei Krassilnilkov,alexei@unb.br,+55 61 3107-6456
+17,UnB,Universidade de Brasília,Tier-2,Course,Matemática,Aline G. da Silva Pinto,alinepinto@unb.br,+55 61 3107-6462
+17,UnB,Universidade de Brasília,Tier-2,Course,Matemática,Giovany de Jesus Malcher Figueiredo,giovany@unb.br,+55 61 3107-6495
+17,UnB,Universidade de Brasília,Tier-2,Course,Matemática,Jaqueline Godoy Mesquita,jgmesquita@unb.br,
+19,UNESP,Universidade Estadual Paulista,Tier-1,Course,Engenharia Elétrica,Rafael A. Orsi,rafael.a.orsi@unesp.br,
+19,UNESP,Universidade Estadual Paulista,Tier-1,Course,Engenharia Elétrica,Gustavo Fantin Poli,fantin.poli@unesp.br,+55 11 5627-0694
+19,UNESP,Universidade Estadual Paulista,Tier-1,Course,Engenharia Elétrica,Mauricio Trivellato Neto,mauricio.trivellato@unesp.br,+55 11 5627-0444
+18,PUC-Rio,Pontifícia Univ. Católica do Rio de Janeiro,Tier-1,Course,Engenharia Mecânica,Alcir de Faro Orlando,afo@puc-rio.br,
+18,PUC-Rio,Pontifícia Univ. Católica do Rio de Janeiro,Tier-1,Course,Engenharia Mecânica,Alcidio Louzada,louzada@puc-rio.br,
+18,PUC-Rio,Pontifícia Univ. Católica do Rio de Janeiro,Tier-1,Course,Engenharia Mecânica,Diretoria DEM,direcao-dem@puc-rio.br,+55 21 3527-1001
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Course,Engenharia Mecânica,Bernardo Feijó Junqueira,bernardo.junqueira@eng.uerj.br,
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Course,Engenharia Mecânica,Carolina Seixas Moreira,carolina.moreira@eng.uerj.br,
+21,UERJ,Universidade do Estado do Rio de Janeiro,Tier-2,Course,Engenharia Mecânica,Daniel José Nahid Mansur Chalhub,daniel.chalhub@eng.uerj.br,
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Institute,DCTA,Nicolau (CTE),nicolau@ieav.cta.br,
+15,ITA,Instituto Tecnológico de Aeronáutica,Tier-1,Institute,DCTA,Toro (Propulsão),toro@ieav.cta.br,
+25,UFF,Universidade Federal Fluminense,Tier-2,Institute,Instituto de Computação,Secretaria Pós,secretaria.pos@ic.uff.br,+55 21 2629-5043
+25,UFF,Universidade Federal Fluminense,Tier-2,Institute,Instituto de Computação,Chefia DCC,chefia-dcc@ic.uff.br,+55 21 2629-5046
+25,UFF,Universidade Federal Fluminense,Tier-2,Course,Ciência da Computação,Coordenação,tgi@vm.uff.br,+55 21 2629-5044
+35,PUC Minas,Pontifícia Univ. Católica de Minas Gerais,Tier-2,Institute,Instituto Politécnico,Recursos,ipucrecursos@pucminas.br,
+42,Insper,Insper - Instituto de Ensino e Pesquisa,Tier-2,Course,Administração,Secretaria,atendimento@insper.edu.br,
+30,UFV,Universidade Federal de Viçosa,Tier-2,Course,Engenharia Mecânica,Departamento,dem@ufv.br,
+27,UFOP,Universidade Federal de Ouro Preto,Tier-2,Course,Engenharia de Computação,Departamento,decom@ufop.edu.br,
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Física (SC),Adriano Defini Andricopulo,a.andricopulo@usp.br,+55 16 33738095
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Física (SC),Aion da Escossia Melo Viana,aion.viana@ifsc.usp.br,+55 16 33736686
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Física (SC),Alberto Tannús,tannus@ifsc.usp.br,+55 16 33739836
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Física (SC),Alessandro Silva Nascimento,asnascimento@ifsc.usp.br,+55 16 33648075
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Física (SC),Ana Paula Ulian de Araújo,unana@ifsc.usp.br,+55 16 33739834
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Angélica Oliveira,depqfl@iq.usp.br,(11) 3091-2161
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Célia Maria Motta,celimari@iq.usp.br,(11) 3091-3858
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Monica Pacheco,assacad@iq.usp.br,
+2,USP,Universidade de São Paulo,Tier-1,Institute,Inst. Ciências Biomédicas,Secretaria,diretoria@icb.usp.br,(11) 3091-7733
+2,USP,Universidade de São Paulo,Tier-1,Course,Engenharia Civil,Secretaria,seção.alunos.poli@usp.br,(11) 3091-5431
+2,USP,Universidade de São Paulo,Tier-1,Course,Engenharia Elétrica,Secretaria,peletrica@poli.usp.br,(11) 3091-5201
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Alexander Henning Ulrich,henning@iq.usp.br,(11) 3091-9622
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Alexandre Bruni Cardoso,brunicar@iq.usp.br,(11) 3091-9047
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Alicia Juliana Kowaltowski,alicia@iq.usp.br,(11) 3091-2922
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Ana Maria Carmona Ribeiro,mcribeir@iq.usp.br,(11) 3091-2164
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Antônio Pedro Camargo,antonio@iq.usp.br,(11) 3091-8992
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Bayardo Baptista Torres,bayardo@iq.usp.br,(11) 3091-9195
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Bettina Malnic,bmalnic@iq.usp.br,(11) 3091-1201
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Carla Columbano de Oliveira,ccoliv@iq.usp.br,(11) 3091-9197
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Química,Carlos Takeshi Hotta,hotta@iq.usp.br,(11) 3091-8993
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Física (SC),Vanderlei Salvador Bagnato,vander@ifsc.usp.br,(16) 3373-9829
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Física (SC),Valter Luiz Líbero,vlibero@ifsc.usp.br,(16) 3373-9854
+2,USP,Universidade de São Paulo,Tier-1,Institute,Instituto de Física (SC),Valtencir Zucolotto,zuco@ifsc.usp.br,(16) 3373-6659
+6,Unicamp,U. Estadual de Campinas,Tier-1,Course,Engenharia Elétrica/Comp,Aldário Chrestani Bordonalli,aldario@unicamp.br,(19) 3521-3821
+6,Unicamp,U. Estadual de Campinas,Tier-1,Course,Engenharia Elétrica/Comp,Alim Pedro de Castro Gonçalves,alimped@unicamp.br,(19) 3521-3761
+6,Unicamp,U. Estadual de Campinas,Tier-1,Course,Engenharia Elétrica/Comp,Antônio Augusto Fasolo Quevedo,quevedo@unicamp.br,(19) 3521-3752
+6,Unicamp,U. Estadual de Campinas,Tier-1,Course,Engenharia Elétrica/Comp,Bruno Sanches Masiero,masiero@unicamp.br,(19) 3521-3745
+6,Unicamp,U. Estadual de Campinas,Tier-1,Course,Engenharia Elétrica/Comp,Carina Marconi Germer,cgermer@unicamp.br,(19) 3521-3757
+6,Unicamp,U. Estadual de Campinas,Tier-1,Course,Engenharia Elétrica/Comp,Carlos Augusto Prete Junior,prete@unicamp.br,(19) 3521-3801
+6,Unicamp,U. Estadual de Campinas,Tier-1,Course,Engenharia Elétrica/Comp,Cecília de Freitas Morais,cfmorais@unicamp.br,(19) 3521-3760
+6,Unicamp,U. Estadual de Campinas,Tier-1,Course,Engenharia Elétrica/Comp,Cesar José Bonjuani Pagan,pagan@unicamp.br,(19) 3521-3792
+2,USP,Universidade de São Paulo,Tier-1,Institute,Inst. Ciências Biomédicas,Secretaria Geral,secretaria@icb.usp.br,(11) 3091-7733
+2,USP,Universidade de São Paulo,Tier-1,Institute,Inst. Ciências Biomédicas,Secretaria Acadêmica,gradicb@usp.br,(11) 3091-7438
+2,USP,Universidade de São Paulo,Tier-1,Institute,Inst. Medicina Tropical,Secretaria,imt@usp.br,(11) 3061-7063
+2,USP,Universidade de São Paulo,Tier-1,Institute,Inst. Energia e Ambiente,Secretaria,secretaria@iee.usp.br,(11) 3091-2500
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,Instituto de Química,Airton Gonçalves Salles Junior,salles@iqm.unicamp.br,(19) 3521 8794
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,Instituto de Química,Alessandra Sussulini,sussulini@iqm.unicamp.br,(19) 3521 3060
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,Instituto de Química,Ana Flávia Nogueira,anaflavia@iqm.unicamp.br,(19) 3521 3029
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,Instituto de Química,Ana Valéria Colnaghi Simionato,simionato@iqm.unicamp.br,(19) 3521 3145
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,Instituto de Química,André Luiz Barboza Formiga,formiga@iqm.unicamp.br,(19) 3521 3420
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,Instituto de Química,Caio Costa Oliveira,ccosta@iqm.unicamp.br,(19) 3521 3153
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,Instituto de Química,Caio Gomide Otoni,otoni@iqm.unicamp.br,(19) 3521-3054
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,Instituto de Química,Camila Alves de Rezende,camila@iqm.unicamp.br,(19) 3521 2104
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,Instituto de Química,Camilla Abbehausen,cabbehausen@iqm.unicamp.br,(19) 3521 3055
+6,Unicamp,U. Estadual de Campinas,Tier-1,Institute,Instituto de Química,Carla Beatriz Grespan Bottoli,carlab@iqm.unicamp.br,(19) 3521 2067
+4,UFRGS,U. Federal do Rio Grande do Sul,Tier-1,Institute,Instituto de Informática,Carla Maria Dal Sasso Freitas,carla@inf.ufrgs.br,
+4,UFRGS,U. Federal do Rio Grande do Sul,Tier-1,Institute,Instituto de Informática,Claudio Rosito Jung,crjung@inf.ufrgs.br,
+4,UFRGS,U. Federal do Rio Grande do Sul,Tier-1,Institute,Instituto de Informática,Edson Prestes,prestes@inf.ufrgs.br,
+4,UFRGS,U. Federal do Rio Grande do Sul,Tier-1,Institute,Instituto de Informática,Flávio Rech Wagner,flavio@inf.ufrgs.br,
+4,UFRGS,U. Federal do Rio Grande do Sul,Tier-1,Institute,Instituto de Informática,Jacob Scharcanski,jacobs@inf.ufrgs.br,
+33,UPE,Universidade de Pernambuco,Tier-2,Course,Computação,Coordenação,computacao.multicampi@upe.br,
+33,UPE,Universidade de Pernambuco,Tier-2,Course,Engenharia de Software,Coordenação,engenhariadesoftware.multicampi@upe.br,
+36,UNIJUI,Univ. Regional do Noroeste do RS,Tier-3,Course,Agronomia,Coordenação,agronomia@unijui.edu.br,
+32,UNIOESTE,U. Estadual do Oeste do Paraná,Tier-2,Course,Engenharia,Secretaria Acadêmica,foz.secretariaacademica@unioeste.br,
+35,PUC Minas,Pontifícia Univ. Católica de Minas Gerais,Tier-2,Institute,CRA Coração Eucarístico,Secretaria,craatendimento@pucminas.br,(31) 3319-4290
+35,PUC Minas,Pontifícia Univ. Católica de Minas Gerais,Tier-2,Institute,Ciências Biológicas,Secretaria,saicbs@pucminas.br,(31) 3319-4162
+31,UFG,Universidade Federal de Goiás,Tier-2,Institute,IESA,Secretaria,secretaria.iesa@ufg.br,
