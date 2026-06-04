@@ -63,8 +63,6 @@
 | UFRJ | Escola Politécnica | Flávia Moll De Souzae | Liderança/Coordenação | secretaria.des@poli.ufrj.br | https://poli.ufrj.br/departamentos/ |
 | UFRJ | Escola Politécnica | Heraldo Luis Silveira De Almeidae | Liderança/Coordenação | secretaria.del@poli.ufrj.br | https://poli.ufrj.br/departamentos/ |
 | UFRJ | Escola Politécnica | Heraldo Luis Silveira De Almeidae | Liderança/Coordenação | chefe.del@poli.ufrj.br | https://poli.ufrj.br/departamentos/ |
-| UFRJ | Escola Politécnica | Lino Guimarães Marujosubstituto Eventual | Liderança/Coordenação | chefe.dei@poli.ufrj.br | https://poli.ufrj.br/departamentos/ |
-| UFRJ | Escola Politécnica | Lino Guimarães Marujosubstituto Eventual | Liderança/Coordenação | secretaria.dei@poli.ufrj.br | https://poli.ufrj.br/departamentos/ |
 | UFRJ | Escola Politécnica | Marcelo Gomes Miguez | Diretor | diretoria@poli.ufrj.br | https://poli.ufrj.br/contatos-da-diretoria/ |
 | UFRJ | Escola Politécnica | Marcelo Igor Lourenço De Souzae | Liderança/Coordenação | chefe.deno@poli.ufrj.br | https://poli.ufrj.br/departamentos/ |
 | UFRJ | Escola Politécnica | Marcelo Igor Lourenço De Souzae | Liderança/Coordenação | secretaria.deno@poli.ufrj.br | https://poli.ufrj.br/departamentos/ |
@@ -287,22 +285,12 @@ Dpo | Docente/Pesquisador | enunes@eq.ufrj.br | https://eq.ufrj.br/equipes/erika
 | UFRJ | Instituto de Matemática | Maria Eulália Vares | Docente | marcia@im.ufrj.br | https://www.im.ufrj.br/index.php/pt/pessoal/docentes |
 | UFRJ | Instituto de Matemática | Nedir Espírito | Docente | renanvp@im.ufrj.br | https://www.im.ufrj.br/index.php/pt/pessoal/docentes |
 | UFRJ | Instituto de Matemática | Nussenzveig Lopes | Docente | adan@im.ufrj.br | https://www.im.ufrj.br/index.php/pt/pessoal/docentes |
-| UFRJ | Instituto de Matemática | Página Pessoal | Docente | hamidreza@im.ufrj.br | https://www.im.ufrj.br/index.php/pt/pessoal/docentes |
-| UFRJ | Instituto de Matemática | Universidade Federal | Docente | marroquin@im.ufrj.br | https://www.im.ufrj.br/index.php/pt/pessoal/docentes |
 | UFRJ | Instituto de Química | Claudio José De Araújo Mota | Diretor | diretoria@iq.ufrj.br | https://www.iq.ufrj.br/institucional/diretoria |
 | UFRJ | Instituto de Química | Pedro Nothaft Romano | Docente | pedroromano@eq.ufrj.br | https://www.iq.ufrj.br/corpo-social/docentes/ |
-| UFRJ | Laboratórios/UFRJ | Acesso Administrativo | Docente/Pesquisador | ifisica@if.ufrj.br | https://www.if.ufrj.br/corpo-docente/ |
-| UFRJ | Laboratórios/UFRJ | Carlos Alberto Nunes Cosenza | Docente/Pesquisador | cosenza@pep.ufrj.br | https://ufrj.br/ |
-| UFRJ | Laboratórios/UFRJ | Coppe Emprapii | Docente/Pesquisador | labcorr@metalmat.ufrj.br | https://ufrj.br/ |
-| UFRJ | Laboratórios/UFRJ | Fabio Luiz Zamberlan | Docente/Pesquisador | marcos@pep.ufrj.br | https://ufrj.br/ |
-| UFRJ | Laboratórios/UFRJ | Gerência Administrativa | Docente/Pesquisador | michelle.nogueira@smt.ufrj.br | https://ufrj.br/ |
-| UFRJ | Laboratórios/UFRJ | Hub Digital | Docente/Pesquisador | diniz@smt.ufrj.br | https://ufrj.br/ |
-| UFRJ | Laboratórios/UFRJ | Marcos Pereira Estellita Lins | Docente/Pesquisador | mvidal@ergonomia.ufrj.br | https://ufrj.br/ |
-| UFRJ | Laboratórios/UFRJ | Mestrado Interdisciplinar | Docente/Pesquisador | pfisaplic@if.ufrj.br | https://www.if.ufrj.br/corpo-docente/ |
-| UFRJ | Laboratórios/UFRJ | Mestrado Profissional | Docente/Pesquisador | pef@if.ufrj.br | https://www.if.ufrj.br/corpo-docente/ |
-| UFRJ | Laboratórios/UFRJ | Open Source Content Management | Docente/Pesquisador | prof.eduinfante@pep.ufrj.br | https://ufrj.br/ |
-| UFRJ | Laboratórios/UFRJ | Plano Museológico | Docente/Pesquisador | suhelem.oliveira@igeo.ufrj.br | https://ufrj.br/ |
-| UFRJ | Laboratórios/UFRJ | Secr Ativ Gerenciais | Docente/Pesquisador | ronaldo@if.ufrj.br | https://www.if.ufrj.br/corpo-docente/ |
+| UFRJ | Laboratórios/UFRJ | Carlos Alberto Nunes Cosenza | Docente/Pesquisador | cosenza@pep.ufrj.br | https://ufrj.br/a-ufrj/contatos/centros-e-unidades/ |
+| UFRJ | Laboratórios/UFRJ | Coppe Emprapii | Docente/Pesquisador | labcorr@metalmat.ufrj.br | https://ufrj.br/a-ufrj/contatos/centros-e-unidades/ |
+| UFRJ | Laboratórios/UFRJ | Fabio Luiz Zamberlan | Docente/Pesquisador | marcos@pep.ufrj.br | https://ufrj.br/a-ufrj/contatos/centros-e-unidades/ |
+| UFRJ | Laboratórios/UFRJ | Marcos Pereira Estellita Lins | Docente/Pesquisador | mvidal@ergonomia.ufrj.br | https://ufrj.br/a-ufrj/contatos/centros-e-unidades/ |
 | UFRJ | NCE | Ageu Cavalcanti Pacheco Júnior | Pesquisador | ageu@nce.ufrj.br | https://portal.nce.ufrj.br/index.php/pesquisa/pesquisadores |
 | UFRJ | NCE | Ana Lucia Faria Da Costa Rodrigues | Pesquisador | ana_lucia@nce.ufrj.br | https://portal.nce.ufrj.br/index.php/pesquisa/pesquisadores |
 | UFRJ | NCE | Angélica Fonseca Da Silva Dias | Diretora | direcao@nce.ufrj.br | https://ufrj.br/a-ufrj/contatos/centros-e-unidades/ |
@@ -327,3 +315,49 @@ Dpo | Docente/Pesquisador | enunes@eq.ufrj.br | https://eq.ufrj.br/equipes/erika
 | UFRJ | NCE | Maria Leticia Galluzzi Nunes | Pesquisador | galluzzi@nce.ufrj.br | https://portal.nce.ufrj.br/index.php/pesquisa/pesquisadores |
 | UFRJ | NCE | Priscila Machado Vieira Lima | Pesquisador | priscila@nce.ufrj.br | https://portal.nce.ufrj.br/index.php/pesquisa/pesquisadores |
 | UFRJ | NCE | Sidney De Castro Oliveira | Pesquisador | sidney@nce.ufrj.br | https://portal.nce.ufrj.br/index.php/pesquisa/pesquisadores |
+| UFRJ | UFRJ | Antonio Fatorelli | Docente/Pesquisador | delchefesubstituto@eco.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Azeredo Ramos Barros | Docente/Pesquisador | jmramos@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Carsten Enderlein | Docente/Pesquisador | carsten@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Castro Palmieri | Docente/Pesquisador | palmieri@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Cristina Gon | Docente/Pesquisador | erika@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Direção
+
+
+
+ Marialva Carlos Barbosa | Docente/Pesquisador | marialva.barbosa@eco.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Direção Cristiano Henrique Ribeiro | Docente/Pesquisador | direcao@eco.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Eduardo Refkalefsky | Docente/Pesquisador | daniel.silva@eco.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Fátima Moreira Moraes | Docente/Pesquisador | direcao.administracao@eco.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Jorge Alberto Borrego Morell | Docente/Pesquisador | jborrego@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Josue Xavier | Docente/Pesquisador | jxcarvalho@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Juan Martin Otalora Goicochea | Docente/Pesquisador | jotalo@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Juliany Cola Fernandes Rodrigues | Docente/Pesquisador | juliany.rodrigues@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Karim Dahmouche | Docente/Pesquisador | karim@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Kleber Luiz | Docente/Pesquisador | klasouza@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Leandra Santos Baptista | Docente/Pesquisador | leandrabaptista@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Leandro Schaeffer Marturelli | Docente/Pesquisador | leandro@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Lilian Terezinha Costa | Docente/Pesquisador | lilian.t.costa@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Luanda Dias Schramm | Docente/Pesquisador | luanda.schramm@eco.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Lucio Ayres Caldas | Docente/Pesquisador | lucio@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Luisa Andrea Ketzer | Docente/Pesquisador | luisaketzer@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Luiz Augusto Sousa | Docente/Pesquisador | laso@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Mariella Alzamora Camarena | Docente/Pesquisador | mariella@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Marisa Carvalho Suarez | Docente/Pesquisador | mcarvalhosuarez@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Melissa Limoeiro Estrada Gutarra | Docente/Pesquisador | melissa@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Mesquita Lacerda | Docente/Pesquisador | monica_lacerda@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Natasha Midori Suguihiro | Docente/Pesquisador | natasha@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Oliveira Moutinho | Docente/Pesquisador | moutinho@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Oliveira Nascimento | Docente/Pesquisador | cpm@eco.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Oliveira Pinto | Docente/Pesquisador | leonardo.maciel@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Paulo Renato Dorneles | Docente/Pesquisador | dorneles@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Paulo Roberto Givaldi Vaz | Docente/Pesquisador | paulo.vaz@eco.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Roberto Jakomin | Docente/Pesquisador | robertojakomin@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Robson Roney Bernardo | Docente/Pesquisador | robson@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Rodrigo Ornellas Meire | Docente/Pesquisador | rodrigo@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Rodrigo Tinoco Figueiredo | Docente/Pesquisador | figueiredo.rt@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Ronaldo Pedro | Docente/Pesquisador | ronaldo@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Silas Pessini Rodrigues | Docente/Pesquisador | srodrigues@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Teresa Cristina Calegari Silva | Docente/Pesquisador | teresa@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Victor Tulio Ribeiro | Docente/Pesquisador | vtulio@xerem.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | Vinicios Ribeiro | Docente/Pesquisador | delchefe@eco.ufrj.br | https://ufrj.br/ |
+| UFRJ | UFRJ | William Correa Tavares | Docente/Pesquisador | williamctavares@xerem.ufrj.br | https://ufrj.br/ |

@@ -1893,7 +1893,7 @@
     "Nome": "Carlos Alberto Nunes Cosenza",
     "Cargo": "Docente/Pesquisador",
     "E-mail Institucional": "cosenza@pep.ufrj.br",
-    "Fonte": "https://ufrj.br/"
+    "Fonte": "https://ufrj.br/a-ufrj/contatos/centros-e-unidades/"
   },
   {
     "Universidade": "UFRJ",
@@ -1901,7 +1901,7 @@
     "Nome": "Coppe Emprapii",
     "Cargo": "Docente/Pesquisador",
     "E-mail Institucional": "labcorr@metalmat.ufrj.br",
-    "Fonte": "https://ufrj.br/"
+    "Fonte": "https://ufrj.br/a-ufrj/contatos/centros-e-unidades/"
   },
   {
     "Universidade": "UFRJ",
@@ -1909,23 +1909,7 @@
     "Nome": "Fabio Luiz Zamberlan",
     "Cargo": "Docente/Pesquisador",
     "E-mail Institucional": "marcos@pep.ufrj.br",
-    "Fonte": "https://ufrj.br/"
-  },
-  {
-    "Universidade": "UFRJ",
-    "Unidade": "Laboratórios/UFRJ",
-    "Nome": "Gerência Administrativa",
-    "Cargo": "Docente/Pesquisador",
-    "E-mail Institucional": "michelle.nogueira@smt.ufrj.br",
-    "Fonte": "https://ufrj.br/"
-  },
-  {
-    "Universidade": "UFRJ",
-    "Unidade": "Laboratórios/UFRJ",
-    "Nome": "Hub Digital",
-    "Cargo": "Docente/Pesquisador",
-    "E-mail Institucional": "diniz@smt.ufrj.br",
-    "Fonte": "https://ufrj.br/"
+    "Fonte": "https://ufrj.br/a-ufrj/contatos/centros-e-unidades/"
   },
   {
     "Universidade": "UFRJ",
@@ -1933,55 +1917,7 @@
     "Nome": "Marcos Pereira Estellita Lins",
     "Cargo": "Docente/Pesquisador",
     "E-mail Institucional": "mvidal@ergonomia.ufrj.br",
-    "Fonte": "https://ufrj.br/"
-  },
-  {
-    "Universidade": "UFRJ",
-    "Unidade": "Laboratórios/UFRJ",
-    "Nome": "Mestrado Interdisciplinar",
-    "Cargo": "Docente/Pesquisador",
-    "E-mail Institucional": "pfisaplic@if.ufrj.br",
-    "Fonte": "https://www.if.ufrj.br/corpo-docente/"
-  },
-  {
-    "Universidade": "UFRJ",
-    "Unidade": "Laboratórios/UFRJ",
-    "Nome": "Mestrado Profissional",
-    "Cargo": "Docente/Pesquisador",
-    "E-mail Institucional": "pef@if.ufrj.br",
-    "Fonte": "https://www.if.ufrj.br/corpo-docente/"
-  },
-  {
-    "Universidade": "UFRJ",
-    "Unidade": "Laboratórios/UFRJ",
-    "Nome": "Open Source Content Management",
-    "Cargo": "Docente/Pesquisador",
-    "E-mail Institucional": "prof.eduinfante@pep.ufrj.br",
-    "Fonte": "https://ufrj.br/"
-  },
-  {
-    "Universidade": "UFRJ",
-    "Unidade": "Laboratórios/UFRJ",
-    "Nome": "Plano Museológico",
-    "Cargo": "Docente/Pesquisador",
-    "E-mail Institucional": "suhelem.oliveira@igeo.ufrj.br",
-    "Fonte": "https://ufrj.br/"
-  },
-  {
-    "Universidade": "UFRJ",
-    "Unidade": "Laboratórios/UFRJ",
-    "Nome": "Post Extras",
-    "Cargo": "Docente/Pesquisador",
-    "E-mail Institucional": "ifisica@if.ufrj.br",
-    "Fonte": "https://www.if.ufrj.br/corpo-docente/"
-  },
-  {
-    "Universidade": "UFRJ",
-    "Unidade": "Laboratórios/UFRJ",
-    "Nome": "Secr Ativ Gerenciais",
-    "Cargo": "Docente/Pesquisador",
-    "E-mail Institucional": "ronaldo@if.ufrj.br",
-    "Fonte": "https://www.if.ufrj.br/corpo-docente/"
+    "Fonte": "https://ufrj.br/a-ufrj/contatos/centros-e-unidades/"
   },
   {
     "Universidade": "UFRJ",
@@ -2174,5 +2110,341 @@
     "Cargo": "Pesquisador",
     "E-mail Institucional": "sidney@nce.ufrj.br",
     "Fonte": "https://portal.nce.ufrj.br/index.php/pesquisa/pesquisadores"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Antonio Fatorelli",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "delchefesubstituto@eco.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Azeredo Ramos Barros",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "jmramos@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Carsten Enderlein",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "carsten@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Castro Palmieri",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "palmieri@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Cristina Gon",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "erika@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Direção \n\n\n\n Marialva Carlos Barbosa",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "marialva.barbosa@eco.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Direção Cristiano Henrique Ribeiro",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "direcao@eco.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Eduardo Refkalefsky",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "daniel.silva@eco.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Fátima Moreira Moraes",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "direcao.administracao@eco.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Jorge Alberto Borrego Morell",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "jborrego@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Josue Xavier",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "jxcarvalho@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Juan Martin Otalora Goicochea",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "jotalo@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Juliany Cola Fernandes Rodrigues",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "juliany.rodrigues@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Karim Dahmouche",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "karim@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Kleber Luiz",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "klasouza@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Leandra Santos Baptista",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "leandrabaptista@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Leandro Schaeffer Marturelli",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "leandro@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Lilian Terezinha Costa",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "lilian.t.costa@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Luanda Dias Schramm",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "luanda.schramm@eco.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Lucio Ayres Caldas",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "lucio@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Luisa Andrea Ketzer",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "luisaketzer@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Luiz Augusto Sousa",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "laso@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Mariella Alzamora Camarena",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "mariella@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Marisa Carvalho Suarez",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "mcarvalhosuarez@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Melissa Limoeiro Estrada Gutarra",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "melissa@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Mesquita Lacerda",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "monica_lacerda@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Natasha Midori Suguihiro",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "natasha@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Oliveira Moutinho",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "moutinho@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Oliveira Nascimento",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "cpm@eco.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Oliveira Pinto",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "leonardo.maciel@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Paulo Renato Dorneles",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "dorneles@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Paulo Roberto Givaldi Vaz",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "paulo.vaz@eco.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Roberto Jakomin",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "robertojakomin@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Robson Roney Bernardo",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "robson@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Rodrigo Ornellas Meire",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "rodrigo@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Rodrigo Tinoco Figueiredo",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "figueiredo.rt@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Ronaldo Pedro",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "ronaldo@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Silas Pessini Rodrigues",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "srodrigues@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Teresa Cristina Calegari Silva",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "teresa@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Victor Tulio Ribeiro",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "vtulio@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "Vinicios Ribeiro",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "delchefe@eco.ufrj.br",
+    "Fonte": "https://ufrj.br/"
+  },
+  {
+    "Universidade": "UFRJ",
+    "Unidade": "UFRJ",
+    "Nome": "William Correa Tavares",
+    "Cargo": "Docente/Pesquisador",
+    "E-mail Institucional": "williamctavares@xerem.ufrj.br",
+    "Fonte": "https://ufrj.br/"
   }
 ]
