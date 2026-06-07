@@ -1,0 +1,227 @@
+[
+  {
+    "Nome": "DE SOUZA, JANO MOREIRA",
+    "URL": "/ufrj-pesc/PersonView.do?method=view&id=10000062",
+    "Dept": "COPPE/PESC"
+  },
+  {
+    "Nome": "EDMUNDO ALBUQUERQUE DE SOUZA E SILVA",
+    "URL": "/ufrj-pesc/PersonView.do?method=view&id=10000055",
+    "Dept": "COPPE/PESC"
+  },
+  {
+    "Nome": "LAURA SILVIA BAHIENSE DA SILVA LEITE",
+    "URL": "/ufrj-pet/PersonView.do?method=view&id=11000042",
+    "Dept": "COPPE/PET"
+  },
+  {
+    "Nome": "LUIS FELIPE MAGALHAES DE MORAES",
+    "URL": "/ufrj-pesc/PersonView.do?method=view&id=10000067",
+    "Dept": "COPPE/PESC"
+  },
+  {
+    "Nome": "CAROLINA PALMA NAVEIRA COTTA",
+    "URL": "/ufrj-pem/PersonView.do?method=view&id=7130",
+    "Dept": "COPPE/PEM"
+  },
+  {
+    "Nome": "FRANCISCO JOSE DE CASTRO MOURA DUARTE",
+    "URL": "/ufrj-pep/PersonView.do?method=view&id=8000003",
+    "Dept": "COPPE/PEP"
+  },
+  {
+    "Nome": "MARCOS PEREIRA ESTELLITA LINS",
+    "URL": "/ufrj-pep/PersonView.do?method=view&id=8000067",
+    "Dept": "COPPE/PEP"
+  },
+  {
+    "Nome": "MARCUS VINICIUS DE ARAUJO FONSECA",
+    "URL": "/ufrj-pep/PersonView.do?method=view&id=8000068",
+    "Dept": "COPPE/PEP"
+  },
+  {
+    "Nome": "MARIO CESAR RODRIGUEZ VIDAL",
+    "URL": "/ufrj-pep/PersonView.do?method=view&id=8000070",
+    "Dept": "COPPE/PEP"
+  },
+  {
+    "Nome": "ROBERTO SCHIRRU",
+    "URL": "/ufrj-pen/PersonView.do?method=view&id=12011293",
+    "Dept": "COPPE/PEN"
+  },
+  {
+    "Nome": "SU JIAN",
+    "URL": "/ufrj-pen/PersonView.do?method=view&id=12011294",
+    "Dept": "COPPE/PEN"
+  },
+  {
+    "Nome": "FERNANDO ARTUR BRASIL DANZIGER",
+    "URL": "/ufrj-pec/PersonView.do?method=view&id=2000070",
+    "Dept": "COPPE/PEC"
+  },
+  {
+    "Nome": "JOAO PAULO BASSIN",
+    "URL": "/ufrj-peq/PersonView.do?method=view&id=12024902",
+    "Dept": "COPPE/PEQ"
+  },
+  {
+    "Nome": "JOSE LUIS DRUMMOND ALVES",
+    "URL": "/ufrj-pec/PersonView.do?method=view&id=2000083",
+    "Dept": "COPPE/PEC"
+  },
+  {
+    "Nome": "ROMILDO DIAS TOLEDO FILHO",
+    "URL": "/ufrj-pec/PersonView.do?method=view&id=2000102",
+    "Dept": "COPPE/PEC"
+  },
+  {
+    "Nome": "HELEN CONCEICAO FERRAZ",
+    "URL": "/ufrj-peq/PersonView.do?method=view&id=12023432",
+    "Dept": "COPPE/PEQ"
+  },
+  {
+    "Nome": "JOSE CARLOS COSTA DA SILVA PINTO",
+    "URL": "/ufrj-peq/PersonView.do?method=view&id=12023433",
+    "Dept": "COPPE/PEQ"
+  },
+  {
+    "Nome": "LEDA DOS REIS CASTILHO",
+    "URL": "/ufrj-peq/PersonView.do?method=view&id=12023434",
+    "Dept": "COPPE/PEQ"
+  },
+  {
+    "Nome": "MARCIA WALQUIRIA DE CARVALHO DEZOTTI",
+    "URL": "/ufrj-peq/PersonView.do?method=view&id=12023435",
+    "Dept": "COPPE/PEQ"
+  },
+  {
+    "Nome": "TITO LIVIO MOITINHO ALVES",
+    "URL": "/ufrj-peq/PersonView.do?method=view&id=12023439",
+    "Dept": "COPPE/PEQ"
+  },
+  {
+    "Nome": "CARLOS JULIO TIERRA CRIOLLO",
+    "URL": "/ufrj-peb/PersonView.do?method=view&id=1000028",
+    "Dept": "COPPE/PEB"
+  },
+  {
+    "Nome": "JOAO CARLOS MACHADO",
+    "URL": "/ufrj-peb/PersonView.do?method=view&id=1000031",
+    "Dept": "COPPE/PEB"
+  },
+  {
+    "Nome": "LUCIANO LUPORINI MENEGALDO",
+    "URL": "/ufrj-peb/PersonView.do?method=view&id=1000002",
+    "Dept": "COPPE/PEB"
+  },
+  {
+    "Nome": "MARCIO NOGUEIRA DE SOUZA",
+    "URL": "/ufrj-peb/PersonView.do?method=view&id=1000034",
+    "Dept": "COPPE/PEB"
+  },
+  {
+    "Nome": "ROBERTO MACOTO ICHINOSE",
+    "URL": "/ufrj-peb/PersonView.do?method=view&id=1000038",
+    "Dept": "COPPE/PEB"
+  },
+  {
+    "Nome": "AFONSO DE MORAES PAIVA",
+    "URL": "/ufrj-peno/PersonView.do?method=view&id=6000024",
+    "Dept": "COPPE/PENO"
+  },
+  {
+    "Nome": "JEAN DAVID JOB EMMANUEL MARIE CAPRACE",
+    "URL": "/ufrj-peno/PersonView.do?method=view&id=6000003",
+    "Dept": "COPPE/PENO"
+  },
+  {
+    "Nome": "MARCELO IGOR LOURENCO DE SOUZA",
+    "URL": "/ufrj-peno/PersonView.do?method=view&id=6000056",
+    "Dept": "COPPE/PENO"
+  },
+  {
+    "Nome": "MURILO AUGUSTO VAZ",
+    "URL": "/ufrj-peno/PersonView.do?method=view&id=6000034",
+    "Dept": "COPPE/PENO"
+  },
+  {
+    "Nome": "PAULO CESAR COLONNA ROSMAN",
+    "URL": "/ufrj-peno/PersonView.do?method=view&id=6000036",
+    "Dept": "COPPE/PENO"
+  },
+  {
+    "Nome": "MARCOS AURELIO VASCONCELOS DE FREITAS",
+    "URL": "/ufrj-ppe/PersonView.do?method=view&id=12003124",
+    "Dept": "COPPE/PPE"
+  },
+  {
+    "Nome": "ROBERTO SCHAEFFER",
+    "URL": "/ufrj-ppe/PersonView.do?method=view&id=12003127",
+    "Dept": "COPPE/PPE"
+  },
+  {
+    "Nome": "CELIO ALBANO DA COSTA NETO",
+    "URL": "/ufrj-pemm/PersonView.do?method=view&id=4000074",
+    "Dept": "COPPE/PEMM"
+  },
+  {
+    "Nome": "CESAR GIRON CAMERINI",
+    "URL": "/ufrj-pemm/PersonView.do?method=view&id=12000632",
+    "Dept": "COPPE/PEMM"
+  },
+  {
+    "Nome": "DILSON SILVA DOS SANTOS",
+    "URL": "/ufrj-pemm/PersonView.do?method=view&id=4000076",
+    "Dept": "COPPE/PEMM"
+  },
+  {
+    "Nome": "LUIS MARCELO MARQUES TAVARES",
+    "URL": "/ufrj-pemm/PersonView.do?method=view&id=4000084",
+    "Dept": "COPPE/PEMM"
+  },
+  {
+    "Nome": "LUIZ HENRIQUE DE ALMEIDA",
+    "URL": "/ufrj-pemm/PersonView.do?method=view&id=4000085",
+    "Dept": "COPPE/PEMM"
+  },
+  {
+    "Nome": "MARYSILVIA FERREIRA DA COSTA",
+    "URL": "/ufrj-pemm/PersonView.do?method=view&id=4000005",
+    "Dept": "COPPE/PEMM"
+  },
+  {
+    "Nome": "PAULA MENDES JARDIM",
+    "URL": "/ufrj-pemm/PersonView.do?method=view&id=4000006",
+    "Dept": "COPPE/PEMM"
+  },
+  {
+    "Nome": "PAULO EMILIO VALADAO DE MIRANDA",
+    "URL": "/ufrj-pemm/PersonView.do?method=view&id=4000088",
+    "Dept": "COPPE/PEMM"
+  },
+  {
+    "Nome": "LUCIANA SPINELLI FERREIRA",
+    "URL": "/ufrj-pent/PersonView.do?method=view&id=7000035",
+    "Dept": "COPPE/PENT"
+  },
+  {
+    "Nome": "MARTIN SCHMAL",
+    "URL": "/ufrj-peq/PersonView.do?method=view&id=12023437",
+    "Dept": "COPPE/PEQ"
+  },
+  {
+    "Nome": "MARCELINO AURELIO VIEIRA DA SILVA",
+    "URL": "/ufrj-pet/PersonView.do?method=view&id=11000037",
+    "Dept": "COPPE/PET"
+  },
+  {
+    "Nome": "MARCIO DE ALMEIDA D AGOSTO",
+    "URL": "/ufrj-pet/PersonView.do?method=view&id=11000026",
+    "Dept": "COPPE/PET"
+  },
+  {
+    "Nome": "ROMULO DANTE ORRICO FILHO",
+    "URL": "/ufrj-pet/PersonView.do?method=view&id=11000032",
+    "Dept": "COPPE/PET"
+  }
+]

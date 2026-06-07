@@ -1,0 +1,14 @@
+Found: ufrj-pesc
+Found: ufrj-pee
+Found: ufrj-pem
+Found: ufrj-pep
+Found: ufrj-pen
+Found: ufrj-pec
+Found: ufrj-peq
+Found: ufrj-peb
+Found: ufrj-peno
+Found: ufrj-ppe
+Found: ufrj-pemm
+Found: ufrj-pent
+Found: ufrj-pet
+Final List: ['ufrj-peb', 'ufrj-pec', 'ufrj-pee', 'ufrj-pem', 'ufrj-pemm', 'ufrj-pen', 'ufrj-peno', 'ufrj-pent', 'ufrj-pep', 'ufrj-peq', 'ufrj-pesc', 'ufrj-pet', 'ufrj-ppe']
