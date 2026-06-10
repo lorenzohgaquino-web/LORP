@@ -1,0 +1,138 @@
+[
+  {
+    "Nome": "campos",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "campos@smt.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "helen",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "helen@peq.coppe.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "hcukier",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "hcukier@cos.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "lealsobral",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "lealsobral@cos.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "ddantas",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "ddantas@oceanica.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "elucas",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "elucas@metalmat.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "ariane",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "ariane@pent.coppe.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "werner",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "werner@cos.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "eduardo.oliveira",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "eduardo.oliveira@adc.coppe.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "karina.andrade",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "karina.andrade@adc.coppe.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "andreanascimento",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "andreanascimento@cos.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "vanda",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "vanda@adc.coppe.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "edmundo",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "edmundo@land.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "arge",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "arge@peq.coppe.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "fernanda",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "fernanda@adc.coppe.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "skr",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "skr@pet.coppe.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  },
+  {
+    "Nome": "gielkop",
+    "Cargo": "Pesquisador",
+    "Departamento/Instituto": "COPPE",
+    "\u00c1rea de Pesquisa": "",
+    "E-mail": "gielkop@cisi.coppe.ufrj.br",
+    "P\u00e1gina Institucional": "https://coppe.ufrj.br/noticias/"
+  }
+]
