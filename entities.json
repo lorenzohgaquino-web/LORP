@@ -1,0 +1,178 @@
+{
+  "USP": {
+    "DEPARTAMENTOS": [
+      "Departamento de Engenharia Civil (PCC)",
+      "Departamento de Engenharia de Estruturas e Geotécnica (PEF)",
+      "Departamento de Engenharia Hidráulica e Ambiental (PHA)",
+      "Departamento de Engenharia de Transportes (PTR)",
+      "Departamento de Engenharia Mecânica (PME)",
+      "Departamento de Engenharia Mecatrônica e de Sistemas Mecânicos (PMR)",
+      "Departamento de Engenharia Naval e Oceânica (PNV)",
+      "Departamento de Engenharia Química (PQI)",
+      "Departamento de Engenharia de Minas e de Petróleo (PMI)",
+      "Departamento de Engenharia Metalúrgica e de Materiais (PMT)",
+      "Departamento de Engenharia de Energia e Automação Elétricas (PEA)",
+      "Departamento de Engenharia de Sistemas Eletrônicos (PSI)",
+      "Departamento de Engenharia de Computação e Sistemas Digitais (PCS)"
+    ],
+    "INSTITUTOS & CENTROS": [
+      "Centro de Inovação em Construção Sustentável (CICS)",
+      "Centro de Pesquisas em Águas Urbanas",
+      "Instituto Tecnológico SENAI de Manufatura Avançada",
+      "Centro de Pesquisa em Metalurgia do Pó",
+      "Centro de desenvolvimento em IoT",
+      "Centro de pesquisa em Indústria 4.0",
+      "Centro de Inovação da USP (InovaUSP)",
+      "Centro Interdisciplinar em Tecnologias Interativas (CITI)",
+      "Centro de pesquisa em microeletrônica e sistemas embarcados",
+      "Centro de Operações de Segurança Cibernética"
+    ],
+    "LABORATÓRIOS": [
+      "Laboratório de Microestrutura (LME)",
+      "Laboratório de Construção Civil (PCC)",
+      "Laboratório de Informática para Automação de Escritórios de Engenharia Civil (LAI)",
+      "Laboratório de Estruturas e Materiais Estruturais (LEM)",
+      "Laboratório de Geotecnia",
+      "Laboratório de Hidráulica",
+      "Laboratório de Tecnologia de Pavimentação",
+      "Laboratório de Geoprocessamento",
+      "Laboratório de Fenômenos de Transporte",
+      "Laboratório de Engenharia Térmica e Ambiental",
+      "Laboratório de Sistemas Inteligentes (LSI)",
+      "Laboratório de Manufatura Digital"
+    ],
+    "GRUPOS DE PESQUISA": [
+      "Grupo de Visão Computacional e Processamento de Imagens (VISION)",
+      "Núcleo de Pesquisa em Materiais Cerâmicos e Compósitos (NOMMA)"
+    ],
+    "PROGRAMAS PÓS-GRADUAÇÃO": [
+      "Programa de Pós-Graduação em Engenharia Civil"
+    ]
+  },
+  "UFRJ": {
+    "DEPARTAMENTOS": [
+      "Departamento de Ciência da Computação (DCC)",
+      "Departamento de Matemática (DM)",
+      "Departamento de Matemática Aplicada (DMA)",
+      "Departamento de Métodos Estatísticos (DME)",
+      "Departamento de Métodos Matemáticos (DMM)"
+    ],
+    "INSTITUTOS & CENTROS": [
+      "COPPE - Instituto Alberto Luiz Coimbra de Pós-Graduação e Pesquisa em Engenharia",
+      "Centro de Estudos em Túneis e Estruturas Subterrâneas",
+      "Centro de Aplicações de Radioisótopos",
+      "Centro de Estudos em Logística e Supply Chain (CEL)",
+      "Centro de Pesquisa em Polímeros (CPP)",
+      "Centro de Economia da Energia e Ambiente (CENERGIA)",
+      "Centro de Pesquisa em Biocombustíveis (CPB)",
+      "Centro de Microscopia Avançada (CMA)",
+      "Centro de monitoramento de estruturas submarinas em tempo real",
+      "Centro de referência em estruturas de concreto protendido",
+      "Centro de visualização científica"
+    ],
+    "LABORATÓRIOS": [
+      "Laboratório de Engenharia Pulmonar",
+      "Laboratório de Ultrassom",
+      "Laboratório de Instrumentação Biomédica",
+      "Laboratório de Estruturas (LabEst)",
+      "Laboratório de Geotecnia",
+      "Laboratório de Redes Elétricas (LRE)",
+      "Laboratório de Fontes Alternativas de Energia (LAFAE)",
+      "Laboratório de Processamento de Sinais (LPS)",
+      "Laboratório de Transmissão e Tecnologia do Calor (LTTC)",
+      "Laboratório de Mecânica dos Fluidos (LMF)",
+      "Laboratório de Vibrações e Acústica (LVA)",
+      "Laboratório de Caracterização Microestrutural (LCM)"
+    ],
+    "GRUPOS DE PESQUISA": [
+      "Núcleo de Pesquisa em E-health (NUTES)",
+      "Grupo de Tecnologia em Computação Gráfica (TeCGraf)"
+    ],
+    "PROGRAMAS PÓS-GRADUAÇÃO": [
+      "Programa de Engenharia Biomédica (PEB)",
+      "Programa de Engenharia Civil (PEC)",
+      "Programa de Engenharia Elétrica (PEE)",
+      "Programa de Engenharia Mecânica (PEM)",
+      "Programa de Engenharia Metalúrgica e de Materiais (PEMM)",
+      "Programa de Engenharia Nuclear (PEN)",
+      "Programa de Engenharia Oceânica (PENO)",
+      "Programa de Engenharia de Produção (PEP)",
+      "Programa de Engenharia Química (PEQ)",
+      "Programa de Engenharia de Sistemas e Computação (PESC)"
+    ]
+  },
+  "UFMG": {
+    "DEPARTAMENTOS": [
+      "Departamento de Engenharia Elétrica (DEE)",
+      "Departamento de Engenharia Mecânica (DEMEC)",
+      "Departamento de Engenharia Metalúrgica e de Materiais (DEMET)",
+      "Departamento de Engenharia Nuclear (DEN)",
+      "Departamento de Engenharia Química (DEQ)",
+      "Departamento de Engenharia Sanitária e Ambiental (DESA)",
+      "Departamento de Engenharia de Estruturas (DEES)",
+      "Departamento de Engenharia Hidráulica e Recursos Hídricos (EHR)",
+      "Departamento de Engenharia de Transportes e Geotecnia (ETG)",
+      "Departamento de Engenharia de Produção (DEP)",
+      "Departamento de Ciência da Computação (DCC)"
+    ],
+    "INSTITUTOS & CENTROS": [
+      "Centro de Pesquisa em Eletrônica de Potência (CPEP)",
+      "Centro de Tecnologia em Energia (CTE)",
+      "Centro de Pesquisa em Materiais Avançados (CPMA)",
+      "Centro de Desenvolvimento da Tecnologia Nuclear (CDTN)",
+      "Centro de Desenvolvimento em Biotecnologia (CDB)",
+      "Centro de Pesquisa em Resíduos Sólidos (CPRS)",
+      "Centro de Pesquisa em Concreto (CPC)",
+      "Centro de Pesquisa em Recursos Hídricos (CPRH)",
+      "Centro de Estudos em Transportes (CETRAN)",
+      "Centro de Ergonomia e Segurança do Trabalho (CEST)",
+      "Centro de Computação de Alto Desempenho (CCAD)"
+    ],
+    "LABORATÓRIOS": [
+      "Laboratório de Sistemas de Energia Elétrica (LSEE)",
+      "Laboratório de Processamento de Sinais (LPS)",
+      "Laboratório de Mecânica dos Fluidos (LMF)",
+      "Laboratório de Vibrações e Acústica (LVA)",
+      "Laboratório de Caracterização Microestrutural (LCM)",
+      "Laboratório de Tratamentos Térmicos (LTT)",
+      "Laboratório de Radioproteção e Dosimetria (LRD)",
+      "Laboratório de Computação de Alto Desempenho (LCAD)",
+      "Laboratório de Processos Químicos (LPQ)",
+      "Laboratório de Simulação de Processos (LSP)",
+      "Laboratório de Tratamento de Águas Residuárias (LTAR)",
+      "Laboratório de Qualidade do Ar (LQAr)"
+    ],
+    "PROGRAMAS PÓS-GRADUAÇÃO": [
+      "Programa de Pós-Graduação em Engenharia Elétrica",
+      "Programa de Pós-Graduação em Engenharia Mecânica",
+      "Programa de Pós-Graduação em Engenharia Metalúrgica, de Materiais e de Minas",
+      "Programa de Pós-Graduação em Ciências e Técnicas Nucleares",
+      "Programa de Pós-Graduação em Engenharia Química",
+      "Programa de Pós-Graduação em Saneamento, Meio Ambiente e Recursos Hídricos",
+      "Programa de Pós-Graduação em Engenharia de Estruturas",
+      "Programa de Pós-Graduação em Geotecnia e Transportes",
+      "Programa de Pós-Graduação em Engenharia de Produção"
+    ]
+  },
+  "UFU": {
+    "DEPARTAMENTOS": [
+      "Faculdade de Engenharia Elétrica (FEELT-UFU)",
+      "Faculdade de Engenharia Mecânica (FEMEC-UFU)",
+      "Faculdade de Engenharia Química (FEQUI-UFU)"
+    ],
+    "LABORATÓRIOS": [
+      "Laboratório de Eletrônica de Potência (LEP-UFU)",
+      "Laboratório de Tribologia e Materiais (LTM-UFU)",
+      "Laboratório de Biotecnologia (LABBIO-UFU)",
+      "Laboratório de Sistemas de Potência (LSP-UFU)"
+    ],
+    "GRUPOS DE PESQUISA": [
+      "Grupo de Pesquisa em Manufatura (GPM-UFU)"
+    ],
+    "PROGRAMAS PÓS-GRADUAÇÃO": [
+      "Programa de Pós-Graduação em Engenharia Elétrica",
+      "Programa de Pós-Graduação em Engenharia Mecânica",
+      "Programa de Pós-Graduação em Engenharia Química"
+    ]
+  }
+}
