@@ -1,0 +1,602 @@
+[
+  {
+    "nome": "Brett Vern Carlson",
+    "email": "brett@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Nuclear",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "César Henrique Lenzi",
+    "email": "chlenzi@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Nuclear",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Mariana Dutra",
+    "email": "marianad@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Nuclear",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Odilon Lourenço",
+    "email": "odilon@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Nuclear",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Pedro Jose Pompeia",
+    "email": "pompeia@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Nuclear",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Tobias Frederico",
+    "email": "tobias@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Nuclear",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Wayne Leonardo de Paula",
+    "email": "wayne@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Nuclear",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Franciole Marinho",
+    "email": "franciole@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Nuclear",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "André Jorge Carvalho Chaves",
+    "email": "andrejck@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Atômica e Molecular",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Filipe Matusalém",
+    "email": "fmatusalem@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Atômica e Molecular",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Francisco Bolivar Correto Machado",
+    "email": "fmachado@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Atômica e Molecular",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Ivan Guilhon Mitoso Rocha",
+    "email": "guilhon@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Atômica e Molecular",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Lara Kuhl Teles",
+    "email": "lkteles@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Atômica e Molecular",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Luiz Fernando de Araújo Ferrão",
+    "email": "ferrao@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Atômica e Molecular",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Marcelo Marques",
+    "email": "mmarques@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Atômica e Molecular",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Renê Felipe Keidel Spada",
+    "email": "rfkspada@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física Atômica e Molecular",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Argemiro Soares da Silva Sobrinho",
+    "email": "argemiro@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física de Plasmas",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "André Luis de Jesus Pereira",
+    "email": "andreljp@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física de Plasmas",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Homero Santiago Maciel",
+    "email": "odairtur@gmail.com",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física de Plasmas",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Rodrigo Sávio Pessoa",
+    "email": "rspessoa@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Física de Plasmas",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Érico Luiz Rempel",
+    "email": "rempel@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Dinâmica não Linear e Sistemas Complexos",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Jayr de Amorim Filho",
+    "email": "jayr.de.amorim@gmail.com",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Dinâmica não Linear e Sistemas Complexos",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Marco Antonio Ridenti",
+    "email": "aridenti@ita.br",
+    "unidade": "IEF",
+    "departamento": "Física",
+    "laboratorio": "Dinâmica não Linear e Sistemas Complexos",
+    "url": "https://www.pgfis.ita.br/pt/post/docentes",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Denis Silva Loubach",
+    "email": "dloubach@ita.br",
+    "unidade": "IEC",
+    "departamento": "Chefia-IEC",
+    "laboratorio": "Sistemas de Computação",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Valério Rosset",
+    "email": "rosset@ita.br",
+    "unidade": "IEC",
+    "departamento": "Vice-chefia IEC",
+    "laboratorio": "Sistemas de Computação",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Marcos Ricardo O. de A. Máximo",
+    "email": "mmaximo@ita.br",
+    "unidade": "IEC",
+    "departamento": "Metodologias de Computação",
+    "laboratorio": "Sistemas Autônomos",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Mariá C. V. Nascimento",
+    "email": "mariah@ita.br",
+    "unidade": "IEC",
+    "departamento": "Metodologias de Computação",
+    "laboratorio": "Otimização Combinatória",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Inaldo Capistrano Costa",
+    "email": "inaldo@ita.br",
+    "unidade": "IEC",
+    "departamento": "Software e Sistemas de Informação",
+    "laboratorio": "Sistemas Críticos",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Ana Carolina Lorena",
+    "email": "aclorena@ita.br",
+    "unidade": "IEC",
+    "departamento": "Metodologias de Computação",
+    "laboratorio": "Inteligência Artificial",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Joicymara Santos Xavier",
+    "email": "joicymara@ita.br",
+    "unidade": "IEC",
+    "departamento": "Software e Sistemas de Informação",
+    "laboratorio": "Bioinformática",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Juliana de Melo Bezerra",
+    "email": "juliana@ita.br",
+    "unidade": "IEC",
+    "departamento": "Sistemas de Computação",
+    "laboratorio": "Engenharia de Software",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Cecília de Azevedo Castro César",
+    "email": "cecilia@ita.br",
+    "unidade": "IEC",
+    "departamento": "Sistemas de Computação",
+    "laboratorio": "Redes de Computadores",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Celso Massaki Hirata",
+    "email": "hirata@ita.br",
+    "unidade": "IEC",
+    "departamento": "Sistemas de Computação",
+    "laboratorio": "Simulação",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Cesar Augusto C. Marcondes",
+    "email": "cmarcondes@ita.br",
+    "unidade": "IEC",
+    "departamento": "Sistemas de Computação",
+    "laboratorio": "Segurança Cibernética",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Lourenço Alves Pereira Junior",
+    "email": "ljr@ita.br",
+    "unidade": "IEC",
+    "departamento": "Sistemas de Computação",
+    "laboratorio": "Defesa Cibernética",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Vitor Venceslau Curtis",
+    "email": "curtis@ita.br",
+    "unidade": "IEC",
+    "departamento": "Sistemas de Computação",
+    "laboratorio": "HPC",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Karla Donato Fook",
+    "email": "karla@ita.br",
+    "unidade": "IEC",
+    "departamento": "Software e Sistemas de Informação",
+    "laboratorio": "Engenharia de Software",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Elton Felipe Sbruzzi",
+    "email": "elton@ita.br",
+    "unidade": "IEC",
+    "departamento": "Software e Sistemas de Informação",
+    "laboratorio": "Ciência de Dados",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Johnny Cardoso Marques",
+    "email": "johnny@ita.br",
+    "unidade": "IEC",
+    "departamento": "Software e Sistemas de Informação",
+    "laboratorio": "Sistemas Críticos",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "José Maria Parente de Oliveira",
+    "email": "parente@ita.br",
+    "unidade": "IEC",
+    "departamento": "Software e Sistemas de Informação",
+    "laboratorio": "Big Data",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Maylon Pires Macedo",
+    "email": "maylon@ita.br",
+    "unidade": "IEC",
+    "departamento": "Software e Sistemas de Informação",
+    "laboratorio": "Engenharia de Software",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Adilson Marques da Cunha",
+    "email": "cunha@ita.br",
+    "unidade": "IEC",
+    "departamento": "Software e Sistemas de Informação",
+    "laboratorio": "Inteligência Artificial",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Luís Vieira Dias",
+    "email": "vdias@ita.br",
+    "unidade": "IEC",
+    "departamento": "Software e Sistemas de Informação",
+    "laboratorio": "Qualidade de Software",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Carlos A. Alonso Sanches",
+    "email": "alonso@ita.br",
+    "unidade": "IEC",
+    "departamento": "Teoria da Computação",
+    "laboratorio": "Algoritmos Paralelos",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Armando Ramos Gouveia",
+    "email": "armando@ita.br",
+    "unidade": "IEC",
+    "departamento": "Teoria da Computação",
+    "laboratorio": "Teoria da Computação",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Carlos Henrique Q. Foster",
+    "email": "forster@ita.br",
+    "unidade": "IEC",
+    "departamento": "Teoria da Computação",
+    "laboratorio": "Visão Robótica",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Luiz Gustavo B. Mirisola",
+    "email": "lgm@ita.br",
+    "unidade": "IEC",
+    "departamento": "Teoria da Computação",
+    "laboratorio": "Robótica",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Guilherme Oliveira Chagas",
+    "email": "guilhermechagas@ita.br",
+    "unidade": "IEC",
+    "departamento": "Teoria da Computação",
+    "laboratorio": "Teoria da Computação",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Carlos Henrique C. Ribeiro",
+    "email": "carlos@ita.br",
+    "unidade": "IEC",
+    "departamento": "Metodologias de Computação",
+    "laboratorio": "Aprendizagem por Reforço",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Paulo Marcelo Tasinaffo",
+    "email": "tasinaffo@ita.br",
+    "unidade": "IEC",
+    "departamento": "Metodologias de Computação",
+    "laboratorio": "Redes Neurais",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Paulo André L. Castro",
+    "email": "pauloac@ita.br",
+    "unidade": "IEC",
+    "departamento": "Metodologias de Computação",
+    "laboratorio": "Finanças Computacionais",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Filipe Alves Neto Verri",
+    "email": "verri@ita.br",
+    "unidade": "IEC",
+    "departamento": "Metodologias de Computação",
+    "laboratorio": "Complex Networks",
+    "url": "https://www.comp.ita.br/organizacao/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "André V. G. Cavalieri",
+    "email": "andre@ita.br",
+    "unidade": "IEAer",
+    "departamento": "Aeronáutica",
+    "laboratorio": "Aeroacústica",
+    "url": "http://www.off-ladhyx.polytechnique.fr/people/lutz/pdfs/Cavalieri_AMR_2019.pdf",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Mauricio Vicente Donadon",
+    "email": "donadon@ita.br",
+    "unidade": "IEAer",
+    "departamento": "Aeronáutica",
+    "laboratorio": "Estruturas Compósitas",
+    "url": "https://www.researchgate.net/publication/287458338_A_Numerical_Study_on_Smart_Material_Selection_for_Flapped_and_Twisted_Morphing_Wing_Configurations",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Roberto Gil Annes da Silva",
+    "email": "roberto.gil@gp.ita.br",
+    "unidade": "IEAer",
+    "departamento": "Aeronáutica",
+    "laboratorio": "Aeroelasticidade",
+    "url": "http://www.ita.br/sites/default/files/pages/collection/CAT%C3%81LOGO-PG-2023-Revisado_0.pdf",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Ney Rafael Secco",
+    "email": "ney.secco@gp.ita.br",
+    "unidade": "IEAer",
+    "departamento": "Aeronáutica",
+    "laboratorio": "Projeto de Aeronaves",
+    "url": "http://www.ita.br/sites/default/files/pages/collection/CAT%C3%81LOGO-PG-2023-Revisado_0.pdf",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Cleverson Bringhenti",
+    "email": "cleverson@ita.br",
+    "unidade": "IEM",
+    "departamento": "Mecânica",
+    "laboratorio": "Turbinas a Gás",
+    "url": "https://www.mec.ita.br/chefia/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Thiago de Paula Sales",
+    "email": "tpsales@ita.br",
+    "unidade": "IEM",
+    "departamento": "Mecânica",
+    "laboratorio": "Dinâmica de Sistemas",
+    "url": "https://www.mec.ita.br/chefia/",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Cláudio Jorge Pinto Alves",
+    "email": "claudioj@ita.br",
+    "unidade": "IEI",
+    "departamento": "Civil",
+    "laboratorio": "Transporte Aéreo",
+    "url": "https://scispace.com/pdf/innovation-system-in-air-transport-management-yz1e1k5614.pdf",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  },
+  {
+    "nome": "Mauro Caetano",
+    "email": "caetano@ita.br",
+    "unidade": "IEI",
+    "departamento": "Civil",
+    "laboratorio": "Inovação em Transporte Aéreo",
+    "url": "http://www.ita.br/sites/default/files/pages/Fase%202%20-%20Disciplinas%20eletivas%20ofertadas%20ao%20alunos%202-25.pdf",
+    "status": "Verificado",
+    "data_acesso": "2026-06-19"
+  }
+]
