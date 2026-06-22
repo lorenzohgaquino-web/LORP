@@ -1,0 +1,10 @@
+## Cobertura por Unidade
+| Unidade | Total de Registros | Com E-mail Verificado |
+| :--- | :---: | :---: |
+| IEAer | 16 | 7 |
+| IEAer/IEE | 1 | 0 |
+| IEC | 28 | 24 |
+| IEE | 9 | 6 |
+| IEF | 32 | 28 |
+| IEI | 28 | 5 |
+| IEM | 45 | 38 |
