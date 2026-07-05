@@ -1,0 +1,41 @@
+# Mapeamento DEM
+
+| Nome Completo | E-mail | Unidade | Departamento | Lab/Grupo | Fonte | Status | Acesso |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| JOÃO WANDERLEY RODRIGUES PEREIRA | joao.wanderley@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=346780) | Verificado | 2026-07-05 |
+| ADILSON JOSÉ DE OLIVEIRA | adilson.oliveira@ufrn.br | DEM | DEM | Laboratório Manufatura | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1792669) | Verificado | 2026-07-05 |
+| ALVARO AUGUSTO SOARES LIMA | alvaro.augusto@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3254216) | Verificado | 2026-07-05 |
+| ANDERSON CLAYTON ALVES DE MELO | anderson.melo@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1545410) | Verificado | 2026-07-05 |
+| ANDRE JESUS SOARES MAURENTE | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2014591) | Parcial | 2026-07-05 |
+| ANGELO RONCALLI OLIVEIRA GUERRA | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=350690) | Parcial | 2026-07-05 |
+| AVELINO MANUEL DA SILVA DIAS | avelino.dias@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=434906) | Verificado | 2026-07-05 |
+| CARLOS MAGNO DE LIMA | carlos.magno.lima@ufrn.br | DEM | DEM | Laboratório Automação de Projetos | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2343264) | Verificado | 2026-07-05 |
+| CLEITON RUBENS FORMIGA BARBOSA | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=349577) | Parcial | 2026-07-05 |
+| EDUARDO JOSÉ CIDADE CAVALCANTI | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1753416) | Parcial | 2026-07-05 |
+| EVANS PAIVA DA COSTA FERREIRA | evans.ferreira@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1064594) | Verificado | 2026-07-05 |
+| FABIO DALMAZZO SANCHES | fabio.dalmazzo@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1837132) | Verificado | 2026-07-05 |
+| FRANCINE ALVES DA COSTA | ceme@ct.ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2613355) | Verificado | 2026-07-05 |
+| FRANCISCO DE ASSIS DA SILVA MOTA | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1960421) | Parcial | 2026-07-05 |
+| GABRIEL IVAN MEDINA TAPIA | gabriel.medina@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1770049) | Verificado | 2026-07-05 |
+| GEORGE SANTOS MARINHO | george.marinho@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1235107) | Verificado | 2026-07-05 |
+| IGOR LOPES DE ANDRADE | igor.andrade@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1150023) | Verificado | 2026-07-05 |
+| JOÃO CARLOS ARANTES COSTA JÚNIOR | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1451488) | Parcial | 2026-07-05 |
+| KLEIBER LIMA DE BESSA | kleiber.bessa@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2654020) | Verificado | 2026-07-05 |
+| LUIZ CLAUDIO FERREIRA DA SILVA | claudio.ferreira@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=5220696) | Verificado | 2026-07-05 |
+| LUIZ GUILHERME MEIRA DE SOUZA | lguilherme@dem.ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=349104) | Verificado | 2026-07-05 |
+| LUIZ PEDRO DE ARAUJO | luiz.pedro.araujo@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=347088) | Verificado | 2026-07-05 |
+| MARCIO VALERIO DE ARAUJO | marcio.araujo@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2718169) | Verificado | 2026-07-05 |
+| RAIMUNDO CARLOS SILVERIO FREIRE JUNIOR | raimundo.junior@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1338331) | Verificado | 2026-07-05 |
+| RUBENS GONCALVES SALSA JUNIOR | rubens.salsa@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3254403) | Verificado | 2026-07-05 |
+| SANDI ITAMAR SCHAFER DE SOUZA | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1647050) | Parcial | 2026-07-05 |
+| THERCIO HENRIQUE DE CARVALHO COSTA | thercio.costa@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2550377) | Verificado | 2026-07-05 |
+| ULISSES BORGES SOUTO | ulisses.borges@ufrn.br | DEM | DEM | Laboratório Usinagem | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1792681) | Verificado | 2026-07-05 |
+| CLARA CAROLINE DE ARAUJO AZEVEDO | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1424508) | Parcial | 2026-07-05 |
+| CLEITON RUBENS FORMIGA BARBOSA JUNIOR | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1263787) | Parcial | 2026-07-05 |
+| GIORGIO ANDRÉ BRITO OLIVEIRA | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1030693) | Parcial | 2026-07-05 |
+| ÍTALO SABINO ARRAIS BEZERRA | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1222719) | Parcial | 2026-07-05 |
+| JORDAN NELSON SOARES CARNEIRO | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3434791) | Parcial | 2026-07-05 |
+| MARCELO ARAUJO DELGADO FILHO | marcelo.delgado@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3524026) | Verificado | 2026-07-05 |
+| MARLIO ANTONIO DA SILVA | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3418081) | Parcial | 2026-07-05 |
+| WILLIAM HENRIQUE DE LIMA FIUZA | não disponível publicamente | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3522588) | Parcial | 2026-07-05 |
+| JOSE CESAR AUGUSTO DE QUEIROZ | cesar.augusto@ufrn.br | DEM | DEM | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3487763) | Verificado | 2026-07-05 |
