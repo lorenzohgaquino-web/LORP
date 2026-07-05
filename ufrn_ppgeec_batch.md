@@ -1,0 +1,39 @@
+# Mapeamento PPgEEC
+
+| Nome Completo | E-mail | Unidade | Departamento | Lab/Grupo | Fonte | Status | Acesso |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ADAILDO GOMES D ASSUNCAO | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=6345784) | Parcial | 2026-07-05 |
+| ANTONIO LUIZ PEREIRA DE SIQUEIRA CAMPOS | antonio.campos@ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2524053) | Verificado | 2026-07-05 |
+| JOSE PATROCINIO DA SILVA | jose.patrocinio@ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1422265) | Verificado | 2026-07-05 |
+| LAERCIO MARTINS DE MENDONCA | laercio@ct.ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=349732) | Verificado | 2026-07-05 |
+| VALDEMIR PRAXEDES DA SILVA NETO | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3921178) | Parcial | 2026-07-05 |
+| VICENTE ANGELO DE SOUSA JUNIOR | vicente.sousa@ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1412682) | Verificado | 2026-07-05 |
+| ADELARDO ADELINO DANTAS DE MEDEIROS | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=350751) | Parcial | 2026-07-05 |
+| ADRIAO DUARTE DORIA NETO | adriao@dca.ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=347628) | Verificado | 2026-07-05 |
+| ALLAN DE MEDEIROS MARTINS | allan@dca.ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2579664) | Verificado | 2026-07-05 |
+| IVANOVITCH MEDEIROS DANTAS DA SILVA | ivanovitch.silva@ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2885532) | Verificado | 2026-07-05 |
+| LUIZ AFFONSO HENDERSON GUEDES DE OLIVEIRA | affonso@dca.ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1153006) | Verificado | 2026-07-05 |
+| LUIZ FELIPE DE QUEIROZ SILVEIRA | felipe.silveira@ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1543191) | Verificado | 2026-07-05 |
+| LUIZ MARCOS GARCIA GONCALVES | lmarcos@dca.ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1345674) | Verificado | 2026-07-05 |
+| MARCELO AUGUSTO COSTA FERNANDES | mfernandes@dca.ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1837240) | Verificado | 2026-07-05 |
+| PABLO JAVIER ALSINA | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1242315) | Parcial | 2026-07-05 |
+| RICARDO ALEXSANDRO DE MEDEIROS VALENTIM | ricardo.valentim@lais.huol.ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2488270) | Verificado | 2026-07-05 |
+| SAMUEL XAVIER DE SOUZA | samuel.xavier@ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1673543) | Verificado | 2026-07-05 |
+| TIAGO TAVARES LEITE BARROS | tbarros@dca.ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3216921) | Verificado | 2026-07-05 |
+| ANDRE LAURINDO MAITELLI | maitelli@dca.ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=350693) | Verificado | 2026-07-05 |
+| ANDRES ORTIZ SALAZAR | andres.ortiz@ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1149567) | Verificado | 2026-07-05 |
+| CARLOS EDUARDO TRABUCO DOREA | carlos.dorea@ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1328152) | Verificado | 2026-07-05 |
+| DIOMADSON RODRIGUES BELFORT | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2140683) | Parcial | 2026-07-05 |
+| FABIO MENEGHETTI UGULINO DE ARAUJO | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1451883) | Parcial | 2026-07-05 |
+| FLAVIO BEZERRA COSTA | flaviocosta@ect.ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1807863) | Verificado | 2026-07-05 |
+| MANOEL FIRMINO DE MEDEIROS JUNIOR | firmino@dca.ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=346287) | Verificado | 2026-07-05 |
+| RICARDO LUCIO DE ARAUJO RIBEIRO | ricardo.ribeiro@ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1196444) | Verificado | 2026-07-05 |
+| RODRIGO PRADO DE MEDEIROS | rodrigo.prado@ufrn.br | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1141792) | Verificado | 2026-07-05 |
+| SEBASTIAN YURI CAVALCANTI CATUNDA | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1284113) | Parcial | 2026-07-05 |
+| WALLACE MOREIRA BESSA | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1445637) | Parcial | 2026-07-05 |
+| CARLA DOS SANTOS SANTANA | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link]() | Parcial | 2026-07-05 |
+| DANIEL NOBRE PINHEIRO | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link]() | Parcial | 2026-07-05 |
+| LUCILEIDE MEDEIROS DANTAS DA SILVA | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link]() | Parcial | 2026-07-05 |
+| MARIANNE BATISTA DINIZ DA SILVA | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link]() | Parcial | 2026-07-05 |
+| SERGIO NATAN SILVA | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link]() | Parcial | 2026-07-05 |
+| JOSÉ JAIME GUIMARÃES PEIXOTO NETO | não disponível publicamente | PPgEEC | PPgEEC | não identificado | [Link]() | Parcial | 2026-07-05 |

@@ -1,0 +1,32 @@
+# Mapeamento DCA
+
+| Nome Completo | E-mail | Unidade | Departamento | Lab/Grupo | Fonte | Status | Acesso |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ADELARDO ADELINO DANTAS DE MEDEIROS | não disponível publicamente | DCA | DCA | Laboratório Robótica do DCA, Laboratório Análise | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=350751) | Parcial | 2026-07-05 |
+| ADRIAO DUARTE DORIA NETO | adriao@dca.ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=347628) | Verificado | 2026-07-05 |
+| AGOSTINHO DE MEDEIROS BRITO JUNIOR | não disponível publicamente | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1279464) | Parcial | 2026-07-05 |
+| ANDERSON LUIZ DE OLIVEIRA CAVALCANTI | anderson.cavalcanti@ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2453033) | Verificado | 2026-07-05 |
+| ANDRE LAURINDO MAITELLI | maitelli@dca.ufrn.br | DCA | DCA | DCA, LAUT | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=350693) | Verificado | 2026-07-05 |
+| ANDRES ORTIZ SALAZAR | andres.ortiz@ufrn.br | DCA | DCA | DCA, LAMP | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1149567) | Verificado | 2026-07-05 |
+| CARLOS EDUARDO TRABUCO DOREA | carlos.dorea@ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1328152) | Verificado | 2026-07-05 |
+| CARLOS MANUEL DIAS VIEGAS | carlos.viegas@ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2249146) | Verificado | 2026-07-05 |
+| DIOGO PINHEIRO FERNANDES PEDROSA | diogo.pedrosa@ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2452782) | Verificado | 2026-07-05 |
+| EDUARDO DE LUCENA FALCAO | eduardo@dca.ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1227439) | Verificado | 2026-07-05 |
+| FABIO MENEGHETTI UGULINO DE ARAUJO | não disponível publicamente | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1451883) | Parcial | 2026-07-05 |
+| FRANCISCO DAS CHAGAS MOTA | mota@dca.ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1149639) | Verificado | 2026-07-05 |
+| IVANOVITCH MEDEIROS DANTAS DA SILVA | ivanovitch.silva@ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2885532) | Verificado | 2026-07-05 |
+| JOSE IVONILDO DO REGO | ivonildo@dca.ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=346139) | Verificado | 2026-07-05 |
+| LUIZ AFFONSO HENDERSON GUEDES DE OLIVEIRA | affonso@dca.ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1153006) | Verificado | 2026-07-05 |
+| LUIZ FELIPE DE QUEIROZ SILVEIRA | felipe.silveira@ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1543191) | Verificado | 2026-07-05 |
+| LUIZ MARCOS GARCIA GONCALVES | lmarcos@dca.ufrn.br | DCA | DCA | DCA, Laboratório Robótica Perceptual da UMASS | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1345674) | Verificado | 2026-07-05 |
+| MANOEL FIRMINO DE MEDEIROS JUNIOR | firmino@dca.ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=346287) | Verificado | 2026-07-05 |
+| MARCELO AUGUSTO COSTA FERNANDES | mfernandes@dca.ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1837240) | Verificado | 2026-07-05 |
+| PABLO JAVIER ALSINA | não disponível publicamente | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1242315) | Parcial | 2026-07-05 |
+| PAULO SERGIO DA MOTTA PIRES | não disponível publicamente | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=347052) | Parcial | 2026-07-05 |
+| RICARDO FERREIRA PINHEIRO | ricardo.pinheiro@ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=347427) | Verificado | 2026-07-05 |
+| SAMUEL XAVIER DE SOUZA | samuel.xavier@ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1673543) | Verificado | 2026-07-05 |
+| SEBASTIAN YURI CAVALCANTI CATUNDA | não disponível publicamente | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1284113) | Parcial | 2026-07-05 |
+| TIAGO TAVARES LEITE BARROS | tbarros@dca.ufrn.br | DCA | DCA | Laboratório Arquiteturas Paralelas, DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3216921) | Verificado | 2026-07-05 |
+| EDSON JACKSON DE MEDEIROS NETO | edson@imd.ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1405324) | Verificado | 2026-07-05 |
+| MATHEUS VITOR DE ANDRADE PEDROSA | matheus.pedrosa.va@ufrn.br | DCA | DCA | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3495347) | Verificado | 2026-07-05 |
+| RODRIGO DE ANDRADE TEIXEIRA | não disponível publicamente | DCA | DCA | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1150867) | Parcial | 2026-07-05 |

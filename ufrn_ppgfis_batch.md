@@ -1,0 +1,32 @@
+# Mapeamento PPgFIS
+
+| Nome Completo | E-mail | Unidade | Departamento | Lab/Grupo | Fonte | Status | Acesso |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ALVARO FERRAZ FILHO | não disponível publicamente | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=404927) | Parcial | 2026-07-05 |
+| BRUNO RICARDO DE CARVALHO | bruno.carvalho.1@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2391788) | Verificado | 2026-07-05 |
+| FELIPE BOHN | felipe.bohn@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1508681) | Verificado | 2026-07-05 |
+| JOAO MEDEIROS DE ARAUJO | joaomedeiros@fisica.ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2492756) | Verificado | 2026-07-05 |
+| LEONARDO DANTAS MACHADO | não disponível publicamente | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2411793) | Parcial | 2026-07-05 |
+| LUCIANO RODRIGUES DA SILVA | luciano@fisica.ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=6346140) | Verificado | 2026-07-05 |
+| MANOEL SILVA DE VASCONCELOS | mvasconcelos@fisica.ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1354851) | Verificado | 2026-07-05 |
+| RODRIGO GONCALVES PEREIRA | não disponível publicamente | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1313663) | Parcial | 2026-07-05 |
+| BRUNO LEONARDO CANTO MARTINS | bruno.canto@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1675216) | Verificado | 2026-07-05 |
+| CLAUDIONOR GOMES BEZERRA | claudionor.bezerra@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1345774) | Verificado | 2026-07-05 |
+| DORY HELIO AIRES DE LIMA ANSELMO | dory.helio@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1519258) | Verificado | 2026-07-05 |
+| EDIMILSON FÉLIX DA SILVA | edimilson.felix@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1060742) | Verificado | 2026-07-05 |
+| EMANUELE ORAZI | não disponível publicamente | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2196137) | Parcial | 2026-07-05 |
+| FARINALDO DA SILVA QUEIROZ | não disponível publicamente | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1043096) | Parcial | 2026-07-05 |
+| GILBERTO CORSO | gilberto.corso@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1379465) | Verificado | 2026-07-05 |
+| GUSTAVO ZAMPIER DOS SANTOS LIMA | ect@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1753234) | Verificado | 2026-07-05 |
+| IZAN DE CASTRO LEÃO | izan@fisica.ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3060853) | Verificado | 2026-07-05 |
+| JOSE DIAS DO NASCIMENTO JUNIOR | jdonascimento@fisica.ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2496004) | Verificado | 2026-07-05 |
+| JOSE RENAN DE MEDEIROS | jose.renan.medeiros@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=346785) | Verificado | 2026-07-05 |
+| LEO GOUVEA MEDEIROS | não disponível publicamente | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1674079) | Parcial | 2026-07-05 |
+| LEONARDO ANDRADE DE ALMEIDA | leonardo.almeida@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3214164) | Verificado | 2026-07-05 |
+| MARCO ANTONIO MORALES TORRES | marco.morales@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1674707) | Verificado | 2026-07-05 |
+| MATHEUS GAMINO GOMES | mgamino@fisica.ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1788659) | Verificado | 2026-07-05 |
+| RODRIGO FERNANDES LIRA DE HOLANDA | não disponível publicamente | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1390849) | Parcial | 2026-07-05 |
+| RAFAEL CHAVES SOUTO ARAUJO | rafael.chaves@ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3328776) | Verificado | 2026-07-05 |
+| MADRAS VISWANATHAN GANDHI MOHAN | não disponível publicamente | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1294916) | Parcial | 2026-07-05 |
+| MARCIO ASSOLIN CORREA | marciocorrea@fisica.ufrn.br | PPgFIS | PPgFIS | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1474380) | Verificado | 2026-07-05 |
+| DMITRY MELNIKOV | não disponível publicamente | PPgFIS | PPgFIS | não identificado | [Link]() | Parcial | 2026-07-05 |

@@ -1,0 +1,42 @@
+# Mapeamento DIMAp
+
+| Nome Completo | E-mail | Unidade | Departamento | Lab/Grupo | Fonte | Status | Acesso |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| ANDRE MAURICIO CUNHA CAMPOS | andre@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1363515) | Verificado | 2026-07-05 |
+| ANNE MAGALY DE PAULA CANUTO | anne@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1350250) | Verificado | 2026-07-05 |
+| AUGUSTO JOSE VENANCIO NETO | augusto@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1699087) | Verificado | 2026-07-05 |
+| BENJAMIN RENE CALLEJAS BEDREGAL | bedregal@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2212166) | Verificado | 2026-07-05 |
+| BRUNO MOTTA DE CARVALHO | bruno@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2177445) | Verificado | 2026-07-05 |
+| CARLOS AUGUSTO PROLO | carlos.prolo@ufrn.br | DIMAp | DIMAp | DIMAP | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1988053) | Verificado | 2026-07-05 |
+| DANIEL NOBRE PINHEIRO | daniel.pinheiro@ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1288576) | Verificado | 2026-07-05 |
+| EDGARD DE FARIA CORREA | edgard@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=6350797) | Verificado | 2026-07-05 |
+| EDUARDO HENRIQUE DA SILVA ARANHA | eduardo.aranha@ufrn.br | DIMAp | DIMAp | DIMAP | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1671962) | Verificado | 2026-07-05 |
+| EVERTON RANIELLY DE SOUSA CAVALCANTE | everton.cavalcante@ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2316877) | Verificado | 2026-07-05 |
+| FERNANDO MARQUES FIGUEIRA FILHO | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1961108) | Parcial | 2026-07-05 |
+| GIBEON SOARES DE AQUINO JUNIOR | gibeon.aquino@ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1802737) | Verificado | 2026-07-05 |
+| JAIR CAVALCANTI LEITE | jair.leite@ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1149392) | Verificado | 2026-07-05 |
+| LEONARDO CUNHA DE MIRANDA | não disponível publicamente | DIMAp | DIMAp | Laboratório Computação Física | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1356585) | Parcial | 2026-07-05 |
+| LYRENE FERNANDES DA SILVA | lyrene@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1754430) | Verificado | 2026-07-05 |
+| MARCEL VINICIUS MEDEIROS OLIVEIRA | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1639701) | Parcial | 2026-07-05 |
+| MARCIA JACYNTHA NUNES RODRIGUES LUCENA | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2195240) | Parcial | 2026-07-05 |
+| MARCIO EDUARDO KREUTZ | kreutz@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1694485) | Verificado | 2026-07-05 |
+| MARCOS CESAR MADRUGA ALVES PINHEIRO | marcos.madruga@ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1525670) | Verificado | 2026-07-05 |
+| MARTIN ALEJANDRO MUSICANTE | mam@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1221251) | Verificado | 2026-07-05 |
+| MATHEUS DA SILVA MENEZES | matheus.menezes@ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1702873) | Verificado | 2026-07-05 |
+| MONICA MAGALHAES PEREIRA | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1882699) | Parcial | 2026-07-05 |
+| NELIO ALESSANDRO AZEVEDO CACHO | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1678918) | Parcial | 2026-07-05 |
+| RAFAEL BESERRA GOMES | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2929823) | Parcial | 2026-07-05 |
+| RANNIERY DA SILVA MAIA | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3288217) | Parcial | 2026-07-05 |
+| REGIVAN HUGO NUNES SANTIAGO | regivan.santiago@ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1345816) | Verificado | 2026-07-05 |
+| ROBERTA DE SOUZA COELHO | roberta@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1709820) | Verificado | 2026-07-05 |
+| SELAN RODRIGUES DOS SANTOS | selan.santos@ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2497950) | Verificado | 2026-07-05 |
+| SILVIA MARIA DINIZ MONTEIRO MAIA | não disponível publicamente | DIMAp | DIMAp | DCA | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2859606) | Parcial | 2026-07-05 |
+| THAIS VASCONCELOS BATISTA | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1213777) | Parcial | 2026-07-05 |
+| UIRA KULESZA | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1644456) | Parcial | 2026-07-05 |
+| UMBERTO SOUZA DA COSTA | umberto.costa@ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1495704) | Verificado | 2026-07-05 |
+| VALDIGLEIS DA SILVA COSTA | valdigleis@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=1139450) | Verificado | 2026-07-05 |
+| ALAN DE OLIVEIRA SANTANA | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3469605) | Parcial | 2026-07-05 |
+| ERICA ESTEVES CUNHA DE MIRANDA | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=2449231) | Parcial | 2026-07-05 |
+| FELIPE DE SOUZA PINHEIRO | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3247492) | Parcial | 2026-07-05 |
+| MARCUS VINICIUS ALENCAR TERRA | marcus.terra@dimap.ufrn.br | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3525451) | Verificado | 2026-07-05 |
+| MARIANA CRISTINA DE LIMA | não disponível publicamente | DIMAp | DIMAp | não identificado | [Link](https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=3523607) | Parcial | 2026-07-05 |
