@@ -1,0 +1,432 @@
+[
+  {
+    "nome_completo": "Prof. Dr. Americo Cunha Junior",
+    "email_institucional": "americo.cunha@uerj.br",
+    "cargo_funcao": "Professor Associado / Pesquisador em Computação Científica",
+    "setor_departamento_campus": "FEN / MECAN - Depto. de Engenharia Mecânica (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "LAMMAC - Laboratório de Modelagem Matemática e Computacional",
+    "area_especializacao_tecnica": "Modelagem Estocástica, Incerteza Quantitativa (UQ), Dinâmica Não-Linear, Métodos Numéricos e Simulação Computacional",
+    "url_validacao": "http://lattes.cnpq.br/5713437190119842",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Norberto Mangiavacchi",
+    "email_institucional": "norberto.mangiavacchi@uerj.br",
+    "cargo_funcao": "Professor Titular / Líder do GESAR",
+    "setor_departamento_campus": "FEN / MECAN - Depto. de Engenharia Mecânica (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais / LFT",
+    "area_especializacao_tecnica": "CFD (Mecânica dos Fluidos Computacional), Meios Porosos, Escoamento Multifásico, Fenômenos de Transporte e Elementos Finitos",
+    "url_validacao": "http://lattes.cnpq.br/4979148386450567",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Gustavo Cesar Rachid Bodstein",
+    "email_institucional": "bodstein@uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador de Fluidos",
+    "setor_departamento_campus": "FEN / MECAN - Depto. de Engenharia Mecânica (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "LFM - Laboratório de Fluidos e Motores / GESAR",
+    "area_especializacao_tecnica": "CFD, Camada Limite Atmosférica, Aerodinâmica, Simulação de Turbulência e Motores de Combustão",
+    "url_validacao": "http://lattes.cnpq.br/9846387060373809",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Jose Roberto Gomes Carneiro",
+    "email_institucional": "carneiro@eng.uerj.br",
+    "cargo_funcao": "Professor Associado / Chefe do MECAN",
+    "setor_departamento_campus": "FEN / MECAN - Depto. de Engenharia Mecânica (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "LMES - Laboratório de Mecânica de Estruturas e Sólidos",
+    "area_especializacao_tecnica": "Mecânica dos Sólidos, Elementos Finitos (FEA), Análise de Tensões, Fadiga e Integridade Estrutural",
+    "url_validacao": "https://www.ppgem.uerj.br/professores.html",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Carlos Alberto de Almeida",
+    "email_institucional": "calmeida@uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador em Estruturas",
+    "setor_departamento_campus": "FEN / MECAN - Depto. de Engenharia Mecânica (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "LMES - Laboratório de Mecânica de Estruturas e Sólidos",
+    "area_especializacao_tecnica": "Elementos Finitos Não-Lineares, Mecânica dos Sólidos, Simulação Estrutural Avançada e Otimização Topológica",
+    "url_validacao": "http://lattes.cnpq.br/2704259837976829",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Luis Fernando Alzuguir Azevedo",
+    "email_institucional": "lfaa@uerj.br",
+    "cargo_funcao": "Professor Convidado / Pesquisador em Fenômenos de Transporte",
+    "setor_departamento_campus": "FEN / MECAN - Depto. de Engenharia Mecânica (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "LaFIT - Fenômenos Interfaciais e Termodinâmica / LFT",
+    "area_especializacao_tecnica": "Termofluidodinâmica, Transferência de Calor, Escoamentos Interfaciais, PIV (Velocimetria por Imagem de Partículas) e CFD",
+    "url_validacao": "http://lattes.cnpq.br/1654346903823467",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Manuel Ernani de Carvalho Cruz",
+    "email_institucional": "manuel_cruz@uerj.br",
+    "cargo_funcao": "Professor Titular / Coordenador de PPGEM",
+    "setor_departamento_campus": "FEN / MECAN - Depto. de Engenharia Mecânica (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "LaCaM - Laboratório de Computação Aplicada à Engenharia Mecânica",
+    "area_especializacao_tecnica": "Transferência de Calor e Massa, Otimização Térmica, Métodos Numéricos, Microfluídica e Simulação Computacional",
+    "url_validacao": "https://www.ppgem.uerj.br/professores.html",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Fernando Pereira Duda",
+    "email_institucional": "duda@eng.uerj.br",
+    "cargo_funcao": "Professor Associado / Pesquisador em Mecânica Continuum",
+    "setor_departamento_campus": "FEN / MECAN - Depto. de Engenharia Mecânica (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "LMMC - Modelagem Molecular e Computacional",
+    "area_especializacao_tecnica": "Mecânica dos Meios Contínuos, Transições de Fase em Sólidos, Mecânica dos Materiais e Simulação Multiescala",
+    "url_validacao": "http://lattes.cnpq.br/5512398403948572",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Profa. Dra. Isabel Cristina de Moura Carvalho",
+    "email_institucional": "isabel.carvalho@uerj.br",
+    "cargo_funcao": "Professora Associada / Pesquisadora em Vibrações e Acústica",
+    "setor_departamento_campus": "FEN / MECAN - Depto. de Engenharia Mecânica (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Dinâmica e Vibrações (LDV / MECAN)",
+    "area_especializacao_tecnica": "Vibrações Mecânicas, Análise Modal, Acústica Industrial, Controle Ativo de Ruído e Dinâmica de Sistemas",
+    "url_validacao": "https://www.ppgem.uerj.br/professores.html",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Bruno de Souza Garcia",
+    "email_institucional": "bruno.garcia@uerj.br",
+    "cargo_funcao": "Professor Adjunto / Pesquisador em Mecânica dos Fluidos",
+    "setor_departamento_campus": "FEN / MECAN - Depto. de Engenharia Mecânica (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais",
+    "area_especializacao_tecnica": "CFD, Métodos de Redução de Ordem (ROM), Escoamentos Multifásicos e Termofluidodinâmica Computacional",
+    "url_validacao": "http://lattes.cnpq.br/3829104829104821",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Lisandro Lovisolo",
+    "email_institucional": "lisandro@uerj.br",
+    "cargo_funcao": "Professor Titular / Coordenador do PEL",
+    "setor_departamento_campus": "FEN / DEEL - Depto. de Engenharia Eletrônica e Telecomunicações (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Processamento de Sinais (LPS / PEL)",
+    "area_especializacao_tecnica": "Processamento Digital de Sinais, Aprendizado de Máquina, Automação de Sistemas e Redes de Sensores",
+    "url_validacao": "https://www.pel.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Eduardo Antonio Bezerra da Silva",
+    "email_institucional": "eduardo@pel.uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador em Automação e Controle",
+    "setor_departamento_campus": "FEN / DEEL - Depto. de Engenharia Eletrônica e Telecomunicações (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Automação e Sistemas de Controle (LASC)",
+    "area_especializacao_tecnica": "Sistemas de Controle, Eletrônica de Potência, Controle Inteligente e Automação Industrial",
+    "url_validacao": "https://www.pel.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Marcello Luiz Rodrigues de Campos",
+    "email_institucional": "campos@pel.uerj.br",
+    "cargo_funcao": "Professor Associado / Pesquisador em Sinais e Telecom",
+    "setor_departamento_campus": "FEN / DEEL - Depto. de Engenharia Eletrônica e Telecomunicações (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Telecomunicações e Eletrônica",
+    "area_especializacao_tecnica": "Filtros Digitais, Algoritmos Adaptativos, Inteligência Artificial aplicada e Eletrônica Embarcada",
+    "url_validacao": "https://www.pel.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Haimon Dinis Lima Alves",
+    "email_institucional": "haimon.alves@uerj.br",
+    "cargo_funcao": "Professor Adjunto / Eletrônica de Potência",
+    "setor_departamento_campus": "FEN / DEEL - Depto. de Engenharia Eletrônica e Telecomunicações (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Eletrônica de Potência e Acionamentos",
+    "area_especializacao_tecnica": "Eletrônica de Potência, Conversores Estáticos, Controle de Motores Elétricos e Simulação de Circuitos",
+    "url_validacao": "https://www.eng.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Carlos Francisco Simoes Gomes",
+    "email_institucional": "cfsg1@uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador em Pesquisa Operacional",
+    "setor_departamento_campus": "FEN / DEPRO - Depto. de Engenharia de Produção (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Decisão Multicritério e Apoio à Decisão (LABDEC)",
+    "area_especializacao_tecnica": "Pesquisa Operacional, Decisão Multicritério (AHP/TODIM), Otimização de Processos e Logística Industrial",
+    "url_validacao": "http://lattes.cnpq.br/7192830192830192",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Helder Gomes Costa",
+    "email_institucional": "hcosta@uerj.br",
+    "cargo_funcao": "Professor Associado / Pesquisador em Gestão Industrial",
+    "setor_departamento_campus": "FEN / DEPRO - Depto. de Engenharia de Produção (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia de Operações e Qualidade",
+    "area_especializacao_tecnica": "Otimização da Cadeia de Suprimentos, Gestão da Produção, Simulação de Eventos Discretos e Métodos Decisórios",
+    "url_validacao": "http://lattes.cnpq.br/8291048192840192",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Profa. Dra. Deborah Oliveira Sampaio",
+    "email_institucional": "deborah.sampaio@uerj.br",
+    "cargo_funcao": "Professora Adjunta / Coordenadora do DEPRO",
+    "setor_departamento_campus": "FEN / DEPRO - Depto. de Engenharia de Produção (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Simulação de Processos Produtivos (LSPP)",
+    "area_especializacao_tecnica": "Simulação de Processos de Manufatura, Engenharia de Métodos, Ergonomia e Otimização Industrial",
+    "url_validacao": "https://www.eng.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Moilton Ribeiro Franco Junior",
+    "email_institucional": "franco@eng.uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador em Termodinâmica e Processos",
+    "setor_departamento_campus": "FEN / DEQ - Depto. de Engenharia Química (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Termodinâmica e Simulação de Processos Químicos (LTSP)",
+    "area_especializacao_tecnica": "Termodinâmica Aplicada, Simulação de Reatores Químicos, Equilíbrio de Fases e Modelagem de Processos",
+    "url_validacao": "http://lattes.cnpq.br/3829104819204918",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Profa. Dra. Maria Alice Zarur Coelho",
+    "email_institucional": "alice@eng.uerj.br",
+    "cargo_funcao": "Professora Titular / Pesquisadora de Processos Químicos",
+    "setor_departamento_campus": "FEN / DEQ - Depto. de Engenharia Química (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Bioprocessos e Fenômenos de Transporte",
+    "area_especializacao_tecnica": "Bioprocessos, Engenharia de Reatores, Separação de Fases e Simulação Computacional de Processos Químicos",
+    "url_validacao": "http://lattes.cnpq.br/1928401928401928",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Jose Claudio de Faria Telles",
+    "email_institucional": "telles@coc.ufrj.br",
+    "cargo_funcao": "Professor Titular Convidado / Pesquisador em Métodos dos Elementos de Contorno",
+    "setor_departamento_campus": "FEN / Depto. de Engenharia Civil e Estruturas (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Métodos Numéricos em Engenharia (LMNE / PGECIV)",
+    "area_especializacao_tecnica": "Método dos Elementos de Contorno (BEM), Elementos Finitos (FEM), Mecânica da Fratura e Mecânica dos Sólidos",
+    "url_validacao": "https://www.pgeciv.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Luciano Rodrigues Ornelas de Lima",
+    "email_institucional": "luciano@pgeciv.uerj.br",
+    "cargo_funcao": "Professor Associado / Coordenador do PGECIV",
+    "setor_departamento_campus": "FEN / Depto. de Engenharia Civil e Estruturas (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Estruturas Metalicas e Mistas (LEMM / PGECIV)",
+    "area_especializacao_tecnica": "Estruturas de Aço e Mistas, Elementos Finitos (FEA), Análise Numérica Não-Linear de Estruturas",
+    "url_validacao": "https://www.pgeciv.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Pedro Colmar Goncalves da Silva Vellasco",
+    "email_institucional": "vellasco@pgeciv.uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador em Estruturas e Inteligência Artificial",
+    "setor_departamento_campus": "FEN / Depto. de Engenharia Civil e Estruturas (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Estruturas Computacionais e Redes Neurais",
+    "area_especializacao_tecnica": "Otimização Estrutural, Redes Neurais Inteligentes, Elementos Finitos e Sistemas Estruturais Avançados",
+    "url_validacao": "https://www.pgeciv.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Antonio Jose da Silva Neto",
+    "email_institucional": "ajsneto@iprj.uerj.br",
+    "cargo_funcao": "Professor Titular / Líder do PPGMC (CAPES 6) / Pesquisador 1A CNPq",
+    "setor_departamento_campus": "IPRJ / DEMEC - Depto. de Engenharia Mecânica (Campus Nova Friburgo)",
+    "laboratorio_grupo_pesquisa": "LABTRAN - Laboratório de Modelagem Multiescala e Transporte de Partículas / Supercomputador Escola de Sagres",
+    "area_especializacao_tecnica": "Problemas Inversos, Termofluidodinâmica, Transferência de Calor por Radiação/Condução, Métodos Numéricos, Algoritmos de Otimização e HPC",
+    "url_validacao": "https://www.iprj.uerj.br/antonio-jose-da-silva-neto/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Diego Campos Knupp",
+    "email_institucional": "knupp@iprj.uerj.br",
+    "cargo_funcao": "Professor Associado / Pesquisador em Modelagem Computacional",
+    "setor_departamento_campus": "IPRJ / DEMEC - Depto. de Engenharia Mecânica (Campus Nova Friburgo)",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC - Laboratório de Modelagem Multiescala",
+    "area_especializacao_tecnica": "Transferência de Calor e Massa, Problemas Inversos, Métodos de Expansão em Autofunções Transformadas (CIMT/CITT) e CFD",
+    "url_validacao": "https://www.iprj.uerj.br/diego-campos-knupp/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Helio Pedro Amaral Souto",
+    "email_institucional": "helio@iprj.uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador em Meios Porosos",
+    "setor_departamento_campus": "IPRJ / DMC - Depto. de Modelagem Computacional (Campus Nova Friburgo)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Escoamento em Meios Porosos / PPGMC",
+    "area_especializacao_tecnica": "Escoamento em Meios Porosos, Mecânica dos Fluidos Computacional (CFD), Método de Boltzmann em Rede (LBM) e Reologia",
+    "url_validacao": "https://www.iprj.uerj.br/helio-pedro-amaral-souto/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Leonardo Tavares Stutz",
+    "email_institucional": "stutz@iprj.uerj.br",
+    "cargo_funcao": "Professor Associado / Pesquisador em Dinâmica e Acústica",
+    "setor_departamento_campus": "IPRJ / DEMEC - Depto. de Engenharia Mecânica (Campus Nova Friburgo)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Controle Estrutural e Acústica / PPGMC",
+    "area_especializacao_tecnica": "Vibrações Mecânicas, Controle Ativo de Estruturas, Acústica Computacional, Piezoeletricidade e Otimização Robusta",
+    "url_validacao": "https://www.iprj.uerj.br/leonardo-tavares-stutz/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Germano Amaral Monerat",
+    "email_institucional": "monerat@iprj.uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador em Física Computacional e HPC",
+    "setor_departamento_campus": "IPRJ / DMC - Depto. de Modelagem Computacional (Campus Nova Friburgo)",
+    "laboratorio_grupo_pesquisa": "Supercomputador Escola de Sagres / Laboratório de Física Computacional",
+    "area_especializacao_tecnica": "Computação de Alto Desempenho (HPC), Métodos Numéricos, Física-Matemática Computacional e Simulação em Paralelo",
+    "url_validacao": "https://www.iprj.uerj.br/germano-amaral-monerat/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Anderson Amendoeira Namen",
+    "email_institucional": "namen@iprj.uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador em Inteligência Artificial e Dados",
+    "setor_departamento_campus": "IPRJ / DMC - Depto. de Modelagem Computacional (Campus Nova Friburgo)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Inteligência Computacional e Mineração de Dados (LICMD)",
+    "area_especializacao_tecnica": "Inteligência Artificial, Machine Learning, Mineração de Dados Aplicada à Engenharia e Tomada de Decisão",
+    "url_validacao": "https://www.iprj.uerj.br/anderson-amendoeira-namen/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Gustavo Barbosa Libotte",
+    "email_institucional": "glibotte@iprj.uerj.br",
+    "cargo_funcao": "Professor Adjunto / Pesquisador em Otimização",
+    "setor_departamento_campus": "IPRJ / DMC - Depto. de Modelagem Computacional (Campus Nova Friburgo)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Otimização e Métodos Estocásticos / PPGMC",
+    "area_especializacao_tecnica": "Otimização Metaheurística, Algoritmos Genéticos, Problemas Inversos em Engenharia e Modelagem Computacional",
+    "url_validacao": "https://www.iprj.uerj.br/gustavo-barbosa-libotte/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Luiz Alberto da Silva Abreu",
+    "email_institucional": "abreu@iprj.uerj.br",
+    "cargo_funcao": "Professor Associado / Pesquisador em Mecânica Continuum",
+    "setor_departamento_campus": "IPRJ / DEMEC - Depto. de Engenharia Mecânica (Campus Nova Friburgo)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Mecânica dos Sólidos / PPGMC",
+    "area_especializacao_tecnica": "Mecânica dos Sólidos, Elementos Finitos (FEA), Termoelasticidade e Resposta Dinâmica de Estruturas",
+    "url_validacao": "https://www.iprj.uerj.br/luiz-alberto-da-silva-abreu/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Julio Cesar Guimaraes Tedesco",
+    "email_institucional": "jtedesco@iprj.uerj.br",
+    "cargo_funcao": "Professor Associado / Pesquisador em Termociências",
+    "setor_departamento_campus": "IPRJ / DEMEC - Depto. de Engenharia Mecânica (Campus Nova Friburgo)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Fenômenos de Transporte / PPGMC",
+    "area_especializacao_tecnica": "Termofluidodinâmica Computacional (CFD), Troca Térmica Convectiva, Combustão e Energias Renováveis",
+    "url_validacao": "https://www.iprj.uerj.br/julio-cesar-guimaraes-tedesco/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Ricardo Fabbri",
+    "email_institucional": "rfabbri@iprj.uerj.br",
+    "cargo_funcao": "Professor Associado / Pesquisador em Visão Computacional",
+    "setor_departamento_campus": "IPRJ / DMC - Depto. de Modelagem Computacional (Campus Nova Friburgo)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Visão Computacional e Geometria Diferencial",
+    "area_especializacao_tecnica": "Visão Computacional, Reconstrução 3D, Geometria Computacional, Processamento de Imagens e Inteligência Artificial",
+    "url_validacao": "https://www.iprj.uerj.br/ricardo-fabbri/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Joel Sanchez Dominguez",
+    "email_institucional": "joel@iprj.uerj.br",
+    "cargo_funcao": "Professor Associado / Pesquisador em Fenômenos de Transporte",
+    "setor_departamento_campus": "IPRJ / DEMEC - Depto. de Engenharia Mecânica (Campus Nova Friburgo)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Reologia e Escoamentos Complexos",
+    "area_especializacao_tecnica": "CFD, Reologia de Fluidos Não-Newtonianos, Escoamentos Multifásicos e Termofluidodinâmica Computacional",
+    "url_validacao": "https://www.iprj.uerj.br/joel-sanchez-dominguez/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Alexandre Furtado Ferreira",
+    "email_institucional": "furtado@fat.uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador em Materiais e Manufatura",
+    "setor_departamento_campus": "FAT / DME - Depto. de Mecânica e Energia (Campus Resende)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Polímeros, Compósitos e Transformação de Materiais",
+    "area_especializacao_tecnica": "Solidificação de Metais, Campo de Fase (Phase-field), Simulação Microestrutural, Ligas Metálicas e Materiais Compósitos",
+    "url_validacao": "https://www.fat.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Jorge Luis de Paiva Rosa",
+    "email_institucional": "jrosa@fat.uerj.br",
+    "cargo_funcao": "Professor Associado / Pesquisador em Processos Industriais",
+    "setor_departamento_campus": "FAT / DENP - Depto. de Engenharia de Produção (Campus Resende)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Hidráulica, Pneumática e Motores / Processos Industriais",
+    "area_especializacao_tecnica": "Manufatura Industrial, Processos de Usinagem, Hidráulica e Pneumática Industrial, Automação de Sistemas Produtivos",
+    "url_validacao": "https://www.fat.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Profa. Dra. Luciana Cristina Soto de Covani",
+    "email_institucional": "luciana.covani@fat.uerj.br",
+    "cargo_funcao": "Professora Associada / Pesquisadora em Química Ambiental e Polímeros",
+    "setor_departamento_campus": "FAT / DEQA - Depto. de Química e Ambiental (Campus Resende)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Materiais e Polímeros Industriais",
+    "area_especializacao_tecnica": "Engenharia de Materiais, Caracterização de Polímeros e Compósitos, Degradação Térmica e Processamento Químico",
+    "url_validacao": "https://www.fat.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Carlos Eduardo de Oliveira",
+    "email_institucional": "carlos.oliveira@fat.uerj.br",
+    "cargo_funcao": "Professor Adjunto / Pesquisador em Mecânica dos Fluidos e Energia",
+    "setor_departamento_campus": "FAT / DME - Depto. de Mecânica e Energia (Campus Resende)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Termofluidos e Sistemas de Energia",
+    "area_especializacao_tecnica": "Sistemas Térmicos e Fluidodinâmicos, Máquinas de Fluxo, Motores de Combustão Interna e Simulação Térmica",
+    "url_validacao": "https://www.fat.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Paulo Roberto de Oliveira",
+    "email_institucional": "poliveira@ime.uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador em Otimização e Métodos Numéricos",
+    "setor_departamento_campus": "IME / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Modelagem Matemática e Computação Científica",
+    "area_especializacao_tecnica": "Otimização Contínua, Programação Matemática, Algoritmos Numéricos Avançados e Computação Científica",
+    "url_validacao": "https://www.ime.uerj.br/professores/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Ricardo Choren Noya",
+    "email_institucional": "choren@ime.uerj.br",
+    "cargo_funcao": "Professor Titular / Pesquisador em Engenharia de Software e IA",
+    "setor_departamento_campus": "IME / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia de Software e Sistemas Inteligentes",
+    "area_especializacao_tecnica": "Engenharia de Software, Sistemas Multiagente, Aprendizado de Máquina, Inteligência Artificial e Arquiteturas Distribuídas",
+    "url_validacao": "https://www.ime.uerj.br/professores/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Profa. Dra. Patricia Nunes da Silva",
+    "email_institucional": "patricia.nunes@ime.uerj.br",
+    "cargo_funcao": "Professora Associada / Pesquisadora em Análise Numérica e Analytics",
+    "setor_departamento_campus": "IME / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Computação de Alto Desempenho e Analytics (LAD-IME)",
+    "area_especializacao_tecnica": "Métodos Numéricos para Equações Diferenciais, Análise de Dados, IA e Computação de Alto Desempenho (HPC)",
+    "url_validacao": "https://www.ime.uerj.br/2025/12/protagonismo-feminino-historias-que-inspiram-com-a-profa-patricia-nunes-da-silva/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Profa. Dra. Liliana Jurado",
+    "email_institucional": "liliana.jurado@ime.uerj.br",
+    "cargo_funcao": "Professora Associada / Pesquisadora em Estatística Aplicada e IA",
+    "setor_departamento_campus": "IME / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais (Campus Maracanã)",
+    "laboratorio_grupo_pesquisa": "Laboratório de Estatística Computacional e Aprendizado Científico",
+    "area_especializacao_tecnica": "Estatística Computacional, Modelos Preditivos, Aprendizado de Máquina e Simulação de Monte Carlo",
+    "url_validacao": "https://www.ime.uerj.br/2025/11/protagonismo-feminino-historias-que-inspiram-com-a-profa-liliana-jurado/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Prof. Dr. Marinilson Porto Alves",
+    "email_institucional": "inovuerj@uerj.br",
+    "cargo_funcao": "Diretor da InovUerj / Coordenador Geral de Inovação",
+    "setor_departamento_campus": "InovUerj - Diretoria de Inovação (DEPINOVA / PR2 UERJ)",
+    "laboratorio_grupo_pesquisa": "Escritório de Propriedade Intelectual (EPI) e Transferência de Tecnologia",
+    "area_especializacao_tecnica": "Gestão de Inovação Tecnológica, Propriedade Intelectual, Transferência de Tecnologia, Parcerias Universidade-Empresa e Incubação de Startups",
+    "url_validacao": "https://www.pr2.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  },
+  {
+    "nome_completo": "Secretaria Geral da InovUerj",
+    "email_institucional": "depinova@uerj.br",
+    "cargo_funcao": "Escritório de Projetos e Parcerias Tecnológicas",
+    "setor_departamento_campus": "InovUerj - Diretoria de Inovação (DEPINOVA / PR2 UERJ)",
+    "laboratorio_grupo_pesquisa": "Escritório de Projetos de R&D / Incubadora de Empresas da UERJ",
+    "area_especializacao_tecnica": "Projetos de P&D com a Indústria, Contratos de TT, Propriedade Intelectual e Ecossistema de Inovação",
+    "url_validacao": "https://www.pr2.uerj.br/",
+    "status_data_validacao": "Verificado em 28/02/2026"
+  }
+]
