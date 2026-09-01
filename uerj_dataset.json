@@ -1,0 +1,832 @@
+[
+  {
+    "nome": "ANDERSON AMENDOEIRA NAMEN",
+    "email": "aanamen@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/2182469523085517",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "ANTÔNIO JOSÉ DA SILVA NETO",
+    "email": "ajsneto@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/5148738006361781",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "BERNARDO SOTTO-MAIOR PERALVA",
+    "email": "bernardo@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/4425322010752919",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "CAMILA MARTINS SAPORETTI",
+    "email": "camila.saporetti@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/4862105931908699",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "DAIARA FERNANDES DE FARIA",
+    "email": "daiara@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "IA & Analytics",
+    "url_validacao": "https://lattes.cnpq.br/9401814864083219",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "DIEGO CAMPOS KNUPP",
+    "email": "diegoknupp@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/1743826010794846",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "FERNANDO CARVALHO DA SILVA",
+    "email": "fernando@con.ufrj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "http://lattes.cnpq.br/0229734734009338",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "GERMANO AMARAL MONERAT",
+    "email": "monerat@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/5031014907752547",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "GRAZIONE DE SOUZA BOY",
+    "email": "gsouza@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/7987813860992687",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "GUSTAVO BARBOSA LIBOTTE",
+    "email": "gustavolibotte@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/1939530661449967",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "HELIO MIGON",
+    "email": "migon@ufrj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "http://lattes.cnpq.br/7997248190492823",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "HELIO PEDRO AMARAL SOUTO",
+    "email": "helio@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/1999072996132654",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "HERMES ALVES FILHO",
+    "email": "halves@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/8509299951934973",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "IVAN NAPOLEÃO BASTOS",
+    "email": "inbastos@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/6725653281197187",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "JOAQUIM TEIXEIRA DE ASSIS",
+    "email": "joaquim@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/7307238902576135",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "JOEL SÁNCHEZ DOMÍNGUEZ",
+    "email": "jsdominguez@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/8822296976490321",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "JULIO CESAR GUIMARÃES TEDESCO",
+    "email": "tedesco@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "https://lattes.cnpq.br/8073005004386152",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "LEONARDO RODRIGUES DA COSTA MORAES",
+    "email": "lrcmoraes@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "http://lattes.cnpq.br/0059284776766872",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "LEONARDO TAVARES STUTZ",
+    "email": "ltstuz@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "http://lattes.cnpq.br/1627016864213973",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "LUIZ ALBERTO DA SILVA ABREU",
+    "email": "luiz.abreu@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "http://lattes.cnpq.br/2157391120883842",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "RICARDO FABBRI",
+    "email": "rfabbri@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "http://lattes.cnpq.br/5759364958802333",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "RICARDO CARVALHO DE BARROS",
+    "email": "ricardob@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "http://lattes.cnpq.br/2908589410457132",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "ROBERTO PINHEIRO DOMINGOS",
+    "email": "roberto.pinheiro@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo / PPGMC",
+    "laboratorio_grupo": "LABTRAN / IPRJ",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "http://lattes.cnpq.br/0109837868064895",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Norberto Mangiavacchi",
+    "email": "norberto@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "GESAR (Grupo de Simulação em Engenharia e Ciências Ambientais)",
+    "especializacao_tecnica": "CFD, Elementos Finitos, Termofluidodinâmica, IA & Analytics, HPC & Modelagem Numérica",
+    "url_validacao": "http://lattes.cnpq.br/4451111077660870",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "José da Rocha Miranda Pontes",
+    "email": "jose.pontes@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "GESAR (Grupo de Simulação em Engenharia e Ciências Ambientais)",
+    "especializacao_tecnica": "CFD, Elementos Finitos",
+    "url_validacao": "http://lattes.cnpq.br/1688381217398630",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Daniel J. N. M. Chalhub",
+    "email": "daniel.chalhub@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "GESAR (Grupo de Simulação em Engenharia e Ciências Ambientais)",
+    "especializacao_tecnica": "CFD, Termofluidodinâmica, IA & Analytics, HPC & Modelagem Numérica",
+    "url_validacao": "http://lattes.cnpq.br/9980274421161620",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Afrânio Sérgio Pinho dos Santos",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Carlos Alberto Filho Thompson Leite",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Carlos Alberto Pereira Correia",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "IA & Analytics",
+    "url_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Cesar Tavares de Araújo",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Manufatura Aditiva, Otimização de Processos",
+    "url_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Hélio Marques Kohler",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Modelagem Computacional e Métodos Numéricos",
+    "url_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "João de Tarso Pallottino",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Manufatura Aditiva, Otimização de Processos",
+    "url_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Antonio Marinho Junior",
+    "email": "marinho@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/3144384203069939",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Carlos Alberto Biolchini da Silva",
+    "email": "cabiolchini@gmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "IA & Analytics",
+    "url_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Gilberto Menezes Moraes",
+    "email": "gilnew2018@gmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/8102183124422392",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Gustaf Aurelio Perez Akerman",
+    "email": "gustaf.akerman@gmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/2203340436940730",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "José Jorge Campello Rodrigues Pereira",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/3676727153069118",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Manuel Augusto",
+    "email": "mgusto2004@yahoo.com.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/0149697648243678",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Profa. Maria Eugênia De Las Mercedes Mosconi de Gouvea",
+    "email": "mariaeugenia@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/1183997029071564",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Renato de Oliveira Rocha",
+    "email": "renato.mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/439327894715919",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Sady Castor Sobrinho",
+    "email": "scastor@terra.com.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/4137040830782791",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Alberto Franco de Sá Santoro",
+    "email": "albsantoro@gmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/2474284374033405",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Rogério Martins Saldanha da Gama",
+    "email": "rogerio.gama@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/5725634441963180",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Profa. Mila Rosendahl-Avelino",
+    "email": "mila@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Termofluidodinâmica, IA & Analytics, HPC & Modelagem Numérica",
+    "url_validacao": "http://lattes.cnpq.br/0853939479739439",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "José Roberto Moraes d'Almeida",
+    "email": "dalmeida@puc-rio.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/1672274202055214",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Carlos Cezar de La Plata Ruiz",
+    "email": "laplata@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/1170435110559387",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Luiz Mariano Paes de Carvalho Filho",
+    "email": "luizmc@ime.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/1722453671104980",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "José Carlos Vilar Amigo",
+    "email": "jc.amigo@hotmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/4786875450862703",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "José Brant de Campos",
+    "email": "jose.brant@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/5147723432630786",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Gustavo Rabello dos Anjos",
+    "email": "gustavo.rabello@mecanica.coppe.ufrj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "CFD, Elementos Finitos, Termofluidodinâmica, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/2430893976345647",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Profa. Suzana Bottega Peripolli",
+    "email": "speripolli@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/2498487966132931",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "José Guilherme Santos da Silva",
+    "email": "jgss@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics, HPC & Modelagem Numérica",
+    "url_validacao": "http://lattes.cnpq.br/4422797300106230",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Profa. Marilia Garcia Diniz",
+    "email": "mgarciadiniz@gmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/6597447489234947",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Sérgio Barros da Cunha",
+    "email": "sergio.cunha@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/5164363680437460",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "José Geraldo Telles Ribeiro",
+    "email": "telles@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/0122316438902122",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Manoel Antonio da Fonseca Costa Filho",
+    "email": "costafh@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Termofluidodinâmica, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/3375340063572734",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Profa. Cristiane Oliveira de Faria",
+    "email": "cofaria@ime.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics, HPC & Modelagem Numérica",
+    "url_validacao": "http://lattes.cnpq.br/1183201737914250",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Francisco José da Cunha Pires Soeiro",
+    "email": "francisco.soeiro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/8690926504635230",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Eduardo Dias Corrêa",
+    "email": "eduardo.correa@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/7840544328250109",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Carlos Antonio de Moura",
+    "email": "demoura@ime.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "CFD, Elementos Finitos, Termofluidodinâmica, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/7810980300080088",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Rodrigo Felix de Araujo Cardoso",
+    "email": "rodrigo.felix@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/4812908341887388",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Americo Barbosa da Cunha Junior",
+    "email": "americo.cunha@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/5659403706694491",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Pedro Soucasaux Pires Garcia",
+    "email": "pedro.garcia@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/2223279882012057",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Eustáquio de Souza Baêta Júnior",
+    "email": "eustaquio.baeta@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Termofluidodinâmica, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/0178496322650410",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Gil Roberto Vieira Pinheiro",
+    "email": "gilpinheiro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/0099103959798593",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Fábio Gatamorta",
+    "email": "fabio.gatamorta@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/5340012274976677",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "André Rocha Pimenta",
+    "email": "andre.pimenta@ifrj.edu.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "https://lattes.cnpq.br/2962103182860488",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Daniel José Nahid Mansur Chalhub",
+    "email": "daniel.chalhub@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "CFD, Termofluidodinâmica, IA & Analytics, HPC & Modelagem Numérica",
+    "url_validacao": "http://lattes.cnpq.br/9980274421161620",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Profa. Sarah Silveira Mendes",
+    "email": "mendes.sarah@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, Manufatura Aditiva, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/3201767059217794",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Douglas Monteiro Andrade",
+    "email": "douglas.andrade@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "CFD, Elementos Finitos, Termofluidodinâmica, Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/0533442938115815",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Robert Jäckel",
+    "email": "robert.jaeckel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "CFD, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/8702041223970357",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Profa. Luz Elena Peñaranda Chenche",
+    "email": "elena.chenche@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Otimização de Processos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/9452302963079638",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Bernardo Feijó Junqueira",
+    "email": "bernardo.junqueira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/2024373552275252",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Profa. Carolina Seixas Moreira",
+    "email": "carolina.moreira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "Elementos Finitos, IA & Analytics",
+    "url_validacao": "http://lattes.cnpq.br/7316893375138716",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Profa. Rachel Manhães de Lucena",
+    "email": "rachel.lucena@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao_tecnica": "CFD, Elementos Finitos, IA & Analytics, HPC & Modelagem Numérica",
+    "url_validacao": "http://lattes.cnpq.br/9348327979369533",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Lisandro Lovisolo",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Processamento de Sinais e Automação",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, IA & Analytics, Processamento de Sinais",
+    "url_validacao": "https://www.eng.uerj.br",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Carlos Eduardo da Silva",
+    "email": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEPRO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Otimização e Logística",
+    "especializacao_tecnica": "Otimização de Processos, Pesquisa Operacional, Engenharia de Produção",
+    "url_validacao": "https://www.eng.uerj.br",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Fatima Maria Zanon Zotin",
+    "email": "deq@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEQ - Maracanã",
+    "laboratorio_grupo": "Laboratório de Fenômenos Interfaciais e Termodinâmica (LaFIT)",
+    "especializacao_tecnica": "Termodinâmica, Simulação de Reatores, Processos Químicos",
+    "url_validacao": "https://www.eng.uerj.br",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Luis Fernando Campos Ramos",
+    "email": "civil@eng.uerj.br",
+    "setor_departamento_campus": "FEN/Civil - Maracanã",
+    "laboratorio_grupo": "Laboratório de Mecânica de Estruturas e Sólidos (LMES)",
+    "especializacao_tecnica": "Elementos Finitos, Mecânica dos Sólidos, Análise Estrutural",
+    "url_validacao": "https://www.eng.uerj.br",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Luiz Augusto da Silva Ferreira",
+    "email": "secretaria@fat.uerj.br",
+    "setor_departamento_campus": "FAT - Resende / DME",
+    "laboratorio_grupo": "Laboratório de Hidráulica, Pneumática e Motores",
+    "especializacao_tecnica": "Manufatura, Hidráulica e Pneumática, Motores de Combustão",
+    "url_validacao": "http://www.fat.uerj.br/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Maria das Graças da Silva Valenzuela",
+    "email": "direcao@fat.uerj.br",
+    "setor_departamento_campus": "FAT - Resende / DEQA",
+    "laboratorio_grupo": "Laboratório de Polímeros e Compósitos",
+    "especializacao_tecnica": "Polímeros, Compósitos, Caracterização de Materiais",
+    "url_validacao": "http://www.fat.uerj.br/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Gustavo Benitez Alvarez",
+    "email": "compmat@ime.uerj.br",
+    "setor_departamento_campus": "IME - Maracanã / PPG-COMPMAT",
+    "laboratorio_grupo": "LAMMAC (Laboratório de Modelagem Matemática e Computacional)",
+    "especializacao_tecnica": "IA & Analytics, HPC & Modelagem Numérica, Otimização de Processos",
+    "url_validacao": "http://www.ime.uerj.br/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  },
+  {
+    "nome": "Marinilza Bruno de Carvalho",
+    "email": "inovuerj@uerj.br",
+    "setor_departamento_campus": "InovUerj / DEPINOVA - Maracanã",
+    "laboratorio_grupo": "Diretoria de Inovação UERJ",
+    "especializacao_tecnica": "Gestão da Inovação, Propriedade Intelectual, Parcerias Universidade-Empresa",
+    "url_validacao": "https://www.pr2.uerj.br/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-09-01"
+  }
+]
