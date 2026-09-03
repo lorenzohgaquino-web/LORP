@@ -1,0 +1,2902 @@
+[
+  {
+    "name": "Fernando Rodrigues Trindade Ferreira",
+    "email": "secuerjresende@fat.uerj.br",
+    "sector": "FAT/DENP - Resende",
+    "lab": "Laboratório de Hidráulica, Pneumática e Motores (FAT)",
+    "specialization": "Sistemas Hidráulicos e Pneumáticos, Motores de Combustão, Otimização Industrial",
+    "source": "https://www.fat.uerj.br/curso/engenharia-de-producao/",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marisa Cristina Guimarães Rocha",
+    "email": "secuerjresende@fat.uerj.br",
+    "sector": "FAT/DEQA - Resende",
+    "lab": "Laboratório de Polímeros e Compósitos (FAT)",
+    "specialization": "Processamento de Polímeros, Reologia & Compósitos Industriais",
+    "source": "https://www.fat.uerj.br/curso/engenharia-quimica/",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Eduardo Martins Sampaio",
+    "email": "secuerjresende@fat.uerj.br",
+    "sector": "FAT/DME - Resende",
+    "lab": "Laboratório de Materiais e Processos (FAT)",
+    "specialization": "Materiais, Polímeros, Compósitos & Ensaios Mecânicos",
+    "source": "https://www.fat.uerj.br/curso/engenharia-mecanica/",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Alan José Salomão Graça",
+    "email": "alanjsg@gmail.com",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/9156696694234978",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Amauri Ribeiro Destri",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/1",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Andrea Galudht Santacruz Jaramillo",
+    "email": "andrea.jaramillo@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/9,58756385120165E+015",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Antonio Vieira Martins",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/18",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Arivaldo de Oliveira",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/102",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Camillo José Martins Gomes",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/116",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carlos Henrique Oliveira da Rocha",
+    "email": "carlos.henrique.oliveira.rocha@gmail.com",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/309",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Celsio de Oliveira Moreira",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/19",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Gilberto Pessanha Ribeiro",
+    "email": "gilberto.pessanha@gmail.com",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/135",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ivan Gomes Guterres",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/21",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Joil Rafael Portela",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/353",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Jorge Luis Nunes e Silva Brito",
+    "email": "jsilvabr@gmail.com",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/149",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José Carlos Penna de Vasconcellos",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/152",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José Domingues Leitão",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/23",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José da Silveira Guimarães",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/22",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "João Bosco de Azevedo",
+    "email": "joao.azevedo@ibge.gov.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "https://lattes.cnpq.br/6406175595318501",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Julia Celia Mercedes Strauch",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://www.eng.uerj.br/prof/154",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Leonardo Campos Inocencio",
+    "email": "leonardo.inocencio@uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/56041582542136",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luiz Carlos Teixeira Coelho Filho",
+    "email": "luiz.coelho@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/6920722851435707",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luiz Henrique Guimarães Castiglione",
+    "email": "lhgc57@hotmail.com",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/173",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luiz Paulo Souto Fortes",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://www.eng.uerj.br/prof/236",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luís Antonio de Andrade",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/3006696758574303",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Nélson Cesar de Almeida",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/24",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Samir de Souza Oliveira Alves",
+    "email": "samir.alves@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "https://lattes.cnpq.br/450618032068809",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Sergio Orlando Antoun Netto",
+    "email": "sergio.uerj@gmail.com",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://www.eng.uerj.br/prof/306",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Íbis da Silva Vianna",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/20",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Íris Pereira Escobar",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/CARTO",
+    "lab": "Laboratório / Grupo do FEN/CARTO",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/230",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ana Cristina Castro Sieira",
+    "email": "sieira@uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Estruturas, Mecânica dos Sólidos & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/8653261732041736",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Andre Tenchini da Silva",
+    "email": "andretsilva@gmail.com",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos",
+    "source": "https://lattes.cnpq.br/7036280752466413",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Armando Prestes de Menezes Filho",
+    "email": "armandopmf@yahoo.com.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "https://lattes.cnpq.br/2437835320552168",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carla Maria de Medeiros Pirá",
+    "email": "deciv@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Estruturas, Mecânica dos Sólidos & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/62",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carlos Henrique Saraiva Raposo",
+    "email": "deciv@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Estruturas, Mecânica dos Sólidos & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/118",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Celina Aída Bittencourt Schmidt",
+    "email": "deciv@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Estruturas, Mecânica dos Sólidos & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/53",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Denise Maria Soares Gerscovich",
+    "email": "deniseg@uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Estruturas, Mecânica dos Sólidos & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/123",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Evandro Porto Duarte",
+    "email": "deciv@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Estruturas, Mecânica dos Sólidos & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/252",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Fernando Paullo Muñoz",
+    "email": "fernando.paullo@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Otimização de Processos & Manufatura | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/8698432496607695",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Flávia Silva dos Santos",
+    "email": "flavia.santos@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Estruturas, Mecânica dos Sólidos & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/2164626243913337",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José Martinho de Azevedo Rodrigues",
+    "email": "deciv@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Estruturas, Mecânica dos Sólidos & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/235",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luciano Rodrigues Ornelas de Lima",
+    "email": "luciano@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://lattes.cnpq.br/2151919861612154",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luiz Eduardo Barata Cardoso",
+    "email": "deciv@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "https://lattes.cnpq.br/1127795487797859",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Lúcia Schmidt de Andrade Lima",
+    "email": "lucias@uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://www.eng.uerj.br/prof/182",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marcos Antônio da Silva",
+    "email": "marantonio2003rio@gmail.com",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos | Otimização de Processos & Manufatura",
+    "source": "https://lattes.cnpq.br/7242868274473011",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marcus Peigas Pacheco",
+    "email": "deciv@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Estruturas, Mecânica dos Sólidos & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/193",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Maria Fernanda Figueiredo de Oliveira",
+    "email": "mffoliveira@gmail.com",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/5029738433988779",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Paulo Machado Massa",
+    "email": "deciv@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Estruturas, Mecânica dos Sólidos & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/209",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Pedro Colmar Gonçalves da Silva Vellasco",
+    "email": "vellasco@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "LMES - Laboratório de Mecânica de Estruturas e Sólidos",
+    "specialization": "Estruturas de Aço e Mistas, Elementos Finitos, Inteligência Computacional Aplicada",
+    "source": "https://lattes.cnpq.br/2438486171976888",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Regina Helena F. Souza",
+    "email": "deciv@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://www.eng.uerj.br/prof/255",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Sebastião Arthur Lopes de Andrade",
+    "email": "deciv@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://www.eng.uerj.br/prof/257",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Thomás Lima de Resende",
+    "email": "thomas@eng.uerj.br",
+    "sector": "FEN/Civil (Estruturas) - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/Civil (Estruturas) - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos",
+    "source": "https://lattes.cnpq.br/2304352538634880",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "André Luiz Carvalho Cardoso",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/310",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Bernardo Bandeira de Figueiredo",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/113",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Bruno Guida Gouveia",
+    "email": "bruno.gouveia@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "https://lattes.cnpq.br/5991925401759457",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Gilson Pereira de Andrade Lima",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://www.eng.uerj.br/prof/136",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Jose Alexandre Assed",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Otimização de Processos & Manufatura",
+    "source": "http://www.eng.uerj.br/prof/321",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Josué Setta",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/56",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José Alberto Gemal",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/8664012979858733",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José Alexandre Pimenta de Carvalho",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/151",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Julio de Albuquerque Gonzalez",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/243",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Kíssila Botelho Goliath",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos",
+    "source": "http://www.eng.uerj.br/prof/373",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luciana Alem Gennari",
+    "email": "luciana.gennari@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "https://lattes.cnpq.br/5155161212978793",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luiz Antonio Arnaud Mendes",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/289",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luiz Octávio de Souza Bueno de Oliveira",
+    "email": "luiz.oliveira@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos",
+    "source": "https://lattes.cnpq.br/331718909836268",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marina Bedeschi Dutra Almeida",
+    "email": "marina.almeida@eng.uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos",
+    "source": "https://lattes.cnpq.br/7371370030692181",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Roberto Bressan Nacif",
+    "email": "rnacif@uerj.br",
+    "sector": "FEN/DCCT",
+    "lab": "Laboratório / Grupo do FEN/DCCT",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/3707331317499100",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Arnaldo Vieira da Rocha Filho",
+    "email": "deel@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica",
+    "source": "http://www.eng.uerj.br/prof/112",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Bruno Feijó",
+    "email": "deel@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica",
+    "source": "https://lattes.cnpq.br/8249534204731109",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Cristiana Barbosa Bentes",
+    "email": "cristianabentes@gmail.com",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "IA / Modelagem Numérica & HPC",
+    "source": "http://www.eng.uerj.br/prof/121",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Felipe Cassemiro Ulrichsen",
+    "email": "felipeulrichsen@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica",
+    "source": "https://lattes.cnpq.br/8573554245584377",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Gabriel Cardoso de Carvalho",
+    "email": "gabrielc@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica",
+    "source": "https://lattes.cnpq.br/1415954961112300",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Henrique Goldfeld",
+    "email": "deel@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/0539747614964232",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Jorge Duarte Pires Valerio",
+    "email": "deel@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://www.eng.uerj.br/prof/155",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luigi Maciel Ribeiro",
+    "email": "luigi@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Otimização de Processos & Manufatura | Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/444",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marco Aurélio Cavalcanti Pacheco",
+    "email": "deel@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica",
+    "source": "http://www.eng.uerj.br/prof/192",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Margareth Simões Penello Meirelles",
+    "email": "maggie@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica",
+    "source": "http://www.eng.uerj.br/prof/194",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marley Maria B.r.vellasco",
+    "email": "deel@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/199",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Orlando Bernardo Filho",
+    "email": "deel@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/203",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Oscar Luiz Monteiro de Farias",
+    "email": "deel@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica",
+    "source": "http://www.eng.uerj.br/prof/293",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Pedro Paulo Thompson de Vasconcelos",
+    "email": "deel@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica",
+    "source": "http://www.eng.uerj.br/prof/295",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Rafaela Correia Brum",
+    "email": "rafaelabrum@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica",
+    "source": "https://lattes.cnpq.br/5658889695811247",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Raul Queiroz Feitosa",
+    "email": "deel@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/296",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Robert Mota Oliveira",
+    "email": "mota@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/3607512424559524",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Sheila Murgel Veloso",
+    "email": "deel@eng.uerj.br",
+    "sector": "FEN/DEEL - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/DEEL - Maracanã",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica",
+    "source": "http://www.eng.uerj.br/prof/266",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Andre Ribeiro de Oliveira",
+    "email": "andre-ribeiro@terra.com.br",
+    "sector": "FEN/DEIN",
+    "lab": "Laboratório / Grupo do FEN/DEIN",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/269",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Antonio Marcos Duarte Júnior",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DEIN",
+    "lab": "Laboratório / Grupo do FEN/DEIN",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/302",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carlos Alexandre da Silva Prado",
+    "email": "alexandrecasp@gmail.com",
+    "sector": "FEN/DEIN",
+    "lab": "Laboratório / Grupo do FEN/DEIN",
+    "specialization": "Otimização de Processos & Manufatura",
+    "source": "http://www.eng.uerj.br/prof/108",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Daniel Bouzon Nagem Assad",
+    "email": "danielassad@eng.uerj.br",
+    "sector": "FEN/DEIN",
+    "lab": "Laboratório / Grupo do FEN/DEIN",
+    "specialization": "Otimização de Processos & Manufatura",
+    "source": "https://lattes.cnpq.br/258423859812498",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Leonardo Mangia Rodrigues",
+    "email": "leonardo.mangia@eng.uerj.br",
+    "sector": "FEN/DEIN",
+    "lab": "Laboratório / Grupo do FEN/DEIN",
+    "specialization": "Otimização de Processos & Manufatura",
+    "source": "https://lattes.cnpq.br/4920094567804914",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Mauricio dos Santos Neves",
+    "email": "msn@bndes.gov.br",
+    "sector": "FEN/DEIN",
+    "lab": "Laboratório / Grupo do FEN/DEIN",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/200",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Patrícia Gomes Ferreira da Costa",
+    "email": "patricia.gomes@eng.uerj.br",
+    "sector": "FEN/DEIN",
+    "lab": "Laboratório / Grupo do FEN/DEIN",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/1846605454673278",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ricardo Miyashita",
+    "email": "ricardomiya@gmail.com.br",
+    "sector": "FEN/DEIN",
+    "lab": "Laboratório / Grupo do FEN/DEIN",
+    "specialization": "Otimização de Processos & Manufatura",
+    "source": "http://www.eng.uerj.br/prof/215",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Thales da Silveira Paradela",
+    "email": "thales@visar.com.br",
+    "sector": "FEN/DEIN",
+    "lab": "Laboratório / Grupo do FEN/DEIN",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Otimização de Processos & Manufatura",
+    "source": "http://www.eng.uerj.br/prof/51",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Thaís Spiegel",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DEIN",
+    "lab": "Laboratório / Grupo do FEN/DEIN",
+    "specialization": "Otimização de Processos & Manufatura",
+    "source": "http://www.eng.uerj.br/prof/301",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Valter de Assis Moreno Jr",
+    "email": "valter.moreno@eng.uerj.br",
+    "sector": "FEN/DEIN",
+    "lab": "Laboratório / Grupo do FEN/DEIN",
+    "specialization": "Otimização de Processos & Manufatura | Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/303",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Alena Torres Netto",
+    "email": "alenanetto@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/6574944043553517",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Alfredo Akira Ohnuma Júnior",
+    "email": "ik.lahac@gmail.com",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/276",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Bruna Peres Battemarco",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "CFD / Termofluidodinâmica",
+    "source": "https://lattes.cnpq.br/9109113821733927",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carlos Augusto Arentz Pereira",
+    "email": "arentz.uerj@gmail.com",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Otimização de Processos & Manufatura | Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/324",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Eduardo Monteiro Martins",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/2912118000820105",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Elisabeth Ritter",
+    "email": "ritteruerj@gmail.com",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://www.eng.uerj.br/prof/127",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Elmo Rodrigues da Silva",
+    "email": "elmorodrigues@yahoo.com.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/128",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Gandhi Giordano",
+    "email": "gandhi@tecma-tecnologia.com.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | Otimização de Processos & Manufatura | Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/137",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Glaucio Gualtieri Honorio",
+    "email": "glaucio.honorio@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/6692329545334546",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "João Alberto Ferreira",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://www.eng.uerj.br/prof/237",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Lia Cardoso Rocha Saraiva Teixeira",
+    "email": "liateixeira@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/4544219377550705",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luciana Fernandes Guimarães",
+    "email": "luciana.guimaraes@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/9,01847371204126E+015",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luciene Pimentel da Silv",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Otimização de Processos & Manufatura",
+    "source": "http://www.eng.uerj.br/prof/177",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marcelo Obraczka",
+    "email": "marcelobraczka@gmail.com",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/323",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marcia Marques Gomes",
+    "email": "marcia@marques.pro.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | Otimização de Processos & Manufatura",
+    "source": "http://www.eng.uerj.br/prof/191",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Nathalia Salles Vernin Barbosa",
+    "email": "nathalia.vernin@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos",
+    "source": "https://lattes.cnpq.br/2037042523024345",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Odir Clécio da Cruz Roque",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Otimização de Processos & Manufatura",
+    "source": "http://www.eng.uerj.br/prof/202",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Olavo Barbosa Filho",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | Otimização de Processos & Manufatura | Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/59",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Rafael Carvalho de Oliveira Santos",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/213",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Rizzieri Pedruzzi",
+    "email": "rpedruzzi@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/6249531050952111",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ronei de Almeida",
+    "email": "ronei@eq.ufrj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos | Otimização de Processos & Manufatura | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/2844710522370160",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Teófilo Carlos do Nascimento Monteiro",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "https://lattes.cnpq.br/6545571800246870",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Thereza Christina de Almeida Rosso",
+    "email": "rosso@uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "CFD / Termofluidodinâmica | IA / Modelagem Numérica & HPC",
+    "source": "http://www.eng.uerj.br/prof/226",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ubirajara Aluizio de Oliveira Mattos",
+    "email": "bira@uerj.br",
+    "sector": "FEN/DESMA",
+    "lab": "Laboratório / Grupo do FEN/DESMA",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/227",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Aluisio Alves de Melo Bento",
+    "email": "aluisio.uerj@gmail.com",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/1129596113585622",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Antônio Romeiro Sapienza",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/111",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Bernardo Severo da Silva Filho",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/337",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Bismarck Costa Lima",
+    "email": "bcl@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/2726367970767025",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Christian Fragoas Fernandez Rodrigues",
+    "email": "christianfragoas@gmail.com",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/7382051088046787",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Douglas Mota Dias",
+    "email": "douglas.dias@uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/3426085961007140",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Evandro Mendes da Silva",
+    "email": "evandrom@uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/130",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Fernando Lopes Cardoso",
+    "email": "fcardoso@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Otimização de Processos & Manufatura | IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/125107922833496",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Flávio Alencar do Rêgo Barros",
+    "email": "falencar@predialnet.com.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/244",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Frederico Celestino Pontes",
+    "email": "fredericocpontes@gmail.com",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/7718030579664663",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Gil Roberto Vieira Pinheiro",
+    "email": "gilpinheiro@petrobras.com.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Otimização de Processos & Manufatura | Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/138",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Hélio da Motta Filho",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/246",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ian Vilar Bastos",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Otimização de Processos & Manufatura | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/1044684809741817",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Joel Martins de Medeiros",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/233",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José Octávio Ribeiro Pinto Guimarães",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/247",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Lisandro Lovisolo",
+    "email": "lisandro@uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/175",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marcelo Gonçalves Rubinstein",
+    "email": "rubi@uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/190",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marco Aurélio Botelho da Silva",
+    "email": "marcoground@gmail.com",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/8166808280180129",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Michel Pompeu Tcheou",
+    "email": "mtcheou@uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/291",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Nadia Nedjah",
+    "email": "nadia@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "IA / Modelagem Numérica & HPC",
+    "source": "http://www.eng.uerj.br/prof/201",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Orlando Lima de Saboya Barros",
+    "email": "orlando@uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/249",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Paulo Sérgio Rodrigues Alonso",
+    "email": "alonso@petrobras.com.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | Otimização de Processos & Manufatura | Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/250",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Pedro Henrique Silva Coutinho",
+    "email": "coutinho.p92@gmail.com",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Otimização de Processos & Manufatura | IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/5272302377513795",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Thales Alfredo de Ávila Carneiro",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/225",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Tiago Roux de Oliveira",
+    "email": "tiagoroux@coep.ufrj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/2236381891580848",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Valmir dos Santos Nogueira Junior",
+    "email": "vsnjunior@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/8099468753944864",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Victor Hugo Pereira Rodrigues",
+    "email": "victor.rodrigues@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/9,14205031435397E+015",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Weber Figueiredo da Silva",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/DETEL",
+    "lab": "Laboratório / Grupo do FEN/DETEL",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/8335146764099283",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Alam Silva Menezes",
+    "email": "alam.menezes@uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/4694882173672359",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Antonio Guilherme Garcia Lima",
+    "email": "antoniolima@uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/299",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Bárbara Maria Oliveira Santos",
+    "email": "barbara.santos@eng.uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/1901610758715285",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carlos Aparecido Ferreira",
+    "email": "carlosaparecidoeng@gmail.com",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/331",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carlos Eduardo Leal",
+    "email": "ceduardo_leal@yahoo.com.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos",
+    "source": "http://www.eng.uerj.br/prof/117",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "David Martins Vieira",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/4323170330527273",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Fernando Jorge Monteiro Dias",
+    "email": "fernando.dias@eng.uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/254095993516255",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Glaysson de Mello Muller",
+    "email": "glayssonm@eng.uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Otimização de Processos & Manufatura",
+    "source": "https://lattes.cnpq.br/8074482794858646",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Gustavo Martins da Silva Nunes",
+    "email": "gustavo.nunes@eng.uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/2140603659004613",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "João Colucci Fragozo",
+    "email": "joaofragozo@terra.com.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/232",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Leny Medeiros Silva",
+    "email": "albertovieira@superig.com.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/263",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Leonardo Alfredo Forero Mendoza",
+    "email": "leofome@gmail.com",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "http://www.eng.uerj.br/prof/326",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Leonardo de Arruda Bitencourt",
+    "email": "leoxleo@gmail.com",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Otimização de Processos & Manufatura | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/1174378161368026",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luis Augusto Machado Andréa",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/178",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luis Chiganer",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/288",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luiz Artur Pecorelli Peres",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Otimização de Processos & Manufatura",
+    "source": "http://www.eng.uerj.br/prof/57",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Otto Wanner Ganvini Asencios",
+    "email": "ottowga@gmail.com",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/4799447412720303",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Paulo Eduardo Darski Rocha",
+    "email": "pauloedurocha@gmail.com",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/4436802802639988",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Paulo Gomes",
+    "email": "pgomes@ons.org.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/208",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Pedro Henrique Pereira",
+    "email": "pedro.pereira@eng.uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos",
+    "source": "https://lattes.cnpq.br/3188884115548897",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ronaldo Bosignoli",
+    "email": "rbduzentos@gmail.com",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/2238101805015208",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Rômulo de Sales G. Filho",
+    "email": "romulo.goncalves@light.com.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/222",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Tiago Motta Quirino",
+    "email": "tiago.quirino@eng.uerj.br",
+    "sector": "FEN/ELE",
+    "lab": "Laboratório / Grupo do FEN/ELE",
+    "specialization": "Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/5296174954782128",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ana Teresa Spinola Bento de Faria",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/FEN",
+    "lab": "Laboratório / Grupo do FEN/FEN",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/372",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Eduardo Barbosa Cordeiro",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/FEN",
+    "lab": "Laboratório / Grupo do FEN/FEN",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/357",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Isidro Pinto da Rocha Filho",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/FEN",
+    "lab": "Laboratório / Grupo do FEN/FEN",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/355",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "João Cordeiro da Graça Filho",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/FEN",
+    "lab": "Laboratório / Grupo do FEN/FEN",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/277",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Paschoal Villaboim Filho",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/FEN",
+    "lab": "Laboratório / Grupo do FEN/FEN",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/279",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Sydney M. G. dos Santos",
+    "email": "secretaria@eng.uerj.br",
+    "sector": "FEN/FEN",
+    "lab": "Laboratório / Grupo do FEN/FEN",
+    "specialization": "Engenharia Aplicada & Métodos Numéricos",
+    "source": "http://www.eng.uerj.br/prof/358",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Daniel Chalhub",
+    "email": "daniel.chalhub@eng.uerj.br",
+    "sector": "FEN/MECAN - GESAR Maracanã",
+    "lab": "FABLAB - Laboratório de Fabricação / GESAR",
+    "specialization": "Transferência de Calor e Massa, Manufatura Aditiva, Simulação Numérica, CFD",
+    "source": "http://lattes.cnpq.br/9980274421161620",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José da Rocha Pontes",
+    "email": "jose.pontes@uerj.br",
+    "sector": "FEN/MECAN - GESAR Maracanã",
+    "lab": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais",
+    "specialization": "Dinâmica dos Fluidos Computacional, Estabilidade Hidrodinâmica, Padrões Espaço-Temporais",
+    "source": "http://lattes.cnpq.br/1688381217398630",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Norberto Mangiavacchi",
+    "email": "norberto@uerj.br",
+    "sector": "FEN/MECAN - GESAR Maracanã",
+    "lab": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais",
+    "specialization": "CFD, Escoamentos Multifásicos, Elementos Finitos, Métodos Numéricos de Alta Ordem",
+    "source": "http://lattes.cnpq.br/4451111077660870",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Bernardo Feijó Junqueira",
+    "email": "bernardo.junqueira@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Otimização de Processos & Manufatura",
+    "source": "https://lattes.cnpq.br/2024373552275252",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carlos Alberto Fialho Thompson Leite",
+    "email": "mecan@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "CFD / Termofluidodinâmica | Otimização de Processos & Manufatura | IA / Modelagem Numérica & HPC",
+    "source": "http://www.eng.uerj.br/prof/286",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carlos Alberto Pereira Correia",
+    "email": "mecan@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Mecânica dos Sólidos, Fluidos & Fenômenos de Transporte",
+    "source": "http://www.eng.uerj.br/prof/64",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carolina Seixas Moreira",
+    "email": "carolina.moreira@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Mecânica dos Sólidos, Fluidos & Fenômenos de Transporte",
+    "source": "https://lattes.cnpq.br/7316893375138716",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Daniel José Nahid Mansur Chalhub",
+    "email": "mecan@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "CFD / Termofluidodinâmica | IA / Modelagem Numérica & HPC",
+    "source": "http://www.eng.uerj.br/prof/315",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Douglas Monteiro Andrade",
+    "email": "douglas.andrade@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "CFD / Termofluidodinâmica | Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos | Otimização de Processos & Manufatura",
+    "source": "https://lattes.cnpq.br/533442938115815",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Eustáquio de Souza Baêta Júnior",
+    "email": "eustaquio.baeta@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos",
+    "source": "https://lattes.cnpq.br/178496322650410",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Francisco José da Cunha Pires Soeiro",
+    "email": "soeiro@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "LaCaM - Laboratório de Computação Aplicada à Engenharia Mecânica",
+    "specialization": "Elementos Finitos, Métodos Numéricos, Mecânica das Estruturas e Sólidos",
+    "source": "http://lattes.cnpq.br/2182469523085517",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Gustavo Rabello dos Anjos",
+    "email": "mecan@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "CFD / Termofluidodinâmica | Termodinâmica / Materiais & Simulação de Processos",
+    "source": "http://www.eng.uerj.br/prof/314",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José Carlos Vilar Amigo",
+    "email": "mecan@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Mecânica dos Sólidos, Fluidos & Fenômenos de Transporte",
+    "source": "http://www.eng.uerj.br/prof/157",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José Geraldo Telles Ribeiro",
+    "email": "telles@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/122316438902122",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José Jorge Campello Rodrigues Pereira",
+    "email": "mecan@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Mecânica dos Sólidos, Fluidos & Fenômenos de Transporte",
+    "source": "http://www.eng.uerj.br/prof/161",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José Roberto Moraes Dalmeida",
+    "email": "dalmeida@puc-rio.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos",
+    "source": "http://www.eng.uerj.br/prof/163",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "João de Tarso Pallottino",
+    "email": "mecan@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Mecânica dos Sólidos, Fluidos & Fenômenos de Transporte",
+    "source": "http://www.eng.uerj.br/prof/63",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Leopoldo Eurico Gonçalves Bastos",
+    "email": "mecan@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Mecânica dos Sólidos, Fluidos & Fenômenos de Transporte",
+    "source": "https://lattes.cnpq.br/0596410148228433",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luz Elena Penaranda Chenche",
+    "email": "elena.chenche@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/9,45230296307964E+015",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Manuel Augusto",
+    "email": "mecan@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Mecânica dos Sólidos, Fluidos & Fenômenos de Transporte",
+    "source": "http://www.eng.uerj.br/prof/189",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Mila Rosendahl Avelino",
+    "email": "c_cruz@yahoo.com.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "CFD / Termofluidodinâmica",
+    "source": "http://www.eng.uerj.br/prof/238",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Pedro Soucasaux Pires Garcia",
+    "email": "pedro.garcia@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos | Otimização de Processos & Manufatura",
+    "source": "https://lattes.cnpq.br/2223279882012057",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Renato de Oliveira Rocha",
+    "email": "renato@cepel.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "http://www.eng.uerj.br/prof/214",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Robert Jäckel",
+    "email": "robert.jaeckel@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "CFD / Termofluidodinâmica | Elementos Finitos / Análise Estrutural & Vibrações",
+    "source": "https://lattes.cnpq.br/8702041223970357",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Rodrigo Felx de Araujo Cardoso",
+    "email": "rfelix@cbpf.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos",
+    "source": "https://lattes.cnpq.br/4812908341887388",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Rogério Martins Saldanha da Gama",
+    "email": "rsgama@terra.com.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "CFD / Termofluidodinâmica",
+    "source": "http://www.eng.uerj.br/prof/219",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Sady Castor Sobrinho",
+    "email": "mecan@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Mecânica dos Sólidos, Fluidos & Fenômenos de Transporte",
+    "source": "http://www.eng.uerj.br/prof/224",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Sarah Silveira Mendes",
+    "email": "sarah.mendes@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Mecânica dos Sólidos, Fluidos & Fenômenos de Transporte",
+    "source": "https://lattes.cnpq.br/3201767059217794",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Suzana Bottega Peripolli",
+    "email": "speripolli@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/2498487966132931",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Sérgio Barros da Cunha",
+    "email": "sergio.cunha@eng.uerj.br",
+    "sector": "FEN/MECAN - Maracanã",
+    "lab": "Laboratório / Grupo do FEN/MECAN - Maracanã",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/5164363680437460",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Alexandre",
+    "email": "sztajnbergalexszt@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/0403732822984772",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Alexandre da Costa",
+    "email": "senaasena@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/1836363748488436",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Americo Barbosa da Cunha",
+    "email": "junioramerico@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/5659403706694491",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carlos Antonio de",
+    "email": "mourademoura@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/7810980300080088",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Carlos Frederico Fragoso de Barros e",
+    "email": "vasconcelloscfredvasc@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/3909390599449995",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Cristiana",
+    "email": "bentescris@eng.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/5522815415073059",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Cristiane Oliveira de",
+    "email": "fariacofaria@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/1183201737914250",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Diana Sasaki",
+    "email": "nobregadiana.sasaki@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/3041110572471417",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Fabiano de Souza",
+    "email": "oliveirafabiano.oliveira@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/7554024807062103",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Gerson",
+    "email": "pechpech@uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/5958377565632407",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Gilson Alexandre Ostwald Pedro da",
+    "email": "costagilson.costa@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/1321820478036793",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Guilherme Lucio Abelha",
+    "email": "motaguimota@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/4657870977403568",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Igor Machado",
+    "email": "coelhoigor.machado@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/5298061910591710",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Jayme Luiz",
+    "email": "szwarcfiterjayme@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/2002515486942024",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Karla Tereza Figueiredo",
+    "email": "leitekarlafigueiredo@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/2076970816486817",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luerbio",
+    "email": "farialuerbio@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/3965328361563422",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luis Cristóvão de Moraes Sobrino",
+    "email": "pôrtoluis.cristovaoporto@gmail.com",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/8153025668900773",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marcelo Schots de",
+    "email": "oliveiraschots@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/8961950372465045",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Maria Clícia Stelling de",
+    "email": "castroclicia@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/6348480289055660",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Patricia Nunes da",
+    "email": "silvanunes@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/6298427146323001",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Paulo Eustaquio Duarte",
+    "email": "pintopauloedp@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/5413422509570085",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Regina Serrão",
+    "email": "lanzillottireginalanzillotti@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/9164335773757265",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ricardo Carvalho de",
+    "email": "barrosdickbarros.apple@gmail.com",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/2908589410457132",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Rosa Maria Esteves Moreira da",
+    "email": "costarcosta@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/1829333800490851",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Roseli Suzi",
+    "email": "wedemannroseli@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/5258150848273682",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Valmir Carneiro",
+    "email": "barbosavalmircbarbosa@gmail.com",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/4602221579308599",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Vera Maria Benjamim",
+    "email": "werneckvera@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/7535348349141535",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Vinicius Layter",
+    "email": "xavierviniciuslx@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/9683190447704675",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Zochil Gonzalez",
+    "email": "arenaszochil@ime.uerj.br",
+    "sector": "IME / PPG-COMPMAT - Maracanã",
+    "lab": "PPG-COMPMAT - Ciências Computacionais",
+    "specialization": "IA, Modelagem Computacional, HPC, Algoritmos, Análise Numérica",
+    "source": "http://lattes.cnpq.br/3177810629678519",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ana Cristina Fontes Moreira",
+    "email": "amoreira@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/3653572061551441",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Anderson Amendoeira Namen",
+    "email": "aanamen@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/2182469523085517",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Angelo Mondaini Calvão",
+    "email": "oangelo@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/5604807772579360",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Arthur Adeodato",
+    "email": "arthuradeodato@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/1930244152732337",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Bernardo Sotto-maior Peralva",
+    "email": "bernardo@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/4425322010752919",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Camila Martins Saporetti",
+    "email": "camila.saporetti@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/4862105931908699",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Daiara Fernandes de Faria",
+    "email": "daiara@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/9401814864083219",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Damiano da Silva Militão",
+    "email": "dmilitao@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/0888188783738720",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Diego Campos Knupp",
+    "email": "diegoknupp@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/1743826010794846",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Edgard Poiate Junior",
+    "email": "poiate@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/7548810114586352",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Enrique John Arias Chinga",
+    "email": "earias@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/4213143968851274",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Germano Amaral Monerat",
+    "email": "monerat@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/5031014907752547",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Grazione de Souza Boy",
+    "email": "gsouza@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "CFD / Termofluidodinâmica | Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/7987813860992687",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Guilherme de Melo Baptista Domingues",
+    "email": "domingues@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/3737857084552295",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Gustavo Barbosa Libotte",
+    "email": "gustavolibotte@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/1939530661449967",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Helio Pedro Amaral Souto",
+    "email": "helio@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/1999072996132654",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Helson Moreira da Costa",
+    "email": "hmcosta@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/8141875611393566",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Hermes Alves Filho",
+    "email": "halves@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/8509299951934973",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ivan Napoleão Bastos",
+    "email": "inbastos@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/6725653281197187",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Jhonny Oswaldo Huertas Flores",
+    "email": "jhonnyhf@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/1143140380347003",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Joaquim Teixeira de Assis",
+    "email": "joaquim@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/7307238902576135",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Joel Sanchez Dominguez",
+    "email": "jsdominguez@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/8822296976490321",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "José Humberto Zani",
+    "email": "zani@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/2072178311397599",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "João Flávio Vieira de Vasconcellos",
+    "email": "jflavio@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/9634798722030132",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Julio Cesar Guimarães Tedesco",
+    "email": "tedesco@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/8073005004386152",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Leandro de Amorim Ratamero",
+    "email": "lratamero@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/3047479199638738",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Leonardo Rodrigues da Costa Moraes",
+    "email": "lrcmoraes@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "http://lattes.cnpq.br/0059284776766872",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Leonardo Tavares Stutz",
+    "email": "ltstutz@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/1627016864213973",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Leticia dos Santos Aguilera",
+    "email": "leticia.aguilera@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/4630865510856546",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Leôncio Diógenes Tavares Câmara",
+    "email": "dcamara@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | Otimização de Processos & Manufatura | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/0608816393004565",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Livia Flavia Carletti Jatobá",
+    "email": "liviajatoba@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "CFD / Termofluidodinâmica | Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/6751377400609232",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Loena Marins do Couto",
+    "email": "loena@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/4944213325519789",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Lucas Venâncio Pires de Carvalho Lima",
+    "email": "lucaslima@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/5730724148619281",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luis César Rodríguez Aliaga",
+    "email": "aliaga@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "http://lattes.cnpq.br/6144169873340950",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Luiz Alberto da Silva Abreu",
+    "email": "luiz.abreu@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/2157391120883842",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Mayksoel Medeiros de Freitas",
+    "email": "mayksoel@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/3199715225291891",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Mônica Calixto de Andrade",
+    "email": "mcalixto@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | Otimização de Processos & Manufatura | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/4303756562067099",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Otávio Goldoni Quina de Almeida",
+    "email": "otavio@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/0370289703227389",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Rafael Barbosa Libotte",
+    "email": "rblibotte@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "http://lattes.cnpq.br/5608402457803882",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Rafael Serra Perez",
+    "email": "rperez@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/7818682007757332",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ricardo Fabbri",
+    "email": "rfabbri@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/5759364958802333",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Roberto Pinheiro Domingos",
+    "email": "roberto.pinheiro@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/0109837868064895",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Rodrigo Lamblet Mafort",
+    "email": "rodrigo.mafort@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/1901861620111067",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Silvia Mara da Costa Campos",
+    "email": "silviacampos@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC | Sistemas de Controle, Eletrônica & Automação",
+    "source": "https://lattes.cnpq.br/2142669271116040",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Solange Francisco do Nascimento",
+    "email": "solange@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Elementos Finitos / Análise Estrutural & Vibrações | Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/8370944748722096",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Sílvia Cristina Dias Pinto",
+    "email": "silvia.dias@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/4333940423066302",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ursula Andrea Barbara Verdugo Rohrer",
+    "email": "ursula@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/4955260930433371",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Verona Biancardi Aguiar",
+    "email": "verona@iprj.uerj.br",
+    "sector": "IPRJ - Nova Friburgo",
+    "lab": "Laboratório / Grupo do IPRJ - Nova Friburgo",
+    "specialization": "Termodinâmica / Materiais & Simulação de Processos | IA / Modelagem Numérica & HPC",
+    "source": "https://lattes.cnpq.br/6209504580928538",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Antônio José da Silva Neto",
+    "email": "ajsneto@iprj.uerj.br",
+    "sector": "IPRJ / PPGMC - Nova Friburgo",
+    "lab": "Supercomputador Escola de Sagres / LABTRAN",
+    "specialization": "Problemas Inversos, Transferência de Calor e Massa, Otimização, HPC & Supercomputação",
+    "source": "https://lattes.cnpq.br/5148738006361781",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Fernando Carvalho da Silva",
+    "email": "fernando@con.ufrj.br",
+    "sector": "IPRJ / PPGMC - Nova Friburgo",
+    "lab": "PPGMC - Modelagem Computacional",
+    "specialization": "Termofluidodinâmica, Meios Porosos, Dinâmica e Acústica, Métodos Numéricos",
+    "source": "http://lattes.cnpq.br/0229734734009338",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Helio Migon",
+    "email": "migon@ufrj.br",
+    "sector": "IPRJ / PPGMC - Nova Friburgo",
+    "lab": "PPGMC - Modelagem Computacional",
+    "specialization": "Termofluidodinâmica, Meios Porosos, Dinâmica e Acústica, Métodos Numéricos",
+    "source": "http://lattes.cnpq.br/7997248190492823",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Joel Sánchez Domínguez",
+    "email": "jsdominguez@iprj.uerj.br",
+    "sector": "IPRJ / PPGMC - Nova Friburgo",
+    "lab": "PPGMC - Modelagem Computacional",
+    "specialization": "Termofluidodinâmica, Meios Porosos, Dinâmica e Acústica, Métodos Numéricos",
+    "source": "https://lattes.cnpq.br/8822296976490321",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Ricardo Carvalho de Barros",
+    "email": "ricardob@iprj.uerj.br",
+    "sector": "IPRJ / PPGMC - Nova Friburgo",
+    "lab": "PPGMC - Modelagem Computacional",
+    "specialization": "Termofluidodinâmica, Meios Porosos, Dinâmica e Acústica, Métodos Numéricos",
+    "source": "http://lattes.cnpq.br/2908589410457132",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  },
+  {
+    "name": "Marinilza Bruno de Carvalho",
+    "email": "inovuerj@sr2.uerj.br",
+    "sector": "InovUerj / DEPINOVA - PR2",
+    "lab": "Diretoria de Inovação da UERJ (DEPINOVA / InovUerj)",
+    "specialization": "Gestão de Inovação, Propriedade Intelectual, Transferência de Tecnologia, Parcerias Universidade-Empresa",
+    "source": "https://www.pr2.uerj.br/?page_id=510",
+    "validation_status": "Verificado (Portal Oficial UERJ / Lattes)",
+    "access_date": "2026-03-04"
+  }
+]
