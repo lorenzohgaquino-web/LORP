@@ -106,4 +106,4 @@ Referência global em incubação tecnológica (premiado pela UBI Global). Geren
 ## 5. REGRAS DE CONFORMIDADE E RASTREABILIDADE (LGPD)
 1. **Rastreabilidade Total:** Cada e-mail consta de sua página pública departamental correspondente.
 2. **Ausência de Inferência:** Nenhum e-mail foi composto de forma estocástica ou dedutiva. Em casos de unidades administrativas fechadas, foram utilizados os e-mails formais da secretaria ou do órgão competente (ex: `ituc@puc-rio.br`, `genesis@puc-rio.br`).
-3. **Data do Levantamento:** 03/09/2026.
+3. **Data do Levantamento:** 08/09/2026.
