@@ -1,0 +1,2189 @@
+[
+  {
+    "name": "Adacto Benedicto Ottoni",
+    "email": "adacto@crea-rj.org.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/4117449053136293",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Bismarck Costa Lima",
+    "email": "bcl@eng.uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/2726367970767025",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Andrea Galudht Santacruz Jaramillo",
+    "email": "andrea.jaramillo@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/58756385120165",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Andre Tenchini Da Silva",
+    "email": "andretsilva@gmail.com",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/7036280752466413",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Andre Ribeiro De Oliveira",
+    "email": "andre-ribeiro@terra.com.br",
+    "department": "FEN/DEIN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/269",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Alena Torres Netto",
+    "email": "alenanetto@eng.uerj.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/6574944043553517",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Bernardo Feijó Junqueira",
+    "email": "bernardo.junqueira@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "http://lattes.cnpq.br/2024373552275252",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Antonio Marcos Duarte Júnior",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DEIN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/302",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Alexandre De Oliveira Dal Forno",
+    "email": "alexandre.dalforno@inteligtelecom.com.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/7085589592804598",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Bárbara Maria Oliveira Santos",
+    "email": "barbara.santos@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/1901610758715285",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Armando Prestes De Menezes Filho",
+    "email": "armandopmf@yahoo.com.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/2437835320552168",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ana Ghislane",
+    "email": "ana.vanelk@uerj.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "http://lattes.cnpq.br/5792883380687165",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Bernadete Ragoni Danziger",
+    "email": "brdanzig@uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/114",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Bruno Teixeira Lima",
+    "email": "brunolima.professor@gmail.com",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/2231835989303406",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ana Cristina Castro Sieira",
+    "email": "sieira@uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/8653261732041736",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Aluisio Alves De Melo Bento",
+    "email": "aluisio.uerj@gmail.com",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "http://lattes.cnpq.br/1129596113585622",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Bruno Guida Gouveia",
+    "email": "bruno.gouveia@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/5991925401759457",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Alam Silva Menezes",
+    "email": "alam.menezes@uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/4694882173672359",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Alan José Salomão Graça",
+    "email": "alanjsg@gmail.com",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/9156696694234978",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "André Luís De Sá Salomão",
+    "email": "andre@andresalomao.com",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/330",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "André Guilherme Peixoto Alves",
+    "email": "andre.alves@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "http://lattes.cnpq.br/2393935851133847",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Bruna Peres Battemarco",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/9109113821733927",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Alfredo Akira Ohnuma Júnior",
+    "email": "ik.lahac@gmail.com",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/276",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ana Silvia Pereira Santos",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/316",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Carlos Alexandre Da Silva Prado",
+    "email": "alexandrecasp@gmail.com",
+    "department": "FEN/DEIN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/108",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Carlos Aparecido Ferreira",
+    "email": "carlosaparecidoeng@gmail.com",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/331",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Antonio Guilherme Garcia Lima",
+    "email": "antoniolima@uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/299",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Carlos Augusto Arentz Pereira",
+    "email": "arentz.uerj@gmail.com",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/324",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Cristiana Barbosa Bentes",
+    "email": "cristianabentes@gmail.com",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/121",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Carlos Henrique Oliveira Da Rocha",
+    "email": "carlos.henrique.oliveira.rocha@gmail.com",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/309",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Christian Fragoas Fernandez Rodrigues",
+    "email": "christianfragoas@gmail.com",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/7382051088046787",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Cleiton Magalhães De Freitas",
+    "email": "cleiton.cmf@gmail.com",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "http://lattes.cnpq.br/8580465355265899",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Carolina Seixas Moreira",
+    "email": "carolina.moreira@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "http://lattes.cnpq.br/7316893375138716",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Cesar Augusto Diaz Mendoza",
+    "email": "cesar.mendoza@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termodinâmica, Processos Químicos & Simulação de Reatores",
+    "source_url": "http://lattes.cnpq.br/3802612012673021",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Carlos Eduardo Leal",
+    "email": "ceduardo_leal@yahoo.com.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/117",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Claudio João Barreto Dos Santos",
+    "email": "cljclj6@gmail.com",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/308",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Daniel Bouzon Nagem Assad",
+    "email": "danielassad@eng.uerj.br",
+    "department": "FEN/DEIN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/258423859812498",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Daniel José Nahid Mansur Chalhub",
+    "email": "mecanica@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/315",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Daniele Maia Bila",
+    "email": "danielebila@yahoo.com.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termodinâmica, Processos Químicos & Simulação de Reatores",
+    "source_url": "https://www.eng.uerj.br/prof/240",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Cyro Alves Borges Júnior",
+    "email": "cyroborges@globo.com",
+    "department": "FEN/DEIN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/258",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Denise Maria Soares Gerscovich",
+    "email": "deniseg@uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "https://www.eng.uerj.br/prof/123",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Darcy Aleixo Derenusson",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/FEN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/356",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Douglas Monteiro Andrade",
+    "email": "douglas.andrade@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "LFT (Laboratório de Fenômenos de Transporte)",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "http://lattes.cnpq.br/533442938115815",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Felipe Pereira Da Silva",
+    "email": "felipe.psilva@eng.uerj.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termodinâmica, Processos Químicos & Simulação de Reatores",
+    "source_url": "http://lattes.cnpq.br/1143927289210511",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Fernando Paullo Muñoz",
+    "email": "fernando.paullo@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/8698432496607695",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Fernando Lopes Cardoso",
+    "email": "fcardoso@eng.uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "http://lattes.cnpq.br/125107922833496",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Flávio Alencar Do Rêgo Barros",
+    "email": "falencar@predialnet.com.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/244",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Francisco Antônio Reis Filho",
+    "email": "farfilho@ig.com.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/2803698738314662",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Flávia Schmidt De Andrade Lima",
+    "email": "flavia.lima@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/3253882422912687",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Flávia Silva Dos Santos",
+    "email": "flavia.santos@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/2164626243913337",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Flavio Da Silveira Bruno",
+    "email": "flavioeana@uol.com.br",
+    "department": "FEN/DEIN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/132",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Frederico Menezes Coelho",
+    "email": "fmcrj@hotmail.com",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/2224417928417957",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Frederico Celestino Pontes",
+    "email": "fredericocpontes@gmail.com",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/7718030579664663",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Gabriel Cardoso De Carvalho",
+    "email": "gabrielc@eng.uerj.br",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/1415954961112300",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Gandhi Giordano",
+    "email": "gandhi@tecma-tecnologia.com.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/137",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Giomar Oliver Sequeiros Olivera",
+    "email": "giomar@eng.uerj.br",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/1718715752031651",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Giovana Cruz Alves Durão",
+    "email": "giovanacruzalves@gmail.com",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/4138061671074882",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Gisele Goes Cintra",
+    "email": "giselegoes.c@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/07324562289261",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Glauco José De Oliveira Rodrigues",
+    "email": "glauco.rodrigues@oi.com.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/5822821293050157",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Glaucio Gualtieri Honorio",
+    "email": "glaucio.honorio@eng.uerj.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termodinâmica, Processos Químicos & Simulação de Reatores",
+    "source_url": "http://lattes.cnpq.br/6692329545334546",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Glaysson De Mello Muller",
+    "email": "glayssonm@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Otimização de Processos, Logística & Pesquisa Operacional",
+    "source_url": "http://lattes.cnpq.br/8074482794858646",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Gustavo Martins Da Silva Nunes",
+    "email": "gustavo.nunes@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/2140603659004613",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Hélcio De Oliveira Rocha",
+    "email": "helciorocha2002@yahoo.com.br",
+    "department": "FEN/DEIN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termodinâmica, Processos Químicos & Simulação de Reatores",
+    "source_url": "https://www.eng.uerj.br/prof/143",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Hélio Da Motta Filho",
+    "email": "helio@fnal.gov",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/246",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Gustaf Aurélio Perez Akerman",
+    "email": "gustaf.akerman@gmail.com",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/140",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Gil Roberto Vieira Pinheiro",
+    "email": "gilpinheiro@petrobras.com.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/138",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ian Vilar Bastos",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Otimização de Processos, Logística & Pesquisa Operacional",
+    "source_url": "http://lattes.cnpq.br/1044684809741817",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Irving Da Silva Badolato",
+    "email": "irvingbadolato@gmail.com",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/7656945252711590",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Isidro Pinto Da Rocha Filho",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/FEN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/355",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "João Araújo Ribeiro",
+    "email": "joao.araujo@gmail.com",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/165",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Harold Dias De Mello Junior",
+    "email": "harold.dias@gmail.com",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/328",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "João Bosco De Azevedo",
+    "email": "joao.azevedo@ibge.gov.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/6406175595318501",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "João Colucci Fragozo",
+    "email": "joaofragozo@terra.com.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/232",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leonardo De Arruda Bitencourt",
+    "email": "leoxleo@gmail.com",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Otimização de Processos, Logística & Pesquisa Operacional",
+    "source_url": "http://lattes.cnpq.br/1174378161368026",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "José Eudes Marinho Da Silva",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "https://www.eng.uerj.br/prof/434",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Lia Cardoso Rocha Saraiva Teixeira",
+    "email": "liateixeira@eng.uerj.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/4544219377550705",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "José Guilherme Santos Da Silva",
+    "email": "jgss@uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/160",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Kíssila Botelho Goliath",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "https://www.eng.uerj.br/prof/373",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Luiz Paulo Souto Fortes",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/236",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Luz Elena Penaranda Chenche",
+    "email": "elena.chenche@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "http://lattes.cnpq.br/45230296307964",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Manoel Antônio Da Fonseca Costa Filho",
+    "email": "costafh@uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "http://lattes.cnpq.br/3375340063572734",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Lisandro Lovisolo",
+    "email": "lisandro@uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/175",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leonardo Mangia Rodrigues",
+    "email": "leonardo.mangia@eng.uerj.br",
+    "department": "FEN/DEIN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/4920094567804914",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Lorenna Baptista De Oliveira",
+    "email": "lorenna.baptista@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/7575920282958661",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Luiza De Macedo Mourelle",
+    "email": "ldmm@eng.uerj.br",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "http://lattes.cnpq.br/4189604454431782",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Luciana Alem Gennari",
+    "email": "luciana.gennari@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/5155161212978793",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Marcelle Candido Cordeiro",
+    "email": "marcelle.candido@coppe.ufrj.br",
+    "department": "FEN/DEIN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/7947806468045826",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Júlio César Da Silva",
+    "email": "jcesarop@gmail.com",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/329",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leandro Da Rocha Vaz",
+    "email": "leandro.vaz@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/45130110050091",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leonardo Campos Inocencio",
+    "email": "leonardo.inocencio@uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/56041582542136",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Marcelo Obraczka",
+    "email": "marcelobraczka@gmail.com",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/323",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Marcelo Gonçalves Rubinstein",
+    "email": "rubi@uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/190",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Marcos Antônio Da Silva",
+    "email": "marantonio2003rio@gmail.com",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Otimização de Processos, Logística & Pesquisa Operacional",
+    "source_url": "http://lattes.cnpq.br/7242868274473011",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Margareth Simões Penello Meirelles",
+    "email": "maggie@eng.uerj.br",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/194",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Margareth Da Silva Magalhães",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/5786719402039867",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Marco Aurélio Botelho Da Silva",
+    "email": "marcoground@gmail.com",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/8166808280180129",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Maria Cristina Henning Sampaio",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/183",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Marcia Marques Gomes",
+    "email": "marcia@marques.pro.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termodinâmica, Processos Químicos & Simulação de Reatores",
+    "source_url": "https://www.eng.uerj.br/prof/191",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Maria De Fátima Rodrigues Pereira De Pina",
+    "email": "fatima.pina@icict.fiocruz.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/307",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Maria Elizabeth Da Nóbrega Tavares",
+    "email": "etavares@uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/760623294305511",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Lúcia Schmidt De Andrade Lima",
+    "email": "lucias@uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "https://www.eng.uerj.br/prof/182",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Maria Dias Bellar",
+    "email": "bellar@ieee.org",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/195",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Maria Eugênia Gouvêa",
+    "email": "eugeniagouvea@yahoo.com.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "http://lattes.cnpq.br/1183997029071564",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Maria Fernanda Figueiredo De Oliveira",
+    "email": "mffoliveira@gmail.com",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/5029738433988779",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Maria Georgina Muniz Washington",
+    "email": "gmw@superig.com.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/198",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Mauricio Dos Santos Neves",
+    "email": "msn@bndes.gov.br",
+    "department": "FEN/DEIN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/200",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Michel Pompeu Tcheou",
+    "email": "mtcheou@uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/291",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Mateus Pereira Abraçado",
+    "email": "mateus.p.abracado@eng.uerj.br",
+    "department": "FEN/DEIN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/3952047913514373",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Marina Bedeschi Dutra Almeida",
+    "email": "marina.almeida@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/7371370030692181",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Mila Rosendahl Avelino",
+    "email": "c_cruz@yahoo.com.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "LFT (Laboratório de Fenômenos de Transporte)",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/238",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Nathalia Salles Vernin Barbosa",
+    "email": "nathalia.vernin@eng.uerj.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termodinâmica, Processos Químicos & Simulação de Reatores",
+    "source_url": "http://lattes.cnpq.br/2037042523024345",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Nadia Nedjah",
+    "email": "nadia@eng.uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/201",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Monique Cordeiro Rodrigues",
+    "email": "moniquecordeirorodrigues@gmail.com",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/39293975266812",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Norberto Mangiavacchi",
+    "email": "norberto.mangiavacchi@gmail.com",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/58",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Orlando Lima De Saboya Barros",
+    "email": "orlando@uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/249",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Oscar Cuaresma Zevallos",
+    "email": "oscar.zevallos@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/489090407769634",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "José Roberto Moraes D'almeida",
+    "email": "dalmeida@puc-rio.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/163",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "José Paulo Vilela Soares Da Cunha",
+    "email": "jpaulo@lee.eng.uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/162",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leny Medeiros Silva",
+    "email": "albertovieira@superig.com.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/263",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "José Rodolfo Souza",
+    "email": "jrsouza@uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/164",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leonardo Alfredo Forero Mendoza",
+    "email": "leofome@gmail.com",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/326",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Roberto Bressan Nacif",
+    "email": "rnacif@uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/3707331317499100",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ronei De Almeida",
+    "email": "ronei@eq.ufrj.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "http://lattes.cnpq.br/2844710522370160",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Rogério Luiz Feijó",
+    "email": "feijo@uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/220",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Sonia Maria Alves Costa",
+    "email": "sonia.costa@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Otimização de Processos, Logística & Pesquisa Operacional",
+    "source_url": "http://lattes.cnpq.br/4545073595413032",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Robert Jäckel",
+    "email": "robert.jaeckel@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "http://lattes.cnpq.br/8702041223970357",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Rodrigo Felx De Araujo Cardoso",
+    "email": "rfelix@cbpf.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "http://lattes.cnpq.br/4812908341887388",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Roberto Teixeira Luz",
+    "email": "betotluz@yahoo.com.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/305",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Rodolfo Luiz Martins Suanno",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "https://www.eng.uerj.br/prof/218",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Rosa Maria Formiga Johnsson",
+    "email": "aformiga@terra.com.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/221",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Robert Mota Oliveira",
+    "email": "mota@eng.uerj.br",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/3607512424559524",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ronaldo Bosignoli",
+    "email": "rbduzentos@gmail.com",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/2238101805015208",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Rogério Martins Saldanha Da Gama",
+    "email": "rsgama@terra.com.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "LFT (Laboratório de Fenômenos de Transporte)",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/219",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Roberto Vigoderis",
+    "email": "robertovigoderis@globo.com",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/217",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Roberto Nogueira Fontoura Filho",
+    "email": "robertofontoura@uol.com.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/5046514505860252",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Rômulo De Sales G. Filho",
+    "email": "romulo.goncalves@light.com.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/222",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Rodrigo Bird Burgos",
+    "email": "rburgos@ig.com.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/5604449684803425",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Rosane Cristina De Andrade",
+    "email": "rosane.andrade@eng.uerj.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/5343925202930481",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Afrânio Sérgio Pinho Dos Santos",
+    "email": "mecanica@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/104",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ailton De Mesquita Vieira",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DESMA - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/105",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Albino Joaquim Pimenta Da Cunha",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Mecânica das Estruturas, Elementos Finitos & Métodos Numéricos",
+    "source_url": "https://www.eng.uerj.br/prof/106",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Alexandre Assis Carvalho",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/6749503439323602",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Antonio Inácio Rodrigue",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/260",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "André Luiz Carvalho Cardoso",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/310",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Antonio Marinho Junior",
+    "email": "mecanica@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/271",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Antônio Romeiro Sapienza",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/111",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Antonio Vieira Martins",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/18",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ana Teresa Spinola Bento De Faria",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/FEN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/372",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Amauri Ribeiro Destri",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/1",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Carlos José Marinho Falcão",
+    "email": "mecanica@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/119",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Celsio De Oliveira Moreira",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/19",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Celestino Oliveira Araujo",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/262",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Carlos Cézar De La Plata Ruiz",
+    "email": "mecanica@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/120",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Erli Ferreira Figueiredo",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/61",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Fernando Agustin Pazos",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/297",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Francisco José Da Cunha Pires Soeiro",
+    "email": "mecanica@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/133",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "David Martins Vieira",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/4323170330527273",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Fellipe Dos Santos Reis",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/FEN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/278",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Gilberto Gomes Gonçalves",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/242",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Flávio Joaquim De Souza",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/294",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Arnaldo Vieira Da Rocha Filho",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/112",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Barbara Christina Farah Montenegro Pithon",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/251",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Bernardo Bandeira De Figueiredo",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/113",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ikeciel Kiperman",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/146",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Heitor Barreto Correa",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/141",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Humberto Lima Soriano",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/253",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Jacaono Batista De Lima",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/148",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "João De Tarso Pallottino",
+    "email": "mecanica@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/63",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "João Vítor Pereira Pinto",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/166",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Íbis Da Silva Vianna",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/20",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "José Carlos Vilar Amigo",
+    "email": "mecanica@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "https://www.eng.uerj.br/prof/157",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ivan De Araújo Medina",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/8",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "José Da Silveira Guimarães",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/22",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "José Alberto Gemal",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/8664012979858733",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "José Domingues Leitão",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/23",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Julia Celia Mercedes Strauch",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/154",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Luciane Farias Ribas",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/311",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "José Alexandre Pimenta De Carvalho",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/151",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leopoldo Eurico Gonçalves Bastos",
+    "email": "mecanica@eng.uerj.br",
+    "department": "FEN/MECAN (Engenharia Mecânica) - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Termofluidodinâmica, CFD, Mecânica dos Sólidos & Vibrações",
+    "source_url": "http://lattes.cnpq.br/0596410148228433",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Luiz Antonio Arnaud Mendes",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DCCT - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/289",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leonardo Bruno De Sá",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "http://lattes.cnpq.br/3211921786987598",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Luiz Antônio Jóia",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/180",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Nival Nunes De Almeida",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ELE - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Sistemas de Controle, Automação & Eletrônica de Potência",
+    "source_url": "https://www.eng.uerj.br/prof/272",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Mauro Sérgio Fernandes Argento",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/CARTO - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/186",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Luiz Biondi Neto",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DETEL - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Otimização de Processos, Logística & Pesquisa Operacional",
+    "source_url": "https://www.eng.uerj.br/prof/231",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Paulo Sérgio Pinto",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/210",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Oscar Luiz Monteiro De Farias",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/293",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Paschoal Villaboim Filho",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/FEN - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/279",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Paulo Machado Massa",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/ESTR - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/209",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Orlando Bernardo Filho",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/203",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Raul Queiroz Feitosa",
+    "email": "secretaria@eng.uerj.br",
+    "department": "FEN/DESC - Campus Maracanã",
+    "laboratory": "Laboratórios FEN",
+    "specialization": "Engenharia e Modelagem Numérica",
+    "source_url": "https://www.eng.uerj.br/prof/296",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ana Cristina Fontes Moreira",
+    "email": "amoreira@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/3653572061551441",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Eduardo Martins Sampaio",
+    "email": "esampaio@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/5287753115270913",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Helson Moreira da Costa",
+    "email": "hmcosta@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/8141875611393566",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ivan Napoleão Bastos",
+    "email": "inbastos@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/6725653281197187",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leticia dos Santos Aguilera",
+    "email": "leticia.aguilera@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/4630865510856546",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Luis César Rodríguez Aliaga",
+    "email": "aliaga@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/6144169873340950",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Marisa Cristina Guimarães Rocha",
+    "email": "mrocha@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/5408802153017996",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Solange Francisco do Nascimento",
+    "email": "solange@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/8370944748722096",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Verona Biancardi Aguiar",
+    "email": "verona@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/6209504580928538",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Antônio José da Silva Neto",
+    "email": "ajsneto@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Termofluidodinâmica, Transferência de Calor, CFD & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/5148738006361781",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Arthur Adeodato",
+    "email": "arthuradeodato@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/1930244152732337",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Daiara Fernandes de Faria",
+    "email": "daiara@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/9401814864083219",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Damiano da Silva Militão",
+    "email": "dmilitao@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/0888188783738720",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Edgard Poiate Junior",
+    "email": "poiate@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/7548810114586352",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Enrique John Arias Chinga",
+    "email": "earias@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/4213143968851274",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Jhonny Oswaldo Huertas Flores",
+    "email": "jhonnyhf@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/1143140380347003",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Joaquim Teixeira de Assis",
+    "email": "joaquim@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/7307238902576135",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "João Flávio Vieira de Vasconcellos",
+    "email": "jflavio@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Termofluidodinâmica, Transferência de Calor, CFD & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/9634798722030132",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Joel Sanchez Dominguez",
+    "email": "jsdominguez@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/8822296976490321",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "José Humberto Zani",
+    "email": "zani@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/2072178311397599",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Julio Cesar Guimarães Tedesco",
+    "email": "tedesco@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/8073005004386152",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leandro de Amorim Ratamero",
+    "email": "lratamero@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/3047479199638738",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leonardo Tavares Stutz",
+    "email": "ltstutz@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/1627016864213973",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leôncio Diógenes Tavares Câmara",
+    "email": "dcamara@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/0608816393004565",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Livia Flavia Carletti Jatobá",
+    "email": "liviajatoba@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/6751377400609232",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Lucas Venâncio Pires de Carvalho Lima",
+    "email": "lucaslima@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/5730724148619281",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Luiz Alberto da Silva Abreu",
+    "email": "luiz.abreu@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Termofluidodinâmica, Transferência de Calor, CFD & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/2157391120883842",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Mayksoel Medeiros de Freitas",
+    "email": "mayksoel@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/3199715225291891",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Mônica Calixto de Andrade",
+    "email": "mcalixto@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/4303756562067099",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Otávio Goldoni Quina de Almeida",
+    "email": "otavio@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/0370289703227389",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Rafael Serra Perez",
+    "email": "rperez@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/7818682007757332",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Anderson Amendoeira Namen",
+    "email": "aanamen@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/2182469523085517",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Angelo Mondaini Calvão",
+    "email": "oangelo@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/5604807772579360",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Bernardo Sotto-Maior Peralva",
+    "email": "bernardo@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/4425322010752919",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Camila Martins Saporetti",
+    "email": "camila.saporetti@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/4862105931908699",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Fernando Rodrigues Trindade Ferreira",
+    "email": "fernando.trindade@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/9099422221250663",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Germano Amaral Monerat",
+    "email": "monerat@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/5031014907752547",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Grazione de Souza Boy",
+    "email": "gsouza@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Termofluidodinâmica, Transferência de Calor, CFD & Métodos Numéricos",
+    "source_url": "http://lattes.cnpq.br/7987813860992687",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Guilherme de Melo Baptista Domingues",
+    "email": "domingues@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/3737857084552295",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Gustavo Barbosa Libotte",
+    "email": "gustavolibotte@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/1939530661449967",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Helio Pedro Amaral Souto",
+    "email": "helio@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/1999072996132654",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Hermes Alves Filho",
+    "email": "halves@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/8509299951934973",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Leonardo Rodrigues da Costa Moraes",
+    "email": "lrcmoraes@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/0059284776766872",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Loena Marins do Couto",
+    "email": "loena@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/4944213325519789",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Rafael Barbosa Libotte",
+    "email": "rblibotte@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/5608402457803882",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ricardo Fabbri",
+    "email": "rfabbri@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/5759364958802333",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Roberto Pinheiro Domingos",
+    "email": "roberto.pinheiro@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/0109837868064895",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Rodrigo Lamblet Mafort",
+    "email": "rodrigo.mafort@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/1901861620111067",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Sílvia Cristina Dias Pinto",
+    "email": "silvia.dias@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/4333940423066302",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Ursula Andrea Barbara Verdugo Rohrer",
+    "email": "ursula@iprj.uerj.br",
+    "department": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratory": "IPRJ Research Labs / Supercomputador Escola de Sagres",
+    "specialization": "Ciência dos Materiais, Propriedades Mecânicas & Simulação",
+    "source_url": "http://lattes.cnpq.br/4955260930433371",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Monique Osório Talarico da Conceição",
+    "email": "adm@campusresende.uerj.br",
+    "department": "FAT/DME (Mecânica e Energia) - Campus Resende",
+    "laboratory": "Laboratório de Materiais e Processos / Polímeros / Motores (FAT)",
+    "specialization": "Mecânica dos Sólidos, Termofluidodinâmica, Hidráulica, Pneumática & Motores",
+    "source_url": "http://lattes.cnpq.br/3344204581149970",
+    "validation_date": "2026-03-09"
+  },
+  {
+    "name": "Diretoria InovUerj / DEPINOVA",
+    "email": "inovuerj@uerj.br",
+    "department": "InovUerj - Departamento de Inovação / PR2",
+    "laboratory": "Escritório de Propriedade Intelectual (EPI) & Projetos",
+    "specialization": "Gestão de Inovação, Transferência de Tecnologia & Parcerias Universidade-Empresa",
+    "source_url": "https://www.pr2.uerj.br",
+    "validation_date": "2026-03-09"
+  }
+]
