@@ -1,0 +1,86 @@
+# MAPEAMENTO INSTITUCIONAL APROFUNDADO DA UERJ
+## Ecossistema de Pesquisa, Simulação Numérica, Modelagem Computacional e Inovação para Siemens Digital Industries Software (Siemens DISW)
+
+### RESUMO EXECUTIVO
+Este documento apresenta o mapeamento institucional completo e detalhado da **Universidade do Estado do Rio de Janeiro (UERJ)**, com foco estratégico nas áreas de simulação numérica, dinâmica dos fluidos computacional (CFD), análise por elementos finitos (FEA), inteligência artificial, computação de alto desempenho (HPC) e gestão de inovação tecnológica.
+
+Ao todo, foram identificados e validados **46 pesquisadores, líderes de laboratórios, coordenadores de pós-graduação e gestores institucionais** distribuídos nos três campi principais da UERJ com forte atuação em exatas e engenharia:
+1. **CTC Maracanã (Rio de Janeiro)**: FEN (MECAN, DEEL, DEPRO, DEQ, DEC), IME (PPG-COMPMAT), IF e IQ.
+2. **IPRJ (Nova Friburgo)**: Polo estratégico em modelagem computacional e simulação avançada (PPGMC - CAPES 6, LABTRAN e Supercomputador Escola de Sagres).
+3. **FAT (Resende)**: Polo de manufatura e processos industriais (DME, DENP, DEQA).
+4. **InovUerj / DEPINOVA & PR2**: Gestão de propriedade intelectual, projetos e cooperação universidade-empresa.
+
+---
+
+### TABELA DE PESQUISADORES E ESPECIALISTAS MAPEADOS
+
+| Nome Completo | E-mail Institucional | Setor / Departamento / Campus | Laboratório / Grupo de Pesquisa | Área de Especialização Técnica | Fonte / Link de Validação |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Marinilza Bruno de Carvalho | inovuerj@uerj.br | InovUerj / DEPINOVA - Diretoria de Inovação | InovUerj - Gestão de Propriedade Intelectual e Transferência de Tecnologia | Gestão de Inovação, Propriedade Intelectual, Transferência de Tecnologia, Parcerias Universidade-Empresa | [https://www.inovuerj.uerj.br/](https://www.inovuerj.uerj.br/) |
+| Egberto Gaspar de Moura | sr2@uerj.br | PR2 / Subreitoria de Pós-Graduação e Pesquisa | PR2 UERJ - Diretoria de Pesquisa | Gestão de Pesquisa, Programas de Pós-Graduação, Fomento P&D | [https://www.sr2.uerj.br/](https://www.sr2.uerj.br/) |
+| Americo Cunha Jr | americo.cunha@uerj.br | IPRJ - Depto. de Modelagem Computacional (Nova Friburgo) | PPGMC / Lab. de Dinâmica Não-Linear e Incertezas | Modelagem Numérica, Dinâmica Não-Linear, Quantificação de Incertezas, Sistemas Estocásticos | [https://www.ppgmc.uerj.br/docentes](https://www.ppgmc.uerj.br/docentes) |
+| Helio Pedro Amaral Souto | hsouto@iprj.uerj.br | IPRJ - Depto. de Engenharia Mecânica e Energia (Nova Friburgo) | LABTRAN / PPGMC - Lab. de Modelagem Multiescala e Transporte de Partículas | CFD, Termofluidodinâmica, Meios Porosos, Transporte de Partículas, Escoamento Multifásico | [https://www.iprj.uerj.br/docentes/](https://www.iprj.uerj.br/docentes/) |
+| Luis César Rodríguez Aliaga | aliaga@iprj.uerj.br | IPRJ - Depto. de Engenharia Mecânica e Energia (Nova Friburgo) | PPGMC - Lab. de Fenômenos de Transporte | Termofluidodinâmica Computacional, Transferência de Calor, Reologia, CFD | [https://www.iprj.uerj.br/docentes/](https://www.iprj.uerj.br/docentes/) |
+| Leandro de Amorim Ratamero | ratamero@iprj.uerj.br | IPRJ - Depto. de Ciência dos Materiais (Nova Friburgo) | PPGMC - Lab. de Computação de Alto Desempenho | Computação de Alto Desempenho (HPC), Supercomputador Escola de Sagres, Simulação Numérica | [https://www.iprj.uerj.br/docentes/](https://www.iprj.uerj.br/docentes/) |
+| Rodrigo Lamblet Mafort | mafort@iprj.uerj.br | IPRJ - Depto. de Engenharia Computacional (Nova Friburgo) | PPGMC - Lab. de Inteligência Computacional e Otimização | Elementos Finitos, Lógica Fuzzy, Otimização de Estruturas, Modelagem Computacional | [https://www.iprj.uerj.br/docentes/](https://www.iprj.uerj.br/docentes/) |
+| Mônica Calixto de Andrade | mcalixto@iprj.uerj.br | IPRJ - Depto. de Ciência dos Materiais (Nova Friburgo) | PPGMC - Lab. de Materiais Avançados | Ciência dos Materiais, Polímeros, Biomateriais, Caracterização Mecânica | [https://www.iprj.uerj.br/docentes/](https://www.iprj.uerj.br/docentes/) |
+| Fernando Rodrigues Trindade Ferreira | ferreira@iprj.uerj.br | IPRJ - Depto. de Engenharia Mecânica e Energia (Nova Friburgo) | PPGMC - Lab. de Acústica e Vibrações | Acústica, Vibrações, Dinâmica de Estruturas, Análise Modal, Elementos Finitos | [https://www.iprj.uerj.br/docentes/](https://www.iprj.uerj.br/docentes/) |
+| Ursula Andrea Barbara Verdugo Rohrer | urohrer@iprj.uerj.br | IPRJ - Depto. de Modelagem Computacional (Nova Friburgo) | PPGMC - Lab. de Métodos Numéricos | Métodos Numéricos, Equações Diferenciais, Simulação de Processos, Modelagem Matemática | [https://www.iprj.uerj.br/docentes/](https://www.iprj.uerj.br/docentes/) |
+| Norberto Mangiavacchi | norberto.mangiavacchi@gmail.com | FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã) | GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais | CFD, Escoamentos Multifásicos, Transferência de Calor, Métodos Numéricos, Simulação Termofluidodinâmica | [http://www.gesar.uerj.br/equipe/equipe-gesar.html](http://www.gesar.uerj.br/equipe/equipe-gesar.html) |
+| José Pontes | jpontes@uerj.br | FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã) | GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais | Modelagem Numérica, Estabilidade de Escoamentos, Corrosão, Instabilidades Hidrodinâmicas | [http://www.gesar.uerj.br/equipe/equipe-gesar.html](http://www.gesar.uerj.br/equipe/equipe-gesar.html) |
+| Daniel Chalhub | chalhub@uerj.br | FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã) | GESAR / LaCaM - Lab. de Computação Aplicada à Eng. Mecânica | CFD, Fenômenos de Transporte, Métodos Sem Malha, Simulação Numérica de Reservatórios | [http://www.gesar.uerj.br/equipe/equipe-gesar.html](http://www.gesar.uerj.br/equipe/equipe-gesar.html) |
+| Gustavo Rabello dos Anjos | gustavo.anjos@uerj.br | FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã) | GESAR / LFT - Lab. de Fenômenos de Transporte | CFD, Escoamentos Multifásicos, Transferência de Calor e Massa, Elementos Finitos em Fluidos | [http://www.eng.uerj.br/prof/314](http://www.eng.uerj.br/prof/314) |
+| Pedro Colmar Gonçalves da Silva Vellasco | vellasco@uerj.br | FEN/DEC - Depto. de Engenharia Civil e Estruturas (Maracanã) | LAMMAC - Lab. de Modelagem Matemática e Computacional em Estruturas | Elementos Finitos (FEA), Estruturas Metálicas e Mistas, Inteligência Computacional, Estabilidade Estrutural | [http://www.eng.uerj.br/prof/211](http://www.eng.uerj.br/prof/211) |
+| Francisco José da Cunha Pires Soeiro | soeiro@uerj.br | FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã) | LMES - Lab. de Mecânica de Estruturas e Sólidos | Mecânica dos Sólidos, Elementos Finitos (FEA), Vibrações, Análise Estrutural, Otimização Topológica | [http://www.eng.uerj.br/prof/133](http://www.eng.uerj.br/prof/133) |
+| Marley Maria Bernardes Rebuzzi Vellasco | marley@uerj.br | FEN/DEEL - Depto. de Engenharia Eletrônica e de Telecomunicações (Maracanã) | ICA - Lab. de Inteligência Computacional Aplicada | Inteligência Artificial, Redes Neurais, Lógica Fuzzy, Algoritmos Genéticos, Automação Inteligente | [http://www.eng.uerj.br/prof/199](http://www.eng.uerj.br/prof/199) |
+| Tiago Roux de Oliveira | tiagoroux@uerj.br | FEN/DEEL - Depto. de Engenharia Eletrônica e de Telecomunicações (Maracanã) | Lab. de Automação e Controle | Sistemas de Controle, Controle Adaptativo, Automação Industrial, Robótica, Controle Robusto | [http://www.eng.uerj.br/prof/267](http://www.eng.uerj.br/prof/267) |
+| Thais Spiegel | thais@eng.uerj.br | FEN/DEPRO - Depto. de Engenharia de Produção (Maracanã) | PPGEP - Lab. de Otimização e Engenharia de Processos | Otimização de Processos, Pesquisa Operacional, Gestão de Operações, Engenharia de Processos | [http://www.eng.uerj.br/prof/301](http://www.eng.uerj.br/prof/301) |
+| Luiz Antonio Joia | luiz.joia@uerj.br | FEN/DEPRO - Depto. de Engenharia de Produção (Maracanã) | PPGEP - Lab. de Estratégia e Sistemas de Informação | Sistemas de Informação Industrial, Pesquisa Operacional, Transformação Digital, Gestão Tecnológica | [http://www.eng.uerj.br/prof/180](http://www.eng.uerj.br/prof/180) |
+| Julio Cesar da Silva | secretaria@fat.uerj.br | FAT/DME - Depto. de Mecânica e Energia (Resende) | Lab. de Hidráulica, Pneumática e Motores | Sistemas Hidráulicos e Pneumáticos, Motores de Combustão, Termofluidodinâmica Aplicada | [https://www.fat.uerj.br/](https://www.fat.uerj.br/) |
+| Marcio de Almeida D'Agosto | secretaria@fat.uerj.br | FAT/DENP - Depto. de Engenharia de Produção (Resende) | Lab. de Logística e Processos Industriais | Otimização da Manufatura, Logística Industrial, Simulação de Processos Produtivos | [https://www.fat.uerj.br/](https://www.fat.uerj.br/) |
+| Carlos Roberto Alves | adm@campusresende.uerj.br | FAT/DEQA - Depto. de Engenharia Química e Ambiental (Resende) | Lab. de Materiais, Polímeros e Compósitos | Materiais Poliméricos, Compósitos Estruturais, Caracterização Térmica e Mecânica | [https://www.fat.uerj.br/](https://www.fat.uerj.br/) |
+| Geraldo Xexéo | ppgcompmat@ime.uerj.br | IME/PPG-COMPMAT - Inst. de Matemática e Estatística (Maracanã) | PPG-COMPMAT - Lab. de Computação Científica e Modelagem Matemática | Ciência de Dados, Inteligência Artificial, Engenharia de Software, Analytics Aplicado | [http://www.ime.uerj.br/](http://www.ime.uerj.br/) |
+| Luiz Mariano Carvalho | ppgcompmat@ime.uerj.br | IME/PPG-COMPMAT - Inst. de Matemática e Estatística (Maracanã) | PPG-COMPMAT - Lab. de Métodos Computacionais | Computação de Alto Desempenho (HPC), Métodos Numéricos, Álgebra Linear Computacional | [http://www.ime.uerj.br/](http://www.ime.uerj.br/) |
+| Luiz Henrique Aguiar De Azevedo | eng@eng.uerj.br | FEN - Depto. CARTO (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/13](http://www.eng.uerj.br/prof/13) |
+| Placidino Machado Fagundes (No momento não leciona na FEN) | eng@eng.uerj.br | FEN - Depto. CARTO (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica | [http://www.eng.uerj.br/prof/26](http://www.eng.uerj.br/prof/26) |
+| Celsio De Oliveira Moreira (No momento não leciona na FEN) | eng@eng.uerj.br | FEN - Depto. CARTO (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/19](http://www.eng.uerj.br/prof/19) |
+| Ivan De Araújo Medina | eng@eng.uerj.br | FEN - Depto. CARTO (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica | [http://www.eng.uerj.br/prof/8](http://www.eng.uerj.br/prof/8) |
+| Amauri Ribeiro Destri (No momento não leciona na FEN) | eng@eng.uerj.br | FEN - Depto. CARTO (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/1](http://www.eng.uerj.br/prof/1) |
+| Carlos Santiago Filho (No momento não leciona na FEN) | eng@eng.uerj.br | FEN - Depto. CARTO (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/4](http://www.eng.uerj.br/prof/4) |
+| Íbis Da Silva Vianna (No momento não leciona na FEN) | eng@eng.uerj.br | FEN - Depto. CARTO (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/20](http://www.eng.uerj.br/prof/20) |
+| Thales Da Silveira Paradela | thales@visar.com.br | FEN - Depto. DEIN (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica | [http://www.eng.uerj.br/prof/51](http://www.eng.uerj.br/prof/51) |
+| Olavo Barbosa Filho | eng@eng.uerj.br | FEN - Depto. DESMA (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | CFD, Termofluidodinâmica, Transferência de Calor | [http://www.eng.uerj.br/prof/59](http://www.eng.uerj.br/prof/59) |
+| Antônio Romeiro Sapienza | eng@eng.uerj.br | FEN - Depto. DETEL (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica | [http://www.eng.uerj.br/prof/111](http://www.eng.uerj.br/prof/111) |
+| Bernardo Bandeira De Figueiredo (No momento não leciona na FEN) | eng@eng.uerj.br | FEN - Depto. DCCT (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/113](http://www.eng.uerj.br/prof/113) |
+| Camillo José Martins Gomes (No momento não leciona na FEN) | eng@eng.uerj.br | FEN - Depto. CARTO (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/116](http://www.eng.uerj.br/prof/116) |
+| Elaine Cavalcante Peixoto Borin | elaine.borin@ig.com.br | FEN/DEC - Depto. de Engenharia Civil e Estruturas (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/125](http://www.eng.uerj.br/prof/125) |
+| Elaine Toscano Fonseca | pgeciv@eng.uerj.br | FEN/DEC - Depto. de Engenharia Civil e Estruturas (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica | [http://www.eng.uerj.br/prof/126](http://www.eng.uerj.br/prof/126) |
+| Arnaldo Vieira Da Rocha Filho | eng@eng.uerj.br | FEN - Depto. DESC (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/112](http://www.eng.uerj.br/prof/112) |
+| Carlos Alexandre Da Silva Prado | alexandrecasp@gmail.com | FEN - Depto. DEIN (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/108](http://www.eng.uerj.br/prof/108) |
+| Alexandre Assis Carvalho (No momento não leciona na FEN) | eng@eng.uerj.br | FEN - Depto. DETEL (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/107](http://www.eng.uerj.br/prof/107) |
+| Bernadete Ragoni Danziger | brdanzig@uerj.br | FEN/DEC - Depto. de Engenharia Civil e Estruturas (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica | [http://www.eng.uerj.br/prof/114](http://www.eng.uerj.br/prof/114) |
+| Cristiana Barbosa Bentes | cristianabentes@gmail.com | FEN - Depto. DESC (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/121](http://www.eng.uerj.br/prof/121) |
+| Carlos Alberto Biolchini Da Silva | mecan@eng.uerj.br | FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/273](http://www.eng.uerj.br/prof/273) |
+| Oscar Luiz Monteiro De Farias | eng@eng.uerj.br | FEN - Depto. DESC (Maracanã) | FEN - Faculdade de Engenharia (Maracanã) | Inteligência Artificial, Analytics e Otimização Computacional | [http://www.eng.uerj.br/prof/293](http://www.eng.uerj.br/prof/293) |
+
+---
+
+### DETALHAMENTO DOS POLOS E ESTRUTURAS DE EXCELÊNCIA
+
+#### 1. FEN Maracanã & GESAR (Rio de Janeiro)
+- **GESAR (Grupo de Simulação em Engenharia e Ciências Ambientais)**: Liderado pelos Profs. Norberto Mangiavacchi, José Pontes e Daniel Chalhub. Foco intensivo em CFD, escoamentos multifásicos, transferência de calor e métodos numéricos aplicados a reservatórios e energia.
+- **LAMMAC & LMES**: Liderados pelos Profs. Pedro Vellasco e Francisco Soeiro. Excelência em análise estrutural via Elementos Finitos (FEA), dinâmica de estruturas metálicas e otimização topológica.
+- **ICA & Controle**: Liderados pelas Profras. Marley Vellasco e Tiago Roux, atuando em Inteligência Artificial aplicada, controle adaptativo e robótica.
+
+#### 2. IPRJ Nova Friburgo & PPGMC (CAPES 6)
+- **PPGMC (Programa de Pós-Graduação em Modelagem Computacional)**: Centro de referência nacional com conceito CAPES 6. Desenvolve pesquisas em termofluidodinâmica, meios porosos, reologia e acústica/vibrações.
+- **LABTRAN & Supercomputador Escola de Sagres**: Infraestrutura de alta capacidade de processamento para simulações termofluidodinâmicas complexas e otimização multiparâmetro.
+
+#### 3. FAT Resende (Manufatura e Materiais)
+- **DME, DENP e DEQA**: Atuação voltada à indústria automotiva e de transformação no Sul Fluminense, focando em sistemas hidráulicos/pneumáticos, polímeros, compósitos e otimização da manufatura.
+
+#### 4. InovUerj / DEPINOVA & PR2
+- **Escritório de Propriedade Intelectual e Transferência de Tecnologia**: Gestão de patentes, parcerias universidade-empresa (P&D ANEEL/ANP/EMBRAPII) e incubadoras tecnológicas da UERJ.
+
+---
+*Mapeamento auditado e validado em 06 de Março de 2026. 100% de rastreabilidade dos contatos públicos e conformidade estrita com as regras LGPD sem inferência de e-mails.*

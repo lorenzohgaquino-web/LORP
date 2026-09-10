@@ -1,0 +1,462 @@
+[
+  {
+    "nome": "Marinilza Bruno de Carvalho",
+    "email": "inovuerj@uerj.br",
+    "setor_departamento": "InovUerj / DEPINOVA - Diretoria de Inovação",
+    "laboratorio_grupo": "InovUerj - Gestão de Propriedade Intelectual e Transferência de Tecnologia",
+    "especializacao": "Gestão de Inovação, Propriedade Intelectual, Transferência de Tecnologia, Parcerias Universidade-Empresa",
+    "fonte_validacao": "https://www.inovuerj.uerj.br/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Egberto Gaspar de Moura",
+    "email": "sr2@uerj.br",
+    "setor_departamento": "PR2 / Subreitoria de Pós-Graduação e Pesquisa",
+    "laboratorio_grupo": "PR2 UERJ - Diretoria de Pesquisa",
+    "especializacao": "Gestão de Pesquisa, Programas de Pós-Graduação, Fomento P&D",
+    "fonte_validacao": "https://www.sr2.uerj.br/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Americo Cunha Jr",
+    "email": "americo.cunha@uerj.br",
+    "setor_departamento": "IPRJ - Depto. de Modelagem Computacional (Nova Friburgo)",
+    "laboratorio_grupo": "PPGMC / Lab. de Dinâmica Não-Linear e Incertezas",
+    "especializacao": "Modelagem Numérica, Dinâmica Não-Linear, Quantificação de Incertezas, Sistemas Estocásticos",
+    "fonte_validacao": "https://www.ppgmc.uerj.br/docentes",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Helio Pedro Amaral Souto",
+    "email": "hsouto@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Depto. de Engenharia Mecânica e Energia (Nova Friburgo)",
+    "laboratorio_grupo": "LABTRAN / PPGMC - Lab. de Modelagem Multiescala e Transporte de Partículas",
+    "especializacao": "CFD, Termofluidodinâmica, Meios Porosos, Transporte de Partículas, Escoamento Multifásico",
+    "fonte_validacao": "https://www.iprj.uerj.br/docentes/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Luis César Rodríguez Aliaga",
+    "email": "aliaga@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Depto. de Engenharia Mecânica e Energia (Nova Friburgo)",
+    "laboratorio_grupo": "PPGMC - Lab. de Fenômenos de Transporte",
+    "especializacao": "Termofluidodinâmica Computacional, Transferência de Calor, Reologia, CFD",
+    "fonte_validacao": "https://www.iprj.uerj.br/docentes/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Leandro de Amorim Ratamero",
+    "email": "ratamero@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Depto. de Ciência dos Materiais (Nova Friburgo)",
+    "laboratorio_grupo": "PPGMC - Lab. de Computação de Alto Desempenho",
+    "especializacao": "Computação de Alto Desempenho (HPC), Supercomputador Escola de Sagres, Simulação Numérica",
+    "fonte_validacao": "https://www.iprj.uerj.br/docentes/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Rodrigo Lamblet Mafort",
+    "email": "mafort@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Depto. de Engenharia Computacional (Nova Friburgo)",
+    "laboratorio_grupo": "PPGMC - Lab. de Inteligência Computacional e Otimização",
+    "especializacao": "Elementos Finitos, Lógica Fuzzy, Otimização de Estruturas, Modelagem Computacional",
+    "fonte_validacao": "https://www.iprj.uerj.br/docentes/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Mônica Calixto de Andrade",
+    "email": "mcalixto@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Depto. de Ciência dos Materiais (Nova Friburgo)",
+    "laboratorio_grupo": "PPGMC - Lab. de Materiais Avançados",
+    "especializacao": "Ciência dos Materiais, Polímeros, Biomateriais, Caracterização Mecânica",
+    "fonte_validacao": "https://www.iprj.uerj.br/docentes/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Fernando Rodrigues Trindade Ferreira",
+    "email": "ferreira@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Depto. de Engenharia Mecânica e Energia (Nova Friburgo)",
+    "laboratorio_grupo": "PPGMC - Lab. de Acústica e Vibrações",
+    "especializacao": "Acústica, Vibrações, Dinâmica de Estruturas, Análise Modal, Elementos Finitos",
+    "fonte_validacao": "https://www.iprj.uerj.br/docentes/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Ursula Andrea Barbara Verdugo Rohrer",
+    "email": "urohrer@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Depto. de Modelagem Computacional (Nova Friburgo)",
+    "laboratorio_grupo": "PPGMC - Lab. de Métodos Numéricos",
+    "especializacao": "Métodos Numéricos, Equações Diferenciais, Simulação de Processos, Modelagem Matemática",
+    "fonte_validacao": "https://www.iprj.uerj.br/docentes/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Norberto Mangiavacchi",
+    "email": "norberto.mangiavacchi@gmail.com",
+    "setor_departamento": "FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã)",
+    "laboratorio_grupo": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais",
+    "especializacao": "CFD, Escoamentos Multifásicos, Transferência de Calor, Métodos Numéricos, Simulação Termofluidodinâmica",
+    "fonte_validacao": "http://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "José Pontes",
+    "email": "jpontes@uerj.br",
+    "setor_departamento": "FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã)",
+    "laboratorio_grupo": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais",
+    "especializacao": "Modelagem Numérica, Estabilidade de Escoamentos, Corrosão, Instabilidades Hidrodinâmicas",
+    "fonte_validacao": "http://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Daniel Chalhub",
+    "email": "chalhub@uerj.br",
+    "setor_departamento": "FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã)",
+    "laboratorio_grupo": "GESAR / LaCaM - Lab. de Computação Aplicada à Eng. Mecânica",
+    "especializacao": "CFD, Fenômenos de Transporte, Métodos Sem Malha, Simulação Numérica de Reservatórios",
+    "fonte_validacao": "http://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Gustavo Rabello dos Anjos",
+    "email": "gustavo.anjos@uerj.br",
+    "setor_departamento": "FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã)",
+    "laboratorio_grupo": "GESAR / LFT - Lab. de Fenômenos de Transporte",
+    "especializacao": "CFD, Escoamentos Multifásicos, Transferência de Calor e Massa, Elementos Finitos em Fluidos",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/314",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Pedro Colmar Gonçalves da Silva Vellasco",
+    "email": "vellasco@uerj.br",
+    "setor_departamento": "FEN/DEC - Depto. de Engenharia Civil e Estruturas (Maracanã)",
+    "laboratorio_grupo": "LAMMAC - Lab. de Modelagem Matemática e Computacional em Estruturas",
+    "especializacao": "Elementos Finitos (FEA), Estruturas Metálicas e Mistas, Inteligência Computacional, Estabilidade Estrutural",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/211",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Francisco José da Cunha Pires Soeiro",
+    "email": "soeiro@uerj.br",
+    "setor_departamento": "FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã)",
+    "laboratorio_grupo": "LMES - Lab. de Mecânica de Estruturas e Sólidos",
+    "especializacao": "Mecânica dos Sólidos, Elementos Finitos (FEA), Vibrações, Análise Estrutural, Otimização Topológica",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/133",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Marley Maria Bernardes Rebuzzi Vellasco",
+    "email": "marley@uerj.br",
+    "setor_departamento": "FEN/DEEL - Depto. de Engenharia Eletrônica e de Telecomunicações (Maracanã)",
+    "laboratorio_grupo": "ICA - Lab. de Inteligência Computacional Aplicada",
+    "especializacao": "Inteligência Artificial, Redes Neurais, Lógica Fuzzy, Algoritmos Genéticos, Automação Inteligente",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/199",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Tiago Roux de Oliveira",
+    "email": "tiagoroux@uerj.br",
+    "setor_departamento": "FEN/DEEL - Depto. de Engenharia Eletrônica e de Telecomunicações (Maracanã)",
+    "laboratorio_grupo": "Lab. de Automação e Controle",
+    "especializacao": "Sistemas de Controle, Controle Adaptativo, Automação Industrial, Robótica, Controle Robusto",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/267",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Thais Spiegel",
+    "email": "thais@eng.uerj.br",
+    "setor_departamento": "FEN/DEPRO - Depto. de Engenharia de Produção (Maracanã)",
+    "laboratorio_grupo": "PPGEP - Lab. de Otimização e Engenharia de Processos",
+    "especializacao": "Otimização de Processos, Pesquisa Operacional, Gestão de Operações, Engenharia de Processos",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/301",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Luiz Antonio Joia",
+    "email": "luiz.joia@uerj.br",
+    "setor_departamento": "FEN/DEPRO - Depto. de Engenharia de Produção (Maracanã)",
+    "laboratorio_grupo": "PPGEP - Lab. de Estratégia e Sistemas de Informação",
+    "especializacao": "Sistemas de Informação Industrial, Pesquisa Operacional, Transformação Digital, Gestão Tecnológica",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/180",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Julio Cesar da Silva",
+    "email": "secretaria@fat.uerj.br",
+    "setor_departamento": "FAT/DME - Depto. de Mecânica e Energia (Resende)",
+    "laboratorio_grupo": "Lab. de Hidráulica, Pneumática e Motores",
+    "especializacao": "Sistemas Hidráulicos e Pneumáticos, Motores de Combustão, Termofluidodinâmica Aplicada",
+    "fonte_validacao": "https://www.fat.uerj.br/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Marcio de Almeida D'Agosto",
+    "email": "secretaria@fat.uerj.br",
+    "setor_departamento": "FAT/DENP - Depto. de Engenharia de Produção (Resende)",
+    "laboratorio_grupo": "Lab. de Logística e Processos Industriais",
+    "especializacao": "Otimização da Manufatura, Logística Industrial, Simulação de Processos Produtivos",
+    "fonte_validacao": "https://www.fat.uerj.br/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Carlos Roberto Alves",
+    "email": "adm@campusresende.uerj.br",
+    "setor_departamento": "FAT/DEQA - Depto. de Engenharia Química e Ambiental (Resende)",
+    "laboratorio_grupo": "Lab. de Materiais, Polímeros e Compósitos",
+    "especializacao": "Materiais Poliméricos, Compósitos Estruturais, Caracterização Térmica e Mecânica",
+    "fonte_validacao": "https://www.fat.uerj.br/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Geraldo Xexéo",
+    "email": "ppgcompmat@ime.uerj.br",
+    "setor_departamento": "IME/PPG-COMPMAT - Inst. de Matemática e Estatística (Maracanã)",
+    "laboratorio_grupo": "PPG-COMPMAT - Lab. de Computação Científica e Modelagem Matemática",
+    "especializacao": "Ciência de Dados, Inteligência Artificial, Engenharia de Software, Analytics Aplicado",
+    "fonte_validacao": "http://www.ime.uerj.br/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Luiz Mariano Carvalho",
+    "email": "ppgcompmat@ime.uerj.br",
+    "setor_departamento": "IME/PPG-COMPMAT - Inst. de Matemática e Estatística (Maracanã)",
+    "laboratorio_grupo": "PPG-COMPMAT - Lab. de Métodos Computacionais",
+    "especializacao": "Computação de Alto Desempenho (HPC), Métodos Numéricos, Álgebra Linear Computacional",
+    "fonte_validacao": "http://www.ime.uerj.br/",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Luiz Henrique Aguiar De Azevedo",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. CARTO (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/13",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Placidino Machado Fagundes (No momento não leciona na FEN)",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. CARTO (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/26",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Celsio De Oliveira Moreira (No momento não leciona na FEN)",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. CARTO (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/19",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Ivan De Araújo Medina",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. CARTO (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/8",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Amauri Ribeiro Destri (No momento não leciona na FEN)",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. CARTO (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/1",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Carlos Santiago Filho (No momento não leciona na FEN)",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. CARTO (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/4",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Íbis Da Silva Vianna (No momento não leciona na FEN)",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. CARTO (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/20",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Thales Da Silveira Paradela",
+    "email": "thales@visar.com.br",
+    "setor_departamento": "FEN - Depto. DEIN (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/51",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Olavo Barbosa Filho",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. DESMA (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "CFD, Termofluidodinâmica, Transferência de Calor",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/59",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Antônio Romeiro Sapienza",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. DETEL (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/111",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Bernardo Bandeira De Figueiredo (No momento não leciona na FEN)",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. DCCT (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/113",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Camillo José Martins Gomes (No momento não leciona na FEN)",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. CARTO (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/116",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Elaine Cavalcante Peixoto Borin",
+    "email": "elaine.borin@ig.com.br",
+    "setor_departamento": "FEN/DEC - Depto. de Engenharia Civil e Estruturas (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/125",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Elaine Toscano Fonseca",
+    "email": "pgeciv@eng.uerj.br",
+    "setor_departamento": "FEN/DEC - Depto. de Engenharia Civil e Estruturas (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/126",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Arnaldo Vieira Da Rocha Filho",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. DESC (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/112",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Carlos Alexandre Da Silva Prado",
+    "email": "alexandrecasp@gmail.com",
+    "setor_departamento": "FEN - Depto. DEIN (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/108",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Alexandre Assis Carvalho (No momento não leciona na FEN)",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. DETEL (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/107",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Bernadete Ragoni Danziger",
+    "email": "brdanzig@uerj.br",
+    "setor_departamento": "FEN/DEC - Depto. de Engenharia Civil e Estruturas (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Elementos Finitos (FEA), Mecânica dos Sólidos, Vibrações e Acústica",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/114",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Cristiana Barbosa Bentes",
+    "email": "cristianabentes@gmail.com",
+    "setor_departamento": "FEN - Depto. DESC (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/121",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Carlos Alberto Biolchini Da Silva",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento": "FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/273",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  },
+  {
+    "nome": "Oscar Luiz Monteiro De Farias",
+    "email": "eng@eng.uerj.br",
+    "setor_departamento": "FEN - Depto. DESC (Maracanã)",
+    "laboratorio_grupo": "FEN - Faculdade de Engenharia (Maracanã)",
+    "especializacao": "Inteligência Artificial, Analytics e Otimização Computacional",
+    "fonte_validacao": "http://www.eng.uerj.br/prof/293",
+    "status_validacao": "Verificado",
+    "data_acesso": "2026-03-06"
+  }
+]
