@@ -1,0 +1,442 @@
+[
+  {
+    "nome": "Evandro Luiz Cardoso Macedo",
+    "email": "evandro.macedo@ime.uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "https://lattes.cnpq.br/6080740001190093",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Hélio do Nascimento Cunha Neto",
+    "email": "helio.cunha@ime.uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/7049529491757593",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Ian Vilar Bastos",
+    "email": "ian.bastos@eng.uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/1044684809741817",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Marcelo Gonçalves Rubinstein",
+    "email": "rubi@uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/2787725227134746",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Lisandro Lovisolo",
+    "email": "lisandro@uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/5556212442729541",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Michel Pompeu Tcheou",
+    "email": "mtcheou@uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/9868296846852777",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "José Paulo Vilela Soares da Cunha",
+    "email": "jpaulo@uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/2407263646297606",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Luís Fernando Corrêa Monteiro",
+    "email": "lmonteiro@uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/9876372612922406",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Pedro Henrique S. Coutinho",
+    "email": "phcoutinho@eng.uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/5272302377513795",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Tiago Roux de Oliveira",
+    "email": "tiagoroux@uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/2236381891580848",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Victor Hugo Pereira Rodrigues",
+    "email": "victor.rodrigues@eng.uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/9142050314353970",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Jorge Luís Machado do Amaral",
+    "email": "jamaral@uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/1000528740958810",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "José Franco Machado do Amaral",
+    "email": "franco@uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/1747957866812418",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Luiza de Macedo Mourelle",
+    "email": "ldmm@eng.uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/4189604454431782",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Nadia Nedjah",
+    "email": "nadia@eng.uerj.br",
+    "setor": "FEN / DEEL - Departamento de Engenharia Eletrônica e de Telecomunicações",
+    "laboratorio": "PEL - Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "Sistemas de Controle, Automação, Eletrônica de Potência e Processamento de Sinais",
+    "url": "http://lattes.cnpq.br/5417946704251656",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Ana Cristina Castro S. Lima",
+    "email": "anacriscastro@hotmail.com",
+    "setor": "FEN / Engenharia Civil",
+    "laboratorio": "PGECIV - Geotecnia e Métodos Numéricos",
+    "especializacao": "Estruturas, Mecânica dos Sólidos, Métodos Numéricos e Geotecnia Computacional",
+    "url": "http://lattes.cnpq.br/8653261732041736",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Bruno Lima",
+    "email": "brunolima.professor@gmail.com",
+    "setor": "FEN / Engenharia Civil",
+    "laboratorio": "PGECIV - Estruturas e Mecânica dos Sólidos",
+    "especializacao": "Estruturas, Mecânica dos Sólidos, Métodos Numéricos e Geotecnia Computacional",
+    "url": "http://lattes.cnpq.br/2231835989303406",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Kíssila Goliath",
+    "email": "kissilagoliath@gmail.com",
+    "setor": "FEN / Engenharia Civil",
+    "laboratorio": "PGECIV - Computação e Estruturas",
+    "especializacao": "Estruturas, Mecânica dos Sólidos, Métodos Numéricos e Geotecnia Computacional",
+    "url": "http://lattes.cnpq.br/3096329189541363",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Luciano Rodrigues Ornelas de Lima",
+    "email": "lucianolima@uerj.br",
+    "setor": "FEN / Engenharia Civil",
+    "laboratorio": "PGECIV - Pós-Graduação em Engenharia Civil",
+    "especializacao": "Estruturas, Mecânica dos Sólidos, Métodos Numéricos e Geotecnia Computacional",
+    "url": "http://lattes.cnpq.br/5786719402039867",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Margareth da Silva Magalhães",
+    "email": "margareth.magalhaes@uerj.br",
+    "setor": "FEN / Engenharia Civil",
+    "laboratorio": "PGECIV - Análise Numérica e Materiais",
+    "especializacao": "Estruturas, Mecânica dos Sólidos, Métodos Numéricos e Geotecnia Computacional",
+    "url": "http://lattes.cnpq.br/5786719402039867",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Monique Rodrigues",
+    "email": "monique.rodrigues@uerj.br",
+    "setor": "FEN / Engenharia Civil",
+    "laboratorio": "PGECIV - Geotecnia Computacional",
+    "especializacao": "Estruturas, Mecânica dos Sólidos, Métodos Numéricos e Geotecnia Computacional",
+    "url": "http://lattes.cnpq.br/9392939752668118",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Rodrigo Burgos",
+    "email": "rburgos@eng.uerj.br",
+    "setor": "FEN / Engenharia Civil",
+    "laboratorio": "PGECIV - Estruturas e Métodos Finitos",
+    "especializacao": "Estruturas, Mecânica dos Sólidos, Métodos Numéricos e Geotecnia Computacional",
+    "url": "http://lattes.cnpq.br/5604449684803425",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Armando Prestes Filho",
+    "email": "armando.prestes.filho@uerj.br",
+    "setor": "FEN / Engenharia Civil",
+    "laboratorio": "PGECIV - Mecânica das Estruturas",
+    "especializacao": "Estruturas, Mecânica dos Sólidos, Métodos Numéricos e Geotecnia Computacional",
+    "url": "http://lattes.cnpq.br/2437835320552168",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Fernando Lins",
+    "email": "pereiralins@gmail.com",
+    "setor": "FEN / Engenharia Civil",
+    "laboratorio": "PGECIV - Métodos Numéricos",
+    "especializacao": "Estruturas, Mecânica dos Sólidos, Métodos Numéricos e Geotecnia Computacional",
+    "url": "http://lattes.cnpq.br/2673103403783311",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Maria Fernanda de Oliveira",
+    "email": "mariafer@eng.uerj.br",
+    "setor": "FEN / Engenharia Civil",
+    "laboratorio": "PGECIV - Estruturas e Sólidos",
+    "especializacao": "Estruturas, Mecânica dos Sólidos, Métodos Numéricos e Geotecnia Computacional",
+    "url": "http://lattes.cnpq.br/5029738433988779",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Marcus Peigas Pacheco",
+    "email": "marcus_pacheco@terra.com.br",
+    "setor": "FEN / Engenharia Civil",
+    "laboratorio": "PGECIV - Geotecnia e Simulação",
+    "especializacao": "Estruturas, Mecânica dos Sólidos, Métodos Numéricos e Geotecnia Computacional",
+    "url": "http://lattes.cnpq.br/9883717994679157",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Americo Cunha Jr",
+    "email": "americo.cunha@uerj.br",
+    "setor": "FEN / MECAN - Departamento de Engenharia Mecânica",
+    "laboratorio": "LAMMAC - Laboratório de Modelagem Matemática e Computacional",
+    "especializacao": "Modelagem Estocástica, Dinâmica Não-Linear, Computação Científica e Métodos Numéricos",
+    "url": "http://www.gesar.uerj.br/",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Norberto Mangiavacchi",
+    "email": "norberto.mangiavacchi@uerj.br",
+    "setor": "FEN / MECAN - Departamento de Engenharia Mecânica",
+    "laboratorio": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais",
+    "especializacao": "CFD, Dinâmica dos Fluidos Computacional, Métodos de Elementos Finitos e Escoamentos Multifásicos",
+    "url": "http://lattes.cnpq.br/4311130635999519",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Gustavo Rabello dos Santos",
+    "email": "gustavo.rabello@uerj.br",
+    "setor": "FEN / MECAN - Departamento de Engenharia Mecânica",
+    "laboratorio": "GESAR / PPGEM - Modelagem de Escoamentos",
+    "especializacao": "CFD, Termofluidodinâmica, Métodos Numéricos e Elementos Finitos",
+    "url": "http://lattes.cnpq.br/8949826723223032",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Jose da Rocha Miranda Pontes",
+    "email": "jrmpontes@uerj.br",
+    "setor": "FEN / MECAN - Departamento de Engenharia Mecânica",
+    "laboratorio": "LFT - Laboratório de Fenômenos de Transporte",
+    "especializacao": "Fenômenos de Transporte, Transferência de Calor e Massa e Termofluidodinâmica",
+    "url": "https://www.ppgem.uerj.br/docentes.html",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Jorge Luis de Alcantara Gomes",
+    "email": "jorge.gomes@uerj.br",
+    "setor": "FEN / MECAN - Departamento de Engenharia Mecânica",
+    "laboratorio": "LaCaM - Laboratório de Computação Aplicada à Engenharia Mecânica",
+    "especializacao": "Mecânica dos Sólidos, Elementos Finitos, Otimização Estrutural e Simulação Numérica",
+    "url": "https://www.ppgem.uerj.br/docentes.html",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Sérgio de Oliveira Ribeiro",
+    "email": "sergio.ribeiro@uerj.br",
+    "setor": "FEN / MECAN - Departamento de Engenharia Mecânica",
+    "laboratorio": "LFM - Laboratório de Fluidos e Motores",
+    "especializacao": "Termodinâmica Aplicada, Motores de Combustão Interna, Análise Térmica e Fluidos",
+    "url": "https://www.ppgem.uerj.br/docentes.html",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Claudia Regina Elias Mansur",
+    "email": "celias@uerj.br",
+    "setor": "FEN / DEQ - Departamento de Engenharia Química",
+    "laboratorio": "LaFIT - Fenômenos Interfaciais e Termodinâmica / LMMC",
+    "especializacao": "Termodinâmica Química, Polímeros, Colóides e Simulação Molecular de Reatores",
+    "url": "http://www.eng.uerj.br/deptos/producaogeral.php",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Sonia Maria Alves de Micheli",
+    "email": "smicheli@uerj.br",
+    "setor": "FEN / DEQ - Departamento de Engenharia Química",
+    "laboratorio": "Laboratório de Simulação e Otimização de Processos Químicos",
+    "especializacao": "Modelagem, Simulação de Processos Químicos, Termodinâmica e gPROMS / ASPEN",
+    "url": "http://www.eng.uerj.br/deptos/producaogeral.php",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Helder Gomes Costa",
+    "email": "helder.costa@uerj.br",
+    "setor": "FEN / DEPRO - Departamento de Engenharia de Produção",
+    "laboratorio": "Laboratório de Pesquisa Operacional e Otimização",
+    "especializacao": "Pesquisa Operacional, Decisão Multicritério, Otimização de Processos e Logística",
+    "url": "http://www.eng.uerj.br/deptos/producaogeral.php",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Carlos Francisco Simões Gomes",
+    "email": "cfsgomes@uerj.br",
+    "setor": "FEN / DEPRO - Departamento de Engenharia de Produção",
+    "laboratorio": "Grupo de Apoio à Decisão Multicritério",
+    "especializacao": "Análise de Decisão, Otimização de Cadeia de Suprimentos e Modelagem de Processos",
+    "url": "http://www.eng.uerj.br/deptos/producaogeral.php",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Antônio José da Silva Neto",
+    "email": "ajsneto@iprj.uerj.br",
+    "setor": "IPRJ - Instituto Politécnico (Nova Friburgo)",
+    "laboratorio": "PPGMC / LABTRAN - Modelagem Multiescala e Transporte de Partículas",
+    "especializacao": "Problemas Inversos, Transferência de Calor, Otimização, Computação de Alto Desempenho e Supercomputador Escola de Sagres",
+    "url": "http://lattes.cnpq.br/3400588147321601",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Jader Lugon Junior",
+    "email": "jader.lugon@iprj.uerj.br",
+    "setor": "IPRJ - Instituto Politécnico (Nova Friburgo)",
+    "laboratorio": "PPGMC - Modelagem Computacional",
+    "especializacao": "Simulação Numérica, Escoamentos Multifásicos, Meios Porosos e CFD (STAR-CCM+ / OpenFOAM)",
+    "url": "https://www.iprj.uerj.br/docentes/",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Cesar Costapinto Santana",
+    "email": "santana@iprj.uerj.br",
+    "setor": "IPRJ - Instituto Politécnico (Nova Friburgo)",
+    "laboratorio": "PPGMC - Dinâmica e Acústica",
+    "especializacao": "Vibrações, Acústica, Dinâmica Estrutural e Análise Numérica",
+    "url": "https://www.iprj.uerj.br/docentes/",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Darlan Karsten",
+    "email": "darlan.karsten@iprj.uerj.br",
+    "setor": "IPRJ - Instituto Politécnico (Nova Friburgo)",
+    "laboratorio": "PPGMC / Engenharia de Computação",
+    "especializacao": "Computação Científica, Algoritmos Paralelos e Inteligência Artificial Aplicada",
+    "url": "https://www.iprj.uerj.br/docentes/",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Monique Osório Talarico da Conceição",
+    "email": "monique.talarico@fat.uerj.br",
+    "setor": "FAT - Faculdade de Tecnologia (Resende)",
+    "laboratorio": "DEQA / Laboratório de Materiais e Processos",
+    "especializacao": "Engenharia Metalúrgica, Ciência dos Materiais e Caracterização Estrutural",
+    "url": "http://lattes.cnpq.br/3344204581149970",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Secretaria de Administração FAT",
+    "email": "secretaria@fat.uerj.br",
+    "setor": "FAT - Faculdade de Tecnologia (Resende)",
+    "laboratorio": "DME / DENP / DEQA - Direção do Campus Resende",
+    "especializacao": "Gestão Acadêmica, Engenharia Mecânica, Hidráulica, Pneumática e Motores",
+    "url": "http://www.fat.uerj.br/dptos",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Diretoria de Inovação InovUerj",
+    "email": "inovuerj@uerj.br",
+    "setor": "InovUerj - Diretoria de Inovação / DEPINOVA PR2",
+    "laboratorio": "Escritório de Propriedade Intelectual (EPI) e Projetos",
+    "especializacao": "Propriedade Intelectual, Transferência de Tecnologia, Incubadoras e Parcerias Universidade-Empresa",
+    "url": "https://www.pr2.uerj.br/?page_id=501",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  },
+  {
+    "nome": "Assessoria de Projetos PR2",
+    "email": "assessoria@sr2.uerj.br",
+    "setor": "PR2 - Pró-Reitoria de Pós-Graduação e Pesquisa",
+    "laboratorio": "DEPINOVA - Departamento de Inovação",
+    "especializacao": "Gestão de Fomento à Pesquisa, Convênios Industriais e Projetos P&D",
+    "url": "https://www.pr2.uerj.br/?page_id=501",
+    "status": "Verificado",
+    "data_acesso": "11/09/2026"
+  }
+]
