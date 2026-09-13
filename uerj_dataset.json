@@ -1,0 +1,1382 @@
+[
+  {
+    "nome_completo": "Luiz Artur Pecorelli Peres",
+    "email_institucional": "deel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/57",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Luiz Antônio Jóia",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/180",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Tiago Roux De Oliveira",
+    "email_institucional": "detel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Sistemas de Controle / Automação / Eletrônica de Potência",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/267",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "André Luís De Sá Salomão",
+    "email_institucional": "desma@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/330",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Julio Nichioka",
+    "email_institucional": "depro@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia de Produção / Otimização e Processos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/168",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Moacyr Carvalho Filho",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/188",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Douglas Mota Dias",
+    "email_institucional": "detel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/336",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Sonia Maria Lima Silva",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "LEMA (Laboratório de Transferência de Calor e Massa)",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/304",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Luiz Paulo Souto Fortes",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/236",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Glauco José De Oliveira Rodrigues",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/282",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Antonio Marinho Junior",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/271",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Andre Ribeiro De Oliveira",
+    "email_institucional": "depro@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/269",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Darcy Aleixo Derenusson",
+    "email_institucional": "diretoria@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/FEN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/356",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Leonardo Campos Inocencio",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/398",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Humberto Lima Soriano",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/253",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Luciana Alem Gennari",
+    "email_institucional": "luciana.gennari@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/376",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Luiz Henrique Guimarães Castiglione",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/173",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Luiz Carlos De Menezes Toledo",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/171",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Wilson Freitas Rebello Da Silva Júnior",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/317",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Íris Pereira Escobar",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/230",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Luz Elena Penaranda Chenche",
+    "email_institucional": "elena.chenche@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Termofluidodinâmica / Transferência de Calor / Termodinâmica ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/429",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "José Guilherme Santos Da Silva",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/160",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Ian Vilar Bastos",
+    "email_institucional": "detel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/433",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Felipe Cassemiro Ulrichsen",
+    "email_institucional": "felipeulrichsen@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Civil / Estruturas e Métodos Numéricos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/395",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "José Brant De Campos",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/270",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Paulo Machado Massa",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Civil / Estruturas e Métodos Numéricos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/209",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Adacto Benedicto Ottoni",
+    "email_institucional": "desma@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/103",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Leopoldo Eurico Gonçalves Bastos",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Termofluidodinâmica / Transferência de Calor / Termodinâmica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/174",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Gustavo Rabello Dos Anjos",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "GESAR (Grupo de Simulação em Engenharia e Ciências Ambientais)",
+    "especializacao_tecnica": "CFD / Dinâmica dos Fluidos Computacional / Fenômenos de Transporte ; Termofluidodinâmica / Transferência de Calor / Termodinâmica ; Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/314",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Olavo Barbosa Filho",
+    "email_institucional": "desma@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/59",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Bernardo Feijó Junqueira",
+    "email_institucional": "bernardo.junqueira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/428",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Armando Prestes De Menezes Filho",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/281",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Ezer Urpia Rosa",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/399",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Placidino Machado Fagundes",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/26",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Evandro Mendes Da Silva",
+    "email_institucional": "detel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/130",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Walmir Ribeiro Pinheiro Junior",
+    "email_institucional": "deel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Sistemas de Controle e Automação / Eletrônica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/371",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Gabriel Cardoso De Carvalho",
+    "email_institucional": "gabrielc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Civil / Estruturas e Métodos Numéricos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/437",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Fellipe Dos Santos Reis",
+    "email_institucional": "diretoria@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/FEN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/278",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Ubirajara Aluizio De Oliveira Mattos",
+    "email_institucional": "desma@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/227",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "André Luiz Carvalho Cardoso",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/310",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Sheila Murgel Veloso",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Civil / Estruturas e Métodos Numéricos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/266",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "José Eudes Marinho Da Silva",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Polímeros & Compósitos / Ciência dos Materiais / Corrosão",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/434",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Ronei De Almeida",
+    "email_institucional": "desma@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/368",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Giomar Oliver Sequeiros Olivera",
+    "email_institucional": "giomar@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/369",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Paulo Pinheiro Castanheira Neto",
+    "email_institucional": "paulo.castanheira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/382",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Thales Alfredo De Ávila Carneiro",
+    "email_institucional": "detel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/225",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Lia Cardoso Rocha Saraiva Teixeira",
+    "email_institucional": "liateixeira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/345",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Raul Queiroz Feitosa",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo_pesquisa": "LEMA (Laboratório de Transferência de Calor e Massa)",
+    "especializacao_tecnica": "Engenharia Civil / Estruturas e Métodos Numéricos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/296",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Paulo Eurico De Melo Tavares",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/25",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Valter De Assis Moreno Jr",
+    "email_institucional": "valter.moreno@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo_pesquisa": "LEMA (Laboratório de Transferência de Calor e Massa)",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/303",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Fernando Paullo Muñoz",
+    "email_institucional": "fernando.paullo@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "LEMA (Laboratório de Transferência de Calor e Massa)",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/453",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Roberto Vigoderis",
+    "email_institucional": "deel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Sistemas de Controle e Automação / Eletrônica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/217",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "José Carlos Penna De Vasconcellos",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/152",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Carlos Henrique Saraiva Raposo",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Civil / Estruturas e Métodos Numéricos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/118",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Carlos Eduardo Leal",
+    "email_institucional": "deel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo_pesquisa": "LEMA (Laboratório de Transferência de Calor e Massa)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/117",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Roberto Teixeira Luz",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "LEMA (Laboratório de Transferência de Calor e Massa)",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/305",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Leonardo De Arruda Bitencourt",
+    "email_institucional": "deel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/394",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Rosane Cristina De Andrade",
+    "email_institucional": "rosane.andrade@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/346",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Teófilo Carlos Do Nascimento Monteiro",
+    "email_institucional": "desma@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/348",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Antonio Vieira Martins",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/18",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Robert Mota Oliveira",
+    "email_institucional": "mota@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Civil / Estruturas e Métodos Numéricos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/370",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Rebecca Mansur De Castro Silva",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo_pesquisa": "LEMA (Laboratório de Transferência de Calor e Massa)",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Polímeros & Compósitos / Ciência dos Materiais / Corrosão",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/383",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Joil Rafael Portela",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/353",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Ana Cristina Castro Sieira",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/110",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Marcelo Obraczka",
+    "email_institucional": "desma@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/323",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Julio De Albuquerque Gonzalez",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/243",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Marcelo Gonçalves Rubinstein",
+    "email_institucional": "detel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/190",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Rodolfo Luiz Martins Suanno",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Polímeros & Compósitos / Ciência dos Materiais / Corrosão",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/218",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Julia Celia Mercedes Strauch",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/154",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Sonia Maria Alves Costa",
+    "email_institucional": "sonia.costa@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/456",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Luciana Fernandes Guimarães",
+    "email_institucional": "luciana.guimaraes@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/360",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Samir De Souza Oliveira Alves",
+    "email_institucional": "samir.alves@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/365",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "José Rodolfo Souza",
+    "email_institucional": "detel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/164",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Ricardo Miyashita",
+    "email_institucional": "depro@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/215",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Rodrigo Bird Burgos",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/284",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Henrique Goldfeld",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Civil / Estruturas e Métodos Numéricos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/144",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Elias Nasr Naim Elias",
+    "email_institucional": "elias.naim@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/363",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Andrea Galudht Santacruz Jaramillo",
+    "email_institucional": "andrea.jaramillo@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/362",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "José Roberto Moraes D'almeida",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/163",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Gilberto Menezes Moraes",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/139",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Antonio Guilherme Garcia Lima",
+    "email_institucional": "deel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/299",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Eduardo Barbosa Cordeiro",
+    "email_institucional": "diretoria@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/FEN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/357",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Ikeciel Kiperman",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/146",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Sergio Orlando Antoun Netto",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "LEMA (Laboratório de Transferência de Calor e Massa)",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/306",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "José Carlos Vilar Amigo",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Mecânica / Térmica e Fluidos / Sólidos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/157",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Frederico Menezes Coelho",
+    "email_institucional": "desma@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/367",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Maria Luiza Fernandes Velloso",
+    "email_institucional": "detel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Sistemas de Controle / Automação / Eletrônica de Potência",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/248",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Jose Alexandre Assed",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/321",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Jorge Luís Machado Do Amaral",
+    "email_institucional": "detel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Sistemas de Controle / Automação / Eletrônica de Potência",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/156",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Camillo José Martins Gomes",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/116",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "João Bosco De Azevedo",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/320",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Mila Rosendahl Avelino",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "CFD / Dinâmica dos Fluidos Computacional / Fenômenos de Transporte ; Termofluidodinâmica / Transferência de Calor / Termodinâmica ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/238",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Elaine Cavalcante Peixoto Borin",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Civil / Estruturas e Métodos Numéricos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/125",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Luiz Antonio Arnaud Mendes",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/289",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Carlos José Marinho Falcão",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Mecânica / Térmica e Fluidos / Sólidos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/119",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Luis Chiganer",
+    "email_institucional": "deel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Sistemas de Controle e Automação / Eletrônica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/288",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Suzana Bottega Peripolli",
+    "email_institucional": "speripolli@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/450",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Maria Eugênia Gouvêa",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/197",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "João Marcos Lesqueves",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Mecânica / Térmica e Fluidos / Sólidos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/287",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Amauri Ribeiro Destri",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/1",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Gustaf Aurélio Perez Akerman",
+    "email_institucional": "mecan@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/140",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Valéria Barbosa Gomes",
+    "email_institucional": "depro@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/228",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Sérgio Barros Da Cunha",
+    "email_institucional": "sergio.cunha@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/409",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Pedro Paulo Thompson De Vasconcelos",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Civil / Estruturas e Métodos Numéricos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/295",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Elmo Rodrigues Da Silva",
+    "email_institucional": "desma@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/128",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Paulo Cesar De Almeida",
+    "email_institucional": "deel@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Sistemas de Controle / Automação / Eletrônica de Potência",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/207",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Hélcio De Oliveira Rocha",
+    "email_institucional": "depro@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/143",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Gilberto Gomes Gonçalves",
+    "email_institucional": "carto@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/242",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "José Paulo Vilela Soares Da Cunha",
+    "email_institucional": "jpaulo@lee.eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Sistemas de Controle / Automação / Eletrônica de Potência",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/162",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Odir Clécio Da Cruz Roque",
+    "email_institucional": "desma@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/202",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Albino Joaquim Pimenta Da Cunha",
+    "email_institucional": "desc@eng.uerj.br (secretaria/departamento)",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Elementos Finitos (FEA) / Mecânica das Estruturas e Sólidos ; Otimização de Processos / Pesquisa Operacional / CAD-CAM",
+    "url_fonte_validacao": "https://www.eng.uerj.br/prof/106",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Ricardo Fabbri",
+    "email_institucional": "rfabbri@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/5759364958802333",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Leonardo Tavares Stutz",
+    "email_institucional": "ltstutz@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/1627016864213973",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Arthur Adeodato",
+    "email_institucional": "arthuradeodato@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/1930244152732337",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Mônica Calixto de Andrade",
+    "email_institucional": "mcalixto@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/4303756562067099",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Otávio Goldoni Quina de Almeida",
+    "email_institucional": "otavio@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/0370289703227389",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "João Flávio Vieira de Vasconcellos",
+    "email_institucional": "jflavio@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/9634798722030132",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Sílvia Cristina Dias Pinto",
+    "email_institucional": "silvia.dias@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/4333940423066302",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Joel Sanchez Dominguez",
+    "email_institucional": "jsdominguez@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC ; Sistemas de Controle / Automação / Eletrônica de Potência",
+    "url_fonte_validacao": "https://lattes.cnpq.br/8822296976490321",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Luiz Alberto da Silva Abreu",
+    "email_institucional": "luiz.abreu@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LEMA (Laboratório de Transferência de Calor e Massa)",
+    "especializacao_tecnica": "CFD / Dinâmica dos Fluidos Computacional / Fenômenos de Transporte ; Termofluidodinâmica / Transferência de Calor / Termodinâmica ; Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/2157391120883842",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Leonardo Rodrigues da Costa Moraes",
+    "email_institucional": "lrcmoraes@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "http://lattes.cnpq.br/0059284776766872",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Roberto Pinheiro Domingos",
+    "email_institucional": "roberto.pinheiro@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LEMA (Laboratório de Transferência de Calor e Massa)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/0109837868064895",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Rodrigo Lamblet Mafort",
+    "email_institucional": "rodrigo.mafort@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/1901861620111067",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Helio Pedro Amaral Souto",
+    "email_institucional": "helio@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN (Laboratório de Modelagem Multiescala e Transporte de Partículas)",
+    "especializacao_tecnica": "CFD / Dinâmica dos Fluidos Computacional / Fenômenos de Transporte ; Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/1999072996132654",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Marisa Cristina Guimarães Rocha",
+    "email_institucional": "mrocha@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/5408802153017996",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Silvia Mara da Costa Campos",
+    "email_institucional": "silviacampos@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/2142669271116040",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Mayksoel Medeiros de Freitas",
+    "email_institucional": "mayksoel@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN (Laboratório de Modelagem Multiescala e Transporte de Partículas)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/3199715225291891",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Gustavo Barbosa Libotte",
+    "email_institucional": "gustavolibotte@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/1939530661449967",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Antônio José da Silva Neto",
+    "email_institucional": "ajsneto@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/5148738006361781",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Jhonny Oswaldo Huertas Flores",
+    "email_institucional": "jhonnyhf@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/1143140380347003",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Loena Marins do Couto",
+    "email_institucional": "loena@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa em Modelagem Computacional (IPRJ)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "https://lattes.cnpq.br/4944213325519789",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Luiz Eduardo de Oliveira Gomes",
+    "email_institucional": "dme@fat.uerj.br",
+    "setor_departamento_campus": "FAT/DME - Resende",
+    "laboratorio_grupo_pesquisa": "Laboratório de Materiais e Processos (FAT)",
+    "especializacao_tecnica": "Termofluidodinâmica / Transferência de Calor / Termodinâmica",
+    "url_fonte_validacao": "https://www.fat.uerj.br/noticias/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Cristiane Rangel de Assis",
+    "email_institucional": "deqa@fat.uerj.br",
+    "setor_departamento_campus": "FAT/DEQA - Resende",
+    "laboratorio_grupo_pesquisa": "Laboratório de Materiais e Processos (FAT)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão",
+    "url_fonte_validacao": "https://www.fat.uerj.br/processos-seletivos/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Joaquim Teixeira de Assis",
+    "email_institucional": "dme@fat.uerj.br",
+    "setor_departamento_campus": "FAT/DME - Resende",
+    "laboratorio_grupo_pesquisa": "Laboratório de Materiais e Processos (FAT)",
+    "especializacao_tecnica": "Polímeros & Compósitos / Ciência dos Materiais / Corrosão",
+    "url_fonte_validacao": "https://www.fat.uerj.br/noticias/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Americo Cunha Jr",
+    "email_institucional": "americo.cunha@ime.uerj.br",
+    "setor_departamento_campus": "IME/PPG-COMPMAT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "http://www.ime.uerj.br/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Glauber Tompkins de Moura",
+    "email_institucional": "ppgcompmat@ime.uerj.br",
+    "setor_departamento_campus": "IME/PPG-COMPMAT - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia e Pesquisa Aplicada",
+    "especializacao_tecnica": "Otimização de Processos / Pesquisa Operacional / CAD-CAM ; Modelagem Computacional / Métodos Numéricos / IA & Analytics / HPC",
+    "url_fonte_validacao": "http://www.ime.uerj.br/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Marinilza Bruno de Carvalho",
+    "email_institucional": "inovuerj@uerj.br",
+    "setor_departamento_campus": "InovUerj / DEPINOVA - Maracanã",
+    "laboratorio_grupo_pesquisa": "InovUerj / Diretoria de Inovação",
+    "especializacao_tecnica": "Engenharia Aplicada / Modelagem Numérica",
+    "url_fonte_validacao": "https://www.uerj.br/a-uerj/institucional/pessoas-e-unidades/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  },
+  {
+    "nome_completo": "Norberto Mangiavacchi",
+    "email_institucional": "norberto@gesar.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "GESAR (Grupo de Simulação em Engenharia e Ciências Ambientais)",
+    "especializacao_tecnica": "CFD / Dinâmica dos Fluidos Computacional / Fenômenos de Transporte ; Termofluidodinâmica / Transferência de Calor / Termodinâmica",
+    "url_fonte_validacao": "http://www.eng.uerj.br/prof/314",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-13"
+  }
+]
