@@ -1,8 +1,8 @@
 # Relatório de Levantamento de Leads B2B — PMEs sem Site em São Paulo (Capital)
 
-**Data da Coleta:** 11/09/2026
-**Escopo Geográfico:** Cidade de São Paulo (Capital) — Cobertura em 5 Zonas (Centro, Zona Sul, Zona Oeste, Zona Leste, Zona Norte)
-**Total de Leads Qualificados:** 37
+**Data da Coleta:** 14/09/2026
+**Escopo Geográfico:** Cidade de São Paulo (Capital) — Cobertura Completa em 5 Zonas (Centro, Zona Sul, Zona Oeste, Zona Leste, Zona Norte)
+**Total de Leads Qualificados:** 41
 
 ---
 
@@ -16,11 +16,11 @@ A presente pesquisa foi executada com o objetivo de mapear **pequenas e médias 
 | :--- | :--- | :---: |
 | Clínicas de estética facial e corporal | Grupo 1 — Saúde, estética e bem-estar | 15 |
 | Consultórios odontológicos independentes | Grupo 1 — Saúde, estética e bem-estar | 3 |
-| Clínicas/consultórios de fisioterapia | Grupo 1 — Saúde, estética e bem-estar | 3 |
+| Clínicas/consultórios de fisioterapia | Grupo 1 — Saúde, estética e bem-estar | 6 |
 | Salões de beleza e barbearias de padrão médio-alto | Grupo 1 — Saúde, estética e bem-estar | 4 |
 | Estúdios de pilates, yoga e personal trainers | Grupo 1 — Saúde, estética e bem-estar | 4 |
 | Clínicas veterinárias e pet shops com serviços (banho, tosa, consulta) | Grupo 1 — Saúde, estética e bem-estar | 3 |
-| Escritórios de advocacia de pequeno porte | Grupo 2 — Serviços profissionais | 2 |
+| Escritórios de advocacia de pequeno porte | Grupo 2 — Serviços profissionais | 3 |
 | Escritórios de contabilidade | Grupo 2 — Serviços profissionais | 1 |
 | Corretores de imóveis autônomos e pequenas imobiliárias | Grupo 2 — Serviços profissionais | 1 |
 | Consultorias (RH, financeira, empresarial, marketing) | Grupo 2 — Serviços profissionais | 1 |
@@ -29,11 +29,11 @@ A presente pesquisa foi executada com o objetivo de mapear **pequenas e médias 
 
 | Zona | Sub-regiões / Bairros Principais | Total de Leads |
 | :--- | :--- | :---: |
-| Centro | Bela Vista, Santa Cecília, Consolação, Liberdade, Sé, República | 20 |
-| Zona Sul | Vila Mariana, Moema, Campo Belo, Santo Amaro, Saúde, Brooklin | 5 |
-| Zona Oeste | Pinheiros, Vila Madalena, Perdizes, Lapa, Butantã, Vila Leopoldina | 4 |
-| Zona Leste | Tatuapé, Mooca, Penha, Itaquera, Vila Prudente, Belém | 4 |
-| Zona Norte | Santana, Casa Verde, Tucuruvi, Vila Guilherme, Vila Maria, Mandaqui | 4 |
+| Centro | Aclimação, Cambuci, Consolação | 22 |
+| Zona Sul | Ipiranga, Morumbi, Vila Olímpia, Santo Amaro, Brooklin | 5 |
+| Zona Oeste | Barra Funda, Jardins, Perdizes, Lapa, Butantã | 5 |
+| Zona Leste | Anália Franco, Belém, Penha, Itaquera, Vila Prudente | 4 |
+| Zona Norte | Mandaqui, Jaçanã, Vila Guilherme, Vila Maria, Santana | 5 |
 
 ---
 
@@ -90,6 +90,10 @@ A presente pesquisa foi executada com o objetivo de mapear **pequenas e médias 
 | 35 | Clínica Veterinária Petshop Banho E Tosa | Clínicas veterinárias e pet shops com serviços (banho, tosa, consulta) | Casa Verde / Zona Norte | +55 11 2976-8379 | não encontrado | 4,8 | 146 | [Perfil Maps](https://www.google.com/maps/place/Cl%C3%ADnica+Veterin%C3%A1ria+Petshop+Banho+E+Tosa/data=!4m7!3m6!1s0x94cef7c5c392e977:0x8fb1a6cdf19ca247!8m2!3d-23.4995431!4d-46.6430359!16s%2Fg%2F11hbtg12qp!19sChIJd-mSw8X3zpQRR6Kc8c2msY8?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1) | Perfil sem botão de site no Google Maps e busca web confirmou ausência de domínio próprio (encontrados apenas perfis em redes sociais/diretórios) |
 | 36 | DIVINASEG CORRETORA | Corretores de imóveis autônomos e pequenas imobiliárias | Casa Verde / Zona Norte | +55 11 99405-7770 | não encontrado | 5,0 | 37 | [Perfil Maps](https://www.google.com/maps/place/DIVINASEG+CORRETORA/data=!4m7!3m6!1s0x94cef73554323625:0x6af80772804b01f1!8m2!3d-23.5106092!4d-46.6592532!16s%2Fg%2F11kr9m92sp!19sChIJJTYyVDX3zpQR8QFLgHIH-Go?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1) | Perfil sem botão de site no Google Maps e busca web confirmou ausência de domínio próprio (encontrados apenas perfis em redes sociais/diretórios) |
 | 37 | Drª Marluci Carvalho | Clínicas/consultórios de fisioterapia | Saúde / Zona Sul | +55 11 98512-7723 | não encontrado | 5,0 | 31 | [Perfil Maps](https://www.google.com/maps/place/Dr%C2%AA+Marluci+Carvalho/data=!4m7!3m6!1s0x94ce5b6281b7cb75:0xc6be4949cd9059d6!8m2!3d-23.6426361!4d-46.7001344!16s%2Fg%2F11v3xg7dx8!19sChIJdcu3gWJbzpQR1lmQzUlJvsY?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1) | Perfil sem botão de site no Google Maps e busca web confirmou ausência de domínio próprio (encontrados apenas perfis em redes sociais/diretórios) |
+| 38 | Advocacia Descomplicada. | Escritórios de advocacia de pequeno porte | Cambuci / Centro | +55 11 95429-4922 | não encontrado | 5,0 | 10 | [Perfil Maps](https://www.google.com/maps/place/Advocacia+Descomplicada./data=!4m7!3m6!1s0x94ce5948e277f8a9:0x10025d95fdba9584!8m2!3d-23.5617806!4d-46.6215105!16s%2Fg%2F11trq_10gc!19sChIJqfh34khZzpQRhJW6_ZVdAhA?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1) | Perfil sem botão de site no Google Maps e busca web confirmou ausência de domínio próprio (encontrados apenas perfis em redes sociais/diretórios) |
+| 39 | Clínica de Fisioterapia - Instituto Trata Jardins | Clínicas/consultórios de fisioterapia | Jardins / Zona Oeste | +55 11 91369-9073 | não encontrado | 5,0 | 350 | [Perfil Maps](https://www.google.com/maps/place/Cl%C3%ADnica+de+Fisioterapia+-+Instituto+Trata+Jardins/data=!4m7!3m6!1s0x94ce5975eb33b2cd:0x47f7ea1bc27afcc5!8m2!3d-23.573679!4d-46.661274!16s%2Fg%2F11c6ljrgvd!19sChIJzbIz63VZzpQRxfx6whvq90c?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1) | Perfil sem botão de site no Google Maps e busca web confirmou ausência de domínio próprio (encontrados apenas perfis em redes sociais/diretórios) |
+| 40 | ESTÉTICA AVANÇADA DRA ADRIANA QUEIROZ BY DERMA AGE CLINIC FISIOTERAPEUTA CREFITO 194036F | Clínicas/consultórios de fisioterapia | Jaçanã / Zona Norte | +55 11 95475-0513 | não encontrado | 5,0 | 12 | [Perfil Maps](https://www.google.com/maps/place/EST%C3%89TICA+AVAN%C3%87ADA+DRA+ADRIANA+QUEIROZ+BY+DERMA+AGE+CLINIC+FISIOTERAPEUTA+CREFITO+194036F/data=!4m7!3m6!1s0x94cef52e95d7ea4f:0xe63092eb972f0e6b!8m2!3d-23.4684125!4d-46.5815998!16s%2Fg%2F11q_clyghd!19sChIJT-rXlS71zpQRaw4vl-uSMOY?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1) | Perfil sem botão de site no Google Maps e busca web confirmou ausência de domínio próprio (encontrados apenas perfis em redes sociais/diretórios) |
+| 41 | Fisioterapia - Clínica FisioMovimento | Clínicas/consultórios de fisioterapia | Aclimação / Centro | +55 11 94199-3601 | não encontrado | 5,0 | 65 | [Perfil Maps](https://www.google.com/maps/place/Fisioterapia+-+Cl%C3%ADnica+FisioMovimento/data=!4m7!3m6!1s0x94ce5915d56408f9:0x21febb1e0fc574c0!8m2!3d-23.5693952!4d-46.6388099!16s%2Fg%2F11y1ms82t0!19sChIJ-Qhk1RVZzpQRwHTFDx67_iE?authuser=0&hl=pt-BR&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1) | Perfil sem botão de site no Google Maps e busca web confirmou ausência de domínio próprio (encontrados apenas perfis em redes sociais/diretórios) |
 
 ---
 
