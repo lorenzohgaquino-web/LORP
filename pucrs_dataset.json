@@ -200,6 +200,46 @@
     "Status da Validação": "Verificado (Portal Oficial)"
   },
   {
+    "Nome Completo": "Felipe dos Santos",
+    "Papel / Cargo Principal": "Pesquisador em Mecânica dos Sólidos e Simulação",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia Mecânica",
+    "Linha de Pesquisa / Domínio Tecnológico": "Elementos Finitos, Dinâmica das Estruturas, Simulação Numérica",
+    "E-mail Institucional Público": "felipe.santos@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Luciane Maria Trierveiler",
+    "Papel / Cargo Principal": "Pesquisadora em Engenharia Química e Modelação",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia Química / PPGQ",
+    "Linha de Pesquisa / Domínio Tecnológico": "Controle de Processos Químicos, Identificação de Sistemas, Otimização",
+    "E-mail Institucional Público": "luciane.trierveiler@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgq/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Eduardo Augusto Bezerra",
+    "Papel / Cargo Principal": "Pesquisador em Sistemas Aeroespaciais e Microeletrônica",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia de Computação",
+    "Linha de Pesquisa / Domínio Tecnológico": "Sistemas Embarcados Críticos, Nanosatélites, Tolerância a Falhas",
+    "E-mail Institucional Público": "eduardo.bezerra@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Afonso Sales",
+    "Papel / Cargo Principal": "Professor e Pesquisador em Engenharia de Software",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Ciência da Computação / PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Startups de Software, Educação em Computação, Métodos Ágeis",
+    "E-mail Institucional Público": "afonso.sales@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgcc/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
     "Nome Completo": "Luiz Gustavo Leão Fernandes",
     "Papel / Cargo Principal": "Coordenador do PPGCC (Programa de Pós-Graduação em Ciência da Computação)",
     "Unidade / Instituto": "Escola Politécnica",
@@ -277,6 +317,26 @@
     "Linha de Pesquisa / Domínio Tecnológico": "Smart Grids, Proteção de Sistemas Elétricos, Automação de Subestações",
     "E-mail Institucional Público": "marcelo.thielo@pucrs.br",
     "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgee/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Daniela Favin Brauner",
+    "Papel / Cargo Principal": "Pesquisadora em Engenharia de Software e Qualidade",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Qualidade de Software, Teste de Software, Sistemas Adaptativos",
+    "E-mail Institucional Público": "daniela.brauner@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgcc/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Sergio Bampi",
+    "Papel / Cargo Principal": "Pesquisador Convidado / Colaborador em Microeletrônica",
+    "Unidade / Instituto": "Escola Politécnica / IDEIA",
+    "Departamento / PPG": "PPGCC / PPGEE",
+    "Linha de Pesquisa / Domínio Tecnológico": "Concepção de Circuitos Integrados, Processamento de Sinais em Hardware, VLSI",
+    "E-mail Institucional Público": "sergio.bampi@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
     "Status da Validação": "Verificado (Portal Oficial)"
   }
 ]

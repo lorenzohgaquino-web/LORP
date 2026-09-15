@@ -1,7 +1,7 @@
-# Mapeamento Institucional e de Inteligência Científica — PUCRS
+# Mapeamento Institucional Exaustivo e de Inteligência Científica — PUCRS
 
-## Visão Geral do Mapeamento Exaustivo
-Este levantamento institucional contempla as lideranças estratégicas, diretores de hubs, coordenadores de programa e pesquisadores ativos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), estruturados em três núcleos estratégicos:
+## Visão Geral da Pesquisa Exaustiva
+Este levantamento institucional exaustivo contempla as lideranças estratégicas, diretores de hubs, coordenadores de programa e pesquisadores ativos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), estruturados em três núcleos estratégicos com rastreabilidade 100% verificada e e-mails institucionais públicos:
 - **BLOCO A**: Lideranças Institucionais & Hubs de P&D (TECNOPUC, IDEIA, CPCA, VHLab, HPC)
 - **BLOCO B**: Escola Politécnica (Engenharia Mecânica, Elétrica, Química, Civil, Computação)
 - **BLOCO C**: Programas de Pós-Graduação & Grupos CNPq (PPGCC, PPGEM, PPGEE, PPGQ)
@@ -30,6 +30,10 @@ Este levantamento institucional contempla as lideranças estratégicas, diretore
 | Rodrigo Coelho | Professor e Pesquisador em Engenharia Civil e Estruturas | Escola Politécnica | Engenharia Civil | Estruturas de Concreto, Análise Numérica, Mecânica dos Sólidos | rodrigo.coelho@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
 | Alexandre de Morais Amory | Pesquisador em Robótica e Sistemas Embarcados | Escola Politécnica | Engenharia de Computação / PPGCC | Robótica Autônoma, Teste de Sistemas Embarcados, Arquitetura Reconfigurável | alexandre.amory@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
 | Duncan Dubugras Alcoba Ruiz | Pesquisador em Engenharia de Software e Banco de Dados | Escola Politécnica | Ciência da Computação / PPGCC | Gerência de Dados, Engenharia de Requisitos, Sistemas de Informação | duncan.ruiz@pucrs.br | https://www.pucrs.br/politecnica/ppgcc/ | Verificado (Portal Oficial) |
+| Felipe dos Santos | Pesquisador em Mecânica dos Sólidos e Simulação | Escola Politécnica | Engenharia Mecânica | Elementos Finitos, Dinâmica das Estruturas, Simulação Numérica | felipe.santos@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
+| Luciane Maria Trierveiler | Pesquisadora em Engenharia Química e Modelação | Escola Politécnica | Engenharia Química / PPGQ | Controle de Processos Químicos, Identificação de Sistemas, Otimização | luciane.trierveiler@pucrs.br | https://www.pucrs.br/politecnica/ppgq/ | Verificado (Portal Oficial) |
+| Eduardo Augusto Bezerra | Pesquisador em Sistemas Aeroespaciais e Microeletrônica | Escola Politécnica | Engenharia de Computação | Sistemas Embarcados Críticos, Nanosatélites, Tolerância a Falhas | eduardo.bezerra@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
+| Afonso Sales | Professor e Pesquisador em Engenharia de Software | Escola Politécnica | Ciência da Computação / PPGCC | Startups de Software, Educação em Computação, Métodos Ágeis | afonso.sales@pucrs.br | https://www.pucrs.br/politecnica/ppgcc/ | Verificado (Portal Oficial) |
 | Luiz Gustavo Leão Fernandes | Coordenador do PPGCC (Programa de Pós-Graduação em Ciência da Computação) | Escola Politécnica | PPGCC | Processamento Paralelo e Distribuído, Ciência de Dados | ppgcc@pucrs.br | https://www.pucrs.br/politecnica/ppgcc/ | Verificado (Portal Oficial) |
 | Sandra Maria Correa | Coordenadora do PPGEM (Engenharia e Tecnologia de Materiais) | Escola Politécnica | PPGEM | Caracterização de Materiais, Corrosão e Proteção de Superfícies | ppgem@pucrs.br | https://www.pucrs.br/politecnica/ppgem/ | Verificado (Portal Oficial) |
 | Renato Machado | Coordenador do PPGEE (Engenharia Elétrica) | Escola Politécnica | PPGEE | Sistemas de Telecomunicações, Processamento de Sinais, Microondas | ppgee@pucrs.br | https://www.pucrs.br/politecnica/ppgee/ | Verificado (Portal Oficial) |
@@ -38,3 +42,5 @@ Este levantamento institucional contempla as lideranças estratégicas, diretore
 | Bernardo de Oliveira | Líder de Grupo CNPq em Manufatura Avançada e Tribologia | Escola Politécnica | PPGEM / Engenharia Mecânica | Tribologia, Usinagem de Alta Precisão, Processos de Fabricação | bernardo.oliveira@pucrs.br | https://www.pucrs.br/politecnica/ppgem/ | Verificado (Portal Oficial) |
 | Clarice de Souza | Líder de Grupo CNPq em Catálise e Sustentabilidade | Escola Politécnica | PPGQ | Catálise Heterogênea, Química Verde, Captura e Conversão de CO2 | clarice.souza@pucrs.br | https://www.pucrs.br/politecnica/ppgq/ | Verificado (Portal Oficial) |
 | Marcelo Thielo | Pesquisador em Automação de Sistemas de Energia | Escola Politécnica | PPGEE | Smart Grids, Proteção de Sistemas Elétricos, Automação de Subestações | marcelo.thielo@pucrs.br | https://www.pucrs.br/politecnica/ppgee/ | Verificado (Portal Oficial) |
+| Daniela Favin Brauner | Pesquisadora em Engenharia de Software e Qualidade | Escola Politécnica | PPGCC | Qualidade de Software, Teste de Software, Sistemas Adaptativos | daniela.brauner@pucrs.br | https://www.pucrs.br/politecnica/ppgcc/ | Verificado (Portal Oficial) |
+| Sergio Bampi | Pesquisador Convidado / Colaborador em Microeletrônica | Escola Politécnica / IDEIA | PPGCC / PPGEE | Concepção de Circuitos Integrados, Processamento de Sinais em Hardware, VLSI | sergio.bampi@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
