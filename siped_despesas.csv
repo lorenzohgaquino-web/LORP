@@ -1,0 +1,520 @@
+﻿SK_SEQ_DESPESA,NK_SEQ_DESPESA,NK_SEQ_PROJETO,NUM_ITEM_DESPESA,IND_PROCEDENCIA_BEM,DSC_DESPESA,DSC_JUSTIFICATIVA,DSC_TIPO_DESPESA,DSC_ELEMENTO_DESPESA,VAL_UNITARIO_BEM_SERVICO,VAL_TOTAL_DECLARADO
+2.12,I,Membro da Equipe não definido 7,alinhamento da pesquisa com as demandas de oleo e gas,,,,,,,
+1.2,N,Aline Maria Poças Belila,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,EQUIPE,0,0,27132.81,,
+13.1,N,10000,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,RECURSOS HUMANOS,1,1,27132.81,,147264
+1.3,I,Aline Maria Poças Belila,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,EQUIPE,0,4124.17,27132.81,,
+13.2,I,10000,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,MATERIAL DE CONSUMO,2,1,27132.81,,54669.6
+1.4,3,Aline Maria Poças Belila,"O bolsista será responsável pela organização e execução da parte experimental do projeto, organização dos dados e apresentação dos resultados e pela manutenção do laboratório para as condições adequadas ao desenvolvimento da parte experimental. Deverá estar atualizado com a bibliografia.",REMUNERAÇÃO DIRETA,OUTRAS DESPESAS,2,1,2800,,
+13.3,3,10000,"O bolsista será orientado e treinado para a execução da parte experimental do projeto sendo respondável pela purificação dos reagentes e solventes, condução de sínteses e testes de solubilidade e estabilidade dos asfaltenos, aquisição de espectros de abosrbância para medidades de polaridade do meio.",REMUNERAÇÃO DIRETA,PASSAGENS,3,3,0,14400,
+2.1,4,Aline Maria Poças Belila,"O Prof. Omar A. El Seoud tem vasta experiência na química de colóides, tensoativos, polímeros e de petróleo e contribuirá em todas as etapas do projeto. Os detalhes das suas atividades estão descritas em documento anexado.",REMUNERAÇÃO DIRETA,DIARIAS E AJUDA DE CUSTO,2,1,5728,,
+13.4,4,10000,Os reagentes e gases especiais serão necessários para síntese de sondas solvatocrômicas e de aditivos para inibição de precipitação de asfaltenos.A justificativa detalhada deste item se encontra em carta resposta anexada.,REMUNERAÇÃO DIRETA,SERVICOS,4,0,0,166138.32,
+2.2,5,Aline Maria Poças Belila,Os solventes serão necessários para a extração dos asfaltenos do petróleo e o estudo da sua solubilização nos mesmos e como meio de reações de síntese de sondas solvatocrômicas ou aditivos de inibição.,REMUNERAÇÃO DIRETA,DIARIAS E AJUDA DE CUSTO,2,1,6384,,
+15.101,5,10000,"As vidrarias serão necessárias em todas as etapas de preparação, separação, síntese, testes de solubilidade que fazem parte  do projeto.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,EQUIPAMENTO E MATERIAL PERMANENTE,5,4,2,15500,
+2.3,6,Aline Maria Poças Belila,"Material necessário para a aquisição e tratamento de dadosexpeirmentais do projeto: pin drive, placa mãe MB Asus B150M-C BR DDR4-2133(OC) LGA 1151; processador Intel Core i7 6700; 2 Memória Kingston 8GB DDR4; HD Sata 1TB Seagate Barracuda.",REMUNERAÇÃO DIRETA,DIARIAS E AJUDA DE CUSTO,2,1,5858.02,,
+2.4,6,10000,VIAGEM 1,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,OBRAS E INSTALACOES,6,4,2,9950,
+3.1,7,Aline Maria Poças Belila,VIAGEM 2,REMUNERAÇÃO DIRETA,DIARIAS E AJUDA DE CUSTO,3,5562.69,,,
+3.2,7,10000,VIAGEM 3,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,OUTROS BENS E DIREITOS,7,4,2,9500,
+3.3,8,10000,VIAGEM 4,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,TRIBUTOS,8,4,2,6500,
+3.4,9,10000,Faz-se necessário o uso e a manutenção de aparelhos de vidros específicos para a execução da parte experimental do projeto.,REMUNERAÇÃO DIRETA,SERVICOS - TIB,9,6,4,1400,
+4.1,10,10000,As análises são necessárias para caracterização dos produtos de síntese e de testes de aplicação,REMUNERAÇÃO DIRETA,PROTOTIPO,10,6,4,1400,
+4.2,11,10000,"O item a ser adquirido  será utilizado para armazenamento e tratamento dos dados, confecção de relatórios, cálculos teóricos e modelagem.",REMUNERAÇÃO DIRETA,SERVICOS - TIB,11,6,4,1400,
+5.1,12,10000,"O item a ser adquirido  será utilizado para conservação de reagentes, solventes , produtos de síntese e formulados FIAR modelo.",REMUNERAÇÃO DIRETA,PROTOTIPO,12,6,4,1400,
+5.2,13,10000,As etapas principais do projeto envolvem a dissolução seguida pela separação da parte não dissolvida dos asfaltenos em diferentes meios. A completa separação dos asfaltenos necessita uma elevada força centrífuga à temperatura constante e por isso esse equipamento é imprescindível para o projeto.,REMUNERAÇÃO DIRETA,13,9,7,5,500,
+9.1,14,10000,Coordenação do projeto e orientação científica dos trabalhos desenvolvidos,REMUNERAÇÃO DIRETA,13,11,7,5,500,
+9.2,15,10000,Análise dos dados com aplicação de técnicas estatísticas e de redes neurais,REMUNERAÇÃO DIRETA,14,13,8,6,4800,
+9.3,16,10000,Aplicação de técnicas de análise de sinais para investigação do comportamento dados,REMUNERAÇÃO DIRETA,15,14,8,6,7500,
+15.1,17,10000,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,16,15,9,7,4600,
+15.17,18,10000,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,17,16,9,7,2400,
+15.33,19,10000,Análise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA,18,17,9,7,33250,
+1.5,20,10000,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,6650,,,
+1.6,21,10000,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,24433.59
+1.7,22,10000,Aplicação de métodos geoestatísticos em dados de tomografia e imagens das rochas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,11,,,41483.61
+1.8,25,10002,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,19,18,0,0,,154472.73
+1.9,26,10002,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,20,19,3,0,,192000
+1.10,27,10002,"O bolsista será orientado e treinado para a execução da parte experimental do projeto sendo respondável pela purificação dos reagentes e solventes, condução de sínteses e testes de solubilidade e estabilidade dos asfaltenos, aquisição de espectros de abosrbância para medidades de polaridade do meio.",REMUNERAÇÃO DIRETA,21,20,1,0,,180000
+1.11,28,10002,Os reagentes e gases especiais serão necessários para síntese de sondas solvatocrômicas e de aditivos para inibição de precipitação de asfaltenos.A justificativa detalhada deste item se encontra em carta resposta anexada.,REMUNERAÇÃO DIRETA,22,21,1,0,,73560
+1.12,29,10002,Utilização de simulação de fluxo para avaliar os impactos das heterogeneidades das rochas,REMUNERAÇÃO DIRETA,23,22,1,0,,73560
+3.5,30,10002,Aplicação de rotinas computacionais para análise de dados de tomografia,REMUNERAÇÃO DIRETA,24,23,1,0,,73560
+3.6,31,10002,Participação e orientação científica aos demais pesquisadores em todas as etapas de desenvolvimento do trabalho,REMUNERAÇÃO DIRETA,25,24,1,0,,73560
+3.7,32,10002,"Papel, caneta, lapis, grampeador, borracha",REMUNERAÇÃO DIRETA,26,25,1,0,,73560
+3.8,33,10002,"toner, discos, memoria, placas, papers, cartuchos, peças de reposição para computadores e periféricos",REMUNERAÇÃO DIRETA,27,26,0,0,,55600
+3.9,34,10002,VIAGEM 5,REMUNERAÇÃO DIRETA,28,27,1,0,,50616
+3.10,35,10002,VIAGEM 6,REMUNERAÇÃO DIRETA,29,28,1,0,,50616
+3.11,36,10002,VIAGEM 7,REMUNERAÇÃO DIRETA,30,29,0,0,,169072.8
+3.12,37,10002,"As vidrarias serão necessárias em todas as etapas de preparação, separação, síntese, testes de solubilidade que fazem parte  do projeto.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,31,30,4,2,2000,
+3.13,38,10002,VIAGEM 1,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,32,31,4,2,8000,
+4.3,39,10002,Faz-se necessário o uso e a manutenção de aparelhos de vidros específicos para a execução da parte experimental do projeto.,REMUNERAÇÃO DIRETA,33,9,6,4,1400,
+4.4,40,10002,As análises são necessárias para caracterização dos produtos de síntese e de testes de aplicação,REMUNERAÇÃO DIRETA,33,10,6,4,1400,
+4.5,41,10002,"O item a ser adquirido  será utilizado para armazenamento e tratamento dos dados, confecção de relatórios, cálculos teóricos e modelagem.",REMUNERAÇÃO DIRETA,33,11,6,4,1400,
+4.6,42,10002,"O item a ser adquirido  será utilizado para conservação de reagentes, solventes , produtos de síntese e formulados FIAR modelo.",REMUNERAÇÃO DIRETA,33,12,6,4,1400,
+4.7,43,10002,VIAGEM 8,REMUNERAÇÃO DIRETA,33,32,6,4,1400,
+4.8,44,10002,VIAGEM 9,REMUNERAÇÃO DIRETA,33,33,6,4,1400,
+5.3,45,10002,VIAGEM 10,REMUNERAÇÃO DIRETA,33,34,6,4,1400,
+5.4,46,10002,VIAGEM 11,REMUNERAÇÃO DIRETA,34,35,12,4,4500,
+8.1,47,10002,VIAGEM 12,REMUNERAÇÃO DIRETA,35,36,6,4,200,
+10.1,48,10002,VIAGEM 13,REMUNERAÇÃO DIRETA,35,37,6,4,200,
+10.2,49,10002,"Análise de tomografia, ressonância magnética, porosidade, permeabilidade e resistividade.",REMUNERAÇÃO DIRETA,35,38,6,4,200,
+16.1,50,10002,Descrição de testemunho no local em que se encontra depositado e aquisição dos dados de poços,REMUNERAÇÃO DIRETA,35,39,6,4,200,
+8.2,51,10002,Análise de micro tomografia em amostras de plugue,REMUNERAÇÃO DIRETA,35,40,6,4,200,
+9.4,52,10002,As etapas principais do projeto envolvem a dissolução seguida pela separação da parte não dissolvida dos asfaltenos em diferentes meios. A completa separação dos asfaltenos necessita uma elevada força centrífuga à temperatura constante e por isso esse equipamento é imprescindível para o projeto.,REMUNERAÇÃO DIRETA,13,9,7,5,10000,
+9.5,53,10002,Coordenação do projeto e orientação científica dos trabalhos desenvolvidos,REMUNERAÇÃO DIRETA,13,10,7,5,10000,
+9.6,54,10002,Desenvolvimento técnico da equipe e divulgação dos resultados obtidos,REMUNERAÇÃO DIRETA,13,11,7,5,10000,
+9.7,55,10002,Pequenos ajustes no espaço do laboratório para a adequação dos novos procedimentos que serão realizados no local,REMUNERAÇÃO DIRETA,13,12,7,5,10000,
+9.8,56,10002,Computador de alto desempenho para execução das atividades,REMUNERAÇÃO DIRETA,13,32,7,5,10000,
+9.9,57,10002,Computador de alto desempenho para controle e reconstrução de imagens,REMUNERAÇÃO DIRETA,13,33,7,5,10000,2500
+9.10,58,10002,Softwares de apoio a confeccção de relatórios (Office e Sistema operacional),REMUNERAÇÃO DIRETA,13,34,7,5,10000,2500
+9.11,59,10002,Lincenças para softwares importantes para o desenvolvimento do projeto< como Avizo Fire e Isatis,REMUNERAÇÃO DIRETA,36,35,7,5,10000,32375
+9.12,60,10002,Análise dos dados com aplicação de técnicas estatísticas e de redes neurais,REMUNERAÇÃO DIRETA,37,41,8,6,3500,
+9.13,61,10002,Aplicação de técnicas de análise de sinais para investigação do comportamento dados,REMUNERAÇÃO DIRETA,38,42,13,6,203400,
+9.14,62,10002,0,REMUNERAÇÃO DIRETA,39,43,8,6,3500,
+9.15,63,10002,"obs: somamos todos os tributos em uma só linha conforme orientação da ANP. A discriminação das alíquotas e legislações será feita no anexo PTR - PARTE A, Item 6: Informações Adicionais/Específicas.",REMUNERAÇÃO DIRETA,40,44,14,6,4000,
+9.16,64,10002,"Construção das linhas de acionamento, montagem, instalação das válvulas no Simulador Multipropósito. Adequação das instalações existentes para a realização dos ensaios de confiabilidade das válvulas de BOP.",REMUNERAÇÃO DIRETA,41,45,15,8,20000,
+9.17,65,10002,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,42,46,9,7,15000,
+9.18,66,10002,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA,42,47,9,7,43617,
+9.19,67,10002,"Instalação elétrica de novos equipamentos e instrumentos de medida, ampliação de iluminação, adequação da rede elétrica para atender aos ensaios a serem realizados.",BOLSA,43,48,16,9,6000,
+9.20,68,10002,Acumulador hidráulico para acionamento das válvulas a serem testadas.,BOLSA,44,49,16,9,150000,
+9.21,69,10002,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,57370.2,,,
+9.22,70,10002,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,109714.9
+9.23,71,10002,Aplicação de métodos geoestatísticos em dados de tomografia e imagens das rochas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,11,,,329144.7
+9.24,72,10003,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,45,50,0,0,,250771.77
+9.25,73,10003,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,46,50,0,0,,182022.47
+9.26,74,10003,"O bolsista será orientado e treinado para a execução da parte experimental do projeto sendo respondável pela purificação dos reagentes e solventes, condução de sínteses e testes de solubilidade e estabilidade dos asfaltenos, aquisição de espectros de abosrbância para medidades de polaridade do meio.",REMUNERAÇÃO DIRETA,47,50,0,0,,242696.63
+9.27,75,10003,Os reagentes e gases especiais serão necessários para síntese de sondas solvatocrômicas e de aditivos para inibição de precipitação de asfaltenos.A justificativa detalhada deste item se encontra em carta resposta anexada.,REMUNERAÇÃO DIRETA,48,50,0,0,,404497.38
+9.28,76,10003,Utilização de simulação de fluxo para avaliar os impactos das heterogeneidades das rochas,REMUNERAÇÃO DIRETA,49,50,0,0,,60674.16
+9.29,77,10003,Vaso para pressurização externa das válvulas de BOP. Possui controle de temperatura para simular o ambiente do leito marinho.,REMUNERAÇÃO DIRETA,50,51,4,10,,479174.5
+9.30,78,10004,"Construção das linhas de acionamento, montagem, instalação das válvulas no Simulador Multipropósito. Adequação das instalações existentes para a realização dos ensaios de confiabilidade das válvulas de BOP.",REMUNERAÇÃO DIRETA,51,52,15,8,,265053
+9.31,79,10004,Caracterização do fluido contaminado com partículas sólidas,REMUNERAÇÃO DIRETA,52,53,15,8,,111853.43
+9.32,80,10004,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,53,54,17,7,6582.54,
+9.33,81,10004,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,54,55,17,7,74000,
+9.34,82,10004,Análise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,55,56,17,7,38600,
+9.35,83,10004,Medição de vibração no circuito de testes.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,56,57,17,7,11035,
+9.36,84,10004,Placas de aquisição de dados para leitura dos medidores e controle do aparato experimental,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,57,58,18,7,51963.44,
+8.3,85,10004,Bombas de alta vazão para alimentação dos acumuladores hidráulicos.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,58,59,18,7,111496.21,
+8.4,86,10004,"Serão utilizados para a calibração de balanças, medidores de vazão e volume dos tanques utilizados na pesquisa experimental.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,59,60,9,7,2555,
+2.5,87,10004,Monitoramento da pressão absoluta e diferencial ao longo de todo o circuito de testes.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,60,61,18,7,4714.05,
+2.6,88,10004,Monitoramento da temperatura ao longo de todo o circuito de testes,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,61,62,18,7,1950,
+2.7,89,10004,"Montagem e integração das tubulações já existentes à nova bancada experimental. Estes tubos, após usinagem e soldagem, farão parte da estrutura permanente do Simulador Multipropósito, de forma a permitir os diferentes tipos de ensaios requeridos para avaliar os modos de falhas das válvulas de BOP.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,62,63,9,7,235,
+2.8,90,10004,"Curvas, redutores, junções e conexões hidráulicas de alta e baixa pressão. Estes materiais serão soldados ao circuito já existente do Simulador Multipropósito de modo a permitir os diferentes tipos de ensaios requeridos para avaliar os modos de falhas das válvulas de acionamento do BOP.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,63,64,9,7,1250,
+2.9,91,10004,"Válvulas, reguladores, suportes e acessórios mecânicos. Estes materiais serão soldados ou acoplados ao circuito já existente do Simulador Multipropósito de modo a permitir os diferentes tipos de ensaios requeridos para avaliar os modos de falhas das válvulas de acionamento do BOP.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,64,65,9,7,982,
+2.10,92,10004,"Armazenamento, alimentação e retorno do fluido de trabalho na bancada de testes",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,65,66,18,7,14000,
+2.11,93,10004,Sistema de resfriamento e/ou aquecimento do fluido no interior da câmera hiperbárica,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,66,67,18,7,45136,
+2.12,94,10004,Computadores e acessórios diversos de apoio à instalação da instrumentação.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,67,68,9,7,4500,
+100,95,10004,Flanges de alta pressão para montagem das válvulas,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,68,69,9,7,2247,
+101,96,10004,Nobreaks para garantir fornecimento controlado e permanente de energia elétrica para os novos equipamentos a serem adquiridos.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,69,70,18,7,15600,
+102,97,10004,Tubulação flexível para conexão das válvulas aos acumuladores.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,70,71,9,7,380,
+103,98,10004,"Plataforma elevatória, empilhadeira, para movimentação de carga pesada",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,71,72,17,7,23680,
+104,99,10004,Agitador mecânico para uniformização da temperatura do tanque de alimentação da câmera hiperbárica e do tanque de injeção de partículas sólidas.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,72,73,18,7,8664,
+105,100,10004,Calibração dos medidores de temperatura a serem utilizados nos ensaios das válvulas no Simulador Multipropósito.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,73,74,18,7,37973.44,
+106,101,10004,"Bombas de cavidade progressiva de baixa pressão a serem utilizadas para transferência de fluido entre tonéis e reservatórios, bem como para testes de estanqueidade após a instalação das válvulas a serem testadas.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,74,75,18,7,17500,
+107,102,10004,Inversores de frequência para controle de motores de bombas e agitadores mecânicos.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,75,76,18,7,3600,
+108,103,10004,Centrífuga para separação das partículas sólidas inseridas para avaliação da erosão das partes internas das válvulas de BOP.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,76,77,17,7,26890,
+109,104,10004,"Medição da vazão de fluido hidráulico utilizado no acionamento das válvulas de BOP. Memória de cálculo: R$ 41.535,23 (Coriolis baixa vazão).",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,77,78,18,7,41535.23,
+110,105,10004,"Medição de vazão de fluido hidráulico para acionamento das válvulas de BOP em altas vazões. Memória de cálculo: R$ 47.114,80 (Coriolis alta vazão).",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,78,79,18,7,47114.8,
+111,106,10004,"Medição de vazão de líquido e de outros fluidos de trabalho na bancada de testes. Memória de cálculo: R$ 25.303,48 (Medidor sônico)",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,79,80,18,7,25303.48,
+112,107,10004,"Medidor de potencial zeta, peso molecular e tamanho para classificação do fluido contaminado. Memória de cálculo: USD 82.565,05 x 3,40 = R$ 280.721,17. Este equipamento será importado pois não existe equipamento disponível no mercado nacional que atenda às especificações técnicas do projeto.",BOLSA,80,81,17,7,280721.17,
+113,108,10004,"Realização de testes de vibração contínua e intermitente nas válvulas a serem testadas. Este equipamento será importado pois não existe equipamento disponível no mercado nacional que atenda às especificações técnicas do projeto. Memória de cálculo: USD 93.619,80 * 3,40 = R$ 318.307,32",BOLSA,81,82,17,7,318307.32,
+114,109,10004,"Válvula CCSV do BOP a ser ensaiada. Memória de cálculo:
+CCSV completa = USD 1.274,00 x 3,40 = R$ 4.331,60 x 12 unidades = R$ 51.979,20. Este equipamento será importado pois não existe equipamento disponível no mercado nacional que atenda às especificações técnicas do projeto.",BOLSA,82,83,17,7,4331.6,
+115,110,10004,"Válvula MKR do BOP a ser ensaiada.
+Memória de cálculo:
+MKR completa = USD 8.451,40 x 3,40 = R$ 28.733,40 x 12 unidades = R$ 344.800,80. Este equipamento será importado pois não existe equipamento disponível no mercado nacional que atenda às especificações técnicas do projeto.",BOLSA,83,84,17,7,28733.4,
+116,111,10004,"Válvula SPM do BOP a ser ensaiada.
+Memória de cálculo:
+SPM completa = USD 3.851,00 x 3,40 = R$ 13.093,40 x 12 unidades = R$ 157.120,80. Este equipamento será importado pois não existe equipamento disponível no mercado nacional que atenda às especificações técnicas do projeto.",BOLSA,84,85,17,7,13093.4,
+117,112,10004,"Detector EDS para microscópio eletrônico de varredura, para caracterização das superfícies das válvulas. Memória de cálculo: USD 50.555,00(EDS detec) + 890,00(EDX Kit)+ 710,00(Cart)+ 165,00(Unit)+ 210,00(Apert)+ 460,00(Cap)+ 390(Anode)= US$ 53.380,00 x 3,40 = R$ 181.492,00",BOLSA,85,86,17,7,181492,
+118,113,10004,"Medição de tamanho de partícula em linha, para a caracterização dinâmica do escoamento com fluido de trabalho contaminado, para partículas maiores que 5 microns de diâmetro. Memória de cálculo:  US$ 85.552,00 * 3,4 = R$ 290.876,80",BOLSA,86,87,17,7,290876.8,
+119,114,10004,"Bombas de alta pressão para acionamento das válvulas de BOP. = Euros 45.296,50 * 3,8 = R$ 344.253,40",BOLSA,87,88,18,7,172126.7,
+120,115,10004,"Bomba do tipo pistão para injeção de escoamento sólido-liquido. Memória de cálculo: Euros 60.091,30 * 3,8 = RS 228.346,94.",BOLSA,88,89,18,7,228346.94,
+121,116,10004,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,439579.68,,,
+122,117,10004,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,134261.27
+123,118,10005,"Construção das linhas de acionamento, montagem, instalação das válvulas no Simulador Multipropósito. Adequação das instalações existentes para a realização dos ensaios de confiabilidade das válvulas de BOP.",REMUNERAÇÃO DIRETA,89,90,19,8,,400000
+124,119,10005,Caracterização do fluido contaminado com partículas sólidas,REMUNERAÇÃO DIRETA,90,91,19,8,,2966000
+125,120,10005,ATIVIDADES NECESSÁRIAS PARA AMPLIAÇÃO DA ÁREA DO LABORATÓRIO DE MOTORES.,REMUNERAÇÃO DIRETA,91,92,15,8,,440000
+126,121,10005,"A obra em estrutura metálica foi escolhida para encapsular laboratório existente e não interromper suas atividades. Como a reforma ocorrerá em construção antiga será necessário refazer toda a parte de alvenaria, instalações elétricas e hidráulicas e segurança adequadas ao laboratório de motores",REMUNERAÇÃO DIRETA,92,93,15,8,,30000
+127,122,10005,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,93,94,17,7,22000,
+128,123,10005,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,DIARIAS E AJUDA DE CUSTO,3,116400,,,
+129,124,10006,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,94,95,0,0,,186905.52
+130,125,10006,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,95,96,0,0,,432954.72
+131,126,10006,"O bolsista será orientado e treinado para a execução da parte experimental do projeto sendo respondável pela purificação dos reagentes e solventes, condução de sínteses e testes de solubilidade e estabilidade dos asfaltenos, aquisição de espectros de abosrbância para medidades de polaridade do meio.",REMUNERAÇÃO DIRETA,96,97,1,0,,49212
+132,127,10006,Os reagentes e gases especiais serão necessários para síntese de sondas solvatocrômicas e de aditivos para inibição de precipitação de asfaltenos.A justificativa detalhada deste item se encontra em carta resposta anexada.,REMUNERAÇÃO DIRETA,97,98,1,0,,49212
+133,128,10006,Utilização de simulação de fluxo para avaliar os impactos das heterogeneidades das rochas,REMUNERAÇÃO DIRETA,98,99,0,0,,82156.8
+134,129,10006,Aplicação de rotinas computacionais para análise de dados de tomografia,REMUNERAÇÃO DIRETA,99,Desenvolvimento de sistema contendo plataforma microprocessada com a finalidade de aquisição de sinais do biosensor; desenvolvimento de placas PCI de circuito impresso para testes iniciais em bancada; Desenvolvimento do firmware para os sistemas embarcados.,1,0,,14400
+135,130,10006,Participação e orientação científica aos demais pesquisadores em todas as etapas de desenvolvimento do trabalho,REMUNERAÇÃO DIRETA,Membro da Equipe não definido 8,Especialista em biologia atuante no desenvolvimento do sensor biológico. O processo de funcionalização envolve inicialmente o preparo biológico dos anticorpos e a posterior análise da aderência e seletividade das bactérias à fibra óptica.,0,0,,360782.4
+136,131,10006,"Papel, caneta, lapis, grampeador, borracha",REMUNERAÇÃO DIRETA,Cesar Cosenza de Carvalho,"Atuará em processamento dos sinais e instrum optoeletrônica, garantindo a integração dos sistemas.Atividades:Est. Bibliográfico;Projeto e desenv instrum optoeletrônica para processamento dos sinais;Otimização do protótipo de campo;Conceituação do software de aquisiç de dados;Monitoramento remoto.",0,0,,233632.08
+137,132,10006,"As vidrarias serão necessárias em todas as etapas de preparação, separação, síntese, testes de solubilidade que fazem parte  do projeto.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Meios de cultura,"Meios de cultura para o cultivo dos microrganismos utilizados no projeto. Esses meios de cultura serão adquiridos de labs confiáveis que os produzem. São meios de cultura específicos para bactérias de diferentes cepas como p.ex. Escherichia Coli, Desulfuvibrio Alaskensis e outras da família das BRS.",4,2,47406.53,
+138,133,10006,VIAGEM 1,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Anticorpos específicos,Anticorpos adquiridos para construção do sensor. Alguns anticorpos são de difícil fabricação e são adquiridos de labs confiáveis.Estão previstas etapas de desenvolvimento de anticorpos mas alguns anticorpos serão adquiridos por encomendas.Normalmente enviamos cepas para labs que produzem anticorpos.,4,2,77413.52,
+139,134,10006,VIAGEM 3,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Material de limpeza e higienização,"Material descartável destinado a manutenção e limpeza do laboratório onde será desenvolvido o projeto. Tratam-se de papel toalha, desinfetantes, líquidos específicos de limpeza de equipamentos, vidrarias e containers para a autoclave; e outros afins.",4,2,10000,
+140,135,10006,VIAGEM 4,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,31,"Materiais diversos para escritório (papel, pastas de arquivo, lápis, caneta, borrachas, e outros correlatos) que serão utilizados na confecção de relatórios, documentos, papers e outros trabalhos internos e externos; e outros afins.",4,2,10000,
+141,136,10006,"Realização de instalação,comissionamento e testes dos equipamentos para assegurar que os sistemas e componentes estejam instalados, testados, operados e mantidos de acordo com as necessidades e requisitos operacionais. O comissionamento é  dividido em três etapas: instalação, start-up e desempenho.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Reagentes para análises,"Material para preparo das soluções, produtos químicos e meios de cultivo. Plásticos descartáveis para a manipulação, estocagem e descarte das amostras bacterianas e no preparo de tampões,reagentes e corantes para o desenvolvimento dos sensores, biologia molecular e cultivo dos microrganismos.",4,2,51100,
+142,137,10006,"Tubulações, cabos (ex. chicotes) do motor.Alimentação elétrica e dispositivo de partida do motor. Eixos de acoplamento (cardans) entre motor e dinamômetro e mancais intermediários (quando necessários), bem como a respectiva proteção e as flanges de conexão/adaptação. Gases de calibração, etc..",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Material descartável (bioquímica),"Material descartável para análises bioquímicas: Placas de petri, ponteiras para pipetadores, sacos para análise e descarte, alças bacteriológicas e materiais de manipulação, tubos para criopreservação e membranas.",4,2,39065.14,
+143,138,10006,Possibilitar a realização dos ensaios padronizados de depósitos em válvulas com motor de combustão interna,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,OUTROS BENS E DIREITOS,"Descartáveis, tais como: Frascos , tubos de ensaio, vidros reagentes, câmaras de reação para realização dos experimentos. São materiais frágeis que se quebram ou materiais específicos para algum determinado experimento.",4,2,54398.64,
+144,139,10006,"Coordenar as atividades do Projeto de Pesquisa. Atividades: Coordenação geral do projeto; estudo, avaliação e aplicação das técnicas ópticas empregadas nas diversas vertentes dos sensores: LSPR, Campo evanescente e FBG.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,"Componentes eletrônicos, optoeletrônicos e mecânicos","Componentes consumíveis para a construção do sensor, placas eletrônicas e eletro-ópticas. Tratam-se de fios, soldas, circuitos integrados, resistores, componentes, sensores, dispositivos ópticos, placas de circuito impresso, conectores e adaptadores; e outros afins.",4,2,52920,
+145,140,10006,Atua em processos bioquímicos dos anticorpos com a fibra óptica. Atividades:Levantamento bibliográfico;Protocolos de fixação de anticorpos em substratos;Microrganismos tipo BRS;Experimentos bioquímicos;Testes em diferentes substratos;Avaliação de densidade de fixação;funcionalização com anticorpos.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Material de consumo para laboratório,"Materiais descartáveis diversos para uso do laboratório incluindo pipetas, tubos falcon, torneiras, válvulas, pinças, tesouras, tubos plásticos, luvas, lava-olhos, tomadas, carretilhas, vedantes, pagadores de tubo e porta tubos",4,2,42148.95,
+146,141,10006,Aluna e pesquisadora atuante nos processos biológicos no desenvolvimento e na implementação dos testes de funcionalização dos anticorpos nos sensores.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Componentes analíticos,"Dispositivos descartáveis para calibração de sensores optoeletrônicos necessitam de pipetadores calibrados, medidores e outros sensores específicos imprescindíveis para uma perfeita calibração dos sensores desenvolvido; e outros afins.",4,2,23211.36,
+147,142,10006,Aluna/pesquisadora atuante no desenvolvimento e na implementação dos testes de funcionalização dos anticorpos nas fibras ópticas.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,TRIBUTOS,"Aquisição de insumos utilizados pela infraestrutura de informática, tais como: tonners, cartuchos, mouses, pendrive, CDs, e outros correlatos.",4,2,24000,
+148,143,10006,Apoio às atividades de pesquisa relacionadas aos procedimentos químicos realizados na fibra óptica visando a funcionalização com os anticorpos. Atividades:Testes bioquímicos com E.Coli;Testes bioquímicos com BRS;Definição de técnicas de imunocaptura;Avaliação de densidade de captura de microrganismo,BOLSA,Fibras ópticas,"Componente consumível para uso no desenvolvimento de sensores a fibra óptica. Todos os sensores são baseados em fibras ópticas especiais, sendo então necessário importá-las pois, não são de fabricação nacional.",4,2,18000,
+149,144,10006,2.13,BOLSA,Material de laboratório descartável,"Dispositivos descartáveis: LEDs, filtros e acessórios para fixação necessários para o desenvolvimento do sensor e montagem dos experimentos. Esses dispositivos não se encontram no mercado nacional e quando se encontram são de custo abusivo.Por esta razão importamos esses dispositivos e componentes.",4,2,17820,
+150,145,10006,Análise dos dados com aplicação de técnicas estatísticas e de redes neurais,REMUNERAÇÃO DIRETA,Serviço técnico de hardware ou software,"Serviço técnico especializado de eletrônica nas subáreas de hardware e/ou software,pex: segurança intrínseca, compatibilidade eletromagnética, gestão banco de dados, acesso via internet dos dados da pesquisa e outros similares.Atividades relacionadas ao processamento do sinal oriundo dos sensores.",8,6,15000,
+151,146,10006,Aplicação de técnicas de análise de sinais para investigação do comportamento dados,REMUNERAÇÃO DIRETA,Desenvolvimento do produto,"Serviços de engenharia de produto focando o hardware que compreende a eletrônica, a óptica, a mecânica, e o software/firmware, para implementação dos primeiros passos para elaboração de protótipo cabeça de série visando a futura transferência da tecnologia para fabricação/comercialização do sistema.",8,6,75000,
+152,147,10006,0,REMUNERAÇÃO DIRETA,Serviços de usinagem e fabricação de peças,"Montagem de estruturas e peças específicas para o desenvolvimento do projeto, montagem de componentes para o sensor, montagem final do protótipo com o sistema desenvolvido ao longo do projeto.",8,6,18000,
+153,148,10006,"obs: somamos todos os tributos em uma só linha conforme orientação da ANP. A discriminação das alíquotas e legislações será feita no anexo PTR - PARTE A, Item 6: Informações Adicionais/Específicas.",REMUNERAÇÃO DIRETA,Serviços de laboratório,Atividades que serão realizadas em outros laboratórios externos com expertise em bioquímica. Serviços previstos: Produção de soro imunológico; Síntese de proteínas; Fabricação de Anticorpos. Atividade fundamentais na funcionalização dos anticorpos para Bactéria Sulfato Redutora dos sensores ópticos.,8,6,30000,
+154,149,10006,5.5,REMUNERAÇÃO DIRETA,Serviços de manutenção e calibração de equipamentos diretamente usados na pesquisa,"Manutenção e/ou calibração dos equipamentos do Laboratório utilizados exclusivamente na pesquisa, com reposição de peças, durante o desenvolvimento do projeto. Descrição detalhada e Memória de cálculo estão em documento anexo.",13,6,19500,
+155,150,10006,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Freezer,Estoque de culturas e reagentes. As culturas e os reagente devem ser conservadas em temperatura controlada em média 15 graus abaixo de zero.,18,7,1500,
+156,151,10006,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Contador de colônias digital,Contagem de colônias bacterianas. Durante o desenvolvimento etapa de funcionalização dos sensores diversas vez é necessário contar as colônias para poder calibrar devidamente o resultado da medida com o valor exato da concentração bacteriana.,17,7,2800,
+157,152,10006,Análise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Termômetros com higrômetro,Monitoramento de condições ambientais e de cultivo. Eses termometros tem diversas aplicações entre elas medir as temperaturas internas do freezer e medir as temperaturas internas das estufas onde as colonias estão crescendo.,18,7,550,
+158,153,10006,Medição de vibração no circuito de testes.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Nobreak,Segurança elétrica de computadores e sistemas de incubação.Tanto as estufas como freezers tem que  manter suas temperaturas constantes e imutáveis. O Freezer ficará a -15graus e estufas em 30graus.Caso contrário são perdidas as culturas ou experimentos.Portanto a energia deve estar sempre disponível,9,7,12000,
+159,154,10006,Placas de aquisição de dados para leitura dos medidores e controle do aparato experimental,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Sistema de filtração de água (MiliQ),Sistema millipore para pré-tratamento de amostras antes da análise pelo sensor.A água que utilizamos nos ensaios/calibrações conterão unicamente bactérias BRS.Nas fases de teste/calibração as amostras serão diluídas em água pura e isenta de bactérias estranhas.Eqp purifica a água no nível necessário,17,7,35000,
+160,155,10006,Bombas de alta vazão para alimentação dos acumuladores hidráulicos.,BOLSA,Centrífuga refrigerada para Eppendorf,"Centrifugação de culturas, material genético e anticorpos.Trata-se de uma concentração das bactérias que por gravidade(a força centrífuga multiplica a gravidade) tende a concentrar-se no fundo dos tubos falcon. A centrífuga é um equipamento essencial para o projeto que não dispomos no laboratório.",17,7,72000,
+161,156,10006,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,21564,,,
+162,157,10006,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,138632.26
+163,158,10007,"Construção das linhas de acionamento, montagem, instalação das válvulas no Simulador Multipropósito. Adequação das instalações existentes para a realização dos ensaios de confiabilidade das válvulas de BOP.",REMUNERAÇÃO DIRETA,Adequaçao de espaço para receber os equipamentos,"O serviços a serem efetuados no laboratório são
+instalação de bancadas
+Instalação elétricas (quadro e tomadas)
+Instalação do sistema de exaustão
+Instalação do sistema de ar condicionado
+Instalação de uma linha de gases
+Serviços de pinturas e troca de pisos",15,8,,85000
+164,159,10007,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Ar condicionado,A compra do ar condicionado se faz tem como objetivo manter a temperatura do laboratório constante e evitar oscilações que podem prejudicar as medidas de umidade.,9,7,20000,
+165,160,10007,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Capela com sistema de alto exaustão,Controle da atmosfera do ambiente do laboratório. A execução do projeto requer o uso contínuo de gás natural nos diversos equipamento solicitados. Desta forma um sistema de exaustão se faz necessário para evitar o aumento da concentração no ambiente de trabalho,9,7,30000,
+166,161,10007,Análise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,67,"A aquisição de computadores tem como finalidade realizar modelagem termodinâmica de dados de umidade, usando códigos computacionais apropriados.",9,7,6000,
+167,162,10007,Medição de vibração no circuito de testes.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Impressora,"Imprimir material ligado ao projeto (relatório, artigo, orçamentos e etc).",9,7,3000,
+168,163,10007,Placas de aquisição de dados para leitura dos medidores e controle do aparato experimental,BOLSA,Unidade de espelho esfriado,"O espelho resfriado será utilizado na calibração de sensores de umidades e de todos os aparelhos de medição de umidade (microbalança de cristal de quartzo, espectroscopia por absorção de laser ajustável, higrômetro etc). Considerado 1 Libra = R$3,86.",9,7,74498,
+169,164,10007,Bombas de alta vazão para alimentação dos acumuladores hidráulicos.,BOLSA,Unidade de recombinaçao de gases,"A calibração da unidade de espelho resfriado exige uma mistura de gases de composição conhecida. Neste caso, uma unidade de recombinação de gases é utilizada. Este equipamento não existe no mercado nacional. Considerado 1 Libra = R$3,86.",9,7,69480,
+170,165,10007,"Serão utilizados para a calibração de balanças, medidores de vazão e volume dos tanques utilizados na pesquisa experimental.",BOLSA,Bomba seringa,"A bomba tipo seringa serve para injeção de quantidade precisa de fluidos (líquido ou gás).  No presente projeto a bomba seringa será utilizada para diversos fins, incluindo injeção de gases e controle de pressão de amostra. Este equipamento não é fabricado no Brasil.
+Considerado 1 U$ = R$3,09.",9,7,74515.35,
+171,166,10007,Monitoramento da pressão absoluta e diferencial ao longo de todo o circuito de testes.,BOLSA,73,"Para controle de temperatura da câmara  bomba seringa e garantir que quantidades precisa de gás sejam injectado no recombinador. Exige uma ampla faixa de temperatura -20 a 200 o C faz que com este tipo de banho não é encontrado no Brasil. Considerado 1 Euro = R$3,26.",9,7,26855.88,
+172,167,10007,Monitoramento da temperatura ao longo de todo o circuito de testes,BOLSA,Cilindro de a mostragem,"São utilizados para transferir amostras oriundo do campo para os equipamento de de medidas da umidade de forma isotérmica e isobárica. Este equipamento não possui similar no Brasil.
+Considerado 1 U$ = R$3,12.",9,7,37000,
+173,168,10007,"Montagem e integração das tubulações já existentes à nova bancada experimental. Estes tubos, após usinagem e soldagem, farão parte da estrutura permanente do Simulador Multipropósito, de forma a permitir os diferentes tipos de ensaios requeridos para avaliar os modos de falhas das válvulas de BOP.",BOLSA,Densímetro de alta pressão,"Utilizado para medir densidade de amostras sob diversas condições de temperatura(0-200oC) e pressão (até 70 MPa). No presente projeto,o densímetro é utilizado em amostra de gases reais e sintéticos da corrente de gás que sai do recombinador. Não possui similar no Brasil. Considerado 1 Euro = R$3,26.",9,7,58386,
+174,169,10007,"Curvas, redutores, junções e conexões hidráulicas de alta e baixa pressão. Estes materiais serão soldados ao circuito já existente do Simulador Multipropósito de modo a permitir os diferentes tipos de ensaios requeridos para avaliar os modos de falhas das válvulas de acionamento do BOP.",BOLSA,Gasômetro,"Neste projeto,o gasômetro será utilizado para medir o volume de gás que será armazenado em cilindros adequados antes de serem descartados. Adicionalmente em amostra pressurizadas e parcialmente condensado,o gasômetro permite medir o volume de gás presente. Considerado 1 U$ = R$3,09.",9,7,104503.8,
+175,170,10007,"Válvulas, reguladores, suportes e acessórios mecânicos. Estes materiais serão soldados ou acoplados ao circuito já existente do Simulador Multipropósito de modo a permitir os diferentes tipos de ensaios requeridos para avaliar os modos de falhas das válvulas de acionamento do BOP.",BOLSA,Unidade a laser para determinção da umidade,"É uma técnica robusta que pode ser acoplada facilmente a uma célula de equilíbrio visual de volume variável, permitindo obter dados precisos de umidade em misturas de gases. Este tipo de equipamento não é fabricado no Brasil. Considerado 1 U$ = R$3,09.",9,7,224828.4,
+176,171,10007,"Armazenamento, alimentação e retorno do fluido de trabalho na bancada de testes",BOLSA,Célula Pressão,"A célula pressão será utilizada nesse projeto para medir dados de viscosidade cinemática e amostras com diversos teores de água e CO2. De posse desses dados um modelo robusto correlacionando, umidade e quantidade de CO2 será desenvolvido.Considerado 1 Euro = R$3,26.",9,7,171824.82,
+177,172,10007,Sistema de resfriamento e/ou aquecimento do fluido no interior da câmera hiperbárica,BOLSA,Viscosímetro,"O viscosímetro será utilizado para medir as viscosidade de sistemas com diversos teores de água e CO2. Desta forma, vai ser possível desenvolver modelos de umidade mais precisos mesmo em condições extremas.
+Cotação U$1 R$3,12 (27/03/2017)",9,7,224640,
+178,173,10007,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,198749.62,,,
+179,174,10007,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,38201.64
+180,175,10008,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA,Detector dedicado a espectroscopia de raios X por dispersão em energia,"Esse equipamento não possui similar nacional e permitirá o aumento da resolução microanalítica do microscópio eletrônico, o que é essencial na identificação de elementos em baixas concentrações sendo promissor na utilização em diversos setores da indústria de petróleo e gás.",17,7,360464.4,
+181,176,10008,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,72092.88,,,
+182,177,10008,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,10813
+183,178,10009,"Construção das linhas de acionamento, montagem, instalação das válvulas no Simulador Multipropósito. Adequação das instalações existentes para a realização dos ensaios de confiabilidade das válvulas de BOP.",REMUNERAÇÃO DIRETA,Instalação de equipamentos adquiridos no projeto e Biorreatores de bancada (disponíveis no laboratório BIOSE/ EQ/UFRJ),"Adequação de espaço físico: colocação de bancadas, instalação de linha de gases, ar comprimido, compressor,  adequação da rede elétrica, etc.",15,8,,33500
+184,179,10009,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA,"HPLC PROMINENCE + UHPLC modelo NEXERA-X2, marca SHIMADZU (trabalham em conjunto)","Análise dos produtos da reação de despolimerização (monômeros, oligômeros), visando propriedades como perfil espectrofotométrico, ou se não emitir na faixa do ultravioleta-visível, a distribuição de espalhamento da luz, e ainda a massa molar. Nao há similares no Brasil. Valor: US$ 217.014,00",17,7,694444.8,
+185,180,10009,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA,"Calorímetro Diferencial de Varredura, marca Shimadzu modelo DSC-60A Plus (TAC/L)","Permite avaliar o grau de cristalinidade do PET em função da temperatura, avaliando como despolimerização está ocorrendo, mas também a estabilidade do biocatalisador frente a vários parâmetros de despolimerização, concentração de substratos e produtos. Não há similares no país. Valor: US$ 47.500,00",17,7,152000,
+186,181,10009,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,169288.96,,,
+187,182,10009,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,26398.33
+188,183,10010,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,45,COORDENADOR,0,0,,120384
+189,184,10010,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,Engenheiro Analista 1,TÉCNICO,0,0,,202752
+190,185,10010,"O bolsista será orientado e treinado para a execução da parte experimental do projeto sendo respondável pela purificação dos reagentes e solventes, condução de sínteses e testes de solubilidade e estabilidade dos asfaltenos, aquisição de espectros de abosrbância para medidades de polaridade do meio.",REMUNERAÇÃO DIRETA,Engenheiro Analista 2,TÉCNICO,0,0,,202752
+191,186,10010,Os reagentes e gases especiais serão necessários para síntese de sondas solvatocrômicas e de aditivos para inibição de precipitação de asfaltenos.A justificativa detalhada deste item se encontra em carta resposta anexada.,REMUNERAÇÃO DIRETA,Analista Júnior,OUTRA,0,0,,107712
+192,187,10010,Faz-se necessário o uso e a manutenção de aparelhos de vidros específicos para a execução da parte experimental do projeto.,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,9,6,4,1100,
+193,188,10010,As análises são necessárias para caracterização dos produtos de síntese e de testes de aplicação,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,10,6,4,1100,
+194,189,10010,"O item a ser adquirido  será utilizado para armazenamento e tratamento dos dados, confecção de relatórios, cálculos teóricos e modelagem.",REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,11,6,4,1100,
+195,190,10010,"O item a ser adquirido  será utilizado para conservação de reagentes, solventes , produtos de síntese e formulados FIAR modelo.",REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,12,6,4,1100,
+196,191,10010,VIAGEM 8,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,32,6,4,1100,
+197,192,10010,VIAGEM 9,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,33,6,4,1100,
+198,193,10010,VIAGEM 10,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,34,6,4,1100,
+199,194,10010,VIAGEM 11,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,35,6,4,1100,
+200,195,10010,VIAGEM 12,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,36,6,4,1100,
+201,196,10010,VIAGEM 13,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,37,6,4,1100,
+202,197,10010,"Análise de tomografia, ressonância magnética, porosidade, permeabilidade e resistividade.",REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,38,6,4,1100,
+203,198,10010,Descrição de testemunho no local em que se encontra depositado e aquisição dos dados de poços,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,39,6,4,1100,
+204,199,10010,Análise de micro tomografia em amostras de plugue,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,40,6,4,1100,
+205,200,10010,3.14,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,VIAGEM 14,6,4,1100,
+206,201,10010,3.15,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,VIAGEM 15,6,4,1100,
+207,202,10010,3.16,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,VIAGEM 16,6,4,1100,
+208,203,10010,3.17,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,VIAGEM 17,6,4,1100,
+209,204,10010,3.18,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,VIAGEM 18,6,4,1100,
+210,205,10010,3.19,REMUNERAÇÃO DIRETA,Rio de Janeiro / Londres / Rio de Janeiro,VIAGEM 19,12,4,4000,
+211,206,10010,3.20,REMUNERAÇÃO DIRETA,Rio de Janeiro / Paris / Rio de Janeiro,VIAGEM 20,12,4,4000,
+212,207,10010,3.21,REMUNERAÇÃO DIRETA,Rio de Janeiro / Amsterdã / Rio de Janeiro,VIAGEM 21,12,4,4000,
+213,208,10010,As etapas principais do projeto envolvem a dissolução seguida pela separação da parte não dissolvida dos asfaltenos em diferentes meios. A completa separação dos asfaltenos necessita uma elevada força centrífuga à temperatura constante e por isso esse equipamento é imprescindível para o projeto.,REMUNERAÇÃO DIRETA,13,9,7,5,200,
+214,209,10010,Coordenação do projeto e orientação científica dos trabalhos desenvolvidos,REMUNERAÇÃO DIRETA,13,10,7,5,200,
+215,210,10010,Desenvolvimento técnico da equipe e divulgação dos resultados obtidos,REMUNERAÇÃO DIRETA,13,11,7,5,200,
+216,211,10010,Pequenos ajustes no espaço do laboratório para a adequação dos novos procedimentos que serão realizados no local,REMUNERAÇÃO DIRETA,13,12,7,5,200,
+217,212,10010,Computador de alto desempenho para execução das atividades,REMUNERAÇÃO DIRETA,13,32,7,5,200,
+218,213,10010,Computador de alto desempenho para controle e reconstrução de imagens,REMUNERAÇÃO DIRETA,13,33,7,5,200,
+219,214,10010,Softwares de apoio a confeccção de relatórios (Office e Sistema operacional),REMUNERAÇÃO DIRETA,13,34,7,5,200,
+220,215,10010,Lincenças para softwares importantes para o desenvolvimento do projeto< como Avizo Fire e Isatis,REMUNERAÇÃO DIRETA,13,35,7,5,200,
+221,216,10010,4.9,REMUNERAÇÃO DIRETA,13,36,7,5,200,
+222,217,10010,4.10,REMUNERAÇÃO DIRETA,13,37,7,5,200,
+223,218,10010,4.11,REMUNERAÇÃO DIRETA,13,38,7,5,200,
+224,219,10010,4.12,REMUNERAÇÃO DIRETA,13,39,7,5,200,
+225,220,10010,4.13,REMUNERAÇÃO DIRETA,13,40,7,5,200,
+226,221,10010,4.14,REMUNERAÇÃO DIRETA,13,VIAGEM 14,7,5,200,
+227,222,10010,4.15,REMUNERAÇÃO DIRETA,13,VIAGEM 15,7,5,200,
+228,223,10010,4.16,REMUNERAÇÃO DIRETA,13,VIAGEM 16,7,5,200,
+229,224,10010,4.17,REMUNERAÇÃO DIRETA,13,VIAGEM 17,7,5,200,
+230,225,10010,4.18,REMUNERAÇÃO DIRETA,13,VIAGEM 18,7,5,200,
+231,226,10010,4.19,REMUNERAÇÃO DIRETA,GRÃ-BRETANHA,VIAGEM 19,7,5,200,10360
+232,227,10010,4.20,REMUNERAÇÃO DIRETA,FRANÇA,VIAGEM 20,7,5,200,10360
+233,228,10010,4.21,REMUNERAÇÃO DIRETA,FRANÇA,VIAGEM 21,7,5,200,10360
+234,229,10010,6.1,REMUNERAÇÃO DIRETA,Contratação de empresas de consultoria técnica,"Contratação de empresas técnicas especializadas para o desenvolvimento de atividades técnicas específicas, complementares às áreas de conhecimento da equipe vinculada. As empresas serão definidas de acordo com os temas definidos no cronograma de trabalho.",20,11,20000,
+235,230,10010,6.2,REMUNERAÇÃO DIRETA,Contratação de serviços de assessoria e apoio técnico em áreas específicas,"Apoio técnico do projeto nas areas de marketing, juridica, tradução, gestao de projetos e comunicaçao",20,11,15000,
+236,231,10010,6.3,REMUNERAÇÃO DIRETA,Contratação de Serviço de Informática,"Contratação de serviços de TIC para modelagem, desenvolvimento e manutenção de software para o Portal",20,11,15000,
+237,232,10011,"Construção das linhas de acionamento, montagem, instalação das válvulas no Simulador Multipropósito. Adequação das instalações existentes para a realização dos ensaios de confiabilidade das válvulas de BOP.",REMUNERAÇÃO DIRETA,"Instalação laboratorial - eletrica, hidraulica e linha de ar comprimido",preparação de instalações para equipamento de core flooding,15,8,25000,
+238,233,10011,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Compressor,experimentos de core flooding e visualização em micromodelos em alta pressão.,17,7,8000,
+239,234,10011,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA,cromatógrafo,Caracterização dos fluidos injetados e produzidos nos experimentos de core flooding e visualização em micromodelos.,17,7,225325.72,
+240,235,10011,Análise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,67,"desenvolvimento do projeto, controle dos experimentos e aquisição de dados.",18,7,6000,
+241,236,10011,Medição de vibração no circuito de testes.,BOLSA,Câmera de alta velocidade,experimentos de visualiação em micromodelos.,18,7,142220,
+242,237,10011,Placas de aquisição de dados para leitura dos medidores e controle do aparato experimental,BOLSA,Sistema de medição de pressão capilar - placa porosa,caracterização das amostras de meios porosos utilizados nos experimentos de core flooding.,17,7,144640,
+243,238,10011,Bombas de alta vazão para alimentação dos acumuladores hidráulicos.,BOLSA,Separador de fases (bifasico),experimentos de core flooding.,17,7,221480,
+244,239,10011,"Serão utilizados para a calibração de balanças, medidores de vazão e volume dos tanques utilizados na pesquisa experimental.",BOLSA,Sistema de injeção de gás,experimentos de core flooding.,17,7,294548,
+245,240,10011,Monitoramento da pressão absoluta e diferencial ao longo de todo o circuito de testes.,BOLSA,Célula de recombinação de fluidos.,experimentos de core flooding.,17,7,171760,
+246,241,10011,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,179996.06,,,
+247,242,10011,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,37529.21
+248,243,10012,13.35,REMUNERAÇÃO DIRETA,FBTS - Execução curso preparatório e certificação supervisores de soldagem,"corpo docente, examinadores, material didático, material consumo, banco de questões, equipamentos,h/h, apoio adm (Vide Memória de cálculo)",21,1,,937003.7
+249,244,10012,Vaso para pressurização externa das válvulas de BOP. Possui controle de temperatura para simular o ambiente do leito marinho.,REMUNERAÇÃO DIRETA,ISS,Emissão de nota fiscal (FBTS),4,10,,18740.07
+250,245,10013,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,André Maerli,PESQUISADOR,0,0,,65028
+251,246,10013,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,Leandro Augusto Pereira,PESQUISADOR,0,0,,26011.2
+252,247,10014,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA,Espectrômetro de Gases Nobres (Helix MC Plus) Alta resolução,"No mercado nacional não existe empresa que fabrica espectrômetros de gases nobres multicoletor.
+
+Determinação da fonte dos gases nobres existentes nos sistemas de petróleo e gás, seja ela de fontes mantélicas e ou agua saturada em ar.",17,7,3384832.7,
+253,248,10014,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA,Sistema de purificação de amostras de gases naturais p/ extração de gases nobres,"No mercado nacional não existe empresa que fabrica Sistema de purificação de amostras de gases naturais para extração de gases nobres.
+
+Limpeza das amostras de gás a serem analisadas para a determinação de gases nobres posteriormente no espectrômetro HELIX MC.",17,7,1047367.36,
+254,249,10014,Análise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA,CCS Trap - sistema criogênico de trapeamento de gases nobres,"No mercado nacional não existe empresa que fabrica sistema criogênico de trapeamento de gases nobres.
+Este sistema permite o aprisionamento da mesma alíquota de amostra em gás para ser ionizada em diversas condições de energia na fonte iônica de acordo com o gás nobre de interesse a ser medido.",17,7,149811.74,
+255,250,10014,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,680699.84,,,
+256,251,10014,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,136139.97
+257,252,10015,"Construção das linhas de acionamento, montagem, instalação das válvulas no Simulador Multipropósito. Adequação das instalações existentes para a realização dos ensaios de confiabilidade das válvulas de BOP.",REMUNERAÇÃO DIRETA,Adequações mínimas para instalação do novo equipamento,"Instalar novas linhas de gases especiais. Para o desenvolvimento da pesquisa isotópica em hidrocarbonetos leves teremos que ter uma linha de gases específica para o novo equipamento a ser adquirido, uma vez que atualmente não dispomos de equipamento que realize esse tipo de análise.",19,8,,15000
+258,253,10015,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Bomba rotativa sobressalente,Manter a rotina do laboratório sem interrupções. Um dos principais problemas no uso de espectrômetro é queda de vácuo por falha na bomba rotativa. Como não há manutenção corretiva na cidade do Rio de Janeiro é interessante manter bombas sobressalentes.,9,7,19000,
+259,254,10015,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,No Break,"Regular e manter estável a rede elétrica que suportará o equipamento que será importado. Em função da aquisição de um novo equipamento o atual sistema de segurança elétrica do laboratório será insuficiente. Assim, solicita-se a aquisição de no No Break de 20.00kVA (3F 380V 3F 380/220V 60Hz c/ pa)",9,7,41975,
+260,255,10015,Análise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA,DELTA V Plus Mass Spectrometer including universal triple collector,"Atualmente, o laboratório não possui equipamento que permita analisar, em termos isotópicos, hidrocarbonetos leves, sendo assim é fundamental a aquisição do mesmo. Informamos, ainda, que não existe, no mercado nacional, empresa que fabrique o equipamento em questão.",17,7,1098549.44,
+261,256,10015,Medição de vibração no circuito de testes.,BOLSA,Bomba turbo sobressalente.,"Um dos principais problemas no uso de espectrômetro é queda de vácuo por falha na bomba turbo. Como não há manutenção corretiva na cidade do Rio de Janeiro é interessante manter bombas sobressalentes. Informamos, ainda, que não existe, no mercado nacional, empresa que fabrique esse equipamento.",9,7,25000,
+262,257,10015,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,168000,,,
+263,258,10015,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,36000
+264,259,10016,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA,Sistema de detecção de sólidos,Nos estudos de equilíbrio líquido-sólido em condições HPHT técnicas experimentais não invasivas no meio em equilíbrio são úteis na detecção de onset e curvas de precipitação de asfaltenos,17,7,369600,
+265,260,10016,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA,Cilindros HPHT,"Utilizados na recombinação de óleo morto e gás de recombinação, cilindros HPHT são necessidade básica no desenvolvimento de experimentos de precipitação",17,7,17402,
+266,261,10016,Análise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA,Bomba seringa,"Utilizada na quantificação de gás a ser inserido no sistema, de fundamental importância para da determinação das quantidades de CO2 e CH4 no sistema",17,7,208188.75,
+267,262,10016,Medição de vibração no circuito de testes.,BOLSA,Sistema de recombinação,"Aparato de controle de temperatura e agitação para recombinação de óleo-gás, o que garante análise de compostos em equilíbrio.",17,7,200200,
+268,263,10016,Placas de aquisição de dados para leitura dos medidores e controle do aparato experimental,BOLSA,Blind Cells,Células de equilíbrio utilizadas na determinação gravimétrica de precipitação de asfaltenos.,17,7,20000,
+269,264,10016,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,139000,,,
+270,265,10016,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,27983.78
+271,266,10017,13.35,REMUNERAÇÃO DIRETA,SENAI- Execução curso qualificação inspetor US ToFD / Ph Arr,"corpo docente, material didático, custos com ambiente de ensino, custos associados com atividade docência,  h/h, apoio adm (Vide Anexo III - Memória de cálculo)",21,1,,3797600.94
+272,267,10017,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,DIARIAS E AJUDA DE CUSTO,3,189880.05,,,
+273,268,10018,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,Alessandro Jacoud Peixoto,COORDENADOR,3,0,,134160
+274,269,10018,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,Engenheiro Control,PESQUISADOR,0,0,,221028.6
+275,270,10018,"O bolsista será orientado e treinado para a execução da parte experimental do projeto sendo respondável pela purificação dos reagentes e solventes, condução de sínteses e testes de solubilidade e estabilidade dos asfaltenos, aquisição de espectros de abosrbância para medidades de polaridade do meio.",REMUNERAÇÃO DIRETA,Engenheiro Controle 2,PESQUISADOR,0,0,,221028.6
+276,271,10018,Os reagentes e gases especiais serão necessários para síntese de sondas solvatocrômicas e de aditivos para inibição de precipitação de asfaltenos.A justificativa detalhada deste item se encontra em carta resposta anexada.,REMUNERAÇÃO DIRETA,Engenheiro Eletrônica,PESQUISADOR,0,0,,221028.6
+277,272,10018,Utilização de simulação de fluxo para avaliar os impactos das heterogeneidades das rochas,REMUNERAÇÃO DIRETA,Engenheiro Mecânica,PESQUISADOR,0,0,,221028.6
+278,273,10018,Aplicação de rotinas computacionais para análise de dados de tomografia,REMUNERAÇÃO DIRETA,Patrick Merz Paranhos,COORDENADOR,0,0,,247680
+279,274,10018,Participação e orientação científica aos demais pesquisadores em todas as etapas de desenvolvimento do trabalho,REMUNERAÇÃO DIRETA,Bolsista de Mestrado,BOLSISTA - MESTRANDO,1,0,,73500
+280,275,10018,"Papel, caneta, lapis, grampeador, borracha",REMUNERAÇÃO DIRETA,Adriano Henriques Motta,COORDENADOR,0,0,,45475
+281,276,10018,"toner, discos, memoria, placas, papers, cartuchos, peças de reposição para computadores e periféricos",REMUNERAÇÃO DIRETA,Pesquisador 1 RSB,PESQUISADOR,0,0,,50932
+282,277,10018,VIAGEM 5,REMUNERAÇÃO DIRETA,Pesquisador 2 RSB,PESQUISADOR,0,0,,145520
+283,278,10018,VIAGEM 6,REMUNERAÇÃO DIRETA,Adriano Henriques Motta,COORDENADOR,0,0,,85752
+284,279,10018,VIAGEM 7,REMUNERAÇÃO DIRETA,Pesquisador 1 RSB,PESQUISADOR,0,0,,95280
+285,280,10018,1.13,REMUNERAÇÃO DIRETA,Pesquisador 2 RSB,PESQUISADOR,0,0,,152448
+286,281,10018,1.14,REMUNERAÇÃO DIRETA,Adriano Henriques Motta,COORDENADOR,0,0,,50022
+287,282,10018,1.15,REMUNERAÇÃO DIRETA,Pesquisador 1 RSB,PESQUISADOR,0,0,,55580
+288,283,10018,1.16,REMUNERAÇÃO DIRETA,Pesquisador 2 RSB,PESQUISADOR,0,0,,88928
+289,284,10018,"As vidrarias serão necessárias em todas as etapas de preparação, separação, síntese, testes de solubilidade que fazem parte  do projeto.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Componentes de consumo elétricos e mecânicos,"Componentes para integração de sistemas eletromecânicos: resistores, capacitores, placas de metal, ferro de solda",4,2,10000,
+290,285,10018,VIAGEM 1,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Componentes de consumo elétricos e mecânicos,"Componentes para integração de sistemas eletromecânicos: resistores, capacitores, placas de metal, ferro de solda",4,2,26000,
+291,286,10018,Faz-se necessário o uso e a manutenção de aparelhos de vidros específicos para a execução da parte experimental do projeto.,REMUNERAÇÃO DIRETA,Rio de Janeiro - Madri,9,12,4,5000,
+292,287,10018,As análises são necessárias para caracterização dos produtos de síntese e de testes de aplicação,REMUNERAÇÃO DIRETA,Rio de Janeiro - Madri,9,12,4,5000,
+293,288,10018,"O item a ser adquirido  será utilizado para armazenamento e tratamento dos dados, confecção de relatórios, cálculos teóricos e modelagem.",REMUNERAÇÃO DIRETA,Rio de Janeiro - California,10,12,4,5000,
+294,289,10018,"O item a ser adquirido  será utilizado para conservação de reagentes, solventes , produtos de síntese e formulados FIAR modelo.",REMUNERAÇÃO DIRETA,Rio de Janeiro - Houston,11,12,4,5000,
+295,290,10018,VIAGEM 8,REMUNERAÇÃO DIRETA,Rio de Janeiro - Madri,12,12,4,5000,
+296,291,10018,VIAGEM 9,REMUNERAÇÃO DIRETA,Rio de Janeiro - Madri,12,12,4,5000,
+297,292,10018,VIAGEM 10,REMUNERAÇÃO DIRETA,Rio de Janeiro - Madri,32,12,4,5000,
+298,293,10018,VIAGEM 11,REMUNERAÇÃO DIRETA,Rio de Janeiro - Madri,32,12,4,5000,
+299,294,10018,As etapas principais do projeto envolvem a dissolução seguida pela separação da parte não dissolvida dos asfaltenos em diferentes meios. A completa separação dos asfaltenos necessita uma elevada força centrífuga à temperatura constante e por isso esse equipamento é imprescindível para o projeto.,REMUNERAÇÃO DIRETA,ESPANHA,9,7,5,17625,
+300,295,10018,Coordenação do projeto e orientação científica dos trabalhos desenvolvidos,REMUNERAÇÃO DIRETA,ESPANHA,9,7,5,17625,
+301,296,10018,Desenvolvimento técnico da equipe e divulgação dos resultados obtidos,REMUNERAÇÃO DIRETA,ESPANHA,10,7,5,17625,7050
+302,297,10018,Pequenos ajustes no espaço do laboratório para a adequação dos novos procedimentos que serão realizados no local,REMUNERAÇÃO DIRETA,ESPANHA,11,7,5,17625,7050
+303,298,10018,Computador de alto desempenho para execução das atividades,REMUNERAÇÃO DIRETA,ESPANHA,12,7,5,17625,17625
+304,299,10018,Computador de alto desempenho para controle e reconstrução de imagens,REMUNERAÇÃO DIRETA,ESPANHA,12,7,5,17625,17625
+305,300,10018,Softwares de apoio a confeccção de relatórios (Office e Sistema operacional),REMUNERAÇÃO DIRETA,ESPANHA,32,7,5,17625,17625
+306,301,10018,Lincenças para softwares importantes para o desenvolvimento do projeto< como Avizo Fire e Isatis,REMUNERAÇÃO DIRETA,ESPANHA,32,7,5,17625,17625
+307,302,10018,Análise dos dados com aplicação de técnicas estatísticas e de redes neurais,REMUNERAÇÃO DIRETA,Congresso de robótica,taxa de inscrição em congresso,14,6,2400,
+308,303,10018,Aplicação de técnicas de análise de sinais para investigação do comportamento dados,REMUNERAÇÃO DIRETA,Teste no tanque oceânico,serviço de testes no tanque oceanico no parque tecnologia da UFRJ. Utilizando uma plataforma 6D para simular ondas,13,6,141345.4,
+309,304,10018,0,REMUNERAÇÃO DIRETA,Alimentação/Refeição,Vale Alimentação / Refeição para o pessoal CLT (clt-mês),13,6,484,
+310,305,10018,"obs: somamos todos os tributos em uma só linha conforme orientação da ANP. A discriminação das alíquotas e legislações será feita no anexo PTR - PARTE A, Item 6: Informações Adicionais/Específicas.",REMUNERAÇÃO DIRETA,Transporte,Vale Transporte para o pessoal CLT ( clt-mês),13,6,334.4,
+311,306,10018,5.5,REMUNERAÇÃO DIRETA,Plano de Saúde,Plano de Saúde para o pessoal CLT (clt-mês),13,6,230,
+312,307,10018,7.1,BOLSA,Sensor inercial de alta qualidade,sensor inercial para medir a dinâmica da embarcação. Preço baseado no modelo por fibra ótica KVH-1750 IMU,22,12,99408,
+313,308,10018,7.2,BOLSA,Sensor inercial,sensor inercial para medir a dinâmica da embarcação. Preço baseado no modelo Xsens,22,12,40000,
+314,309,10018,7.3,BOLSA,RTK GPS,Módulo GPS de alta precisão,22,12,60000,
+315,310,10018,7.4,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Licensa de Matlab,Licensa de software para modelagem matemática Matlab por 2 anos do projeto,22,12,30000,
+316,311,10018,7.5,BOLSA,Motor,Motores para construir a plataforma de estabelização,22,12,20000,
+317,312,10018,7.6,BOLSA,Engrenagem/redução,engrenagem/redução para os motores,22,12,12000,
+318,313,10018,7.7,BOLSA,Eletrônica embarcada do estabelizador,vaso de pressão e componentes para construir a eletrônica embarcada do estabelizador,22,12,40000,
+319,314,10018,7.8,BOLSA,Umbilical,umbiical de energia para alimentar o sistema,22,12,2400,
+320,315,10018,7.9,BOLSA,Controlador motor,Controlador para os motores,22,12,4000,
+321,316,10018,7.10,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Fonte de energia,Fonte de energia móvel para testes em campo,22,12,5000,
+322,317,10018,7.11,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Caixa de transporte,Pelican cases para transporte de equipamento,22,12,3000,
+323,318,10018,7.12,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Licensa de Altium Designer,Licensa de software para design eletrônica por 2 anos,22,12,21000,
+324,319,10018,7.13,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Licensa de Solidworks,Licensa de software para modelagem mecânica por 2 anos,22,12,36000,
+325,320,10018,7.14,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Ferramentas,Caixa de ferramenta para montagem e desmontagem do equipamento em campo,22,12,20000,
+326,321,10018,7.15,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Transporte / Frete,Transporte / frete das peças do protótipo,23,12,10000,
+327,322,10018,7.16,BOLSA,Housing motor,Um housing para os motores para proteger os mesmo contra o ambiente offshore,22,12,24000,
+328,323,10018,7.17,BOLSA,Estrutura,estrutura mecânica da plataforma,22,12,40000,
+329,324,10018,7.18,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,usinagem,usingaem de peças para o protótipo,23,12,95000,
+330,325,10018,7.19,BOLSA,Heads,sistema de detecção de hidrocarboneto,22,12,1398600,
+331,326,10018,7.20,BOLSA,Caixa de interconexão,Caixa para interconectar todos os componentes,22,12,60000,
+332,327,10018,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Laptop,Computador para desenvolvilmento do trabalho de pesquisa,9,7,15000,
+333,328,10018,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,368081.6,,,
+334,329,10018,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,162388.23
+335,330,10018,Vaso para pressurização externa das válvulas de BOP. Possui controle de temperatura para simular o ambiente do leito marinho.,REMUNERAÇÃO DIRETA,ISS,Valor sobre nota de desenbolso,4,10,,77106.82
+336,331,10018,16.2,REMUNERAÇÃO DIRETA,Imposto sobre nota,Imposto sobre notas de desenbolso,4,10,,410143.09
+337,332,10018,16.5,REMUNERAÇÃO DIRETA,Importação,Taxa de importação,4,10,,98000
+338,333,10019,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,Lilian Evile Mansur de Souza 07538233733,"Coordenadora da equipa de Pesquisadores e Desenvolvedores informáticos, sendo responsável pela interação com as equipas Técnicas e Gerenciais da Petrogal Brasil",0,0,,398935.68
+339,334,10019,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,Taehee Kim                    06405275744,Especialista em Ciências de Computação e Desenvolvedora de aplicativos,0,0,,762685.44
+340,335,10019,"O bolsista será orientado e treinado para a execução da parte experimental do projeto sendo respondável pela purificação dos reagentes e solventes, condução de sínteses e testes de solubilidade e estabilidade dos asfaltenos, aquisição de espectros de abosrbância para medidades de polaridade do meio.",REMUNERAÇÃO DIRETA,MathieuAlain Ghislain Morris    06008983777,Desenvolvedor de aplicativos informáticos focado em dados de geociências,0,0,,238339.2
+341,336,10019,Os reagentes e gases especiais serão necessários para síntese de sondas solvatocrômicas e de aditivos para inibição de precipitação de asfaltenos.A justificativa detalhada deste item se encontra em carta resposta anexada.,REMUNERAÇÃO DIRETA,Henrique Mageste Rocha Pereira 05879106748,Engenheiro de Petróleo e Desenvolvedor Científico de aplicativos informáticos na área da engenharia,0,0,,635571.2
+342,337,10019,Utilização de simulação de fluxo para avaliar os impactos das heterogeneidades das rochas,REMUNERAÇÃO DIRETA,João Muniz Moreira         13016020785,Geofisico especialista em análise de dados e controle de qualidade,0,0,,704014.08
+343,338,10019,Aplicação de rotinas computacionais para análise de dados de tomografia,REMUNERAÇÃO DIRETA,Maria Olho Azul Martins       06371692712,Especialista em Geociências com larga experiência na utilização de aplicativos de inversão sismica e modelação de reservatórios e coordenadora da equipa de pesquisadores da Petrogal Brasil na preparação de dados e testes de desempenho aos aplicativos desenvolvidos no projeto,0,0,,148520
+344,339,10019,Participação e orientação científica aos demais pesquisadores em todas as etapas de desenvolvimento do trabalho,REMUNERAÇÃO DIRETA,Michelle Mepen                 07863714710,Pesquisadora especialista em processos e fluxogramas de inversão sísmica com a responsabilidade de testar os aplicativos desenvolvidos e comparar  resultados e performances,0,0,,123431
+345,340,10019,"Papel, caneta, lapis, grampeador, borracha",REMUNERAÇÃO DIRETA,Carlos Alberto Cardeal de Jesus 09883808704,Pesquisador especialista em métodos geofisicos e responsável pela preparação de dados do estudo de caso e teste aos aplicativos e soluções desenvolvidas no projeto,0,0,,98961
+346,341,10019,7.1,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Desenvolvimento Experimental e Construção de Protótipo,Serviços de Apoio Tecnológico no Desenvolvimento do Algoritmo funcional e Construção do Aplicativo garantindo o seu funcionamento e integração na suite de softwares da Paradigm usados pela Indústria,23,12,1268920,
+347,342,10020,Placas de aquisição de dados para leitura dos medidores e controle do aparato experimental,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Computador desktop de alto desempenho,Utilização na modelagem geométrica do projeto do aparato de AM e de meios porosos,17,7,5000,
+348,343,10020,Aplicação de diferentes métodos para análise de perfis de imagem,REMUNERAÇÃO DIRETA,TRIBUTOS,3,67000,,,
+349,344,10020,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,TRIBUTOS,3,5,,,17130
+350,345,10020,"Construção das linhas de acionamento, montagem, instalação das válvulas no Simulador Multipropósito. Adequação das instalações existentes para a realização dos ensaios de confiabilidade das válvulas de BOP.",REMUNERAÇÃO DIRETA,Adequação da estrutura Laboratorial do NUFER,"Adaptação de espaços fisicos específicos com o uso de divisórias para os equipamentos de AM e seus respectivos acessórios, além de instalações hidráulicas, de ar comprimidos, elétricas, condicionamento de ar, iluminação, lógicas e controle de acesso.",15,8,,25000
+351,346,10020,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA,Máquina de AM para cerâmica,Equipamento de AM capaz de trabalhar com material cerâmico para a fabricação de rocha sintética,17,7,448000,
+352,347,10020,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Forno para sinterização de cerâmica,Sinterização de material cerâmico para obtenção de rocha sintética,17,7,60000,
+353,348,10020,Análise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Sistema de projeção DLP,"Sistema de projeção DLP para o aparato experimental de AM, visando análise de inserção de resina fotossensível no meio poroso de cerâmica",9,7,10000,
+354,349,10020,Medição de vibração no circuito de testes.,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Estação de trabalho,"Estações de trabalho para os integrantes da equipe do projeto nas novas instalações do NUFER (mesa, cadeira, bancada, armário, etc.)",9,7,13000,
+355,350,10021,"toner, discos, memoria, placas, papers, cartuchos, peças de reposição para computadores e periféricos",REMUNERAÇÃO DIRETA,Arthur Besen Soprano,PESQUISADOR,0,0,426296.64,
+356,351,10021,VIAGEM 5,REMUNERAÇÃO DIRETA,Ederson Augusto Grein,PESQUISADOR,0,0,426296.64,
+357,352,10021,VIAGEM 6,REMUNERAÇÃO DIRETA,Rafael Floriani Bertoldi,PESQUISADOR,0,0,426296.64,345502.08
+358,353,10021,VIAGEM 7,REMUNERAÇÃO DIRETA,Tomas Aliaga,PESQUISADOR,0,0,426296.64,259126.56
+359,354,10021,1.13,REMUNERAÇÃO DIRETA,Eduardo Kern,COORDENADOR,0,0,426296.64,118577.54
+360,355,10021,1.14,REMUNERAÇÃO DIRETA,Fabio Zadrosny,PESQUISADOR,0,0,426296.64,167892.48
+361,356,10021,1.15,REMUNERAÇÃO DIRETA,Tiago de Holanda Cunha Nobrega,PESQUISADOR,0,0,426296.64,197429.76
+362,357,10021,1.16,REMUNERAÇÃO DIRETA,João Américo de Oliveira Aguirre,PESQUISADOR,0,0,426296.64,182413.44
+363,358,10021,1.17,REMUNERAÇÃO DIRETA,Hamilton Pimentel,COORDENADOR,0,0,426296.64,321798.2
+364,359,10021,1.18,REMUNERAÇÃO DIRETA,Elysio Nogueira,PESQUISADOR,0,0,426296.64,97200
+365,360,10021,1.19,REMUNERAÇÃO DIRETA,Andrea Chicuta,PESQUISADOR,0,0,426296.64,162351
+366,361,10021,Vaso para pressurização externa das válvulas de BOP. Possui controle de temperatura para simular o ambiente do leito marinho.,REMUNERAÇÃO DIRETA,CONTRIBUIÇÃO PREVIDENCIARIA PATRONAL (CPRB),"Conforme lei Nº 12.546/2011, e alterações posteriores, sendo a última a Lei nº 13.161/2015, a empresa ESSS é optante pelo recolhimento da contribuição previdenciária sobre a receita bruta ¿CPRB, aplicando a alíquota de 4,5% sobre a receita bruta o que corresponde a 5,01% sobre a receita líquida",4,10,426296.64,499908.8
+367,362,10021,16.2,REMUNERAÇÃO DIRETA,ISS,"Conforme Regulamento do ISS do Município de Florianópolis, serviços prestados referentes à ¿Desenvolvimento e licenciamento de programas de computador customizáveis ¿ CNAE 6202300¿ serão tributados pela alíquota de 2% sobre a receita bruta, correspondentes a 2,23% sobre a receita líquida",4,10,426296.64,222181.69
+368,363,10021,16.3,REMUNERAÇÃO DIRETA,PIS,"Conforme as leis 10.637/2002 e 10.833/2003 (Art.10 Inc. XXV), as receitas auferidas por empresas de serviços de informática tributadas pelo Lucro Real, em atividades de desenvolvimento e licenciamento de software, possuem alíquotas de PIS e COFINS de 0,65% e 3% sobre a receita bruta, respectivamente",4,10,426296.64,72209.05
+369,364,10021,16.4,REMUNERAÇÃO DIRETA,COFINS,"Conforme as leis 10.637/2002 e 10.833/2003 (Art.10 Inc. XXV), as receitas auferidas por empresas de serviços de informática tributadas pelo Lucro Real, em atividades de desenvolvimento e licenciamento de software, possuem alíquotas de PIS e COFINS de 0,65% e 3% sobre a receita bruta, respectivamente",4,10,426296.64,333272.53
+370,365,10021,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,Ari Schveitzer Jr.,COORDENADOR,0,0,426296.64,498664.32
+371,366,10021,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,Bruno Oliveira,PESQUISADOR,0,0,426296.64,556691.52
+372,367,10021,"O bolsista será orientado e treinado para a execução da parte experimental do projeto sendo respondável pela purificação dos reagentes e solventes, condução de sínteses e testes de solubilidade e estabilidade dos asfaltenos, aquisição de espectros de abosrbância para medidades de polaridade do meio.",REMUNERAÇÃO DIRETA,Carlos Eduardo Fontes,PESQUISADOR,0,0,426296.64,852667.2
+373,368,10021,Os reagentes e gases especiais serão necessários para síntese de sondas solvatocrômicas e de aditivos para inibição de precipitação de asfaltenos.A justificativa detalhada deste item se encontra em carta resposta anexada.,REMUNERAÇÃO DIRETA,Edson Tadeu Manuel,PESQUISADOR,0,0,426296.64,638447.04
+374,369,10021,Utilização de simulação de fluxo para avaliar os impactos das heterogeneidades das rochas,REMUNERAÇÃO DIRETA,Carlos Newmar Donatti,PESQUISADOR,0,0,426296.64,426296.64
+375,370,10021,Aplicação de rotinas computacionais para análise de dados de tomografia,REMUNERAÇÃO DIRETA,Cristiano Édio Dannenhauer,PESQUISADOR,0,0,426296.64,638447.04
+376,371,10021,Participação e orientação científica aos demais pesquisadores em todas as etapas de desenvolvimento do trabalho,REMUNERAÇÃO DIRETA,Edson Gustavo Muenz,PESQUISADOR,0,0,426296.64,345502.08
+377,372,10021,"Papel, caneta, lapis, grampeador, borracha",REMUNERAÇÃO DIRETA,Enio Tsutomo Hayashi,PESQUISADOR,0,0,426296.64,197429.76
+378,427,10024,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,Lucas Dayube Santos Vilas Boas,COORDENADOR,0,0,426296.64,102582.72
+379,428,10024,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,Alex Álisson Bandeira Santos,COORDENADOR,0,0,426296.64,94758.48
+380,429,10024,"O bolsista será orientado e treinado para a execução da parte experimental do projeto sendo respondável pela purificação dos reagentes e solventes, condução de sínteses e testes de solubilidade e estabilidade dos asfaltenos, aquisição de espectros de abosrbância para medidades de polaridade do meio.",REMUNERAÇÃO DIRETA,Joao Marcelo Silva Souza,COORDENADOR,0,0,426296.64,101506.5
+381,430,10024,Os reagentes e gases especiais serão necessários para síntese de sondas solvatocrômicas e de aditivos para inibição de precipitação de asfaltenos.A justificativa detalhada deste item se encontra em carta resposta anexada.,REMUNERAÇÃO DIRETA,Davidson Martins Moreira,PESQUISADOR,0,0,426296.64,94758.48
+382,431,10024,Utilização de simulação de fluxo para avaliar os impactos das heterogeneidades das rochas,REMUNERAÇÃO DIRETA,Marcelo Moreti,PESQUISADOR,0,0,426296.64,94758.48
+383,432,10024,Aplicação de rotinas computacionais para análise de dados de tomografia,REMUNERAÇÃO DIRETA,Valter de Senna,PESQUISADOR,0,0,426296.64,94758.48
+384,433,10024,Participação e orientação científica aos demais pesquisadores em todas as etapas de desenvolvimento do trabalho,REMUNERAÇÃO DIRETA,Andre Luis  da Cunha Dantas Lima,COORDENADOR,0,0,426296.64,100264.77
+385,434,10024,"Papel, caneta, lapis, grampeador, borracha",REMUNERAÇÃO DIRETA,Marcos de Aguiar,PESQUISADOR,0,0,426296.64,49813.74
+386,435,10024,"toner, discos, memoria, placas, papers, cartuchos, peças de reposição para computadores e periféricos",REMUNERAÇÃO DIRETA,Leonardo Fialho de Queiroz,PESQUISADOR,0,0,426296.64,66834.11
+387,436,10024,VIAGEM 5,REMUNERAÇÃO DIRETA,Jesse Santana de Pinho,TÉCNICO,0,0,426296.64,10515.13
+388,437,10024,VIAGEM 6,REMUNERAÇÃO DIRETA,José Esmeraldo Campos Vieira Filho,TÉCNICO,0,0,426296.64,11813.49
+389,438,10024,VIAGEM 7,REMUNERAÇÃO DIRETA,Luiz Claudio Pinto de Oliveira,TÉCNICO,0,0,426296.64,32141.69
+390,439,10024,1.13,REMUNERAÇÃO DIRETA,Marcelo dos Santos Barreiro,TÉCNICO,0,0,426296.64,37547.55
+391,440,10024,1.14,REMUNERAÇÃO DIRETA,Thiago Francisco Oliveira de Menezes,TÉCNICO,0,0,426296.64,7909.03
+392,441,10024,1.15,REMUNERAÇÃO DIRETA,Felippe Vieira Zacarias,PESQUISADOR,0,0,426296.64,30030.53
+393,442,10024,1.16,REMUNERAÇÃO DIRETA,Carlos Fernandez,COORDENADOR,0,0,426296.64,192000
+394,443,10024,1.17,REMUNERAÇÃO DIRETA,Alejo Sansigre,PESQUISADOR,0,0,426296.64,220282.42
+395,444,10024,1.18,REMUNERAÇÃO DIRETA,Rafael Mendes da Silva,PESQUISADOR,0,0,426296.64,220282.4
+396,445,10024,1.19,REMUNERAÇÃO DIRETA,Fabiano Ramos,PESQUISADOR,0,0,426296.64,220282.4
+397,446,10024,1.20,REMUNERAÇÃO DIRETA,Caio Burin Ferreira,COORDENADOR,0,0,426296.64,263755
+398,447,10024,1.21,REMUNERAÇÃO DIRETA,Olivier Kirstetter,COORDENADOR,0,0,426296.64,79113.45
+399,448,10024,1.22,REMUNERAÇÃO DIRETA,Leandro Nicanoff,PESQUISADOR,0,0,426296.64,192000
+400,449,10024,1.23,REMUNERAÇÃO DIRETA,Edinei Pereira,PESQUISADOR,0,0,426296.64,131855.75
+401,450,10024,1.24,REMUNERAÇÃO DIRETA,Caio Burin Ferreira,COORDENADOR,0,0,426296.64,276312
+402,451,10024,1.25,REMUNERAÇÃO DIRETA,Edinei Pereira,PESQUISADOR,0,0,426296.64,252492
+403,452,10024,Faz-se necessário o uso e a manutenção de aparelhos de vidros específicos para a execução da parte experimental do projeto.,REMUNERAÇÃO DIRETA,Salvador/Rio de Janeiro - Rio de Janeiro/Salvador,9,6,4,900,
+404,453,10024,As análises são necessárias para caracterização dos produtos de síntese e de testes de aplicação,REMUNERAÇÃO DIRETA,Salvador/Rio de Janeiro - Rio de Janeiro/Salvador,10,6,4,900,
+405,454,10024,"O item a ser adquirido  será utilizado para armazenamento e tratamento dos dados, confecção de relatórios, cálculos teóricos e modelagem.",REMUNERAÇÃO DIRETA,Salvador/Rio de Janeiro - Rio de Janeiro/Salvador,11,6,4,900,
+406,455,10024,"O item a ser adquirido  será utilizado para conservação de reagentes, solventes , produtos de síntese e formulados FIAR modelo.",REMUNERAÇÃO DIRETA,Salvador/Rio de Janeiro - Rio de Janeiro/Salvador,12,6,4,900,
+407,456,10024,VIAGEM 8,REMUNERAÇÃO DIRETA,Salvador/Rio de Janeiro - Rio de Janeiro/Salvador,32,6,4,900,
+408,457,10024,VIAGEM 9,REMUNERAÇÃO DIRETA,Salvador/Rio de Janeiro - Rio de Janeiro/Salvador,33,6,4,900,
+409,458,10024,VIAGEM 10,REMUNERAÇÃO DIRETA,Salvador/Rio de Janeiro - Rio de Janeiro/Salvador,34,6,4,900,
+410,459,10024,VIAGEM 11,REMUNERAÇÃO DIRETA,Salvador/Rio de Janeiro - Rio de Janeiro/Salvador,35,6,4,900,
+411,460,10024,VIAGEM 12,REMUNERAÇÃO DIRETA,Salvador/Rio de Janeiro - Rio de Janeiro/Salvador,36,6,4,900,
+412,461,10024,VIAGEM 13,REMUNERAÇÃO DIRETA,Salvador/Rio de Janeiro - Rio de Janeiro/Salvador,37,6,4,900,
+413,462,10024,"Análise de tomografia, ressonância magnética, porosidade, permeabilidade e resistividade.",REMUNERAÇÃO DIRETA,Rio de Janeiro/Salvador - Salvador/Rio de Janeiro,38,6,4,900,
+414,463,10024,Descrição de testemunho no local em que se encontra depositado e aquisição dos dados de poços,REMUNERAÇÃO DIRETA,Rio de Janeiro/Salvador - Salvador/Rio de Janeiro,39,6,4,900,
+415,464,10024,Análise de micro tomografia em amostras de plugue,REMUNERAÇÃO DIRETA,Rio/Chicago - Chicago/Rio,40,12,4,3000,
+416,465,10024,3.14,REMUNERAÇÃO DIRETA,Rio/EUA - EUA/Rio,VIAGEM 14,12,4,3000,
+417,466,10024,3.15,REMUNERAÇÃO DIRETA,Rio/EUA - EUA/Rio,VIAGEM 15,12,4,3000,
+418,467,10024,3.16,REMUNERAÇÃO DIRETA,Rio/EUA - EUA/Rio,VIAGEM 16,12,4,3000,
+419,468,10024,3.17,REMUNERAÇÃO DIRETA,Rio/EUA - EUA/Rio,VIAGEM 17,12,4,3000,
+420,469,10024,3.18,REMUNERAÇÃO DIRETA,Rio/EUA - EUA/Rio,VIAGEM 18,12,4,3000,
+421,470,10024,As etapas principais do projeto envolvem a dissolução seguida pela separação da parte não dissolvida dos asfaltenos em diferentes meios. A completa separação dos asfaltenos necessita uma elevada força centrífuga à temperatura constante e por isso esse equipamento é imprescindível para o projeto.,REMUNERAÇÃO DIRETA,13,9,7,5,3000,
+422,471,10024,Coordenação do projeto e orientação científica dos trabalhos desenvolvidos,REMUNERAÇÃO DIRETA,13,10,7,5,3000,2000
+423,472,10024,Desenvolvimento técnico da equipe e divulgação dos resultados obtidos,REMUNERAÇÃO DIRETA,13,11,7,5,3000,2000
+424,473,10024,Pequenos ajustes no espaço do laboratório para a adequação dos novos procedimentos que serão realizados no local,REMUNERAÇÃO DIRETA,13,12,7,5,3000,1000
+425,474,10024,Computador de alto desempenho para execução das atividades,REMUNERAÇÃO DIRETA,13,32,7,5,3000,1000
+426,475,10024,Computador de alto desempenho para controle e reconstrução de imagens,REMUNERAÇÃO DIRETA,13,33,7,5,3000,1000
+427,476,10024,Softwares de apoio a confeccção de relatórios (Office e Sistema operacional),REMUNERAÇÃO DIRETA,13,34,7,5,3000,2000
+428,477,10024,Lincenças para softwares importantes para o desenvolvimento do projeto< como Avizo Fire e Isatis,REMUNERAÇÃO DIRETA,13,35,7,5,3000,1000
+429,478,10024,4.9,REMUNERAÇÃO DIRETA,13,36,7,5,3000,1000
+430,479,10024,4.10,REMUNERAÇÃO DIRETA,13,37,7,5,3000,2000
+431,480,10024,4.11,REMUNERAÇÃO DIRETA,13,38,7,5,3000,3000
+432,481,10024,4.12,REMUNERAÇÃO DIRETA,13,39,7,5,3000,7500
+433,482,10024,4.13,REMUNERAÇÃO DIRETA,36,40,7,5,3000,9065
+434,483,10024,4.14,REMUNERAÇÃO DIRETA,36,VIAGEM 14,7,5,3000,9065
+435,484,10024,4.15,REMUNERAÇÃO DIRETA,36,VIAGEM 15,7,5,3000,9065
+436,485,10024,4.16,REMUNERAÇÃO DIRETA,36,VIAGEM 16,7,5,3000,9065
+437,486,10024,4.17,REMUNERAÇÃO DIRETA,36,VIAGEM 17,7,5,3000,9065
+438,487,10024,4.18,REMUNERAÇÃO DIRETA,36,VIAGEM 18,7,5,3000,38850
+439,488,10024,"Instalação elétrica de novos equipamentos e instrumentos de medida, ampliação de iluminação, adequação da rede elétrica para atender aos ensaios a serem realizados.",BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,NICE VNC VIZSERVER,Licenças necessárias para utilização do HPC pelos pesquisadores do projeto,16,9,8788,
+440,489,10024,Análise de rochas carbonáticas,REMUNERAÇÃO DIRETA,DIARIAS E AJUDA DE CUSTO,3,50826.27,,,
+441,490,10024,Aplicação de métodos geoestatísticos em dados de tomografia e imagens das rochas,REMUNERAÇÃO DIRETA,DIARIAS E AJUDA DE CUSTO,3,11,,,142598
+442,491,10025,alinhamento da pesquisa com as demandas de oleo e gas,REMUNERAÇÃO DIRETA,45,COORDENADOR,0,0,,120384
+443,492,10025,"A bolsista será responsável pela condução experimental do projeto, atualização bibliográfica, proposta de estudo e testes, cumprimento do cronograma aprovado, compra de material nacional e importado, análise, interpretação e apresentação dos resultados.",REMUNERAÇÃO DIRETA,Engenheiro Analista 1,TÉCNICO,0,0,,202752
+444,493,10025,"O bolsista será orientado e treinado para a execução da parte experimental do projeto sendo respondável pela purificação dos reagentes e solventes, condução de sínteses e testes de solubilidade e estabilidade dos asfaltenos, aquisição de espectros de abosrbância para medidades de polaridade do meio.",REMUNERAÇÃO DIRETA,Engenheiro Analista 2,TÉCNICO,0,0,,202752
+445,494,10025,Os reagentes e gases especiais serão necessários para síntese de sondas solvatocrômicas e de aditivos para inibição de precipitação de asfaltenos.A justificativa detalhada deste item se encontra em carta resposta anexada.,REMUNERAÇÃO DIRETA,Analista Júnior,OUTRA,0,0,,115200
+446,495,10025,Utilização de simulação de fluxo para avaliar os impactos das heterogeneidades das rochas,REMUNERAÇÃO DIRETA,Técnico de Informatica 1,OUTRA,0,0,,151200
+447,496,10025,Aplicação de rotinas computacionais para análise de dados de tomografia,REMUNERAÇÃO DIRETA,Técnico de Informatica 2,OUTRA,0,0,,120960
+448,497,10025,Faz-se necessário o uso e a manutenção de aparelhos de vidros específicos para a execução da parte experimental do projeto.,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,9,6,4,1100,
+449,498,10025,As análises são necessárias para caracterização dos produtos de síntese e de testes de aplicação,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,10,6,4,1100,
+450,499,10025,"O item a ser adquirido  será utilizado para armazenamento e tratamento dos dados, confecção de relatórios, cálculos teóricos e modelagem.",REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,11,6,4,1100,
+451,500,10025,"O item a ser adquirido  será utilizado para conservação de reagentes, solventes , produtos de síntese e formulados FIAR modelo.",REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,12,6,4,1100,
+452,501,10025,VIAGEM 8,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,32,6,4,1100,
+453,502,10025,VIAGEM 9,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,33,6,4,1100,
+454,503,10025,VIAGEM 10,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,34,6,4,1100,
+455,504,10025,VIAGEM 11,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,35,6,4,1100,
+456,505,10025,VIAGEM 12,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,36,6,4,1100,
+457,506,10025,VIAGEM 13,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,37,6,4,1100,
+458,507,10025,"Análise de tomografia, ressonância magnética, porosidade, permeabilidade e resistividade.",REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,38,6,4,1100,
+459,508,10025,Descrição de testemunho no local em que se encontra depositado e aquisição dos dados de poços,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,39,6,4,1100,
+460,509,10025,Análise de micro tomografia em amostras de plugue,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,40,6,4,1100,
+461,510,10025,3.14,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,VIAGEM 14,6,4,1100,
+462,511,10025,3.15,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,VIAGEM 15,6,4,1100,
+463,512,10025,3.16,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,VIAGEM 16,6,4,1100,
+464,513,10025,3.17,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,VIAGEM 17,6,4,1100,
+465,514,10025,3.18,REMUNERAÇÃO DIRETA,Rio de Janeiro / São Paulo / Rio de Janeiro,VIAGEM 18,6,4,1100,
+466,515,10025,3.19,REMUNERAÇÃO DIRETA,Rio de Janeiro / Londres / Rio de Janeiro,VIAGEM 19,12,4,4000,
+467,516,10025,3.20,REMUNERAÇÃO DIRETA,Rio de Janeiro / Paris / Rio de Janeiro,VIAGEM 20,12,4,4000,
+468,517,10025,3.21,REMUNERAÇÃO DIRETA,Rio de Janeiro / Amsterdã / Rio de Janeiro,VIAGEM 21,12,4,4000,
+469,518,10025,As etapas principais do projeto envolvem a dissolução seguida pela separação da parte não dissolvida dos asfaltenos em diferentes meios. A completa separação dos asfaltenos necessita uma elevada força centrífuga à temperatura constante e por isso esse equipamento é imprescindível para o projeto.,REMUNERAÇÃO DIRETA,13,9,7,5,200,
+470,519,10025,Coordenação do projeto e orientação científica dos trabalhos desenvolvidos,REMUNERAÇÃO DIRETA,13,10,7,5,200,
+471,520,10025,Desenvolvimento técnico da equipe e divulgação dos resultados obtidos,REMUNERAÇÃO DIRETA,13,11,7,5,200,
+472,521,10025,Pequenos ajustes no espaço do laboratório para a adequação dos novos procedimentos que serão realizados no local,REMUNERAÇÃO DIRETA,13,12,7,5,200,
+473,522,10025,Computador de alto desempenho para execução das atividades,REMUNERAÇÃO DIRETA,13,32,7,5,200,
+474,523,10025,Computador de alto desempenho para controle e reconstrução de imagens,REMUNERAÇÃO DIRETA,13,33,7,5,200,
+475,524,10025,Softwares de apoio a confeccção de relatórios (Office e Sistema operacional),REMUNERAÇÃO DIRETA,13,34,7,5,200,
+476,525,10025,Lincenças para softwares importantes para o desenvolvimento do projeto< como Avizo Fire e Isatis,REMUNERAÇÃO DIRETA,13,35,7,5,200,
+477,526,10025,4.9,REMUNERAÇÃO DIRETA,13,36,7,5,200,
+478,527,10025,4.10,REMUNERAÇÃO DIRETA,13,37,7,5,200,
+479,528,10025,4.11,REMUNERAÇÃO DIRETA,13,38,7,5,200,
+480,529,10025,4.12,REMUNERAÇÃO DIRETA,13,39,7,5,200,
+481,530,10025,4.13,REMUNERAÇÃO DIRETA,13,40,7,5,200,
+482,531,10025,4.14,REMUNERAÇÃO DIRETA,13,VIAGEM 14,7,5,200,
+483,532,10025,4.15,REMUNERAÇÃO DIRETA,13,VIAGEM 15,7,5,200,
+484,533,10025,4.16,REMUNERAÇÃO DIRETA,13,VIAGEM 16,7,5,200,
+485,534,10025,4.17,REMUNERAÇÃO DIRETA,13,VIAGEM 17,7,5,200,
+486,535,10025,4.18,REMUNERAÇÃO DIRETA,13,VIAGEM 18,7,5,200,
+487,536,10025,4.19,REMUNERAÇÃO DIRETA,GRÃ-BRETANHA,VIAGEM 19,7,5,200,10360
+488,537,10025,4.20,REMUNERAÇÃO DIRETA,FRANÇA,VIAGEM 20,7,5,200,10360
+489,538,10025,4.21,REMUNERAÇÃO DIRETA,PAÍSES BAIXOS,VIAGEM 21,7,5,200,10360
+490,539,10025,6.1,REMUNERAÇÃO DIRETA,Contratação de empresas de consultoria técnica - Referente ao item do 5.3 - Contratação de empresas de consultoria técnica do PTR-Parte A,"Contratação de empresas técnicas especializadas para o desenvolvimento de atividades técnicas específicas, complementares às áreas de conhecimento da equipe vinculada. As empresas serão definidas de acordo com os temas estabelecidos no cronograma de trabalho.",20,11,20000,
+491,540,10025,6.2,REMUNERAÇÃO DIRETA,Contratação de serviços de assessoria e apoio técnico em Marketing,Contratação de empresa de marketing  para desenvolver a promoção e divulgação em nivel internacional do conjunto de fornecedores nacionais capazes de atender aos requisitos das normas internacionais em função dos mercados alvo.,20,11,45000,
+492,541,10025,6.3,REMUNERAÇÃO DIRETA,Contratação de serviços de gestão de projeto e acompanhamento dos planos de desenvolvimento em andamento,"Contratação de empresa para acompanhar o projeto e os planos de desenvolvimento, fornecendo suporte a equipe vinculada",20,11,72000,
+493,542,10025,6.4,REMUNERAÇÃO DIRETA,Contratação de serviços de assessoria e apoio técnico em Tradução,Contratação de empresa para fazer a tradução de normas tecnicas e do portal.,20,11,36000,
+494,543,10025,6.5,REMUNERAÇÃO DIRETA,Contratação de serviços de assessoria e apoio técnico em Comunicação,Contratação de empresa de comunicação para propagar o conhecimento sobre as normas tecnicas de modo que sejam identificadas as necessidades de adaptação e de capacitação das funções de TIB.,20,11,46000,
+495,544,10025,6.6,REMUNERAÇÃO DIRETA,Contratação de serviços de assessoria e apoio técnico Juridico,Contratação de empresa para prover assessoramento juridico do projeto.,20,11,20000,
+496,545,10025,6.7,REMUNERAÇÃO DIRETA,Contratação de Serviço de Informática,"Contratação de serviços de TIC para modelagem, desenvolvimento e manutenção de software para o Portal pelo periodo do projeto.",20,11,60000,
+497,546,10026,"Construção das linhas de acionamento, montagem, instalação das válvulas no Simulador Multipropósito. Adequação das instalações existentes para a realização dos ensaios de confiabilidade das válvulas de BOP.",REMUNERAÇÃO DIRETA,"Instalação laboratorial - eletrica, hidraulica e linha de ar comprimido",preparação de instalações para equipamento de core flooding,15,8,25000,
+498,547,10026,Analise de rochas carbonáticas por meio de técnicas de ressonância magnética e tomografia,BOLSA - ALUNO DE GRADUAÇÃO OU PÓS-GRADUAÇÃO,Compressor,experimentos de core flooding e visualização em micromodelos em alta pressão.,17,7,8000,
+499,548,10026,Análise de rochas carbonáticas com ênfase nas rochas constituídas por coquinas,BOLSA,cromatógrafo,Caracterização dos fluidos injetados e produzidos nos experimentos de core flooding e visualização em micromodelos.,17,7,225325.72,

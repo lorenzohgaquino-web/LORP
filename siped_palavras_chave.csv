@@ -1,0 +1,501 @@
+﻿SK_SEQ_PALAVRA_CHAVE,NK_SEQ_PALAVRA_CHAVE,NK_SEQ_PROJETO,DSC_PALAVRA_CHAVE,SIG_ORIGEM
+infraestrutura,REF,-1,0,
+aditivos para asfaltenos,REF,10000,1,0
+estabilidade de asfaltenos,2,10000,2,0
+modelos de maltenos,3,10000,3,0
+Petrofísica,7,10002,4,0
+Geologia Rochas Pre-Sal,8,10002,5,0
+Transferência de escala,9,10002,6,0
+Inversão Sísmica,10,10003,7,0
+Geomecânica,11,10003,8,0
+algoritmo,12,10003,9,0
+BOP (Blow out preventer),13,10004,10,0
+Confiabilidade,14,10004,11,0
+Válvulas,15,10004,12,0
+consumo de combustível,16,10005,13,0
+desempenho de motores,17,10005,14,0
+formação de depósitos,18,10005,15,0
+Bactéria redutora de sulfato,19,10006,16,0
+Nanobiosensor,20,10006,17,0
+pré-sal,21,10006,18,0
+CO2,22,10007,19,0
+Gás Natural,23,10007,20,0
+Engenharia Avançada de Reservatórios,24,22,21,1
+umidade,24,10007,22,0
+Engenharia Submarina,25,22,23,1
+catálise,25,10008,24,0
+Gerenciamento de CO2,26,22,25,1
+EDS,26,10008,26,0
+FCC,27,10008,27,0
+bioprocesso,28,10009,28,0
+Despolimerização Biologica,29,10009,29,0
+Poli(tereftalato de etileno),30,10009,30,0
+TIB,31,10010,31,0
+Normalização,32,10010,32,0
+Capacitação,33,10010,33,0
+gás condensado,34,10011,34,0
+escala de poros,35,10011,35,0
+redução de permeabilidade,36,10011,36,0
+Certificação,37,10012,37,0
+Qualificação,38,10012,38,0
+Mão de Obra,39,10012,39,0
+Submarino,40,10013,40,0
+Desenvolvimento de campo,41,10013,41,0
+Águas profundas,42,10013,42,0
+Espectrometria de Gases Nobr,43,10014,43,0
+Exploração de gás e óleo,44,10014,44,0
+Razão isotópica de gases nobre,45,10014,45,0
+Análise Isotópica de Carbono e,46,10015,46,0
+Hidrocarbonetos Gasosos (C1,47,10015,47,0
+Desenvolvimento de Método Ana,48,10015,48,0
+ASFALTENOS,49,10016,49,0
+sistema,50,64,50,1
+HPHT,50,10016,51,0
+ELL HPHT,51,64,40,1
+água do mar,51,10016,52,0
+Formação,52,64,53,1
+HEADS,52,10017,54,0
+Estabilização,53,10017,38,0
+Hidrocarboneto,54,10017,39,0
+Inversão Estocástica Modificad,55,10018,55,0
+Inversão Deterministica e Esto,56,10018,56,0
+reservatórios carbonáticos,57,10018,57,0
+Rocha Sintética,58,10019,58,0
+Manufatura Aditiva,59,10019,59,0
+Meios Porosos,60,10019,60,0
+SIMULADOR,61,10020,61,0
+ESCOAMENTO MULTIFÁSICO,62,10020,62,0
+GARANTIA DE ESCOAMENTO,63,10020,63,0
+Geomecânica de reservatório,64,10021,64,0
+SÍSMICA,65,10021,65,0
+Efeito da compactação na produção,66,10021,66,0
+ONDA ELÁSTICA,73,85,67,1
+Reativação de Falha,73,10024,68,0
+HPC,74,85,69,1
+Tipos de play,74,10024,70,0
+Atributos sísmicos,75,85,71,1
+Carbonatos,75,10024,72,0
+Física da Rocha Digital,76,86,18,1
+Formação de Recursos Humanos em Geofísica,76,10025,31,0
+Caracterização de Rocha Reservatório,77,86,73,1
+Imageamento Sísmico,77,10025,32,0
+Acústica,78,86,74,1
+Filtragem de reflexões múltiplas,78,10025,33,0
+Eletromagnética,79,10026,34,0
+Inversão,80,10026,35,0
+sistema de injeção,81,10026,36,0
+simulação,82,10027,31,0
+diagnóstico,83,10027,32,0
+Equipamentos de Miscibilidade,84,102,21,1
+Gases Ácidos de Reservatórios,84,10027,33,0
+Infra-estrutura laboratorial,85,102,23,1
+Biodiesel,85,10028,75,0
+Microalgas,86,102,25,1
+produção,86,10028,76,0
+Espectrometria de Massas,87,103,77,1
+Formação de Recursos Humanos,87,10028,78,0
+Orbitrap,88,103,79,1
+Interpretação Sismoestratigráfica,88,10029,80,0
+Petroleômica,89,103,81,1
+Interpretação Sísmica,89,10029,82,0
+infraestrutura,90,10029,83,0
+100,91,10030,84,0
+101,92,10030,85,0
+102,93,10030,86,0
+103,94,10031,87,0
+104,95,10031,88,0
+105,96,10031,89,0
+106,97,10032,90,0
+107,98,10032,91,0
+108,99,10032,92,0
+109,100,10033,93,0
+110,101,121,94,1
+111,101,10033,95,0
+112,102,121,96,1
+113,102,10033,97,0
+114,103,121,98,1
+115,103,10034,19,0
+116,104,10034,99,0
+117,105,10034,CCU,0
+118,106,10035,19,0
+119,107,10035,conversão,0
+120,108,10035,captura,0
+121,109,10036,COV,0
+122,110,10036,EMISSÃO ATMOSFÉRICA,0
+123,111,10036,UCR,0
+124,112,10037,Gás natural rico em CO2,0
+125,113,10037,Separação e utilização de CO2,0
+126,114,10037,25,0
+127,115,10038,Gás natural rico em CO2,0
+128,116,10038,Separação e utilização de CO2,0
+129,117,10038,25,0
+130,118,10039,campo magnético,0
+131,119,10039,carbonato de cálcio,0
+132,120,10039,incrustação,0
+133,121,10040,redução de custos,0
+134,122,10040,catalisadores mais ativos,0
+135,123,10040,reação gás-shift,0
+136,124,10041,uso intensivo do ZnO,0
+137,125,10041,postergação da troca,0
+138,126,10041,redução de custos,0
+139,127,10042,Hidrotratamento,0
+140,128,10042,óleo diesel S10,0
+141,129,10042,desempenho,0
+142,130,10043,Hidrotratamento,0
+143,131,10043,Lubrificantes,0
+144,132,10043,Parafinas,0
+145,133,10044,ar enriquecido em O2,0
+146,134,10044,fornos de UGH,0
+147,135,10044,forno reformador,0
+148,136,10045,Desparafinação,0
+149,137,10045,Aditivos,0
+150,138,10045,Lubrificantes,0
+151,139,10046,catalisadores sólidos,0
+152,140,10046,caracterização físico-química,0
+153,141,10046,eficiência refino,0
+154,142,10047,Conversor de NH3,0
+155,143,10047,Emissões atmosféricas,0
+156,144,10047,CONAMA 436,0
+157,145,10048,INFRASAL,0
+158,146,10048,99,0
+159,147,10048,PRESAL,0
+160,148,10049,Telemetria,0
+161,149,10049,Tartaruga-de-couro,0
+162,150,10049,Camurupim,0
+163,151,10050,WAG,0
+164,152,10050,19,0
+165,153,10050,Petrofísica Especial,0
+166,154,10051,Biomassa,0
+167,155,10051,Etanol 2G,0
+168,156,10051,Etapas críticas,0
+169,157,10052,HDT de destilados,0
+170,158,10052,óleos básicos lubrificantes,0
+171,159,10052,hidroconversão de gasóleos,0
+172,160,10053,compósitos de poliolefinas,0
+173,161,181,microbialito,1
+174,161,10053,liners,0
+175,162,181,ambiente deposicional,1
+176,162,10053,escala de laboratório,0
+177,163,181,reservatório carbonático,1
+178,163,10054,formação de hidratos,0
+179,164,10054,gás proveniente do Pré-Sal,0
+180,165,10054,ações mitigadores,0
+181,166,10055,Aminas formuladas,0
+182,167,10055,Tratamento de gás natural,0
+183,168,10055,Adoçamento de gás natural,0
+184,169,10056,Processamento de gás natural,0
+185,170,10056,Otimização,0
+186,171,10056,Acompanhamento de processo,0
+187,172,10057,Ecotoxicologia,0
+188,173,10057,área contaminada,0
+189,174,10057,avaliação de risco,0
+190,175,10058,Compósito,0
+191,176,10058,Reparo,0
+192,177,10058,baixo custo,0
+193,178,10059,Reparo,0
+194,179,10059,Compósito,0
+195,180,10059,Reparo por compósito,0
+196,181,10060,Reparo,0
+197,182,10060,Compósito,0
+198,183,10060,GFRP,0
+199,184,10061,fibra de vidro,0
+200,185,10061,inspeção de equipamentos,0
+201,186,10061,ensaios não destrutivos,0
+202,187,10062,monitoramento,0
+203,188,10062,integridade estrutural,0
+204,189,10062,inspeção de equipamentos,0
+205,190,10063,Metalização,0
+206,191,10063,Colarinhos,0
+207,192,10063,Corrosão Interna,0
+208,193,10064,catalisadores sólidos,0
+209,194,10064,caracterização físico-química,0
+210,195,10064,eficiência refino,0
+211,196,10065,remoção de impurezas,0
+212,197,10065,corrente de C5+,0
+213,198,10065,MEG e etanol,0
+214,199,10066,Sistemas de Transbordo,0
+215,200,10066,Análise Acoplada,0
+216,201,10066,Cálculo de Disponibilidade,0
+217,202,10067,Caracterização de Fluidos,0
+218,203,10067,Fluidos Complexos,0
+219,204,10067,Termodinâmica de misturas,0
+220,205,10068,Fluidos divergentes,0
+221,206,10068,Hidrogéis,0
+222,207,10068,NANOCOMPÓSITOS,0
+223,208,10069,Exoesqueleto,0
+224,209,10069,manufatura,0
+225,210,10069,Robótica,0
+226,211,10070,Sistema de observação oceânica,0
+227,212,10070,Veículo Autônomo de Superfície,0
+228,213,10070,Linhas de fundeio,0
+229,214,10071,90,0
+230,215,10071,91,0
+231,216,10071,Vinhaça,0
+232,217,10072,Alta temperatura e pressão,0
+233,218,10072,Geração de Petróleo,0
+234,219,10072,hidropirólise,0
+235,224,242,Rochas Carbonáticas,1
+236,225,242,Bacia de Campos,1
+237,226,242,Métodos Matemáticos,1
+238,226,10075,PERFURAÇÃO,0
+239,227,10075,KICK DETECTION,0
+240,228,10075,SISTEMA SUBMARINO,0
+241,229,10076,Modelagem matemática,0
+242,230,244,Recuperação avançada por injeção de polímeros,1
+243,230,10076,Reinício de Escoamento,0
+244,231,244,Reologia de Polímeros,1
+245,231,10076,Reologia de Petróleo,0
+246,232,244,Testes Experimentais,1
+247,232,10077,Espectrometria de Gases Nobres,0
+248,233,10077,44,0
+249,234,10077,45,0
+250,235,10078,24,0
+251,236,10078,26,0
+252,237,10078,27,0
+253,238,10079,Equipamentos analíticos,0
+254,239,10079,Laboratório,0
+255,240,10079,Biotecnologia,0
+256,241,261,Escoamento,1
+257,242,261,Elevação Artificial,1
+258,243,261,Reologia,1
+259,244,10081,teor de enxofre,0
+260,245,10081,bunker,0
+261,246,10081,Global cap,0
+262,247,10082,Efeito,0
+263,248,10082,Octanagem,0
+264,249,10082,Desempenho de Veículos,0
+265,250,10083,soldagem em operação,0
+266,251,10083,refinaria,0
+267,252,10083,aço Cr-Mo,0
+268,253,10084,soldagem em operação,0
+269,254,10084,reparo por soldagem,0
+270,255,10084,dutos,0
+271,256,10085,Geoquimica do Petróleo,0
+272,257,10085,Modelagem geoquímica,0
+273,258,10085,Geomicrobiologia,0
+274,259,10086,óleo diesel S10,0
+275,260,10086,Densidade e T95%,0
+276,261,10086,HDT de Diesel,0
+277,262,10087,Asfalto para imprimação,0
+278,263,10087,Querosene,0
+279,264,10087,Diluentes alternativos,0
+280,265,10088,Biopolímeros,0
+281,266,10088,Recuperação avançada,0
+282,267,10088,Pre-sal,0
+283,268,10089,CVU,0
+284,269,10089,Modelamento numérico,0
+285,270,10089,Qualificação de Cabeça de Poço,0
+286,271,10090,61,0
+287,272,10090,62,0
+288,273,10090,63,0
+289,274,10091,soldagem em operação,0
+290,275,10091,reparo por soldagem,0
+291,276,10091,dutos,0
+292,277,10092,WAG,0
+293,278,10092,19,0
+294,279,10092,Petrofísica Especial,0
+295,281,301,75,1
+296,282,301,Processamento de Imagens,1
+297,283,301,imagens microtomográficas,1
+298,289,10096,hidratos,0
+299,290,10096,66,0
+300,291,10096,65,0
+301,292,10097,líquidos de gás natural,0
+302,293,10097,modelos de planejamento,0
+303,294,10097,Cabiúnas - Reduc,0
+304,295,10098,Aditivo,0
+305,296,10098,2-EHN,0
+306,297,10098,Diesel,0
+307,298,10099,Solvente,0
+308,299,10099,oxigenado,0
+309,300,10099,glicerol,0
+310,301,10100,produção de combustíveis liquidos,0
+311,302,10100,Saudi Aranco,0
+312,303,10100,conversão do metano,0
+313,304,10101,Conectividade,0
+314,305,10101,dutos,0
+315,306,10101,Mitigação,0
+316,307,10102,Avaliação ambiental,0
+317,308,10102,efluentes,0
+318,309,10102,injeção,0
+319,310,10103,Corrosão,0
+320,311,10103,Derivados de petróleo,0
+321,312,10103,dutos,0
+322,313,10104,ensaios não destrutivos,0
+323,314,10104,11,0
+324,315,10104,Permutador de calor.,0
+325,316,10105,INTEGRIDADE,0
+326,317,10105,11,0
+327,318,10105,Radiações Ionizantes,0
+328,322,10107,Sistema de observação oceânica,0
+329,323,10107,Veículo Autônomo de Superfície,0
+330,324,10107,Linhas de fundeio,0
+331,325,10108,Enhanced Oil Recovery (EOR),0
+332,326,10108,Soluções Poliméricas,0
+333,327,10108,Produção de Bioativos,0
+334,328,10109,Otimização,0
+335,329,10109,tempo real,0
+336,330,10109,refino,0
+337,331,10110,Modelagem e Calculo de fadiga,0
+338,332,10110,monitoramento,0
+339,333,10110,Riser Submarino,0
+340,340,10113,Injeção de Polímeros,0
+341,341,10113,Rochas Carbonáticas,0
+342,342,10113,Recuperação avançada,0
+343,349,10116,Equipamentos Submarinos,0
+344,350,10116,Exploração de Petróleo,0
+345,351,10116,Sistemas de Controle,0
+346,355,10118,Analise de Imagens,0
+347,356,10118,catalisadores,0
+348,357,10118,morfometria de partículas,0
+349,358,10119,produção de 1-deceno,0
+350,359,10119,fabricação de lubrificantes,0
+351,360,10119,fabricação de detergentes,0
+352,361,381,Vazamento de gás,1
+353,361,10121,Telemetria,0
+354,362,381,Redes de polietileno,1
+355,362,10121,Tartaruga-de-couro,0
+356,363,381,Detecção acústica,1
+357,363,10121,Camurupim,0
+358,370,10124,Conceito,0
+359,371,10124,Offshore,0
+360,372,10124,Automação,0
+361,373,10125,Separação de CO2,0
+362,374,10125,20,0
+363,375,10125,supersônico,0
+364,376,10126,Hidrotratamento,0
+365,377,10126,catalisadores,0
+366,378,10126,Processo,0
+367,379,10127,90,0
+368,380,10127,Oléo diesel rodoviário,0
+369,381,401,Escoamento de Emulsões,1
+370,381,10127,Modificações de especificação,0
+371,382,401,Molhabilidade,1
+372,382,10128,Propeno,0
+373,383,401,Rede de Capilares,1
+374,383,10128,27,0
+375,384,10128,catalisador básico MAB max LCO,0
+376,385,10129,Permasense,0
+377,386,10129,espessura,0
+378,387,10129,monitoramento,0
+379,388,10130,Reparo de Tubos,0
+380,389,10130,Reparo não tradicional,0
+381,390,10130,Estanqueidade,0
+382,391,10131,Corrosão,0
+383,392,10131,proteção catódica,0
+384,393,10131,Corrosão Sob Tensão,0
+385,394,10132,"mercúrio, emissões",0
+386,395,10132,"gás natural, UPGN",0
+387,396,10132,monitoramento ambiental,0
+388,397,10133,MONITORAÇÃO,0
+389,398,10133,86,0
+390,399,10133,tempo real,0
+391,400,10134,sistemas multi-agentes,0
+392,401,10134,controle integrado,0
+393,402,10134,automação flexível,0
+394,403,10135,otimização em tempo real,0
+395,404,10135,modelos reduzidos,0
+396,405,10135,equações abertas,0
+397,406,10136,Descomissionamento,0
+398,407,10136,Destinação de inservíveis,0
+399,408,10136,Logística,0
+400,409,10137,Otimização,0
+401,410,10137,Modelagem,0
+402,411,10137,Big Data,0
+403,412,10138,catalisador,0
+404,413,10138,atividade,0
+405,414,10138,competidor,0
+406,415,10139,Óleo diesel,0
+407,416,10139,Máquinas agrícolas rodoviárias,0
+408,417,10139,CONAMA MAR-II,0
+409,418,10140,75,0
+410,419,10140,Determinações isotópicas,0
+411,420,10140,Isótopos de estrôncio,0
+412,421,10141,19,0
+413,422,10141,20,0
+414,423,10141,22,0
+415,424,10142,adsorção,0
+416,425,10142,cristalização,0
+417,426,10142,Reuso de água,0
+418,430,10144,Otimização,0
+419,431,10144,PERFURAÇÃO,0
+420,432,10144,ROP,0
+421,433,10145,escoamentos multifásicos,0
+422,434,10145,fluidodinâmica computacional,0
+423,435,10145,VERIFICAÇÃO E VALIDAÇÃO EM CFD,0
+424,436,10146,Hidrorrefino,0
+425,437,10146,Maximização de rentabilidade,0
+426,438,10146,Aumento da disponibilidade,0
+427,439,10147,redução de custos,0
+428,440,10147,SISTEMA SUBMARINO,0
+429,441,461,49,1
+430,441,10147,Requisitos Funcionais,0
+431,442,461,19,1
+432,442,10148,Equipamentos Submarinos,0
+433,443,461,formação de sólidos,1
+434,443,10148,Exploração de Petróleo,0
+435,444,10148,Sistemas de Controle,0
+436,448,10152,E&PSUBSEA,0
+437,449,10152,92,0
+438,450,10152,P&C,0
+439,457,10155,argila mole,0
+440,458,10155,capacidade de carga,0
+441,459,10155,condutor,0
+442,460,10156,Detecção de Vazamento,0
+443,461,481,cronograma,1
+444,461,10156,Métodos Bayesianos,0
+445,462,481,otimizacao,1
+446,462,10156,Simulação de escoamento,0
+447,463,481,sondas,1
+448,463,10157,Alquilação,0
+449,464,10157,Aromáticos,0
+450,465,10157,Diesel e QAV,0
+451,466,10158,formulações,0
+452,467,10158,gasolina,0
+453,468,10158,Octanagem,0
+454,469,10159,Avaliação de ciclo de vida,0
+455,470,10159,meio ambiente,0
+456,471,10159,gases de efeito estufa,0
+457,472,10160,Qualidade de Dados,0
+458,473,10160,Suporte à Decisão,0
+459,474,10160,Big Data,0
+460,475,10161,Vazamento,0
+461,476,10161,Canhão de ar comprimido,0
+462,477,10161,Hidrofone,0
+463,478,10162,CARBONATO,0
+464,479,10162,DIAGÊNESE,0
+465,480,10162,EQUIPAMENTOS,0
+466,481,501,Precipitação,1
+467,481,10163,computação de alto desempenho,0
+468,482,501,49,1
+469,482,10163,Geofísica de Reservatórios,0
+470,483,501,Baixa e alta pressão,1
+471,483,10163,Propagação de Ondas Sísmicas,0
+472,484,10164,CONVERSÃO CO2,0
+473,485,10164,TECNOLOGIA,0
+474,486,10164,EMISSÕES GEE,0
+475,487,10165,Água de produção,0
+476,488,10165,Hipersalina,0
+477,489,10165,Tratamento,0
+478,490,10166,85,0
+479,491,10166,Tanque de Armazenamento,0
+480,492,10166,Logistica,0
+481,493,10167,Otimização,0
+482,494,10167,REFORMA CATALÍTICA,0
+483,495,10167,CONTINUIDADE OPERACIONAL,0
+484,496,10168,Planejamento logístico,0
+485,497,10168,Integração dos Processos,0
+486,498,10168,Petróleo e derivados,0
+487,504,522,escoamento basico,1
+488,505,522,efeito Joule & Thompson,1
+489,506,522,petróleo,1
+490,511,10173,Propriedades elásticas,0
+491,512,10173,Propriedades elétricas,0
+492,513,10173,rocha digital,0
+493,514,10174,Medidor de interface,0
+494,515,10174,Medidor ultrassônico,0
+495,516,10174,Calibração,0
+496,517,10175,difração,0
+497,518,10175,EBSD,0
+498,519,10175,MEV,0
+499,520,10176,água produzida,0
