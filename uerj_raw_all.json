@@ -1,0 +1,569 @@
+[
+  {
+    "name": "Ana Cristina Fontes Moreira",
+    "email": "amoreira@iprj.uerj.br",
+    "unit": "IPRJ/DEMAT - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/3653572061551441",
+    "profile_url": "https://www.iprj.uerj.br/ana-cristina-fontes-moreira/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Eduardo Martins Sampaio",
+    "email": "esampaio@iprj.uerj.br",
+    "unit": "IPRJ/DEMAT - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/5287753115270913",
+    "profile_url": "https://www.iprj.uerj.br/eduardo-martins-sampaio/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Helson Moreira da Costa",
+    "email": "hmcosta@iprj.uerj.br",
+    "unit": "IPRJ/DEMAT - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/8141875611393566",
+    "profile_url": "https://www.iprj.uerj.br/helson-moreira-da-costa/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Ivan Napoleão Bastos",
+    "email": "inbastos@iprj.uerj.br",
+    "unit": "IPRJ/DEMAT - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/6725653281197187",
+    "profile_url": "https://www.iprj.uerj.br/ivan-napoleao-bastos/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Leticia dos Santos Aguilera",
+    "email": "leticia.aguilera@iprj.uerj.br",
+    "unit": "IPRJ/DEMAT - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/4630865510856546",
+    "profile_url": "https://www.iprj.uerj.br/leticia-dos-santos-aguilera/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Luis César Rodríguez Aliaga",
+    "email": "aliaga@iprj.uerj.br",
+    "unit": "IPRJ/DEMAT - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "http://lattes.cnpq.br/6144169873340950",
+    "profile_url": "https://www.iprj.uerj.br/luis-cesar-rodriguez-aliaga/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Marisa Cristina Guimarães Rocha",
+    "email": "mrocha@iprj.uerj.br",
+    "unit": "IPRJ/DEMAT - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/5408802153017996",
+    "profile_url": "https://www.iprj.uerj.br/marisa-cristina-guimaraes-rocha/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Solange Francisco do Nascimento",
+    "email": "solange@iprj.uerj.br",
+    "unit": "IPRJ/DEMAT - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/8370944748722096",
+    "profile_url": "https://www.iprj.uerj.br/solange-francisco-do-nascimento/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Verona Biancardi Aguiar",
+    "email": "verona@iprj.uerj.br",
+    "unit": "IPRJ/DEMAT - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/6209504580928538",
+    "profile_url": "https://www.iprj.uerj.br/verona-biancardi-oliveira/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Antônio José da Silva Neto",
+    "email": "ajsneto@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/5148738006361781",
+    "profile_url": "https://www.iprj.uerj.br/antonio-jose-da-silva-neto/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Arthur Adeodato",
+    "email": "arthuradeodato@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/1930244152732337",
+    "profile_url": "https://www.iprj.uerj.br/arthur-adeodato/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Daiara Fernandes de Faria",
+    "email": "daiara@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/9401814864083219",
+    "profile_url": "https://www.iprj.uerj.br/daiara-fernandes-de-faria/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Damiano da Silva Militão",
+    "email": "dmilitao@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "LABTRAN - Laboratório de Modelagem Multiescala e Transporte de Partículas",
+    "lattes_url": "https://lattes.cnpq.br/0888188783738720",
+    "profile_url": "https://www.iprj.uerj.br/damiano-da-silva-militao/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Diego Campos Knupp",
+    "email": "diegoknupp@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/1743826010794846",
+    "profile_url": "https://www.iprj.uerj.br/diego-campos-knupp/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Edgard Poiate Junior",
+    "email": "poiate@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/7548810114586352",
+    "profile_url": "https://www.iprj.uerj.br/edgard-poiate-junior/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Enrique John Arias Chinga",
+    "email": "earias@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/4213143968851274",
+    "profile_url": "https://www.iprj.uerj.br/enrique-john-arias-chinga/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Jhonny Oswaldo Huertas Flores",
+    "email": "jhonnyhf@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/1143140380347003",
+    "profile_url": "https://www.iprj.uerj.br/jhonny-oswaldo-huertas-flores/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Joaquim Teixeira de Assis",
+    "email": "joaquim@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/7307238902576135",
+    "profile_url": "https://www.iprj.uerj.br/joaquim-teixeira-de-assis/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "João Flávio Vieira de Vasconcellos",
+    "email": "jflavio@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/9634798722030132",
+    "profile_url": "https://www.iprj.uerj.br/joao-flavio-vieira-de-vasconcellos/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Joel Sanchez Dominguez",
+    "email": "jsdominguez@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/8822296976490321",
+    "profile_url": "https://www.iprj.uerj.br/joel-sanchez-dominguez/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "José Humberto Zani",
+    "email": "zani@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/2072178311397599",
+    "profile_url": "https://www.iprj.uerj.br/jose-humberto-zani/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Julio Cesar Guimarães Tedesco",
+    "email": "tedesco@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/8073005004386152",
+    "profile_url": "https://www.iprj.uerj.br/julio-cesar-guimaraes-tedesco/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Leandro de Amorim Ratamero",
+    "email": "lratamero@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/3047479199638738",
+    "profile_url": "https://www.iprj.uerj.br/leandro-de-amorim-ratamero/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Leonardo Tavares Stutz",
+    "email": "ltstutz@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/1627016864213973",
+    "profile_url": "https://www.iprj.uerj.br/leonardo-tavares-stutz/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Leôncio Diógenes Tavares Câmara",
+    "email": "dcamara@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/0608816393004565",
+    "profile_url": "https://www.iprj.uerj.br/leoncio-diogenes-tavares-camara/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Livia Flavia Carletti Jatobá",
+    "email": "liviajatoba@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "LABTRAN - Laboratório de Modelagem Multiescala e Transporte de Partículas",
+    "lattes_url": "https://lattes.cnpq.br/6751377400609232",
+    "profile_url": "https://www.iprj.uerj.br/livia-flavia-carletti-jatoba/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Lucas Venâncio Pires de Carvalho Lima",
+    "email": "lucaslima@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/5730724148619281",
+    "profile_url": "https://www.iprj.uerj.br/lucas-venancio-pires-de-carvalho-lima/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Luiz Alberto da Silva Abreu",
+    "email": "luiz.abreu@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/2157391120883842",
+    "profile_url": "https://www.iprj.uerj.br/luiz-alberto-da-silva-abreu/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Mayksoel Medeiros de Freitas",
+    "email": "mayksoel@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "LABTRAN - Laboratório de Modelagem Multiescala e Transporte de Partículas",
+    "lattes_url": "https://lattes.cnpq.br/3199715225291891",
+    "profile_url": "https://www.iprj.uerj.br/mayksoel-medeiros-de-freitas/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Mônica Calixto de Andrade",
+    "email": "mcalixto@iprj.uerj.br",
+    "unit": "IPRJ/DEMEC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/4303756562067099",
+    "profile_url": "https://www.iprj.uerj.br/monica-calixto-de-andrade/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Silvia Mara da Costa Campos",
+    "email": "silviacampos@iprj.uerj.br",
+    "unit": "IPRJ/DMC - Nova Friburgo",
+    "lab": "Laboratório de Modelagem Computacional / IPRJ",
+    "lattes_url": "https://lattes.cnpq.br/2142669271116040",
+    "profile_url": "https://www.iprj.uerj.br/silvia-mara-da-costa-campos-victer/",
+    "source": "https://www.iprj.uerj.br/docentes/"
+  },
+  {
+    "name": "Amauri Ribeiro Destri",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/CARTO - Depto. de Engenharia Cartográfica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/1",
+    "profile_url": "http://www.eng.uerj.br/prof/1",
+    "source": "http://www.eng.uerj.br/prof/1"
+  },
+  {
+    "name": "Carlos Santiago Filho",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/CARTO - Depto. de Engenharia Cartográfica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/4",
+    "profile_url": "http://www.eng.uerj.br/prof/4",
+    "source": "http://www.eng.uerj.br/prof/4"
+  },
+  {
+    "name": "Cl�udio Ivanof Lucarevschi",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/CARTO - Depto. de Engenharia Cartográfica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/5",
+    "profile_url": "http://www.eng.uerj.br/prof/5",
+    "source": "http://www.eng.uerj.br/prof/5"
+  },
+  {
+    "name": "Ivan De Ara�jo Medina, MSc",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/CARTO - Depto. de Engenharia Cartográfica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/8",
+    "profile_url": "http://www.eng.uerj.br/prof/8",
+    "source": "http://www.eng.uerj.br/prof/8"
+  },
+  {
+    "name": "Luiz Henrique Aguiar De Azevedo, Doutor em Geografia . USP, 1994",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/CARTO - Depto. de Engenharia Cartográfica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/13",
+    "profile_url": "http://www.eng.uerj.br/prof/13",
+    "source": "http://www.eng.uerj.br/prof/13"
+  },
+  {
+    "name": "Antonio Marinho Junior",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/271",
+    "profile_url": "http://www.eng.uerj.br/prof/271",
+    "source": "http://www.eng.uerj.br/prof/271"
+  },
+  {
+    "name": "Val�ria Oliveira Henrique De Ara�jo",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/CARTO - Depto. de Engenharia Cartográfica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/290",
+    "profile_url": "http://www.eng.uerj.br/prof/290",
+    "source": "http://www.eng.uerj.br/prof/290"
+  },
+  {
+    "name": "Sonia Maria Lima Silva",
+    "email": "ssilva@gmx.de",
+    "unit": "FEN/CARTO - Depto. de Engenharia Cartográfica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/304",
+    "profile_url": "http://www.eng.uerj.br/prof/304",
+    "source": "http://www.eng.uerj.br/prof/304"
+  },
+  {
+    "name": "Gustavo Rabello Dos Anjos",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/314",
+    "profile_url": "http://www.eng.uerj.br/prof/314",
+    "source": "http://www.eng.uerj.br/prof/314"
+  },
+  {
+    "name": "Wilson Freitas Rebello Da Silva J�nior",
+    "email": "wilsonrebello@gmail.com",
+    "unit": "FEN/Civil - Depto. de Estruturas e Fundações (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/5388048554531038",
+    "profile_url": "http://www.eng.uerj.br/prof/317",
+    "source": "http://www.eng.uerj.br/prof/317"
+  },
+  {
+    "name": "Ana Ghislane",
+    "email": "ana.vanelk@uerj.br",
+    "unit": "FEN/DESMA - Depto. de Engenharia Sanitária e Meio Ambiente (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/5792883380687165",
+    "profile_url": "http://www.eng.uerj.br/prof/322",
+    "source": "http://www.eng.uerj.br/prof/322"
+  },
+  {
+    "name": "Te�filo Carlos Do Nascimento Monteiro",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/DESMA - Depto. de Engenharia Sanitária e Meio Ambiente (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/6545571800246870",
+    "profile_url": "http://www.eng.uerj.br/prof/348",
+    "source": "http://www.eng.uerj.br/prof/348"
+  },
+  {
+    "name": "Rodrigo Felx De Araujo Cardoso",
+    "email": "rfelix@cbpf.br",
+    "unit": "FEN/MECAN - Depto. de Engenharia Mecânica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/4812908341887388",
+    "profile_url": "http://www.eng.uerj.br/prof/350",
+    "source": "http://www.eng.uerj.br/prof/350"
+  },
+  {
+    "name": "Bruno Teixeira Lima",
+    "email": "brunolima.professor@gmail.com",
+    "unit": "FEN/Civil - Depto. de Estruturas e Fundações (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/2231835989303406",
+    "profile_url": "http://www.eng.uerj.br/prof/354",
+    "source": "http://www.eng.uerj.br/prof/354"
+  },
+  {
+    "name": "Glaucio Gualtieri Honorio",
+    "email": "glaucio.honorio@eng.uerj.br",
+    "unit": "FEN/DESMA - Depto. de Engenharia Sanitária e Meio Ambiente (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/6692329545334546",
+    "profile_url": "http://www.eng.uerj.br/prof/359",
+    "source": "http://www.eng.uerj.br/prof/359"
+  },
+  {
+    "name": "Rizzieri Pedruzzi",
+    "email": "rpedruzzi@eng.uerj.br",
+    "unit": "FEN/DESMA - Depto. de Engenharia Sanitária e Meio Ambiente (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/6249531050952111",
+    "profile_url": "http://www.eng.uerj.br/prof/361",
+    "source": "http://www.eng.uerj.br/prof/361"
+  },
+  {
+    "name": "Andrea Galudht Santacruz Jaramillo",
+    "email": "andrea.jaramillo@eng.uerj.br",
+    "unit": "FEN/CARTO - Depto. de Engenharia Cartográfica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/9,58756385120165E+015",
+    "profile_url": "http://www.eng.uerj.br/prof/362",
+    "source": "http://www.eng.uerj.br/prof/362"
+  },
+  {
+    "name": "Frederico Menezes Coelho",
+    "email": "fmcrj@hotmail.com",
+    "unit": "FEN/DESMA - Depto. de Engenharia Sanitária e Meio Ambiente (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/2224417928417957",
+    "profile_url": "http://www.eng.uerj.br/prof/367",
+    "source": "http://www.eng.uerj.br/prof/367"
+  },
+  {
+    "name": "Ronei De Almeida",
+    "email": "ronei@eq.ufrj.br",
+    "unit": "FEN/DESMA - Depto. de Engenharia Sanitária e Meio Ambiente (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/2844710522370160",
+    "profile_url": "http://www.eng.uerj.br/prof/368",
+    "source": "http://www.eng.uerj.br/prof/368"
+  },
+  {
+    "name": "Giovana Cruz Alves Dur�o",
+    "email": "giovanacruzalves@gmail.com",
+    "unit": "FEN/Civil - Depto. de Construção Civil e Transportes (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/4138061671074882",
+    "profile_url": "http://www.eng.uerj.br/prof/380",
+    "source": "http://www.eng.uerj.br/prof/380"
+  },
+  {
+    "name": "Christian Fragoas Fernandez Rodrigues",
+    "email": "christianfragoas@gmail.com",
+    "unit": "FEN/DEEL - Depto. de Eletrônica e Telecomunicações (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/7382051088046787",
+    "profile_url": "http://www.eng.uerj.br/prof/385",
+    "source": "http://www.eng.uerj.br/prof/385"
+  },
+  {
+    "name": "Marcos Ant�nio Da Silva",
+    "email": "marantonio2003rio@gmail.com",
+    "unit": "FEN/Civil - Depto. de Estruturas e Fundações (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/7242868274473011",
+    "profile_url": "http://www.eng.uerj.br/prof/387",
+    "source": "http://www.eng.uerj.br/prof/387"
+  },
+  {
+    "name": "Substituto Desma1",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/DESMA - Depto. de Engenharia Sanitária e Meio Ambiente (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/388",
+    "profile_url": "http://www.eng.uerj.br/prof/388",
+    "source": "http://www.eng.uerj.br/prof/388"
+  },
+  {
+    "name": "Substituto Desma2",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/DESMA - Depto. de Engenharia Sanitária e Meio Ambiente (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/389",
+    "profile_url": "http://www.eng.uerj.br/prof/389",
+    "source": "http://www.eng.uerj.br/prof/389"
+  },
+  {
+    "name": "Substituto Desma3",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/DESMA - Depto. de Engenharia Sanitária e Meio Ambiente (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/390",
+    "profile_url": "http://www.eng.uerj.br/prof/390",
+    "source": "http://www.eng.uerj.br/prof/390"
+  },
+  {
+    "name": "Substituto Desma5",
+    "email": "secfen@eng.uerj.br",
+    "unit": "FEN/DESMA - Depto. de Engenharia Sanitária e Meio Ambiente (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "http://www.eng.uerj.br/prof/392",
+    "profile_url": "http://www.eng.uerj.br/prof/392",
+    "source": "http://www.eng.uerj.br/prof/392"
+  },
+  {
+    "name": "Victor Hugo Pereira Rodrigues",
+    "email": "victor.rodrigues@eng.uerj.br",
+    "unit": "FEN/DEEL - Depto. de Eletrônica e Telecomunicações (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/9,14205031435397E+015",
+    "profile_url": "http://www.eng.uerj.br/prof/393",
+    "source": "http://www.eng.uerj.br/prof/393"
+  },
+  {
+    "name": "Leonardo De Arruda Bitencourt",
+    "email": "leoxleo@gmail.com",
+    "unit": "FEN/DEEL - Depto. de Engenharia Elétrica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/1174378161368026",
+    "profile_url": "http://www.eng.uerj.br/prof/394",
+    "source": "http://www.eng.uerj.br/prof/394"
+  },
+  {
+    "name": "Felipe Cassemiro Ulrichsen",
+    "email": "felipeulrichsen@eng.uerj.br",
+    "unit": "FEN/DESC - Maracanã",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/8573554245584377",
+    "profile_url": "http://www.eng.uerj.br/prof/395",
+    "source": "http://www.eng.uerj.br/prof/395"
+  },
+  {
+    "name": "Rafaela Correia Brum",
+    "email": "rafaelabrum@eng.uerj.br",
+    "unit": "FEN/DESC - Maracanã",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/5658889695811247",
+    "profile_url": "http://www.eng.uerj.br/prof/397",
+    "source": "http://www.eng.uerj.br/prof/397"
+  },
+  {
+    "name": "Leonardo Campos Inocencio",
+    "email": "leonardo.inocencio@uerj.br",
+    "unit": "FEN/CARTO - Depto. de Engenharia Cartográfica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/56041582542136",
+    "profile_url": "http://www.eng.uerj.br/prof/398",
+    "source": "http://www.eng.uerj.br/prof/398"
+  },
+  {
+    "name": "Ezer Urpia Rosa",
+    "email": "ezer.rosa@uerj.br",
+    "unit": "FEN/CARTO - Depto. de Engenharia Cartográfica (Maracanã)",
+    "lab": "Laboratórios FEN Maracanã",
+    "lattes_url": "https://lattes.cnpq.br/702858878327504",
+    "profile_url": "http://www.eng.uerj.br/prof/399",
+    "source": "http://www.eng.uerj.br/prof/399"
+  }
+]
