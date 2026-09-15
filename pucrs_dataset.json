@@ -90,19 +90,9 @@
     "Status da Validação": "Verificado (Portal Oficial)"
   },
   {
-    "Nome Completo": "Luiz Gustavo Leão Fernandes",
-    "Papel / Cargo Principal": "Pesquisador em Processamento Paralelo e Sistemas Distribuídos",
-    "Unidade / Instituto": "Escola Politécnica",
-    "Departamento / PPG": "PPGCC",
-    "Linha de Pesquisa / Domínio Tecnológico": "Computação Paralela, Algoritmos Distribuídos, Otimização de Sistemas",
-    "E-mail Institucional Público": "luiz.fernandes@pucrs.br",
-    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgcc/",
-    "Status da Validação": "Verificado (Portal Oficial)"
-  },
-  {
     "Nome Completo": "Márcio Sarroglia Pinho",
     "Papel / Cargo Principal": "Coordenador de Laboratório de Realidade Virtual",
-    "Unidade / Instituto": "Escola Politécnica",
+    "Unidade / Instituto": "Escola Politécnica / IDEIA",
     "Departamento / PPG": "PPGCC / Ciência da Computação",
     "Linha de Pesquisa / Domínio Tecnológico": "Realidade Virtual, Realidade Aumentada, Computação Gráfica",
     "E-mail Institucional Público": "marcio.pinho@pucrs.br",
@@ -112,7 +102,7 @@
   {
     "Nome Completo": "Milene Selbach Silveira",
     "Papel / Cargo Principal": "Coordenadora de Pesquisa em Interação Humano-Computador",
-    "Unidade / Instituto": "Escola Politécnica",
+    "Unidade / Instituto": "Escola Politécnica / IDEIA",
     "Departamento / PPG": "PPGCC",
     "Linha de Pesquisa / Domínio Tecnológico": "Interação Humano-Computador (IHC), Usabilidade, Acessibilidade Digital",
     "E-mail Institucional Público": "milene.silveira@pucrs.br",

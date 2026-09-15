@@ -1,7 +1,7 @@
 # Mapeamento Institucional e de Inteligência Científica — PUCRS
 
-## Visão Geral do Mapeamento
-Este levantamento institucional exaustivo e auditável contempla as lideranças estratégicas, diretores de hubs, coordenadores de programa e pesquisadores da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), divididos em três blocos estratégicos:
+## Visão Geral do Mapeamento Exaustivo
+Este levantamento institucional contempla as lideranças estratégicas, diretores de hubs, coordenadores de programa e pesquisadores ativos da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS), estruturados em três núcleos estratégicos:
 - **BLOCO A**: Lideranças Institucionais & Hubs de P&D (TECNOPUC, IDEIA, CPCA, VHLab, HPC)
 - **BLOCO B**: Escola Politécnica (Engenharia Mecânica, Elétrica, Química, Civil, Computação)
 - **BLOCO C**: Programas de Pós-Graduação & Grupos CNPq (PPGCC, PPGEM, PPGEE, PPGQ)
@@ -19,9 +19,8 @@ Este levantamento institucional exaustivo e auditável contempla as lideranças 
 | Soraia Raupp Musse | Coordenadora do VHLab (Virtual Human Lab) / Pesquisadora em IA | Escola Politécnica / IDEIA | PPGCC / Computação Gráfica | Visão Computacional, Animação por Computador, Humanos Virtuais, IA Generativa | soraia.musse@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
 | César Augusto Fonticielha De Rose | Coordenador de Infraestrutura de HPC / Professor Titular | Escola Politécnica / IDEIA | PPGCC | Computação de Alto Desempenho (HPC), Sistemas Distribuídos, Cloud Computing | cesar.derose@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
 | Avelino Francisco Zorzo | Pesquisador em Segurança Cibernética e Tolerância a Falhas | Escola Politécnica / IDEIA | PPGCC | Segurança da Informação, Tolerância a Falhas, Blockchain, Sistemas Críticos | avelino.zorzo@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
-| Luiz Gustavo Leão Fernandes | Pesquisador em Processamento Paralelo e Sistemas Distribuídos | Escola Politécnica | PPGCC | Computação Paralela, Algoritmos Distribuídos, Otimização de Sistemas | luiz.fernandes@pucrs.br | https://www.pucrs.br/politecnica/ppgcc/ | Verificado (Portal Oficial) |
-| Márcio Sarroglia Pinho | Coordenador de Laboratório de Realidade Virtual | Escola Politécnica | PPGCC / Ciência da Computação | Realidade Virtual, Realidade Aumentada, Computação Gráfica | marcio.pinho@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
-| Milene Selbach Silveira | Coordenadora de Pesquisa em Interação Humano-Computador | Escola Politécnica | PPGCC | Interação Humano-Computador (IHC), Usabilidade, Acessibilidade Digital | milene.silveira@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
+| Márcio Sarroglia Pinho | Coordenador de Laboratório de Realidade Virtual | Escola Politécnica / IDEIA | PPGCC / Ciência da Computação | Realidade Virtual, Realidade Aumentada, Computação Gráfica | marcio.pinho@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
+| Milene Selbach Silveira | Coordenadora de Pesquisa em Interação Humano-Computador | Escola Politécnica / IDEIA | PPGCC | Interação Humano-Computador (IHC), Usabilidade, Acessibilidade Digital | milene.silveira@pucrs.br | https://www.pucrs.br/politecnica/ | Verificado (Portal Oficial) |
 | Adriano de Oliveira | Coordenador de Hub de Conexão Indústria-Academia | TECNOPUC | Hubs de Inovação | Inovação Aberta, Conexão Startup-Corporação, Venturing | N/D (Não Divulgado) | https://www.pucrs.br/tecnopuc/ | Pendente E-mail |
 | Eduardo Cassel | Professor Titular e Pesquisador em Engenharia Química | Escola Politécnica | Engenharia Química / PPGQ | Processos de Separação, Extração Supercrítica, Modelagem e Simulação de Processos | cassel@pucrs.br | https://www.pucrs.br/politecnica/ppgq/ | Verificado (Portal Oficial) |
 | Rubem Mário Figueiró Vargas | Pesquisador em Termodinâmica e Fenômenos de Transporte | Escola Politécnica | Engenharia Química / PPGQ | Termodinâmica Aplicada, Extração de Produtos Naturais, Operações Unitárias | rvargas@pucrs.br | https://www.pucrs.br/politecnica/ppgq/ | Verificado (Portal Oficial) |
