@@ -1,0 +1,2352 @@
+[
+  {
+    "nome": "Amauri Ribeiro Destri",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/1",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Carlos Santiago Filho",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/4",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Cludio Ivanof Lucarevschi",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/5",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ivan De Arajo Medina",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/8",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiz Henrique Aguiar De Azevedo",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/13",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Antonio Vieira Martins",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/18",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Celsio De Oliveira Moreira",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/19",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "bis Da Silva Vianna",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/20",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ivan Gomes Guterres",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/21",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jos Da Silveira Guimares",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/22",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jos Domingues Leito",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/23",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Nlson Cesar De Almeida",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/24",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Paulo Eurico De Melo Tavares",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/25",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Placidino Machado Fagundes",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/26",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiz Artur Pecorelli Peres",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/57",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Norberto Mangiavacchi",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "GESAR",
+    "especializacao_tecnica": "CFD, Escoamento Multifásico, Elementos Finitos",
+    "url_fonte": "https://www.eng.uerj.br/prof/58",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Olavo Barbosa Filho",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/59",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jos De Oliveira Guerra",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/60",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Erli Ferreira Figueiredo",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/61",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Carla Maria De Medeiros Pir",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://www.eng.uerj.br/prof/62",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Joo De Tarso Pallottino",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/63",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Carlos Jos Marinho Falco",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/119",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Carlos Czar De La Plata Ruiz",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/120",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Francisco Roberto Da Rocha Gomes",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/131",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Flavio Da Silveira Bruno",
+    "email": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Otimização de Processos, Logística, Pesquisa Operacional e Simulação Discreta",
+    "url_fonte": "https://www.eng.uerj.br/prof/132",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Francisco Jos Da Cunha Pires Soeiro",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "LMES - Laboratório de Mecânica de Estruturas e Sólidos",
+    "especializacao_tecnica": "Elementos Finitos, Mecânica dos Sólidos, Otimização Estrutural",
+    "url_fonte": "https://www.eng.uerj.br/prof/133",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Gustaf Aurlio Perez Akerman",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/140",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Heitor Barreto Correa",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://www.eng.uerj.br/prof/141",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Heitor Luiz Murat De Meirelles Quintella",
+    "email": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Otimização de Processos, Logística, Pesquisa Operacional e Simulação Discreta",
+    "url_fonte": "https://www.eng.uerj.br/prof/142",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Hlcio De Oliveira Rocha",
+    "email": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Otimização de Processos, Logística, Pesquisa Operacional e Simulação Discreta",
+    "url_fonte": "https://www.eng.uerj.br/prof/143",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Henrique Goldfeld",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/0539747614964232",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Hlio Cardoso Cmara Canto",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/145",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ivone Telles Pires Valdetaro",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/147",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jacaono Batista De Lima",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/148",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jorge Luis Nunes E Silva Brito",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/149",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Julia Celia Mercedes Strauch",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/154",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jorge Duarte Pires Valerio",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/155",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jos Eduardo T",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/158",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jos Rodolfo Souza",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/164",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Joo Arajo Ribeiro",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/165",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiz Claudio De Paiva Franco",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/6770015781511564",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiz Henrique Guimares Castiglione",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/173",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Leopoldo Eurico Gonalves Bastos",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://lattes.cnpq.br/0596410148228433",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Lisandro Lovisolo",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/175",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luciano Rodrigues Ornelas De Lima",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "http://lattes.cnpq.br/2151919861612154",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luciene Pimentel Da Silv",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/177",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luis Augusto Machado Andra",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/178",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiz Sebastio Costa",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/3260798234577368",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiza De Macedo Mourelle",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/181",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Lcia Schmidt De Andrade Lima",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://www.eng.uerj.br/prof/182",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Maria Cristina Henning Sampaio",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/183",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Maria Elena Iannarelli",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/184",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Moacyr Carvalho Filho",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/188",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Manuel Augusto",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/189",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Marcelo Gonalves Rubinstein",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/190",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Marcia Marques Gomes",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/191",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Marco Aurlio Cavalcanti Pacheco",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/192",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Marcus Peigas Pacheco",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://www.eng.uerj.br/prof/193",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Margareth Simes Penello Meirelles",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/194",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Maria Dias Bellar",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/195",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Maria Georgina Muniz Washington",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/198",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Nadia Nedjah",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/201",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Odir Clcio Da Cruz Roque",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/202",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Orlando Bernardo Filho",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/203",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Paulo Gomes",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/208",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Paulo Machado Massa",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://www.eng.uerj.br/prof/209",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Rafael Carvalho De Oliveira Santos",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/213",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Roberto Legey Leoni",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/216",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Roberto Vigoderis",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/217",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Rodolfo Luiz Martins Suanno",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://www.eng.uerj.br/prof/218",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Rogrio Martins Saldanha Da Gama",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/219",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Rogrio Luiz Feij",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://www.eng.uerj.br/prof/220",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Rmulo De Sales G",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/222",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Silvia Regina Goldgaber Borges",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/2729166016486343",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Thales Alfredo De vila Carneiro",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/225",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Thereza Christina De Almeida Rosso",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/226",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ubirajara Aluizio De Oliveira Mattos",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/227",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Valria Barbosa Gomes",
+    "email": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Otimização de Processos, Logística, Pesquisa Operacional e Simulação Discreta",
+    "url_fonte": "https://www.eng.uerj.br/prof/228",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "ris Pereira Escobar",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/230",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiz Biondi Neto",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/231",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Joo Colucci Fragozo",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/232",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiz Eduardo Barata Cardoso",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://lattes.cnpq.br/1127795487797859",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiz Paulo Souto Fortes",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/236",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Mila Rosendahl Avelino",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/238",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Marlia Garcia Diniz",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "http://lattes.cnpq.br/6597447489234947",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Daniele Maia Bila",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/240",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Manoel Antnio Da Fonseca Costa Filho",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://lattes.cnpq.br/3375340063572734",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Julio De Albuquerque Gonzalez",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/243",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Maria Luiza Fernandes Velloso",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/248",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Orlando Lima De Saboya Barros",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/249",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Barbara Christina Farah Montenegro Pithon",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://www.eng.uerj.br/prof/251",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Evandro Porto Duarte",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://www.eng.uerj.br/prof/252",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Cesar Tavares De Arajo",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/259",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Antonio Incio Rodrigue",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/260",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Celestino Oliveira Araujo",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/262",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Leny Medeiros Silva",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/263",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Sheila Murgel Veloso",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/266",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Tiago Roux De Oliveira",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Automação e Controle",
+    "especializacao_tecnica": "Controle Extremante, Automação Industrial, Sistemas Dinâmicos",
+    "url_fonte": "https://lattes.cnpq.br/2236381891580848",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luis Fernando Monteiro",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/268",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Andre Ribeiro De Oliveira",
+    "email": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Otimização de Processos, Logística, Pesquisa Operacional e Simulação Discreta",
+    "url_fonte": "https://www.eng.uerj.br/prof/269",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jos Brant De Campos",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://lattes.cnpq.br/5147723432630786",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Antonio Marinho Junior",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/271",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Nival Nunes De Almeida",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/272",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Carlos Alberto Biolchini Da Silva",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/273",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Eduardo Monteiro Martins",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/2912118000820105",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Paschoal Villaboim Filho",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/FEN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/279",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Glauco Jos De Oliveira Rodrigues",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://lattes.cnpq.br/5822821293050157",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Maria Fernanda Figueiredo De Oliveira",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://lattes.cnpq.br/5029738433988779",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Rodrigo Bird Burgos",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://lattes.cnpq.br/5604449684803425",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Shirley Do Socorro Melo De Souza",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://lattes.cnpq.br/9,91676319963045E+015",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Joo Marcos Lesqueves",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/287",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiz Antonio Arnaud Mendes",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/289",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Valria Oliveira Henrique De Arajo",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/290",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "To Cerqueira Revoredo",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/292",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Raul Queiroz Feitosa",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/296",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Fernando Agustin Pazos",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://www.eng.uerj.br/prof/297",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Silvia Dos Reis Alcntara Duarte",
+    "email": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Otimização de Processos, Logística, Pesquisa Operacional e Simulação Discreta",
+    "url_fonte": "https://www.eng.uerj.br/prof/300",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Sergio Orlando Antoun Netto",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/306",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Claudio Joo Barreto Dos Santos",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/308",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Carlos Henrique Oliveira Da Rocha",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/309",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Andr Luiz Carvalho Cardoso",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/310",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ramon Silva De Carvalho",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/313",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Gustavo Rabello Dos Anjos",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "GESAR / LaCaM",
+    "especializacao_tecnica": "Dinâmica dos Fluidos Computacional (CFD), Métodos Numéricos, Fenômenos de Transporte",
+    "url_fonte": "https://www.eng.uerj.br/prof/314",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Daniel Jos Nahid Mansur Chalhub",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://www.eng.uerj.br/prof/315",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ana Silvia Pereira Santos",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/316",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Wilson Freitas Rebello Da Silva Jnior",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://lattes.cnpq.br/5388048554531038",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Irving Da Silva Badolato",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/7656945252711590",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Alan Jos Salomo Graa",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/9156696694234978",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Joo Bosco De Azevedo",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/6406175595318501",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Francisco Antnio Reis Filho",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/2803698738314662",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Otto Wanner Ganvini Asencios",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/4799447412720303",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Paulo Eduardo Darski Rocha",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/4436802802639988",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Roberto Nogueira Fontoura Filho",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/5046514505860252",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ronaldo Bosignoli",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/2238101805015208",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Alena Torres Netto",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/6574944043553517",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Tefilo Carlos Do Nascimento Monteiro",
+    "email": "desma@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/6545571800246870",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Samir De Souza Oliveira Alves",
+    "email": "carto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/450618032068809",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Giomar Oliver Sequeiros Olivera",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/1718715752031651",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Walmir Ribeiro Pinheiro Junior",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/438303594190102",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Christian Fragoas Fernandez Rodrigues",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/7382051088046787",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Victor Hugo Pereira Rodrigues",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/9,14205031435397E+015",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Leonardo De Arruda Bitencourt",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/1174378161368026",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Felipe Cassemiro Ulrichsen",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/8573554245584377",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Thiago Medeiros Carvalho",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/3691344179487871",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Rafaela Correia Brum",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://lattes.cnpq.br/5658889695811247",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Tiago Motta Quirino",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/5296174954782128",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Srgio Barros Da Cunha",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://lattes.cnpq.br/5164363680437460",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Francisco Jos",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://www.eng.uerj.br/prof/410",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Roberto Nogueira",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/412",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Marina Lage",
+    "email": "dcct@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/413",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Oscar Cuaresma Zevallos",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/489090407769634",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Gustavo Martins Da Silva Nunes",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/2140603659004613",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Cesar Augusto Diaz Mendoza",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/3802612012673021",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Fernando Jorge Monteiro Dias",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/254095993516255",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Pedro Henrique Pereira",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/3188884115548897",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Valmir Dos Santos Nogueira Junior",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/8099468753944864",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Robert Jckel",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://lattes.cnpq.br/8702041223970357",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Sarah Silveira Mendes",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://lattes.cnpq.br/3201767059217794",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ian Vilar Bastos",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/1044684809741817",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jos Eudes Marinho Da Silva",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://www.eng.uerj.br/prof/434",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Carolina Seixas Moreira",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://lattes.cnpq.br/7316893375138716",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Daniel Bouzon Nagem Assad",
+    "email": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Otimização de Processos, Logística, Pesquisa Operacional e Simulação Discreta",
+    "url_fonte": "https://lattes.cnpq.br/258423859812498",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Marcelle Candido Cordeiro",
+    "email": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Otimização de Processos, Logística, Pesquisa Operacional e Simulação Discreta",
+    "url_fonte": "https://lattes.cnpq.br/7947806468045826",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Mateus Pereira Abraado",
+    "email": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Otimização de Processos, Logística, Pesquisa Operacional e Simulação Discreta",
+    "url_fonte": "https://lattes.cnpq.br/3952047913514373",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Patrcia Gomes Ferreira Da Costa",
+    "email": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Otimização de Processos, Logística, Pesquisa Operacional e Simulação Discreta",
+    "url_fonte": "https://lattes.cnpq.br/1846605454673278",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luigi Maciel Ribeiro",
+    "email": "desc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Engenharia e Simulação Computacional",
+    "url_fonte": "https://www.eng.uerj.br/prof/444",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Eduardo Dias Corra",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://lattes.cnpq.br/7840544328250109",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Eustquio De Souza Bata Jnior",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://lattes.cnpq.br/178496322650410",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jos Geraldo Telles Ribeiro",
+    "email": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Fluidados, Térmica, Sólidos, Vibrações e Acústica / CFD",
+    "url_fonte": "https://lattes.cnpq.br/122316438902122",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Bismarck Costa Lima",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/2726367970767025",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Gisele Goes Cintra",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://lattes.cnpq.br/9,07324562289261E+015",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Fernando Paullo Muoz",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://lattes.cnpq.br/8698432496607695",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Flvia Silva Dos Santos",
+    "email": "estruturas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "LMES / Laboratório de Estruturas",
+    "especializacao_tecnica": "Estruturas, Mecânica dos Sólidos, Método dos Elementos Finitos (FEA)",
+    "url_fonte": "https://lattes.cnpq.br/2164626243913337",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Lorenna Baptista De Oliveira",
+    "email": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Laboratório de Engenharia / FEN",
+    "especializacao_tecnica": "Sistemas de Controle, Automação, Robótica e Eletrônica de Potência",
+    "url_fonte": "https://lattes.cnpq.br/7575920282958661",
+    "status_validacao": "Verificado em Portal Oficial FEN/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ana Cristina Fontes Moreira",
+    "email": "amoreira@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/3653572061551441",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Eduardo Martins Sampaio",
+    "email": "esampaio@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/5287753115270913",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Helson Moreira da Costa",
+    "email": "hmcosta@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/8141875611393566",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ivan Napoleão Bastos",
+    "email": "inbastos@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/6725653281197187",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Leticia dos Santos Aguilera",
+    "email": "leticia.aguilera@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/4630865510856546",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luis César Rodríguez Aliaga",
+    "email": "aliaga@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "http://lattes.cnpq.br/6144169873340950",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Marisa Cristina Guimarães Rocha",
+    "email": "mrocha@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/5408802153017996",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Solange Francisco do Nascimento",
+    "email": "solange@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/8370944748722096",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Verona Biancardi Aguiar",
+    "email": "verona@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/6209504580928538",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Antônio José da Silva Neto",
+    "email": "ajsneto@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/5148738006361781",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Arthur Adeodato",
+    "email": "arthuradeodato@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/1930244152732337",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Daiara Fernandes de Faria",
+    "email": "daiara@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/9401814864083219",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Damiano da Silva Militão",
+    "email": "dmilitao@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/0888188783738720",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Diego Campos Knupp",
+    "email": "diegoknupp@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN - Laboratório de Modelagem Multiescala e Transporte de Partículas",
+    "especializacao_tecnica": "Problemas Inversos, Transferência de Calor, Transformada Integral, Simulação Térmica",
+    "url_fonte": "https://lattes.cnpq.br/1743826010794846",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Edgard Poiate Junior",
+    "email": "poiate@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/7548810114586352",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Enrique John Arias Chinga",
+    "email": "earias@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/4213143968851274",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Jhonny Oswaldo Huertas Flores",
+    "email": "jhonnyhf@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/1143140380347003",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Joaquim Teixeira de Assis",
+    "email": "joaquim@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/7307238902576135",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "João Flávio Vieira de Vasconcellos",
+    "email": "jflavio@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "Laboratório de Modelagem Computacional",
+    "especializacao_tecnica": "Otimização, Algoritmos Genéticos, Métodos Numéricos, Computação Paralela",
+    "url_fonte": "https://lattes.cnpq.br/9634798722030132",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Joel Sanchez Dominguez",
+    "email": "jsdominguez@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/8822296976490321",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "José Humberto Zani",
+    "email": "zani@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/2072178311397599",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Julio Cesar Guimarães Tedesco",
+    "email": "tedesco@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/8073005004386152",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Leandro de Amorim Ratamero",
+    "email": "lratamero@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/3047479199638738",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Leonardo Tavares Stutz",
+    "email": "ltstutz@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "Laboratório de Dinâmica e Acústica",
+    "especializacao_tecnica": "Controle de Vibrações, Acústica, Dinâmica de Sistemas, Otimização",
+    "url_fonte": "https://lattes.cnpq.br/1627016864213973",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Leôncio Diógenes Tavares Câmara",
+    "email": "dcamara@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/0608816393004565",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Livia Flavia Carletti Jatobá",
+    "email": "liviajatoba@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/6751377400609232",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Lucas Venâncio Pires de Carvalho Lima",
+    "email": "lucaslima@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/5730724148619281",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiz Alberto da Silva Abreu",
+    "email": "luiz.abreu@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/2157391120883842",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Mayksoel Medeiros de Freitas",
+    "email": "mayksoel@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/3199715225291891",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Mônica Calixto de Andrade",
+    "email": "mcalixto@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/4303756562067099",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Otávio Goldoni Quina de Almeida",
+    "email": "otavio@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/0370289703227389",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Rafael Serra Perez",
+    "email": "rperez@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/7818682007757332",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Anderson Amendoeira Namen",
+    "email": "aanamen@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/2182469523085517",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Angelo Mondaini Calvão",
+    "email": "oangelo@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/5604807772579360",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Bernardo Sotto-Maior Peralva",
+    "email": "bernardo@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/4425322010752919",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Germano Amaral Monerat",
+    "email": "monerat@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/5031014907752547",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Grazione de Souza Boy",
+    "email": "gsouza@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/7987813860992687",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Guilherme de Melo Baptista Domingues",
+    "email": "domingues@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/3737857084552295",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Gustavo Barbosa Libotte",
+    "email": "gustavolibotte@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/1939530661449967",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Helio Pedro Amaral Souto",
+    "email": "helio@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Escoamento em Meios Porosos, Transporte de Partículas, CFD, Métodos Numéricos",
+    "url_fonte": "https://lattes.cnpq.br/1999072996132654",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Hermes Alves Filho",
+    "email": "halves@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/8509299951934973",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Leonardo Rodrigues da Costa Moraes",
+    "email": "lrcmoraes@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "http://lattes.cnpq.br/0059284776766872",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Loena Marins do Couto",
+    "email": "loena@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/4944213325519789",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Rafael Barbosa Libotte",
+    "email": "rblibotte@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "http://lattes.cnpq.br/5608402457803882",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ricardo Fabbri",
+    "email": "rfabbri@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "Laboratório de Computação Científica",
+    "especializacao_tecnica": "Visão Computacional, Geometria Computacional, HPC, Inteligência Artificial",
+    "url_fonte": "https://lattes.cnpq.br/5759364958802333",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Roberto Pinheiro Domingos",
+    "email": "roberto.pinheiro@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/0109837868064895",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Rodrigo Lamblet Mafort",
+    "email": "rodrigo.mafort@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/1901861620111067",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Sílvia Cristina Dias Pinto",
+    "email": "silvia.dias@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/4333940423066302",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Silvia Mara da Costa Campos",
+    "email": "silviacampos@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/2142669271116040",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ursula Andrea Barbara Verdugo Rohrer",
+    "email": "ursula@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC (PPGMC (CAPES 6)) - Nova Friburgo",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "Modelagem Computacional, Simulação Numérica, Termofluidodinâmica, Meios Porosos",
+    "url_fonte": "https://lattes.cnpq.br/4955260930433371",
+    "status_validacao": "Verificado em Portal Oficial IPRJ/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Monique Osório Talarico da Conceição",
+    "email": "secretaria@fat.uerj.br",
+    "setor_departamento_campus": "FAT/DME - Resende",
+    "laboratorio_grupo": "Laboratório de Polímeros e Compósitos / Laboratório de Motores",
+    "especializacao_tecnica": "Mecânica dos Sólidos, Termofluidodinâmica, Hidráulica e Pneumática, Polímeros e Compósitos",
+    "url_fonte": "http://lattes.cnpq.br/3344204581149970",
+    "status_validacao": "Verificado em Portal Oficial FAT/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Horácio Guimarães Delgado Junior",
+    "email": "secretaria@fat.uerj.br",
+    "setor_departamento_campus": "FAT/DME - Resende",
+    "laboratorio_grupo": "Laboratório de Polímeros e Compósitos / Laboratório de Motores",
+    "especializacao_tecnica": "Mecânica dos Sólidos, Termofluidodinâmica, Hidráulica e Pneumática, Polímeros e Compósitos",
+    "url_fonte": "http://lattes.cnpq.br/0640487521165463",
+    "status_validacao": "Verificado em Portal Oficial FAT/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Erika de Queiros Eugenio",
+    "email": "secretaria@fat.uerj.br",
+    "setor_departamento_campus": "FAT/DEQA - Resende",
+    "laboratorio_grupo": "Laboratório de Engenharia Química e Processos",
+    "especializacao_tecnica": "gPROMS / Simulação de Processos Químicos, Termodinâmica, Bioprocessos, Modelagem Molecular",
+    "url_fonte": "http://lattes.cnpq.br/0642893565890601",
+    "status_validacao": "Verificado em Portal Oficial FAT/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Alessandra de Carvalho Reis",
+    "email": "secretaria@fat.uerj.br",
+    "setor_departamento_campus": "FAT/DEQA - Resende",
+    "laboratorio_grupo": "Laboratório de Engenharia Química e Processos",
+    "especializacao_tecnica": "gPROMS / Simulação de Processos Químicos, Termodinâmica, Bioprocessos, Modelagem Molecular",
+    "url_fonte": "http://lattes.cnpq.br/0806182561059157",
+    "status_validacao": "Verificado em Portal Oficial FAT/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Alexandre Rodrigues Tôrres",
+    "email": "secretaria@fat.uerj.br",
+    "setor_departamento_campus": "FAT/DEQA - Resende",
+    "laboratorio_grupo": "Laboratório de Engenharia Química e Processos",
+    "especializacao_tecnica": "gPROMS / Simulação de Processos Químicos, Termodinâmica, Bioprocessos, Modelagem Molecular",
+    "url_fonte": "http://lattes.cnpq.br/1294795998541584",
+    "status_validacao": "Verificado em Portal Oficial FAT/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Camila Gabriele Silva",
+    "email": "secretaria@fat.uerj.br",
+    "setor_departamento_campus": "FAT/DEQA - Resende",
+    "laboratorio_grupo": "Laboratório de Engenharia Química e Processos",
+    "especializacao_tecnica": "gPROMS / Simulação de Processos Químicos, Termodinâmica, Bioprocessos, Modelagem Molecular",
+    "url_fonte": "http://lattes.cnpq.br/7172551037291367",
+    "status_validacao": "Verificado em Portal Oficial FAT/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Norberto Mangiavacchi",
+    "email": "norberto@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN (GESAR) - Maracanã",
+    "laboratorio_grupo": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais / FABLAB",
+    "especializacao_tecnica": "CFD, Escoamento Multifásico, Elementos Finitos, Métodos Numéricos, Estabilidade Hidrodinâmica",
+    "url_fonte": "http://lattes.cnpq.br/4451111077660870",
+    "status_validacao": "Verificado em Portal Oficial GESAR/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "José da Rocha Miranda Pontes",
+    "email": "jose.pontes@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN (GESAR) - Maracanã",
+    "laboratorio_grupo": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais / FABLAB",
+    "especializacao_tecnica": "CFD, Escoamento Multifásico, Elementos Finitos, Métodos Numéricos, Estabilidade Hidrodinâmica",
+    "url_fonte": "http://lattes.cnpq.br/1688381217398630",
+    "status_validacao": "Verificado em Portal Oficial GESAR/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Daniel J",
+    "email": "daniel.chalhub@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN (GESAR) - Maracanã",
+    "laboratorio_grupo": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais / FABLAB",
+    "especializacao_tecnica": "Métodos Numéricos, Transformada Integral, FabLab, Fabricação Digital, CFD",
+    "url_fonte": "http://lattes.cnpq.br/9980274421161620",
+    "status_validacao": "Verificado em Portal Oficial GESAR/UERJ",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Diretoria de Inovação - InovUerj / DEPINOVA",
+    "email": "inovuerj@uerj.br",
+    "setor_departamento_campus": "PR2 / InovUerj - Maracanã",
+    "laboratorio_grupo": "DEPINOVA - Escritório de Propriedade Intelectual e Transferência de Tecnologia",
+    "especializacao_tecnica": "Gestão de Propriedade Intelectual, Parcerias Universidade-Empresa, Incubação Tecnológica",
+    "url_fonte": "https://www.pr2.uerj.br/",
+    "status_validacao": "Verificado em Portal Oficial PR2/InovUerj",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Coordenação PPG-COMPMAT",
+    "email": "ppgcompmat@ime.uerj.br",
+    "setor_departamento_campus": "IME/PPG-COMPMAT - Maracanã",
+    "laboratorio_grupo": "Programa de Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "especializacao_tecnica": "IA, Analytics, Computação de Alto Desempenho (HPC), Métodos Numéricos Aplicados, Engenharia de Software",
+    "url_fonte": "http://www.ime.uerj.br/",
+    "status_validacao": "Verificado em Portal Oficial IME/UERJ",
+    "data_acesso": "2026-03-30"
+  }
+]
