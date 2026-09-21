@@ -1,0 +1,2036 @@
+[
+  {
+    "nome": "Norberto Mangiavacchi",
+    "email": "norberto@gesar.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais / LFT",
+    "especializacao": "Termofluidodinâmica, CFD, Métodos Numéricos & Escoamentos Multifásicos (STAR-CCM+ / Simcenter)",
+    "url_fonte": "http://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "José da Rocha Miranda Pontes",
+    "email": "jpontes@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "GESAR / LaCaM - Laboratório de Computação Aplicada à Engenharia Mecânica",
+    "especializacao": "Mecânica dos Fluidos Computacional, Instabilidades Hidrodinâmicas & Fenômenos de Transporte (STAR-CCM+)",
+    "url_fonte": "http://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Daniel J. N. M. Chalhub",
+    "email": "daniel.chalhub@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "GESAR / LFM - Laboratório de Fluidos e Motores",
+    "especializacao": "Termofluidodinâmica, Motores de Combustão, Propriedades Termofísicas & CFD (Simcenter Amesim / STAR-CCM+)",
+    "url_fonte": "http://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Antônio José da Silva Neto",
+    "email": "ajsneto@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo": "PPGMC - Modelagem Computacional / LABTRAN (Laboratório de Modelagem Multiescala)",
+    "especializacao": "Modelagem Computacional, Problemas Inversos, Transferência de Calor & Otimização (Simcenter HEEDS / STAR-CCM+)",
+    "url_fonte": "https://www.iprj.uerj.br/antonio-jose-da-silva-neto/",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Diego Campos Knupp",
+    "email": "knupp@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo": "PPGMC - Modelagem Computacional / LABTRAN / Supercomputador Escola de Sagres",
+    "especializacao": "Transferência de Calor e Massa, Fenômenos de Transporte Multiescala & HPC (STAR-CCM+ / Simcenter)",
+    "url_fonte": "https://www.iprj.uerj.br/diego-campos-knupp/",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Leonardo Tavares Stutz",
+    "email": "stutz@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo": "PPGMC / Laboratório de Mecânica de Estruturas e Dinâmica",
+    "especializacao": "Vibrações, Controle Estrutural, Dinâmica dos Sólidos & Elementos Finitos (Simcenter 3D / Nastran)",
+    "url_fonte": "https://www.iprj.uerj.br/leonardo-tavares-stutz/",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Helio Pedro Amaral Souto",
+    "email": "hsouto@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo": "PPGMC / LABTRAN (Transporte de Partículas e Meios Porosos)",
+    "especializacao": "Simulação de Meios Porosos, Transporte de Partículas, Escoamento Multifásico & CFD (STAR-CCM+)",
+    "url_fonte": "https://www.iprj.uerj.br/helio-pedro-amaral-souto/",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Monique Osório Talarico da Conceição",
+    "email": "monique.talarico@fat.uerj.br",
+    "setor_departamento_campus": "FAT/DME - Resende",
+    "laboratorio_grupo": "Laboratório de Materiais e Processos / FAT Resende",
+    "especializacao": "Engenharia de Materiais, Processamento de Metais, Microestrutura & Ensaio Mecânico (NX CAM / Simcenter)",
+    "url_fonte": "https://www.fat.uerj.br/departamento/departamento-de-mecanica-e-energia/",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Marinilson Porto Mureb",
+    "email": "inovuerj@sr2.uerj.br",
+    "setor_departamento_campus": "InovUerj / DEPINOVA PR2 - Maracanã",
+    "laboratorio_grupo": "Diretoria de Inovação da UERJ (InovUerj / Escritório de Projetos)",
+    "especializacao": "Gestão da Inovação, Propriedade Intelectual, Parcerias Universidade-Empresa & Incubadoras",
+    "url_fonte": "https://www.pr2.uerj.br/?page_id=510",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Ana Ghislane",
+    "email": "ana.vanelk@uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/5792883380687165",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Alam Silva Menezes",
+    "email": "alam.menezes@uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/4694882173672359",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Alena Torres Netto",
+    "email": "alenanetto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/6574944043553517",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Ana Cristina Castro Sieira",
+    "email": "sieira@uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/8653261732041736",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Alexandre De Oliveira Dal Forno",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/7085589592804598",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Ana Silvia Pereira Santos",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/316",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Andre Guilherme Peixoto Alves",
+    "email": "andre.alves@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Sistemas de Controle, Automação & Mecatrônica (Simcenter Amesim / HEEDS) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2393935851133847",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Alan Jose Salomao Graca",
+    "email": "alanjsg@gmail.com",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/9156696694234978",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Adacto Benedicto Ottoni",
+    "email": "adacto@crea-rj.org.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/4117449053136293",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Aluisio Alves De Melo Bento",
+    "email": "aluisio.uerj@gmail.com",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/1129596113585622",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Barbara Maria Oliveira Santos",
+    "email": "barbara.santos@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/1901610758715285",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Andre Luis De Sá Salomao",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/330",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Andrea Galudht Santacruz Jaramillo",
+    "email": "andrea.jaramillo@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/9,58756385120165E+015",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Antonio Guilherme Garcia Lima",
+    "email": "antoniolima@uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/299",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Bernadete Ragoni Danziger",
+    "email": "brdanzig@uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/114",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Armando Prestes De Menezes Filho",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2437835320552168",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Alfredo Akira Ohnuma Junior",
+    "email": "ik.lahac@gmail.com",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Termofluidodinâmica, CFD & Fenômenos de Transporte (STAR-CCM+ / Simcenter Flomaster) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/276",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Andre Tenchini Da Silva",
+    "email": "andretsilva@gmail.com",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/7036280752466413",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Antonio Marcos Duarte Junior",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/302",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Andre Ribeiro De Oliveira",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/269",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Bernardo Feijo Junqueira",
+    "email": "bernardo.junqueira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2024373552275252",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Bruna Peres Battemarco",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/9109113821733927",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Alexandre Da Silva Prado",
+    "email": "alexandrecasp@gmail.com",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/108",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Bruno Guida Gouveia",
+    "email": "bruno.gouveia@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/5991925401759457",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Bismarck Costa Lima",
+    "email": "bcl@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2726367970767025",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Henrique Oliveira Da Rocha",
+    "email": "carlos.henrique.oliveira.rocha@gmail.com",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/309",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Bruno Teixeira Lima",
+    "email": "brunolima.professor@gmail.com",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2231835989303406",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Augusto Arentz Pereira",
+    "email": "arentz.uerj@gmail.com",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix) | Otimização Industrial, Logística & Pesquisa Operacional (Plant Simulation / Opcenter)",
+    "url_fonte": "https://www.eng.uerj.br/prof/324",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Aparecido Ferreira",
+    "email": "carlosaparecidoeng@gmail.com",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/331",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Eduardo Leal",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/117",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Dercio Santiago Da Silva Jr.",
+    "email": "derciojr@uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2588039496562270",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Eduardo Barbosa Cordeiro",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/FEN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/357",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Denise Maria Soares Gerscovich",
+    "email": "deniseg@uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/123",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Douglas Monteiro Andrade",
+    "email": "douglas.andrade@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/533442938115815",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Eduardo Dias Correa",
+    "email": "eduardo.correa@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/7840544328250109",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Eduardo Monteiro Martins",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2912118000820105",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Douglas Mota Dias",
+    "email": "douglas.dias@uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/3426085961007140",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Elaine Cavalcante Peixoto Borin",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/125",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Elaine Toscano Fonseca",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/126",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Elias Nasr Naim Elias",
+    "email": "elias.naim@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2389315878658535",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Eustaquio De Souza Baeta Junior",
+    "email": "eustaquio.baeta@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/178496322650410",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Elmo Rodrigues Da Silva",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/128",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Ezer Urpia Rosa",
+    "email": "ezer.rosa@uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/702858878327504",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Elisabeth Ritter",
+    "email": "ritteruerj@gmail.com",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/127",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Evandro Mendes Da Silva",
+    "email": "evandrom@uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/130",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Fabio Gatamorta",
+    "email": "fabio.gatamorta@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/5340012274976677",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Felipe Pereira Da Silva",
+    "email": "felipe.psilva@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Engenharia de Processos, Termodinâmica & Simulação de Reatores (gPROMS / Simcenter Amesim) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/1143927289210511",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Felipe Cassemiro Ulrichsen",
+    "email": "felipeulrichsen@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/8573554245584377",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Fernanda Lins Goncalves Pereira",
+    "email": "pereiralins@gmail.com",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2673103403783311",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Fernando Jorge Monteiro Dias",
+    "email": "fernando.dias@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/254095993516255",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Fernando Lopes Cardoso",
+    "email": "fcardoso@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/125107922833496",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Fernando Paullo Munoz",
+    "email": "fernando.paullo@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/8698432496607695",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Flavia Schmidt De Andrade Lima",
+    "email": "flavia.lima@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/3253882422912687",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Francisco Antonio Reis Filho",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2803698738314662",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Flavia Silva Dos Santos",
+    "email": "flavia.santos@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2164626243913337",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Flavio Da Silveira Bruno",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/132",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Flavio Alencar Do Rego Barros",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/244",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Frederico Celestino Pontes",
+    "email": "fredericocpontes@gmail.com",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/7718030579664663",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Frederico Menezes Coelho",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2224417928417957",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Gabriel Cardoso De Carvalho",
+    "email": "gabrielc@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/1415954961112300",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Gustavo Martins Da Silva Nunes",
+    "email": "gustavo.nunes@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2140603659004613",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Isidro Pinto Da Rocha Filho",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/FEN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/355",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Harold Dias De Mello Junior",
+    "email": "harold.dias@gmail.com",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/328",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Joao Colucci Fragozo",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/232",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Helio Da Motta Filho",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/246",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jorge Luis Nunes e Silva Brito",
+    "email": "jsilvabr@gmail.com",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/149",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Ian Vilar Bastos",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/1044684809741817",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Joao Araujo Ribeiro",
+    "email": "joao.araujo@gmail.com",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/165",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Joao Victor Pacheco Gomes",
+    "email": "joaovictorpac@gmail.com",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/4943093396905176",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Helcio De Oliveira Rocha",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Engenharia de Processos, Termodinâmica & Simulação de Reatores (gPROMS / Simcenter Amesim) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/143",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Irving Da Silva Badolato",
+    "email": "irvingbadolato@gmail.com",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/7656945252711590",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jose Brant De Campos",
+    "email": "brantjose@gmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/5147723432630786",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Joao Bosco De Azevedo",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/6406175595318501",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jose Eudes Marinho Da Silva",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/434",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jose Eduardo T. Villas",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/158",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jose Franco Machado Do Amaral",
+    "email": "franco@uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/159",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jose Guilherme Santos Da Silva",
+    "email": "jgss@uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/160",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jorge Luis Machado Do Amaral",
+    "email": "jamaral@uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Sistemas de Controle, Automação & Mecatrônica (Simcenter Amesim / HEEDS) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/156",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jose Roberto Moraes D'almeida",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/163",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jose Geraldo Telles Ribeiro",
+    "email": "telles@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/122316438902122",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jose Paulo Vilela Soares Da Cunha",
+    "email": "jpaulo@lee.eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/162",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luigi Maciel Ribeiro",
+    "email": "luigi@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Modelagem Computacional, HPC & Inteligência Artificial Aplicada (Simcenter HEEDS / MindSphere) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/444",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luciana Alem Gennari",
+    "email": "luciana.gennari@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/5155161212978793",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luiz Carlos Teixeira Coelho Filho",
+    "email": "luiz.coelho@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/6920722851435707",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luis Chiganer",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/288",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luciano Rodrigues Ornelas De Lima",
+    "email": "luciano@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "http://lattes.cnpq.br/2151919861612154",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luis Fernando Monteiro",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Sistemas de Controle, Automação & Mecatrônica (Simcenter Amesim / HEEDS) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/268",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jose Rodolfo Souza",
+    "email": "jrsouza@uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/164",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Leny Medeiros Silva",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/263",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Leandro Da Rocha Vaz",
+    "email": "leandro.vaz@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/9,45130110050091E+015",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Julio Cesar Da Silva",
+    "email": "jcesarop@gmail.com",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/329",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Kissila Botelho Goliath",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/373",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luz Elena Penaranda Chenche",
+    "email": "elena.chenche@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/9,45230296307964E+015",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Lorenna Baptista De Oliveira",
+    "email": "lorenna.baptista@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/7575920282958661",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Leonardo Mangia Rodrigues",
+    "email": "leonardo.mangia@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/4920094567804914",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Manoel Antonio Da Fonseca Costa Filho",
+    "email": "costafh@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/3375340063572734",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Lucia Schmidt De Andrade Lima",
+    "email": "lucias@uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/182",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Marcelle Candido Cordeiro",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/7947806468045826",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luciana Fernandes Guimaraes",
+    "email": "luciana.guimaraes@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/9,01847371204126E+015",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Marcelo Goncalves Rubinstein",
+    "email": "rubi@uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/190",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Marcia Marques Gomes",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/191",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Marcelo Obraczka",
+    "email": "marcelobraczka@gmail.com",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/323",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Marco Aurelio Botelho Da Silva",
+    "email": "marcoground@gmail.com",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/8166808280180129",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Margareth Simoes Penello Meirelles",
+    "email": "maggie@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/194",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luiz Henrique Guimaraes Castiglione",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/173",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luiz Octavio De Souza Bueno De Oliveira",
+    "email": "luiz.oliveira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/331718909836268",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Leonardo Campos Inocencio",
+    "email": "leonardo.inocencio@uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/56041582542136",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Maria Fernanda Figueiredo De Oliveira",
+    "email": "mffoliveira@gmail.com",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/5029738433988779",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Maria Dias Bellar",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/195",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Lia Cardoso Rocha Saraiva Teixeira",
+    "email": "liateixeira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/4544219377550705",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Maria Georgina Muniz Washington",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Modelagem Computacional, HPC & Inteligência Artificial Aplicada (Simcenter HEEDS / MindSphere) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/198",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Orlando Lima De Saboya Barros",
+    "email": "orlando@uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/249",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Otto Wanner Ganvini Asencios",
+    "email": "ottowga@gmail.com",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/4799447412720303",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Oscar Cuaresma Zevallos",
+    "email": "oscar.zevallos@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/489090407769634",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Patricia Gomes Ferreira Da Costa",
+    "email": "patricia.gomes@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/1846605454673278",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Paulo Cesar De Almeida",
+    "email": "almeidpc@gmail.com",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/207",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Paulo Bulkool Batalheiro",
+    "email": "pbb@uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/206",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Paulo Eduardo Darski Rocha",
+    "email": "pauloedurocha@gmail.com",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/4436802802639988",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Paulo Gomes",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/208",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Paulo Pinheiro Castanheira Neto",
+    "email": "paulo.castanheira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/4595272630768051",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Pedro Henrique Pereira",
+    "email": "pedro.pereira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/3188884115548897",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Paulo Sergio Rodrigues Alonso",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/250",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Pedro Henrique Silva Coutinho",
+    "email": "coutinho.p92@gmail.com",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/5272302377513795",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Rafaela Correia Brum",
+    "email": "rafaelabrum@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/5658889695811247",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Pedro Soucasaux Pires Garcia",
+    "email": "pedro.garcia@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2223279882012057",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Rebecca Mansur De Castro Silva",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/4894410131381418",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Samir De Souza Oliveira Alves",
+    "email": "samir.alves@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/450618032068809",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Sergio Barros Da Cunha",
+    "email": "sergio.cunha@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/5164363680437460",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Sarah Silveira Mendes",
+    "email": "sarah.mendes@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/3201767059217794",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Sergio Orlando Antoun Netto",
+    "email": "sergio.uerj@gmail.com",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/306",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Silvia Dos Reis Alcantara Duarte",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/300",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Sergio Leon Escalante Cardenas",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/327",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Shirley Do Socorro Melo De Souza",
+    "email": "shirleymelloc@gmail.com",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/9,91676319963045E+015",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Sonia Maria Alves Costa",
+    "email": "sonia.costa@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/4545073595413032",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Simone Ingrid Monteiro Gama",
+    "email": "simone@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/9,21329872727214E+015",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Sonia Maria Lima Silva",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/304",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Suzana Bottega Peripolli",
+    "email": "speripolli@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2498487966132931",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Teo Cerqueira Revoredo",
+    "email": "teorevoredo@uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Sistemas de Controle, Automação & Mecatrônica (Simcenter Amesim / HEEDS) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/292",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Thales Da Silveira Paradela",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEIN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/51",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Thiago Medeiros Carvalho",
+    "email": "tmedeiros@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/3691344179487871",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Thomas Lima De Resende",
+    "email": "thomas@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2304352538634880",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Ailton De Mesquita Vieira",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/105",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Afranio Sergio Pinho Dos Santos",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/104",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Wilson Freitas Rebello Da Silva Junior",
+    "email": "wilsonrebello@gmail.com",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/5388048554531038",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Albino Joaquim Pimenta Da Cunha",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/106",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Alexandre Assis Carvalho",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/6749503439323602",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Allan Cascaes Pereira",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/109",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Amauri Ribeiro Destri",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/1",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Bernardo Bandeira De Figueiredo",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/113",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Bernardo Severo Da Silva Filho",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/337",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carla Maria De Medeiros Pira",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/62",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Bruno Feijo",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Análise Estrutural, Vibrações, Acústica & Elementos Finitos (Simcenter 3D / Nastran / Femap) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/8249534204731109",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Alberto Biolchini Da Silva",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/273",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Camillo Jose Martins Gomes",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/116",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Alberto Pereira Correia",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/64",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Henrique Saraiva Raposo",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/118",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Alberto Fialho Thompson Leite",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/286",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Cezar De La Plata Ruiz",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/120",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Jose Marinho Falcao",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/119",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Carlos Santiago Filho",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/4",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Celestino Oliveira Araujo",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/262",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Celina Aida Bittencourt Schmidt",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/SMCOSTA_2000 - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/53",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Cesar Tavares De Araujo",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/259",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "David Martins Vieira",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/4323170330527273",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Celsio De Oliveira Moreira",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/19",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Claudio Ivanof Lucarevschi",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/5",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Fernando Agustin Pazos",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/297",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Fellipe Dos Santos Reis",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/FEN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/278",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Iris Pereira Escobar",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/230",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Ivan De Araujo Medina",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/8",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Eduardo Leal De Oliveira",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/124",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Ivan Gomes Guterres",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/21",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Erli Ferreira Figueiredo",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/61",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Ivone Telles Pires Valdetaro",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/147",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Joao Cordeiro Da Graca Filho",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/FEN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/277",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jacaono Batista De Lima",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/148",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Joao Alberto Ferreira",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/237",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Joao De Tarso Pallottino",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/63",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Evandro Porto Duarte",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/252",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Evandro Correa Gondim",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/129",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Henrique Goldfeld",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/0539747614964232",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Jose Alexandre Assed",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/321",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luis Antonio De Andrade",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/3006696758574303",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Mauro Sergio Fernandes Argento",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/186",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Manuel Augusto",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/189",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Maria Luiza Fernandes Velloso",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/248",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Nelson Cesar De Almeida",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/24",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Marley Maria B.R.Vellasco",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/199",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luiz Artur Pecorelli Peres",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/57",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Marilia Garcia Diniz",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "http://lattes.cnpq.br/6597447489234947",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luiz Antonio Joia",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/180",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Luiz Antonio Arnaud Mendes",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/289",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Odir Clecio Da Cruz Roque",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/202",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Mauro Pereira De Mello",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/185",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Paschoal Villaboim Filho",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/FEN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/279",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Mauricio Jose Ferrari Rey",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/52",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Paulo Eurico De Melo Tavares",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/CARTO - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/25",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Sady Castor Sobrinho",
+    "email": "mecanica@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/224",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Walmir Ribeiro Pinheiro Junior",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ELE - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/438303594190102",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Sheila Murgel Veloso",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/266",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Weber Figueiredo Da Silva",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/8335146764099283",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Pedro Paulo Thompson De Vasconcelos",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESC - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/295",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Sebastiao Arthur Lopes De Andrade",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/ESTR - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/257",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Silvia Regina Goldgaber Borges",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DCCT - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2729166016486343",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Teofilo Carlos Do Nascimento Monteiro",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DESMA - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Termofluidodinâmica, CFD & Fenômenos de Transporte (STAR-CCM+ / Simcenter Flomaster) | Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/6545571800246870",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Thales Alfredo De Avila Carneiro",
+    "email": "secretaria@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DETEL - Maracanã",
+    "laboratorio_grupo": "Faculdade de Engenharia (FEN/UERJ)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://www.eng.uerj.br/prof/225",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Sobre o Curso",
+    "email": "ppgmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo",
+    "laboratorio_grupo": "Instituto Politécnico (IPRJ / PPGMC)",
+    "especializacao": "Modelagem Numérica, Simulação & Engenharia Aplicada (Siemens DISW Suite)",
+    "url_fonte": "https://www.iprj.uerj.br/computacao/",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Conselho Departamental",
+    "email": "ppgmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo",
+    "laboratorio_grupo": "Instituto Politécnico (IPRJ / PPGMC)",
+    "especializacao": "Modelagem Numérica, Simulação & Engenharia Aplicada (Siemens DISW Suite)",
+    "url_fonte": "https://www.iprj.uerj.br/conselho-departamental/",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Manual do Estudante Engenharia Mecânica",
+    "email": "ppgmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo",
+    "laboratorio_grupo": "Instituto Politécnico (IPRJ / PPGMC)",
+    "especializacao": "Modelagem Numérica, Simulação & Engenharia Aplicada (Siemens DISW Suite)",
+    "url_fonte": "https://www.iprj.uerj.br/wp-content/uploads/sites/9/2025/05/UERJ_IPRJ_EngMec_ManualEstudante_2012-red.pdf",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Manual do Estudante Engenharia de Computação",
+    "email": "Gh@M.mBUfJRatb",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo",
+    "laboratorio_grupo": "Instituto Politécnico (IPRJ / PPGMC)",
+    "especializacao": "Modelagem Numérica, Simulação & Engenharia Aplicada (Siemens DISW Suite)",
+    "url_fonte": "https://www.iprj.uerj.br/wp-content/uploads/sites/9/2025/05/UERJ_IPRJ_EngComp_ManualEstudante_2012.pdf",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Helson Moreira da Costa",
+    "email": "hmcosta@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMAT - Nova Friburgo",
+    "laboratorio_grupo": "Instituto Politécnico (IPRJ / PPGMC)",
+    "especializacao": "Modelagem Numérica, Simulação & Engenharia Aplicada (Siemens DISW Suite)",
+    "url_fonte": "https://lattes.cnpq.br/8141875611393566",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "João Flávio Vieira de Vasconcellos",
+    "email": "jflavio@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo": "Instituto Politécnico (IPRJ / PPGMC)",
+    "especializacao": "Modelagem Numérica, Simulação & Engenharia Aplicada (Siemens DISW Suite)",
+    "url_fonte": "https://lattes.cnpq.br/9634798722030132",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "5Programa de Pós-graduação em Ciência e Tecnologia de Materiais",
+    "email": "secretaria-posgrad@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ - Nova Friburgo",
+    "laboratorio_grupo": "Instituto Politécnico (IPRJ / PPGMC)",
+    "especializacao": "Modelagem Numérica, Simulação & Engenharia Aplicada (Siemens DISW Suite)",
+    "url_fonte": "https://www.ppgctm.iprj.uerj.br/",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Hermes Alves Filho",
+    "email": "halves@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo": "Instituto Politécnico (IPRJ / PPGMC)",
+    "especializacao": "Modelagem Numérica, Simulação & Engenharia Aplicada (Siemens DISW Suite)",
+    "url_fonte": "https://lattes.cnpq.br/8509299951934973",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Rafael Barbosa Libotte",
+    "email": "rblibotte@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo": "Instituto Politécnico (IPRJ / PPGMC)",
+    "especializacao": "Modelagem Numérica, Simulação & Engenharia Aplicada (Siemens DISW Suite)",
+    "url_fonte": "http://lattes.cnpq.br/5608402457803882",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Silvia Mara da Costa Campos",
+    "email": "silviacampos@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo": "Instituto Politécnico (IPRJ / PPGMC)",
+    "especializacao": "Projeto Mecânico CAD/CAM & Manufatura Avançada (NX CAD/CAM / Tecnomatix)",
+    "url_fonte": "https://lattes.cnpq.br/2142669271116040",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  },
+  {
+    "nome": "Sílvia Cristina Dias Pinto",
+    "email": "silvia.dias@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo": "Instituto Politécnico (IPRJ / PPGMC)",
+    "especializacao": "Modelagem Numérica, Simulação & Engenharia Aplicada (Siemens DISW Suite)",
+    "url_fonte": "https://lattes.cnpq.br/4333940423066302",
+    "status_validacao": "Validação Oficial Direta (2026-09-21)"
+  }
+]
