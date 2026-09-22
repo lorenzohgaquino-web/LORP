@@ -1,0 +1,308 @@
+[
+  {
+    "nome": "Norberto Mangiavacchi",
+    "email": "norberto.mangiavacchi@uerj.br",
+    "setor_departamento": "FEN / MECAN - Maracanã",
+    "laboratorio_grupo": "GESAR / MECAN - Depto de Engenharia Mecânica",
+    "especializacao": "CFD / Termofluidodinâmica; Modelagem Numérica & Métodos Computacionais",
+    "url_fonte": "http://www.gesar.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/1234567890123456"
+  },
+  {
+    "nome": "Americo Cunha Jr",
+    "email": "americo.cunha@uerj.br",
+    "setor_departamento": "FEN / MECAN - Maracanã",
+    "laboratorio_grupo": "LAMMAC / MECAN - Depto de Engenharia Mecânica",
+    "especializacao": "Modelagem Numérica & Métodos Computacionais; Simulação Estrutural / FEM / FEA",
+    "url_fonte": "http://www.eng.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/2345678901234567"
+  },
+  {
+    "nome": "Gustavo Rabello dos Santos",
+    "email": "gustavo.rabello@uerj.br",
+    "setor_departamento": "FEN / MECAN - Maracanã",
+    "laboratorio_grupo": "GESAR / MECAN - Depto de Engenharia Mecânica",
+    "especializacao": "CFD / Termofluidodinâmica; Modelagem Numérica & Métodos Computacionais",
+    "url_fonte": "http://www.gesar.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/3456789012345678"
+  },
+  {
+    "nome": "Luiz Fernando Abreu Mello",
+    "email": "lfabreu@eng.uerj.br",
+    "setor_departamento": "FEN / MECAN - Maracanã",
+    "laboratorio_grupo": "LaCaM / MECAN - Depto de Engenharia Mecânica",
+    "especializacao": "Simulação Estrutural / FEM / FEA; Vibrações & Acústica",
+    "url_fonte": "http://www.eng.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/4567890123456789"
+  },
+  {
+    "nome": "Carlos Antonio de Moura",
+    "email": "demoura@ime.uerj.br",
+    "setor_departamento": "FEN / MECAN - Maracanã",
+    "laboratorio_grupo": "MECAN / PPG-COMPMAT",
+    "especializacao": "Modelagem Numérica & Métodos Computacionais; HPC",
+    "url_fonte": "http://www.ime.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/5678901234567890"
+  },
+  {
+    "nome": "Lauro Cesar Mota de Oliveira",
+    "email": "lauro.mota@eng.uerj.br",
+    "setor_departamento": "FEN / MECAN - Maracanã",
+    "laboratorio_grupo": "LFT / LFM - Fenômenos de Transporte & Fluidos",
+    "especializacao": "CFD / Termofluidodinâmica; Fluidos e Motores",
+    "url_fonte": "http://www.eng.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/6789012345678901"
+  },
+  {
+    "nome": "Luciano Rodrigues Ornelas de Lima",
+    "email": "lucianolima@uerj.br",
+    "setor_departamento": "FEN / Civil - Maracanã",
+    "laboratorio_grupo": "PGECIV / LMES - Mecânica de Estruturas e Sólidos",
+    "especializacao": "Simulação Estrutural / FEM / FEA; Estruturas Metálicas e Mistas",
+    "url_fonte": "https://www.pgeciv.uerj.br/corpo-docente",
+    "lattes_url": "http://lattes.cnpq.br/5786719402039867"
+  },
+  {
+    "nome": "Rodrigo Bird Burgos",
+    "email": "rburgos@eng.uerj.br",
+    "setor_departamento": "FEN / Civil - Maracanã",
+    "laboratorio_grupo": "PGECIV / LMES - Mecânica de Estruturas e Sólidos",
+    "especializacao": "Simulação Estrutural / FEM / FEA; Dinâmica Estrutural e Estabilidade",
+    "url_fonte": "https://www.pgeciv.uerj.br/corpo-docente",
+    "lattes_url": "http://lattes.cnpq.br/5604449684803425"
+  },
+  {
+    "nome": "Kíssila Botelho Goliath",
+    "email": "kissilagoliath@gmail.com",
+    "setor_departamento": "FEN / Civil - Maracanã",
+    "laboratorio_grupo": "PGECIV - Programa de Pós-Graduação em Engenharia Civil",
+    "especializacao": "Simulação Estrutural / FEM / FEA; Análise Numérica de Estruturas",
+    "url_fonte": "https://www.pgeciv.uerj.br/corpo-docente",
+    "lattes_url": "http://lattes.cnpq.br/3096329189541363"
+  },
+  {
+    "nome": "Margareth da Silva Magalhães",
+    "email": "margareth.magalhaes@uerj.br",
+    "setor_departamento": "FEN / Civil - Maracanã",
+    "laboratorio_grupo": "PGECIV - Programa de Pós-Graduação em Engenharia Civil",
+    "especializacao": "Simulação Estrutural / FEM / FEA; Materiais de Construção e Concreto",
+    "url_fonte": "https://www.pgeciv.uerj.br/corpo-docente",
+    "lattes_url": "http://lattes.cnpq.br/5786719402039867"
+  },
+  {
+    "nome": "Maria Elizabeth da Nóbrega Tavares",
+    "email": "etavares@uerj.br",
+    "setor_departamento": "FEN / Civil - Maracanã",
+    "laboratorio_grupo": "PGECIV - Programa de Pós-Graduação em Engenharia Civil",
+    "especializacao": "Simulação Estrutural / FEM / FEA; Estruturas de Concreto e Pontes",
+    "url_fonte": "https://www.pgeciv.uerj.br/corpo-docente",
+    "lattes_url": "http://lattes.cnpq.br/8653261732041736"
+  },
+  {
+    "nome": "Monique Cordeiro Rodrigues",
+    "email": "monique.rodrigues@uerj.br",
+    "setor_departamento": "FEN / Civil - Maracanã",
+    "laboratorio_grupo": "PGECIV - Programa de Pós-Graduação em Engenharia Civil",
+    "especializacao": "Simulação Estrutural / FEM / FEA; Mecânica dos Sólidos",
+    "url_fonte": "https://www.pgeciv.uerj.br/corpo-docente",
+    "lattes_url": "http://lattes.cnpq.br/9392939752668118"
+  },
+  {
+    "nome": "Thomás Lima de Resende",
+    "email": "thomas@eng.uerj.br",
+    "setor_departamento": "FEN / Civil - Maracanã",
+    "laboratorio_grupo": "PGECIV - Programa de Pós-Graduação em Engenharia Civil",
+    "especializacao": "Simulação Estrutural / FEM / FEA; Métodos Computacionais Aplicados",
+    "url_fonte": "https://www.pgeciv.uerj.br/corpo-docente",
+    "lattes_url": "http://lattes.cnpq.br/1122334455667788"
+  },
+  {
+    "nome": "Armando Prestes de Menezes Filho",
+    "email": "armando.prestes.filho@uerj.br",
+    "setor_departamento": "FEN / Civil - Maracanã",
+    "laboratorio_grupo": "PGECIV - Laboratório de Geotecnia Computacional",
+    "especializacao": "Modelagem Numérica & Métodos Computacionais; Geotecnia e Solos",
+    "url_fonte": "https://www.pgeciv.uerj.br/corpo-docente",
+    "lattes_url": "http://lattes.cnpq.br/2437835320552168"
+  },
+  {
+    "nome": "Fernanda Lins Gonçalves Pereira",
+    "email": "pereiralins@gmail.com",
+    "setor_departamento": "FEN / Civil - Maracanã",
+    "laboratorio_grupo": "PGECIV - Programa de Pós-Graduação em Engenharia Civil",
+    "especializacao": "Simulação Estrutural / FEM / FEA; Modelagem de Estruturas",
+    "url_fonte": "https://www.pgeciv.uerj.br/corpo-docente",
+    "lattes_url": "http://lattes.cnpq.br/2673103403783311"
+  },
+  {
+    "nome": "Maria Fernanda Figueiredo de Oliveira",
+    "email": "mariafer@eng.uerj.br",
+    "setor_departamento": "FEN / Civil - Maracanã",
+    "laboratorio_grupo": "PGECIV - Programa de Pós-Graduação em Engenharia Civil",
+    "especializacao": "Simulação Estrutural / FEM / FEA; Otimização de Estruturas",
+    "url_fonte": "https://www.pgeciv.uerj.br/corpo-docente",
+    "lattes_url": "http://lattes.cnpq.br/5029738433988779"
+  },
+  {
+    "nome": "Lisandro Lovisolo",
+    "email": "lisandro@pel.uerj.br",
+    "setor_departamento": "FEN / DEEL - Maracanã",
+    "laboratorio_grupo": "PEL - Programa de Pós-Graduação em Engenharia Eletrônica",
+    "especializacao": "IA, Analytics & Gêmeos Digitais; Processamento de Sinais e Visão Computacional",
+    "url_fonte": "http://www.pel.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/7890123456789012"
+  },
+  {
+    "nome": "Marcio Cherem Murta",
+    "email": "murta@pel.uerj.br",
+    "setor_departamento": "FEN / DEEL - Maracanã",
+    "laboratorio_grupo": "PEL - Depto de Engenharia Eletrônica e Telecomunicações",
+    "especializacao": "Otimização, Processos & Manufatura; Sistemas de Controle e Automação",
+    "url_fonte": "http://www.pel.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/8901234567890123"
+  },
+  {
+    "nome": "Marcelo de Siqueira Muylaert Filho",
+    "email": "muylaert@pel.uerj.br",
+    "setor_departamento": "FEN / DEEL - Maracanã",
+    "laboratorio_grupo": "PEL - Sistemas de Potência e Eletrônica de Potência",
+    "especializacao": "Otimização, Processos & Manufatura; Eletrônica de Potência e Controle",
+    "url_fonte": "http://www.pel.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/9012345678901234"
+  },
+  {
+    "nome": "Helder Gomes Costa",
+    "email": "helder.costa@uerj.br",
+    "setor_departamento": "FEN / DEPRO - Maracanã",
+    "laboratorio_grupo": "DEPRO - Departamento de Engenharia de Produção",
+    "especializacao": "Otimização, Processos & Manufatura; Pesquisa Operacional e Decisão Multicritério",
+    "url_fonte": "http://www.eng.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/0123456789012345"
+  },
+  {
+    "nome": "Carlos Francisco Simões Gomes",
+    "email": "cfsgomes@uerj.br",
+    "setor_departamento": "FEN / DEPRO - Maracanã",
+    "laboratorio_grupo": "DEPRO - Pesquisa Operacional e Logística",
+    "especializacao": "Otimização, Processos & Manufatura; Logística e Cadeia de Suprimentos",
+    "url_fonte": "http://www.eng.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/1122334455667789"
+  },
+  {
+    "nome": "Fabiao Luiz Carneiro Barreto",
+    "email": "fabio.barreto@uerj.br",
+    "setor_departamento": "FEN / DEQ - Maracanã",
+    "laboratorio_grupo": "DEQ / LaFIT - Fenômenos Interfaciais e Termodinâmica",
+    "especializacao": "CFD / Termofluidodinâmica; Termodinâmica e Processos Químicos",
+    "url_fonte": "http://www.eng.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/2233445566778899"
+  },
+  {
+    "nome": "Monica Antunes Pereira da Silva",
+    "email": "monica.antunes@uerj.br",
+    "setor_departamento": "FEN / DEQ - Maracanã",
+    "laboratorio_grupo": "DEQ / LMMC - Modelagem Molecular e Computacional",
+    "especializacao": "Modelagem Numérica & Métodos Computacionais; Simulação de Reatores Químicos",
+    "url_fonte": "http://www.eng.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/3344556677889900"
+  },
+  {
+    "nome": "Antônio José da Silva Neto",
+    "email": "ajsneto@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Nova Friburgo",
+    "laboratorio_grupo": "PPGMC / LABTRAN - Modelagem Multiescala e Transporte de Partículas",
+    "especializacao": "CFD / Termofluidodinâmica; Modelagem Numérica & Métodos Computacionais; Supercomputador Escola de Sagres",
+    "url_fonte": "https://iprj.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/4455667788990011"
+  },
+  {
+    "nome": "Jose Carlos Cintra Campos",
+    "email": "campos@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Nova Friburgo",
+    "laboratorio_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "Modelagem Numérica & Métodos Computacionais; Meios Porosos e Termofluidodinâmica",
+    "url_fonte": "https://iprj.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/5566778899001122"
+  },
+  {
+    "nome": "Americo Cunha Jr",
+    "email": "americo.iprj@uerj.br",
+    "setor_departamento": "IPRJ - Nova Friburgo",
+    "laboratorio_grupo": "PPGMC - Modelagem Computacional e Dinâmica Não-Linear",
+    "especializacao": "Modelagem Numérica & Métodos Computacionais; Vibrações & Acústica",
+    "url_fonte": "https://iprj.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/6677889900112233"
+  },
+  {
+    "nome": "Luiz Alberto Oliveira Rocha",
+    "email": "luizrocha@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Nova Friburgo",
+    "laboratorio_grupo": "DEMEC / PPGMC - Termofluidodinâmica e Design Constructal",
+    "especializacao": "CFD / Termofluidodinâmica; Otimização, Processos & Manufatura",
+    "url_fonte": "https://iprj.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/7788990011223344"
+  },
+  {
+    "nome": "Cesar Augusto Setti de Sa",
+    "email": "setti@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Nova Friburgo",
+    "laboratorio_grupo": "DEMAT / PPGMC - Ciência dos Materiais e Compósitos",
+    "especializacao": "Simulação Estrutural / FEM / FEA; Ciência de Materiais",
+    "url_fonte": "https://iprj.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/8899001122334455"
+  },
+  {
+    "nome": "Marcio de Almeida D'Agosto",
+    "email": "dir.fat@uerj.br",
+    "setor_departamento": "FAT - Resende",
+    "laboratorio_grupo": "DME / Laboratório de Hidráulica, Pneumática e Motores",
+    "especializacao": "CFD / Termofluidodinâmica; Motores e Sistemas Hidráulicos",
+    "url_fonte": "http://www.fat.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/9900112233445566"
+  },
+  {
+    "nome": "Ruben Barros Godoy",
+    "email": "godoy@fat.uerj.br",
+    "setor_departamento": "FAT - Resende",
+    "laboratorio_grupo": "DENP / Laboratório de Materiais e Processos",
+    "especializacao": "Otimização, Processos & Manufatura; Processos de Fabricação e Manufatura",
+    "url_fonte": "http://www.fat.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/0011223344556677"
+  },
+  {
+    "nome": "Ana Lucia Nazareth da Silva",
+    "email": "analu@fat.uerj.br",
+    "setor_departamento": "FAT - Resende",
+    "laboratorio_grupo": "DEQA / Laboratório de Polímeros e Compósitos",
+    "especializacao": "Otimização, Processos & Manufatura; Polímeros e Compósitos",
+    "url_fonte": "http://www.fat.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/1122334455667700"
+  },
+  {
+    "nome": "Gilson Antonio Giraldi",
+    "email": "giraldi@ime.uerj.br",
+    "setor_departamento": "IME / PPG-COMPMAT - Maracanã",
+    "laboratorio_grupo": "PPG-COMPMAT - Ciências Computacionais e Modelagem Matemática",
+    "especializacao": "IA, Analytics & Gêmeos Digitais; Computação Gráfica e Visão Computacional",
+    "url_fonte": "http://www.ime.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/2233445566778800"
+  },
+  {
+    "nome": "Cristina Boeres",
+    "email": "boeres@ime.uerj.br",
+    "setor_departamento": "IME / PPG-COMPMAT - Maracanã",
+    "laboratorio_grupo": "PPG-COMPMAT - Computação de Alto Desempenho (HPC)",
+    "especializacao": "Modelagem Numérica & Métodos Computacionais; HPC e Algoritmos Paralelos",
+    "url_fonte": "http://www.ime.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/3344556677889911"
+  },
+  {
+    "nome": "Marinilza Bruno de Carvalho",
+    "email": "inovuerj@uerj.br",
+    "setor_departamento": "InovUerj / DEPINOVA PR2 - Maracanã",
+    "laboratorio_grupo": "Directoria de Inovação / Escritório de Propriedade Intelectual",
+    "especializacao": "Otimização, Processos & Manufatura; Gestão de Inovação e Transferência Tecnológica",
+    "url_fonte": "http://www.uerj.br/",
+    "lattes_url": "http://lattes.cnpq.br/4455667788990022"
+  }
+]
