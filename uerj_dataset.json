@@ -1,0 +1,1142 @@
+[
+  {
+    "nome_completo": "Luís Fernando Campos Ramos Alhaique",
+    "email_institucional": "decivil@eng.uerj.br",
+    "setor_departamento_campus": "FEN/Civil - Maracanã",
+    "laboratorio_grupo_pesquisa": "LMES - Laboratório de Mecânica de Estruturas e Sólidos",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "https://www.eng.uerj.br/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Lisandro Lovisolo",
+    "email_institucional": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Processamento de Sinais e Telecomunicações",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "https://www.eng.uerj.br/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Luiz Fernando Ferreira",
+    "email_institucional": "deel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEEL - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Controle e Automação (LCA / FEN)",
+    "especializacao_tecnica": "Controle, Automação & Robótica",
+    "url_fonte_validacao": "https://www.eng.uerj.br/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Carlos Francisco Simões Gomes",
+    "email_institucional": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEPRO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Grupo de Decisão Multicritério e Otimização",
+    "especializacao_tecnica": "Otimização & Processos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Helder Gomes Costa",
+    "email_institucional": "depro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEPRO - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa Operacional e Otimização (LPO)",
+    "especializacao_tecnica": "Otimização & Processos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Eduardo Mach de Avillez",
+    "email_institucional": "deq@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEQ - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Engenharia de Reatores e Termodinâmica (LERT)",
+    "especializacao_tecnica": "Otimização & Processos; Termodinâmica & Materiais",
+    "url_fonte_validacao": "https://www.eng.uerj.br/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Maria Alice Zarur Coelho",
+    "email_institucional": "deq@eng.uerj.br",
+    "setor_departamento_campus": "FEN/DEQ - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Bioprocessos e Fenômenos de Transporte",
+    "especializacao_tecnica": "Otimização & Processos",
+    "url_fonte_validacao": "https://www.eng.uerj.br/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Afrânio Sérgio Pinho dos Santos",
+    "email_institucional": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Alberto Franco de Sá Santoro",
+    "email_institucional": "albsantoro@gmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/2474284374033405",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Americo Barbosa da Cunha Junior",
+    "email_institucional": "americo.cunha@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Núcleo de Modelagem e Experimentação Computacional - NUMERICO",
+    "especializacao_tecnica": "Elementos Finitos / FEA; Gêmeos Digitais / IoT / IA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/5659403706694491",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "André Rocha Pimenta",
+    "email_institucional": "andre.pimenta@ifrj.edu.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "https://lattes.cnpq.br/2962103182860488",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Antonio Marinho Junior",
+    "email_institucional": "marinho@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/3144384203069939",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Antônio José da Silva Neto",
+    "email_institucional": "ajsneto@iprj.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório Paulo Márcio de Mello de Ensaios Mecânicos e Metrologia (LEMec); Laboratório Patrícia Oliva Soares de Experimentação e Simulação Numérica em Transferência de Calor e Massa (LEMA).",
+    "especializacao_tecnica": "Otimização & Processos",
+    "url_fonte_validacao": "http://lattes.cnpq.br/5148738006361781",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Bernardo Feijó Junqueira",
+    "email_institucional": "bernardo.junqueira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA; Gêmeos Digitais / IoT / IA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/2024373552275252",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Carlos Alberto Biolchini da Silva",
+    "email_institucional": "cabiolchini@gmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Carlos Alberto Filho Thompson Leite",
+    "email_institucional": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Carlos Alberto Pereira Correia",
+    "email_institucional": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Carlos Antonio de Moura",
+    "email_institucional": "demoura@ime.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "CFD / Fluidodinâmica; Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/7810980300080088",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Carlos Cezar de La Plata Ruiz",
+    "email_institucional": "laplata@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/1170435110559387",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Carolina Seixas Moreira",
+    "email_institucional": "carolina.moreira@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA; Termodinâmica & Materiais",
+    "url_fonte_validacao": "http://lattes.cnpq.br/7316893375138716",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Cesar Tavares de Araújo",
+    "email_institucional": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Cristiane Oliveira de Faria",
+    "email_institucional": "cofaria@ime.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/1183201737914250",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Daniel José Nahid Mansur Chalhub",
+    "email_institucional": "daniel.chalhub@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Grupo de Estudos e Simulações Ambientais em Reservatórios (GESAR)",
+    "especializacao_tecnica": "CFD / Fluidodinâmica",
+    "url_fonte_validacao": "http://lattes.cnpq.br/9980274421161620",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Diego Campos Knupp",
+    "email_institucional": "diegoknupp@iprj.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "LEMA – Laboratório Patrícia Oliva Soares de Experimentação e Simulação Numérica em Transferência de Calor e Massa",
+    "especializacao_tecnica": "Otimização & Processos",
+    "url_fonte_validacao": "http://lattes.cnpq.br/1743826010794846",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Douglas Monteiro Andrade",
+    "email_institucional": "douglas.andrade@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA; Termodinâmica & Materiais",
+    "url_fonte_validacao": "http://lattes.cnpq.br/0533442938115815",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Eduardo Dias Corrêa",
+    "email_institucional": "eduardo.correa@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/7840544328250109",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Eustáquio de Souza Baêta Júnior",
+    "email_institucional": "eustaquio.baeta@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório Multiusuário de Nanofabricaçao e Caracterizaçao de Nanomateriais, NANOFAB",
+    "especializacao_tecnica": "Termodinâmica & Materiais",
+    "url_fonte_validacao": "http://lattes.cnpq.br/0178496322650410",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Francisco José da Cunha Pires Soeiro",
+    "email_institucional": "francisco.soeiro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA; Otimização & Processos",
+    "url_fonte_validacao": "http://lattes.cnpq.br/8690926504635230",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Fábio Gatamorta",
+    "email_institucional": "fabio.gatamorta@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Fabricação Mecânica (LFM); Laboratório Multiusuário de Nanofabricação e Caracterização de Nanomateriais - NANOFAB",
+    "especializacao_tecnica": "Elementos Finitos / FEA; Termodinâmica & Materiais",
+    "url_fonte_validacao": "http://lattes.cnpq.br/5340012274976677",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Gil Roberto Vieira Pinheiro",
+    "email_institucional": "gilpinheiro@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Grupo de Estudos e Simulações Ambientais em Reservatórios (GESAR); Laboratório de Redes Industriais e Sistemas de Automação (LARISA);",
+    "especializacao_tecnica": "Elementos Finitos / FEA; Controle, Automação & Robótica",
+    "url_fonte_validacao": "http://lattes.cnpq.br/0099103959798593",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Gilberto Menezes Moraes",
+    "email_institucional": "gilnew2018@gmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/8102183124422392",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Gustaf Aurelio Perez Akerman",
+    "email_institucional": "gustaf.akerman@gmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/2203340436940730",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Gustavo Rabello dos Anjos",
+    "email_institucional": "gustavo.anjos@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Grupo de Estudos e Simulações Ambientais em Reservatórios (GESAR)",
+    "especializacao_tecnica": "CFD / Fluidodinâmica; Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/2430893976345647",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Hélio Marques Kohler",
+    "email_institucional": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "José Brant de Campos",
+    "email_institucional": "jose.brant@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório Multiusuário de Nanofabricação e Caracterização de Nanomateriais - NANOFAB",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/5147723432630786",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "José Carlos Vilar Amigo",
+    "email_institucional": "jc.amigo@hotmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Controle, Automação & Robótica",
+    "url_fonte_validacao": "http://lattes.cnpq.br/4786875450862703",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "José Geraldo Telles Ribeiro",
+    "email_institucional": "telles@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/0122316438902122",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "José Guilherme Santos da Silva",
+    "email_institucional": "jgss@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/4422797300106230",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "José Jorge Campello Rodrigues Pereira",
+    "email_institucional": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/3676727153069118",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "José Roberto Moraes d'Almeida",
+    "email_institucional": "dalmeida@puc-rio.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA; Termodinâmica & Materiais",
+    "url_fonte_validacao": "http://lattes.cnpq.br/1672274202055214",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "José da Rocha Miranda Pontes",
+    "email_institucional": "jose.pontes@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Grupo de Estudos e Simulações Ambientais em Reservatórios (GESAR)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/1688381217398630",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "João de Tarso Pallottino",
+    "email_institucional": "mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Luiz Mariano Paes de Carvalho Filho",
+    "email_institucional": "luizmc@ime.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/1722453671104980",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Luz Elena Peñaranda Chenche",
+    "email_institucional": "elena.chenche@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/9452302963079638",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Manoel Antonio da Fonseca Costa Filho",
+    "email_institucional": "costafh@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Termociências e Energia (LTE), Centro de Estudos e Pesquisas em Energias Renováveis",
+    "especializacao_tecnica": "Termodinâmica & Materiais",
+    "url_fonte_validacao": "http://lattes.cnpq.br/3375340063572734",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Manuel Augusto",
+    "email_institucional": "mgusto2004@yahoo.com.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/0149697648243678",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Maria Eugênia De Las Mercedes Mosconi de Gouvea",
+    "email_institucional": "mariaeugenia@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/1183997029071564",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Marilia Garcia Diniz",
+    "email_institucional": "mgarciadiniz@gmail.com",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Caracterização de Materiais - UDT LACAM",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/6597447489234947",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Mila Rosendahl-Avelino",
+    "email_institucional": "Mila@UERJ.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Líder do Grupos de Pesquisa do CNPq (DGP): CEPER - Centro de Estudos e Pesquisas em Energias Renováveis; Participo dos Grupos de pesquisa do CNPq (DGP): Energia e Meio Ambiente, Nano e Microfluidica e Microssistemas e Utilização das Informações de Patentes em Projetos.",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/0853939479739439",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Norberto Mangiavacchi",
+    "email_institucional": "norberto@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Grupo de Estudos e Simulações Ambientais em Reservatórios (GESAR)",
+    "especializacao_tecnica": "CFD / Fluidodinâmica; Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/4451111077660870",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Pedro Soucasaux Pires Garcia",
+    "email_institucional": "pedro.garcia@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Fabricação Mecânica (LFM); Laboratório Multiusuário de Nanofabricação e Caracterização de Nanomateriais - NANOFAB",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/2223279882012057",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Rachel Manhães de Lucena",
+    "email_institucional": "rachel.lucena@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Grupo de Estudos e Simulações Ambientais em Reservatórios (GESAR)",
+    "especializacao_tecnica": "CFD / Fluidodinâmica; Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/9348327979369533",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Renato de Oliveira Rocha",
+    "email_institucional": "renato.mecan@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/439327894715919",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Robert Jäckel",
+    "email_institucional": "robert.jaeckel@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "CFD / Fluidodinâmica",
+    "url_fonte_validacao": "http://lattes.cnpq.br/8702041223970357",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Rodrigo Felix de Araujo Cardoso",
+    "email_institucional": "rodrigo.felix@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Fabricação Mecânica (LFM)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/4812908341887388",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Rogério Martins Saldanha da Gama",
+    "email_institucional": "rogerio.gama@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/5725634441963180",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Sady Castor Sobrinho",
+    "email_institucional": "scastor@terra.com.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://lattes.cnpq.br/4137040830782791",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Sarah Silveira Mendes",
+    "email_institucional": "mendes.sarah@uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA; Termodinâmica & Materiais",
+    "url_fonte_validacao": "http://lattes.cnpq.br/3201767059217794",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Suzana Bottega Peripolli",
+    "email_institucional": "speripolli@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA",
+    "url_fonte_validacao": "http://lattes.cnpq.br/2498487966132931",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Sérgio Barros da Cunha",
+    "email_institucional": "sergio.cunha@eng.uerj.br",
+    "setor_departamento_campus": "FEN/MECAN - Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratórios FEN/MECAN (GESAR / LAMMAC / LaCaM / LFT / LFM / LMES)",
+    "especializacao_tecnica": "Elementos Finitos / FEA; Controle, Automação & Robótica",
+    "url_fonte_validacao": "http://lattes.cnpq.br/5164363680437460",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Curso de Especialização em Aprendizagem em Matemática",
+    "email_institucional": "ppgcompmat@ime.uerj.br",
+    "setor_departamento_campus": "IME/PPG-COMPMAT - Maracanã",
+    "laboratorio_grupo_pesquisa": "PPG-COMPMAT (Modelagem Computacional, Analytics & HPC)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "https://www.ime.uerj.br/professores/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Programa de Mestrado Profissional em Matemática em Rede Nacional",
+    "email_institucional": "ppgcompmat@ime.uerj.br",
+    "setor_departamento_campus": "IME/PPG-COMPMAT - Maracanã",
+    "laboratorio_grupo_pesquisa": "PPG-COMPMAT (Modelagem Computacional, Analytics & HPC)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "https://www.ime.uerj.br/professores/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Americo Cunha Jr",
+    "email_institucional": "americo.cunha@uerj.br",
+    "setor_departamento_campus": "IME/PPG-COMPMAT / FEN - Maracanã",
+    "laboratorio_grupo_pesquisa": "LAMMAC - Laboratório de Modelagem Matemática e Computacional",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "https://www.ime.uerj.br/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Ana Cristina Fontes Moreira",
+    "email_institucional": "demat@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMAT - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "IPRJ Multidisciplinar",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Eduardo Martins Sampaio",
+    "email_institucional": "demat@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMAT - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "IPRJ Multidisciplinar",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Helson Moreira da Costa",
+    "email_institucional": "demat@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMAT - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "IPRJ Multidisciplinar",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Ivan Napoleão Bastos",
+    "email_institucional": "demat@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMAT - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Leticia dos Santos Aguilera",
+    "email_institucional": "demat@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMAT - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "IPRJ Multidisciplinar",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Luis César Rodríguez Aliaga",
+    "email_institucional": "demat@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMAT - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "IPRJ Multidisciplinar",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Marisa Cristina Guimarães Rocha",
+    "email_institucional": "demat@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMAT - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "IPRJ Multidisciplinar",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Solange Francisco do Nascimento",
+    "email_institucional": "demat@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMAT - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "IPRJ Multidisciplinar",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Verona Biancardi Aguiar",
+    "email_institucional": "demat@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMAT - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "IPRJ Multidisciplinar",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Arthur Adeodato",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Daiara Fernandes de Faria",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Damiano da Silva Militão",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Edgard Poiate Junior",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Enrique John Arias Chinga",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Jhonny Oswaldo Huertas Flores",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Joaquim Teixeira de Assis",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Joel Sanchez Dominguez",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "José Humberto Zani",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "João Flávio Vieira de Vasconcellos",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Julio Cesar Guimarães Tedesco",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Leandro de Amorim Ratamero",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Leonardo Tavares Stutz",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Leôncio Diógenes Tavares Câmara",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Livia Flavia Carletti Jatobá",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Lucas Venâncio Pires de Carvalho Lima",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Luiz Alberto da Silva Abreu",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Mayksoel Medeiros de Freitas",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Mônica Calixto de Andrade",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Otávio Goldoni Quina de Almeida",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Rafael Serra Perez",
+    "email_institucional": "demec@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DEMEC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Anderson Amendoeira Namen",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Angelo Mondaini Calvão",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Bernardo Sotto-Maior Peralva",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Camila Martins Saporetti",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Fernando Rodrigues Trindade Ferreira",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Germano Amaral Monerat",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Grazione de Souza Boy",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Guilherme de Melo Baptista Domingues",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Gustavo Barbosa Libotte",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Helio Pedro Amaral Souto",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "CFD / Fluidodinâmica; HPC / Computação de Alto Desempenho",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Hermes Alves Filho",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Leonardo Rodrigues da Costa Moraes",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Loena Marins do Couto",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Rafael Barbosa Libotte",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Ricardo Fabbri",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Roberto Pinheiro Domingos",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Rodrigo Lamblet Mafort",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Silvia Mara da Costa Campos",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Sílvia Cristina Dias Pinto",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Ursula Andrea Barbara Verdugo Rohrer",
+    "email_institucional": "dmc@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ/DMC - Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN / PPGMC / Escola de Sagres",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/docentes/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  },
+  {
+    "nome_completo": "Marinilza Bruno de Carvalho",
+    "email_institucional": "inovuerj@uerj.br",
+    "setor_departamento_campus": "InovUerj / DEPINOVA PR2 - Maracanã",
+    "laboratorio_grupo_pesquisa": "Diretoria de Inovação UERJ (InovUerj / DEPINOVA)",
+    "especializacao_tecnica": "Engenharia & Modelagem Computacional Generalista",
+    "url_fonte_validacao": "https://www.pr2.uerj.br/",
+    "status_validacao": "VERIFICADO",
+    "data_acesso": "2026-09-23"
+  }
+]
