@@ -1,0 +1,742 @@
+[
+  {
+    "nome": "ANDERSON AMENDOEIRA NAMEN",
+    "email_institucional": "aanamen@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/2182469523085517",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "ANTÔNIO JOSÉ DA SILVA NETO",
+    "email_institucional": "ajsneto@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/5148738006361781",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Alexandre Sztajnberg",
+    "email_institucional": "alexszt@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/0403732822984772",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Alexandre da Costa Sena",
+    "email_institucional": "asena@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/1836363748488436",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Americo Barbosa da Cunha Junior",
+    "email_institucional": "americo@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/5659403706694491",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "BERNARDO SOTTO-MAIOR PERALVA",
+    "email_institucional": "bernardo@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/4425322010752919",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "CAMILA MARTINS SAPORETTI",
+    "email_institucional": "camila.saporetti@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/4862105931908699",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Carlos Alberto de Almeida",
+    "email_institucional": "calmeida@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / MECAN - Departamento de Engenharia Mecânica",
+    "laboratorio_grupo": "LMES - Laboratório de Mecânica de Estruturas e Sólidos",
+    "especializacao_tecnica": "Métodos Numéricos / Elementos Finitos (FEA) | Mecânica dos Sólidos",
+    "fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Carlos Antonio de Moura",
+    "email_institucional": "demoura@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/7810980300080088",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Carlos Francisco Simões Gomes",
+    "email_institucional": "cfsg1@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / DEPRO - Departamento de Engenharia de Produção",
+    "laboratorio_grupo": "Laboratório de Pesquisa Operacional e Apoio à Decisão (DEPRO)",
+    "especializacao_tecnica": "Otimização Industrial e Pesquisa Operacional",
+    "fonte_validacao": "https://www.eng.uerj.br/alocadepto/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Carlos Frederico Fragoso de Barros e Vasconcellos",
+    "email_institucional": "cfredvasc@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/3909390599449995",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Cristiana Bentes",
+    "email_institucional": "cris@eng.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/5522815415073059",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Cristiane Oliveira de Faria",
+    "email_institucional": "cofaria@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/1183201737914250",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "DAIARA FERNANDES DE FARIA",
+    "email_institucional": "daiara@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/9401814864083219",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "DIEGO CAMPOS KNUPP",
+    "email_institucional": "diegoknupp@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/1743826010794846",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Daniel J. N. M. Chalhub",
+    "email_institucional": "daniel.chalhub@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / MECAN - Departamento de Engenharia Mecânica / FABLAB / PPGEM",
+    "laboratorio_grupo": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais",
+    "especializacao_tecnica": "CFD / Simulação de Fluidos e Termofluidodinâmica | Manufatura Avançada, Materiais e Polímeros",
+    "fonte_validacao": "https://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Validado via Portal Oficial GESAR/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Diana Sasaki Nobrega",
+    "email_institucional": "diana.sasaki@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/3041110572471417",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Eveline A. S. B. Frazão",
+    "email_institucional": "eveline@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / DEQ - Departamento de Engenharia Química",
+    "laboratorio_grupo": "LMMC - Modelagem Molecular e Computacional",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados | Modelagem Molecular",
+    "fonte_validacao": "https://www.eng.uerj.br/alocadepto/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "FERNANDO CARVALHO DA SILVA Prof. Colaborador",
+    "email_institucional": "fernando@con.ufrj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/0229734734009338",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Fabiano de Souza Oliveira",
+    "email_institucional": "fabiano.oliveira@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/7554024807062103",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Fabio Barboza Passos",
+    "email_institucional": "fbpassos@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / DEQ - Departamento de Engenharia Química",
+    "laboratorio_grupo": "LaFIT - Fenômenos Interfaciais e Termodinâmica",
+    "especializacao_tecnica": "CFD / Simulação de Fluidos e Termofluidodinâmica | Termodinâmica Química",
+    "fonte_validacao": "https://www.eng.uerj.br/alocadepto/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "GERMANO AMARAL MONERAT",
+    "email_institucional": "monerat@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/5031014907752547",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "GRAZIONE DE SOUZA BOY",
+    "email_institucional": "gsouza@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/7987813860992687",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "GUSTAVO BARBOSA LIBOTTE",
+    "email_institucional": "gustavolibotte@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/1939530661449967",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Gerson Pech",
+    "email_institucional": "pech@uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/5958377565632407",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Gilson Alexandre Ostwald Pedro da Costa",
+    "email_institucional": "gilson.costa@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/1321820478036793",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Gisele de Lorena Diniz Chaves",
+    "email_institucional": "gisele.chaves@fat.uerj.br",
+    "setor_departamento": "FAT - Faculdade de Tecnologia (Campus Resende) / DENP - Departamento de Engenharia de Produção",
+    "laboratorio_grupo": "Laboratório de Gestão Industrial e Processos",
+    "especializacao_tecnica": "Otimização Industrial e Pesquisa Operacional | Engenharia de Produção",
+    "fonte_validacao": "https://www.fat.uerj.br/noticias/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Guilherme Borsa Fuzaro",
+    "email_institucional": "fuzaro@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / MECAN - Departamento de Engenharia Mecânica",
+    "laboratorio_grupo": "LAMMAC - Laboratório de Modelagem Matemática e Computacional",
+    "especializacao_tecnica": "Vibrações, Acústica e Dinâmica Veicular | Métodos Numéricos / Elementos Finitos (FEA)",
+    "fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Guilherme Lucio Abelha Mota",
+    "email_institucional": "guimota@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/4657870977403568",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "HELIO MIGON Prof. Visitante",
+    "email_institucional": "migon@ufrj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/7997248190492823",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "HELIO PEDRO AMARAL SOUTO",
+    "email_institucional": "helio@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/1999072996132654",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "HERMES ALVES FILHO",
+    "email_institucional": "halves@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/8509299951934973",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Helder Gomes Costa",
+    "email_institucional": "hcosta@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / DEPRO - Departamento de Engenharia de Produção",
+    "laboratorio_grupo": "Laboratório de Gestão da Produção e Logística",
+    "especializacao_tecnica": "Otimização Industrial e Pesquisa Operacional | Cadeia de Suprimentos",
+    "fonte_validacao": "https://www.eng.uerj.br/alocadepto/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "IVAN NAPOLEÓ BASTOS",
+    "email_institucional": "inbastos@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/6725653281197187",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Igor Machado Coelho",
+    "email_institucional": "igor.machado@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/5298061910591710",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Israel Felzenszwalb",
+    "email_institucional": "inovuerj@sr2.uerj.br",
+    "setor_departamento": "PR2 - Pró-Reitoria de Pós-Graduação e Pesquisa / DIRPI - Diretoria de Pesquisa e Inovação",
+    "laboratorio_grupo": "InovUerj / DEPINOVA - Departamento de Inovação",
+    "especializacao_tecnica": "Gestão de Inovação, Propriedade Intelectual e Transferência Tecnológica",
+    "fonte_validacao": "https://www.pr2.uerj.br/?page_id=250",
+    "status_validacao": "Validado via Portal Oficial PR2 / InovUerj",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "JOAQUIM TEIXEIRA DE ASSIS",
+    "email_institucional": "joaquim@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/7307238902576135",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "JOEL SÁNCHEZ DOMÍNGUEZ",
+    "email_institucional": "jsdominguez@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/8822296976490321",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "JULIO CESAR GUIMARÃES TEDESCO",
+    "email_institucional": "tedesco@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "https://lattes.cnpq.br/8073005004386152",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Jayme Luiz Szwarcfiter",
+    "email_institucional": "jayme@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/2002515486942024",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "José da Rocha Miranda Pontes",
+    "email_institucional": "jose.pontes@uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / MECAN - Departamento de Engenharia Mecânica / PPGEM",
+    "laboratorio_grupo": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais",
+    "especializacao_tecnica": "CFD / Simulação de Fluidos e Termofluidodinâmica",
+    "fonte_validacao": "https://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Validado via Portal Oficial GESAR/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Karla Tereza Figueiredo Leite",
+    "email_institucional": "karlafigueiredo@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/2076970816486817",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "LEONARDO RODRIGUES DA COSTA MORAES",
+    "email_institucional": "lrcmoraes@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/0059284776766872",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "LEONARDO TAVARES STUTZ",
+    "email_institucional": "ltstuz@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/1627016864213973",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "LUIZ ALBERTO DA SILVA ABREU",
+    "email_institucional": "luiz.abreu@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/2157391120883842",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Lisandro Lovisolo",
+    "email_institucional": "lisandro@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / DEEL - Departamento de Engenharia Eletrônica e Telecomunicações",
+    "laboratorio_grupo": "Laboratório de Processamento de Sinais e Telecomunicações",
+    "especializacao_tecnica": "Inteligência Artificial, Analytics e HPC | Processamento de Sinais",
+    "fonte_validacao": "https://www.eng.uerj.br/alocadepto/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Luciano Rodrigues Ornelas de Lima",
+    "email_institucional": "luciano@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / PGECIV - Programa de Pós-Graduação em Engenharia Civil",
+    "laboratorio_grupo": "LMES - Laboratório de Mecânica de Estruturas e Sólidos",
+    "especializacao_tecnica": "Métodos Numéricos / Elementos Finitos (FEA) | Análise Estrutural",
+    "fonte_validacao": "https://www.eng.uerj.br/deptos/producaogeral.php",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Luerbio Faria",
+    "email_institucional": "luerbio@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/3965328361563422",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Luis Cristóvão de Moraes Sobrino Pôrto",
+    "email_institucional": "luis.cristovaoporto@gmail.com",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/8153025668900773",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Luiz Carlos da Silva Nunes",
+    "email_institucional": "luiz.nunes@fat.uerj.br",
+    "setor_departamento": "FAT - Faculdade de Tecnologia (Campus Resende) / DEQA - Departamento de Química e Ambiental",
+    "laboratorio_grupo": "Laboratório de Polímeros e Compósitos",
+    "especializacao_tecnica": "Manufatura Avançada, Materiais e Polímeros",
+    "fonte_validacao": "https://www.fat.uerj.br/noticias/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Luís Fernando Alves Rodrigues",
+    "email_institucional": "luis.rodrigues@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / MECAN - Departamento de Engenharia Mecânica",
+    "laboratorio_grupo": "LFM - Laboratório de Fluidos e Motores",
+    "especializacao_tecnica": "CFD / Simulação de Fluidos e Termofluidodinâmica | Motores de Combustão Interna",
+    "fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Marcelo Schots de Oliveira",
+    "email_institucional": "schots@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/8961950372465045",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Marcio Cherem Schenkman",
+    "email_institucional": "mschenkman@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / DEEL - Departamento de Engenharia Eletrônica e Telecomunicações",
+    "laboratorio_grupo": "Laboratório de Sistemas de Controle e Automação (DEEL)",
+    "especializacao_tecnica": "Controle, Automação e Eletrônica de Potência",
+    "fonte_validacao": "https://www.eng.uerj.br/alocadepto/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Marcio da Silveira Carvalho",
+    "email_institucional": "mcarvalho@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / MECAN - Departamento de Engenharia Mecânica",
+    "laboratorio_grupo": "LFT - Laboratório de Fenômenos de Transporte",
+    "especializacao_tecnica": "CFD / Simulação de Fluidos e Termofluidodinâmica | Fenômenos de Transporte",
+    "fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Marcos Antônio de Mendonça",
+    "email_institucional": "mendonca@fat.uerj.br",
+    "setor_departamento": "FAT - Faculdade de Tecnologia (Campus Resende) / DME - Departamento de Mecânica e Energia",
+    "laboratorio_grupo": "Laboratório de Hidráulica, Pneumática e Motores",
+    "especializacao_tecnica": "CFD / Simulação de Fluidos e Termofluidodinâmica | Sistemas Fluidomecânicos",
+    "fonte_validacao": "https://www.fat.uerj.br/noticias/",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Marcos Fonteles Viana",
+    "email_institucional": "serad@sr2.uerj.br",
+    "setor_departamento": "PR2 - Pró-Reitoria de Pós-Graduação e Pesquisa / DEPINOVA - Departamento de Inovação",
+    "laboratorio_grupo": "InovUerj / Escritório de Propriedade Intelectual (EPI)",
+    "especializacao_tecnica": "Gestão de Inovação, Propriedade Intelectual e Transferência Tecnológica",
+    "fonte_validacao": "https://www.pr2.uerj.br/?page_id=250",
+    "status_validacao": "Validado via Portal Oficial PR2 / InovUerj",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Maria Clícia Stelling de Castro",
+    "email_institucional": "clicia@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/6348480289055660",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Mercedes de Oliveira Neto",
+    "email_institucional": "depesq@sr2.uerj.br",
+    "setor_departamento": "PR2 - Pró-Reitoria de Pós-Graduação e Pesquisa / DEPPESQ - Departamento de Pesquisa",
+    "laboratorio_grupo": "Diretoria de Pesquisa / Fomento P&D",
+    "especializacao_tecnica": "Gestão de Inovação, Propriedade Intelectual e Transferência Tecnológica",
+    "fonte_validacao": "https://www.pr2.uerj.br/?page_id=496",
+    "status_validacao": "Validado via Portal Oficial PR2 / InovUerj",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Norberto Mangiavacchi",
+    "email_institucional": "norberto@uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / MECAN - Departamento de Engenharia Mecânica / PPGEM",
+    "laboratorio_grupo": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais",
+    "especializacao_tecnica": "CFD / Simulação de Fluidos e Termofluidodinâmica",
+    "fonte_validacao": "https://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Validado via Portal Oficial GESAR/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Patricia Nunes da Silva",
+    "email_institucional": "nunes@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/6298427146323001",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Paulo Eustaquio Duarte Pinto",
+    "email_institucional": "pauloedp@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/5413422509570085",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Pedro Colmar Gonçalves da Silva Vellasco",
+    "email_institucional": "vellasco@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / PGECIV - Programa de Pós-Graduação em Engenharia Civil",
+    "laboratorio_grupo": "Laboratório de Estruturas de Aço e Mistas",
+    "especializacao_tecnica": "Métodos Numéricos / Elementos Finitos (FEA) | Otimização Estrutural",
+    "fonte_validacao": "https://www.eng.uerj.br/deptos/producaogeral.php",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "RICARDO CARVALHO DE BARROS",
+    "email_institucional": "ricardob@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/2908589410457132",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "RICARDO FABBRI",
+    "email_institucional": "rfabbri@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/5759364958802333",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "ROBERTO PINHEIRO DOMINGOS",
+    "email_institucional": "roberto.pinheiro@iprj.uerj.br",
+    "setor_departamento": "IPRJ - Instituto Politécnico (Nova Friburgo) / PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "laboratorio_grupo": "LABTRAN / Supercomputador Escola de Sagres / LME",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/0109837868064895",
+    "status_validacao": "Validado via Portal Oficial PPGMC/UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Regina Serrão Lanzillotti",
+    "email_institucional": "reginalanzillotti@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/9164335773757265",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Ricardo Carvalho de Barros",
+    "email_institucional": "dickbarros.apple@gmail.com",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/2908589410457132",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Rosa Maria Esteves Moreira da Costa",
+    "email_institucional": "rcosta@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/1829333800490851",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Roseli Suzi Wedemann",
+    "email_institucional": "roseli@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/5258150848273682",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Sérgio de Oliveira Torres",
+    "email_institucional": "storres@eng.uerj.br",
+    "setor_departamento": "FEN - Faculdade de Engenharia (Campus Maracanã) / MECAN - Departamento de Engenharia Mecânica",
+    "laboratorio_grupo": "LaCaM - Laboratório de Computação Aplicada à Engenharia Mecânica",
+    "especializacao_tecnica": "Vibrações, Acústica e Dinâmica Veicular | CAD/CAM / Modelagem Geométrica",
+    "fonte_validacao": "http://www.mecanica.uerj.br/professores.html",
+    "status_validacao": "Validado via Portal Oficial UERJ",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Valmir Carneiro Barbosa",
+    "email_institucional": "valmircbarbosa@gmail.com",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/4602221579308599",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Vera Maria Benjamim Werneck",
+    "email_institucional": "vera@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/7535348349141535",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Vinicius Layter Xavier",
+    "email_institucional": "viniciuslx@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/9683190447704675",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  },
+  {
+    "nome": "Zochil Gonzalez Arenas",
+    "email_institucional": "zochil@ime.uerj.br",
+    "setor_departamento": "IME - Instituto de Matemática e Estatística (Campus Maracanã) / PPG-COMPMAT - Pós-Graduação em Ciências Computacionais e Modelagem Matemática",
+    "laboratorio_grupo": "Laboratório de Computação Científica e Métodos Numéricos (IME)",
+    "especializacao_tecnica": "Simulação, Modelagem Computacional e Métodos Numéricos Aplicados",
+    "fonte_validacao": "http://lattes.cnpq.br/3177810629678519",
+    "status_validacao": "Validado via Portal Oficial IME PPG-COMPMAT",
+    "data_acesso": "2026-09-24"
+  }
+]
