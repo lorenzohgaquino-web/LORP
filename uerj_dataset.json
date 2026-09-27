@@ -1,0 +1,262 @@
+[
+  {
+    "nome_completo": "Luiz Fernando Guimarães Pires",
+    "email_institucional": "luiz.pires@eng.uerj.br",
+    "setor_departamento_campus": "FEN / MECAN - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Fenômenos de Transporte (LFT) / LFM",
+    "especializacao_tecnica": "CFD / Termofluidodinâmica Computacional | Fenômenos de Transporte | Simulação de Escoamentos",
+    "url_fonte_validacao": "http://www.eng.uerj.br/mecan",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Norberto Mangiavacchi",
+    "email_institucional": "norberto.mangiavacchi@gesar.uerj.br",
+    "setor_departamento_campus": "FEN / MECAN - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "GESAR (Grupo de Simulação em Engenharia e Ciências Ambientais) / LaCaM",
+    "especializacao_tecnica": "CFD / Termofluidodinâmica Computacional | Métodos Numéricos | Gêmeos Digitais",
+    "url_fonte_validacao": "http://www.gesar.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Gustavo Rabello dos Anjos",
+    "email_institucional": "gustavo.anjos@gesar.uerj.br",
+    "setor_departamento_campus": "FEN / MECAN - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "GESAR (Grupo de Simulação em Engenharia e Ciências Ambientais) / LaCaM",
+    "especializacao_tecnica": "CFD / Termofluidodinâmica Computacional | Escoamentos Multifásicos | Método dos Elementos Finitos",
+    "url_fonte_validacao": "http://www.gesar.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "José da Rocha Miranda Pontes",
+    "email_institucional": "jrocha@eng.uerj.br",
+    "setor_departamento_campus": "FEN / MECAN - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Mecânica dos Fluidos e Transferência de Calor",
+    "especializacao_tecnica": "Termofluidodinâmica e Fenômenos de Transporte | Transferência de Calor | Métodos Espectrais",
+    "url_fonte_validacao": "http://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Carlos Alberto de Almeida",
+    "email_institucional": "calmeida@eng.uerj.br",
+    "setor_departamento_campus": "FEN / MECAN - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+    "especializacao_tecnica": "Elementos Finitos e Análise Estrutural | Mecânica dos Sólidos | Análise Não-Linear",
+    "url_fonte_validacao": "http://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Lisandro Lovisolo",
+    "email_institucional": "lisandro@eng.uerj.br",
+    "setor_departamento_campus": "FEN / DEEL - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Processamento de Sinais e Sistemas de Controle",
+    "especializacao_tecnica": "Sistemas de Controle, Automação e Robótica | Processamento de Sinais | Automação Industrial",
+    "url_fonte_validacao": "http://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Maurício Aredes",
+    "email_institucional": "aredes@eng.uerj.br",
+    "setor_departamento_campus": "FEN / DEEL - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Eletrônica de Potência e Qualidade de Energia",
+    "especializacao_tecnica": "Sistemas de Controle, Automação e Robótica | Eletrônica de Potência | Simulação de Redes Elétricas",
+    "url_fonte_validacao": "http://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Helder Gomes Costa",
+    "email_institucional": "helder.costa@eng.uerj.br",
+    "setor_departamento_campus": "FEN / DEPRO - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Pesquisa Operacional e Apoio à Decisão",
+    "especializacao_tecnica": "Otimização de Processos e Pesquisa Operacional | Análise Multicritério | Logística Industrial",
+    "url_fonte_validacao": "http://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Carlos Francisco Simões Gomes",
+    "email_institucional": "cfsg13@eng.uerj.br",
+    "setor_departamento_campus": "FEN / DEPRO - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Otimização e Engenharia de Processos",
+    "especializacao_tecnica": "Otimização de Processos e Pesquisa Operacional | Simulação Discreta | Gestão da Produção",
+    "url_fonte_validacao": "http://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Mônica Regina da Costa Marques",
+    "email_institucional": "monica.marques@eng.uerj.br",
+    "setor_departamento_campus": "FEN / DEQ - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "LaFIT (Fenômenos Interfaciais e Termodinâmica) / LMMC",
+    "especializacao_tecnica": "Termofluidodinâmica e Fenômenos de Transporte | Termodinâmica Química | Simulação de Reatores",
+    "url_fonte_validacao": "http://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Fatima Maria Zanon Zotin",
+    "email_institucional": "zotin@eng.uerj.br",
+    "setor_departamento_campus": "FEN / DEQ - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Catálise e Engenharia de Reatores",
+    "especializacao_tecnica": "Manufatura e Engenharia de Materiais | Catálise Aplicada | Modelagem de Reatores Químicos",
+    "url_fonte_validacao": "http://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "José Guilherme Santos da Silva",
+    "email_institucional": "jgss@eng.uerj.br",
+    "setor_departamento_campus": "FEN / Engenharia Civil - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Estruturas e Análise Numérica",
+    "especializacao_tecnica": "Elementos Finitos e Análise Estrutural | Vibrações, Acústica e Dinâmica | Dinâmica de Estruturas",
+    "url_fonte_validacao": "http://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Luciano Rodrigues Ornelas de Lima",
+    "email_institucional": "luciano.lima@eng.uerj.br",
+    "setor_departamento_campus": "FEN / Engenharia Civil - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Mecânica Computacional e Estruturas Metálicas",
+    "especializacao_tecnica": "Elementos Finitos e Análise Estrutural | Estruturas Mistas e Aço | Métodos Numéricos",
+    "url_fonte_validacao": "http://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Americo Cunha Jr",
+    "email_institucional": "americo.cunha@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ / PPGMC - Campus Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Dinâmica Estocástica e Não-Linear",
+    "especializacao_tecnica": "Vibrações, Acústica e Dinâmica | Computação de Alto Desempenho (HPC) | Incertezas e Modelagem Computacional",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Antônio José da Silva Neto",
+    "email_institucional": "ajsneto@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ / PPGMC - Campus Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "LABTRAN (Laboratório de Modelagem Multiescala e Transporte de Partículas) / Supercomputador Escola de Sagres",
+    "especializacao_tecnica": "CFD / Termofluidodinâmica Computacional | Problemas Inversos | Computação de Alto Desempenho (HPC)",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "José Alberto Nicolau de Oliveira",
+    "email_institucional": "jose.nicolau@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ / DEMEC - Campus Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Fenômenos de Transporte e Reologia",
+    "especializacao_tecnica": "CFD / Termofluidodinâmica Computacional | Reologia | Escoamento em Meios Porosos",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Fernando Ribeiro da Silva",
+    "email_institucional": "fernando.silva@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ / DMC - Campus Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Computação Científica e Métodos Numéricos",
+    "especializacao_tecnica": "Computação de Alto Desempenho (HPC) | Métodos Numéricos | Modelagem Numérica",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Pedro Paulo Gomes Werneck",
+    "email_institucional": "pedro.werneck@iprj.uerj.br",
+    "setor_departamento_campus": "IPRJ / DEMAT - Campus Nova Friburgo",
+    "laboratorio_grupo_pesquisa": "Laboratório de Materiais Avançados e Ensaios Mecânicos",
+    "especializacao_tecnica": "Manufatura e Engenharia de Materiais | Caracterização Mecânica | Compósitos",
+    "url_fonte_validacao": "http://www.iprj.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Luiz Antonio Alcântara Pereira",
+    "email_institucional": "luiz.alcantara@fat.uerj.br",
+    "setor_departamento_campus": "FAT / DME - Campus Resende",
+    "laboratorio_grupo_pesquisa": "Laboratório de Hidráulica, Pneumática e Motores / Dinâmica dos Fluidos",
+    "especializacao_tecnica": "CFD / Termofluidodinâmica Computacional | Método dos Vórtices | Sistemas Hidráulicos e Pneumáticos",
+    "url_fonte_validacao": "http://www.fat.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Marcos Antônio da Silva",
+    "email_institucional": "marcos.silva@fat.uerj.br",
+    "setor_departamento_campus": "FAT / DME - Campus Resende",
+    "laboratorio_grupo_pesquisa": "Laboratório de Polímeros, Compósitos e Materiais Industrializados",
+    "especializacao_tecnica": "Manufatura e Engenharia de Materiais | Polímeros e Compósitos | Processos de Fabricação",
+    "url_fonte_validacao": "http://www.fat.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Valéria Dutra Ramos",
+    "email_institucional": "valeria.ramos@fat.uerj.br",
+    "setor_departamento_campus": "FAT / DEQA - Campus Resende",
+    "laboratorio_grupo_pesquisa": "Laboratório de Processamento de Materiais e Polímeros",
+    "especializacao_tecnica": "Manufatura e Engenharia de Materiais | Processamento de Polímeros | Reologia Industrial",
+    "url_fonte_validacao": "http://www.fat.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Jorge Carlos Ferreira Jorge",
+    "email_institucional": "jorge.jorge@fat.uerj.br",
+    "setor_departamento_campus": "FAT / DENP - Campus Resende",
+    "laboratorio_grupo_pesquisa": "Laboratório de Metalurgia e Processos de Soldagem",
+    "especializacao_tecnica": "Manufatura e Engenharia de Materiais | Soldagem Industrial | Integridade Estrutural",
+    "url_fonte_validacao": "http://www.fat.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Gustavo Benitez Alvarez",
+    "email_institucional": "gustavo.alvarez@ime.uerj.br",
+    "setor_departamento_campus": "IME / PPG-COMPMAT - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Ciências Computacionais e Analytics",
+    "especializacao_tecnica": "Inteligência Artificial e Data Science | Métodos Numéricos | Computação de Alto Desempenho (HPC)",
+    "url_fonte_validacao": "http://www.ime.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Alexandre Gonçalves Evsukoff",
+    "email_institucional": "evsukoff@ime.uerj.br",
+    "setor_departamento_campus": "IME / PPG-COMPMAT - Campus Maracanã",
+    "laboratorio_grupo_pesquisa": "Laboratório de Modelagem Matemática e Inteligência Computacional",
+    "especializacao_tecnica": "Inteligência Artificial e Data Science | Aprendizado de Máquina | Analytics Aplicado à Engenharia",
+    "url_fonte_validacao": "http://www.ime.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Marinilza Bruno de Carvalho",
+    "email_institucional": "inovuerj@uerj.br",
+    "setor_departamento_campus": "InovUerj / DEPINOVA PR2 - Reitoria",
+    "laboratorio_grupo_pesquisa": "Diretoria de Inovação / Escritório de Propriedade Intelectual (EPI)",
+    "especializacao_tecnica": "Gestão de Inovação e Propriedade Intelectual | Transferência de Tecnologia | Parcerias Universidade-Empresa",
+    "url_fonte_validacao": "http://www.pr2.uerj.br/inovuerj",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  },
+  {
+    "nome_completo": "Egberto Gaspar de Moura",
+    "email_institucional": "depinova@pr2.uerj.br",
+    "setor_departamento_campus": "InovUerj / DEPINOVA PR2 - Reitoria",
+    "laboratorio_grupo_pesquisa": "DEPINOVA / Pró-Reitoria de Pós-Graduação e Pesquisa",
+    "especializacao_tecnica": "Gestão de Inovação e Propriedade Intelectual | Gestão de Projetos de P&D | Relações Institucionais",
+    "url_fonte_validacao": "http://www.pr2.uerj.br/",
+    "status_validacao": "Verificado (Portal Oficial / Lattes)",
+    "data_acesso": "2026-09-27"
+  }
+]
