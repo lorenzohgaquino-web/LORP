@@ -1,0 +1,372 @@
+[
+  {
+    "nome": "Norberto Mangiavacchi",
+    "email": "norberto@uerj.br",
+    "setor": "FEN / MECAN - Maracanã",
+    "lab_grupo": "GESAR - Grupo de Simulação em Engenharia e Ciências Ambientais",
+    "especializacao": "CFD & Termofluidodinâmica | Simulação Numérica | Métodos Numéricos",
+    "fonte_url": "http://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Verificado (Portal Oficial GESAR / FEN)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "José da Rocha Miranda Pontes",
+    "email": "jose.pontes@uerj.br",
+    "setor": "FEN / MECAN - Maracanã",
+    "lab_grupo": "GESAR / LFT - Fenômenos de Transporte",
+    "especializacao": "CFD & Termofluidodinâmica | Fenômenos de Transporte | Escoamento Convectivo",
+    "fonte_url": "http://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Verificado (Portal Oficial GESAR / FEN)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Daniel Chalhub",
+    "email": "daniel.chalhub@eng.uerj.br",
+    "setor": "FEN / MECAN - Maracanã",
+    "lab_grupo": "GESAR / LFM - Fluidos e Motores",
+    "especializacao": "CFD & Termofluidodinâmica | Análise Térmica | Simulação de Motores",
+    "fonte_url": "http://www.gesar.uerj.br/equipe/equipe-gesar.html",
+    "status_validacao": "Verificado (Portal Oficial GESAR / FEN)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Secretaria MECAN FEN",
+    "email": "mecan@eng.uerj.br",
+    "setor": "FEN / MECAN - Maracanã",
+    "lab_grupo": "Departamento de Engenharia Mecânica",
+    "especializacao": "Mecânica dos Sólidos | Térmica e Fluidos | Vibrações e Acústica",
+    "fonte_url": "https://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Contato Institucional Secretaria FEN)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Secretaria DEEL FEN",
+    "email": "deel@eng.uerj.br",
+    "setor": "FEN / DEEL - Maracanã",
+    "lab_grupo": "Departamento de Engenharia Eletrônica e Telecomunicações",
+    "especializacao": "Sistemas de Controle & Automação | Eletrônica de Potência | Robótica",
+    "fonte_url": "https://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Contato Institucional Secretaria FEN)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Secretaria DEPRO FEN",
+    "email": "depro@eng.uerj.br",
+    "setor": "FEN / DEPRO - Maracanã",
+    "lab_grupo": "Departamento de Engenharia de Produção",
+    "especializacao": "Otimização de Processos | Pesquisa Operacional | Logística",
+    "fonte_url": "https://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Contato Institucional Secretaria FEN)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Secretaria DEQ FEN",
+    "email": "deq@eng.uerj.br",
+    "setor": "FEN / DEQ - Maracanã",
+    "lab_grupo": "Departamento de Engenharia Química",
+    "especializacao": "Termodinâmica | Processos Químicos | Simulação de Reatores",
+    "fonte_url": "https://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Contato Institucional Secretaria FEN)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Secretaria Engenharia Civil FEN",
+    "email": "civil@eng.uerj.br",
+    "setor": "FEN / Civil - Maracanã",
+    "lab_grupo": "Departamento de Engenharia Civil / LMES - Mecânica de Estruturas",
+    "especializacao": "Elementos Finitos & Análise Estrutural | Métodos Numéricos | Mecânica dos Sólidos",
+    "fonte_url": "https://www.eng.uerj.br/",
+    "status_validacao": "Verificado (Contato Institucional Secretaria FEN)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Alexandre Soares",
+    "email": "alexandre.soares@ime.uerj.br",
+    "setor": "IME / CTC Maracanã",
+    "lab_grupo": "PPG-COMPMAT - Ciências Computacionais e Modelagem Matemática",
+    "especializacao": "Modelagem Computacional & HPC | Análise Numérica | Otimização",
+    "fonte_url": "https://www.ime.uerj.br/professores/",
+    "status_validacao": "Verificado (Portal Oficial IME)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Secretaria PPG-COMPMAT / IME",
+    "email": "secime@ime.uerj.br",
+    "setor": "IME / CTC Maracanã",
+    "lab_grupo": "PPG-COMPMAT / Instituto de Matemática e Estatística",
+    "especializacao": "Modelagem Computacional & HPC | Inteligência Artificial | Métodos Numéricos",
+    "fonte_url": "https://www.ime.uerj.br/pos-graduacao/",
+    "status_validacao": "Verificado (Portal Oficial IME)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Secretaria FAT Resende",
+    "email": "secretaria@fat.uerj.br",
+    "setor": "FAT - Resende",
+    "lab_grupo": "DME / DENP / DEQA - Faculdade de Tecnologia",
+    "especializacao": "Manufatura Aditiva & Materiais | Polímeros & Compósitos | Hidráulica e Pneumática",
+    "fonte_url": "https://www.fat.uerj.br/grupos-de-pesquisa-no-cnpq/",
+    "status_validacao": "Verificado (Portal Oficial FAT Resende)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Diretoria de Inovação - InovUerj",
+    "email": "inovuerj@uerj.br",
+    "setor": "PR2 / InovUerj - Diretoria de Inovação",
+    "lab_grupo": "DEPINOVA - Departamento de Inovação / Escritório de Propriedade Intelectual",
+    "especializacao": "Inovação & Transferência de Tecnologia | Propriedade Intelectual | Parcerias Universidades-Empresas",
+    "fonte_url": "https://www.ime.uerj.br/eventos/12o-workshop-de-empreendedorismo-e-inovacao/",
+    "status_validacao": "Verificado (Diretoria Institucional de Inovação UERJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Leonardo Rodrigues da Costa Moraes",
+    "email": "lrcmoraes@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Germano Monerat",
+    "email": "monerat@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Grazione de Souza Boy",
+    "email": "gsouza@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Diego Campos Knupp",
+    "email": "diegoknupp@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Bernardo Sotto-Maior Peralva",
+    "email": "bernardo@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Gustavo Barbosa Libotte",
+    "email": "gustavolibotte@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Joel Sánchez Domínguez",
+    "email": "jsdominguez@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Leonardo Tavares Stutz",
+    "email": "ltstuz@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Hélio Pedro Amaral Souto",
+    "email": "helio@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Camila Martins Saporetti",
+    "email": "camila.saporetti@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Anderson Amendoeira Namen",
+    "email": "aanamen@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Júlio Cesar Guimarães Tedesco",
+    "email": "tedesco@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Luiz Alberto da Silva Abreu",
+    "email": "luiz.abreu@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ricardo Fabbri",
+    "email": "rfabbri@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Daiara Fernandes de Faria",
+    "email": "daiara@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ricardo Carvalho de Barros",
+    "email": "ricardob@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Roberto Pinheiro Domingos",
+    "email": "roberto.pinheiro@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Antônio José da Silva Neto",
+    "email": "ajsneto@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Hermes Alves Filho",
+    "email": "halves@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Ivan Napoleão Bastos",
+    "email": "inbastos@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Joaquim Teixeira de Assis",
+    "email": "joaquim@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "PPGMC - Programa de Pós-Graduação em Modelagem Computacional",
+    "especializacao": "CFD & Termofluidodinâmica | Elementos Finitos & Análise Estrutural | Modelagem Computacional & HPC",
+    "fonte_url": "https://www.ppgmc.uerj.br/docentes/",
+    "status_validacao": "Verificado (Portal Oficial PPGMC IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Secretaria / Chefia DMCC",
+    "email": "dmcc@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "Departamentos IPRJ Nova Friburgo",
+    "especializacao": "Modelagem Computacional & HPC",
+    "fonte_url": "https://www.iprj.uerj.br/departamentos/",
+    "status_validacao": "Verificado (Portal Oficial IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Secretaria / Chefia DMC-CHEFIA",
+    "email": "dmc-chefia@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "Departamentos IPRJ Nova Friburgo",
+    "especializacao": "Modelagem Computacional & HPC",
+    "fonte_url": "https://www.iprj.uerj.br/departamentos/",
+    "status_validacao": "Verificado (Portal Oficial IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Secretaria / Chefia DEMECC",
+    "email": "demecc@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "Departamentos IPRJ Nova Friburgo",
+    "especializacao": "Modelagem Computacional & HPC",
+    "fonte_url": "https://www.iprj.uerj.br/departamentos/",
+    "status_validacao": "Verificado (Portal Oficial IPRJ)",
+    "data_acesso": "2026-03-30"
+  },
+  {
+    "nome": "Secretaria / Chefia DEMATC",
+    "email": "dematc@iprj.uerj.br",
+    "setor": "IPRJ - Nova Friburgo",
+    "lab_grupo": "Departamentos IPRJ Nova Friburgo",
+    "especializacao": "Modelagem Computacional & HPC",
+    "fonte_url": "https://www.iprj.uerj.br/departamentos/",
+    "status_validacao": "Verificado (Portal Oficial IPRJ)",
+    "data_acesso": "2026-03-30"
+  }
+]
