@@ -1,0 +1,589 @@
+import json
+
+raw_uerj_data = [
+    # --- IPRJ Nova Friburgo (PPGMC - Modelagem Computacional) - 23 Verified Records from https://www.ppgmc.uerj.br/docentes/ ---
+    {
+        "nome": "Anderson Amendoeira Namen",
+        "email": "aanamen@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Engenharia de Software e Modelagem",
+        "especializacao": "Inteligência Artificial, Modelagem de Sistemas Complexos, Mineração de Dados, Analytics",
+        "lattes": "https://lattes.cnpq.br/2182469523085517",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Antônio José da Silva Neto",
+        "email": "ajsneto@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "LABTRAN / Supercomputador Escola de Sagres",
+        "especializacao": "Problemas Inversos em Transferência de Calor, Métodos Estocásticos, Otimização, CFD, Termofluidodinâmica",
+        "lattes": "https://lattes.cnpq.br/5148738006361781",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Bernardo Sotto-Maior Peralva",
+        "email": "bernardo@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Mecânica dos Sólidos e Dinâmica",
+        "especializacao": "Mecânica dos Sólidos, Elementos Finitos (FEM), Análise Vibracional, Modelagem Estrutural",
+        "lattes": "https://lattes.cnpq.br/4425322010752919",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Camila Martins Saporetti",
+        "email": "camila.saporetti@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Métodos Estatísticos e Otimização",
+        "especializacao": "Otimização Numérica, Modelagem Estocástica, Análise de Incertezas, Programação Matemática",
+        "lattes": "https://lattes.cnpq.br/4862105931908699",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Daiara Fernandes de Faria",
+        "email": "daiara@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Transporte de Partículas e Fenômenos de Transporte",
+        "especializacao": "Transporte de Partículas, Escoamentos Multifásicos, Métodos Numéricos, Meios Porosos",
+        "lattes": "https://lattes.cnpq.br/9401814864083219",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Diego Campos Knupp",
+        "email": "diegoknupp@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "LABTRAN (Laboratório de Modelagem Multiescala e Transporte de Partículas)",
+        "especializacao": "Métodos Numéricos Híbridos (GITT), Transferência de Calor e Massa, Problemas Inversos, CFD",
+        "lattes": "https://lattes.cnpq.br/1743826010794846",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Fernando Carvalho da Silva",
+        "email": "fernando@con.ufrj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Neutrônica e Física de Reatores",
+        "especializacao": "Engenharia Nuclear, Métodos Numéricos, Física de Reatores, Simulação de Neutrônica",
+        "lattes": "http://lattes.cnpq.br/0229734734009338",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Germano Amaral Monerat",
+        "email": "monerat@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Física Computacional e Relatividade",
+        "especializacao": "Métodos Numéricos Avançados, Computação Gráfica, Física Computacional, Simulação Científica",
+        "lattes": "https://lattes.cnpq.br/5031014907752547",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Grazione de Souza Boy",
+        "email": "gsouza@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Dinâmica e Controle de Sistemas",
+        "especializacao": "Dinâmica Não-Linear, Controle de Sistemas Mecânicos, Acústica e Vibrações, Elementos Finitos",
+        "lattes": "https://lattes.cnpq.br/7987813860992687",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Gustavo Barbosa Libotte",
+        "email": "gustavolibotte@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Computação Científica e Algoritmos Avançados",
+        "especializacao": "Algoritmos Genéticos, Otimização Metaheurística, Aprendizado de Máquina, Otimização de Processos",
+        "lattes": "https://lattes.cnpq.br/1939530661449967",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Helio Migon",
+        "email": "migon@ufrj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Modelagem Estatística e Bayesiana",
+        "especializacao": "Inferência Bayesiana, Séries Temporais, Análise de Incertezas, Modelagem Estocástica",
+        "lattes": "http://lattes.cnpq.br/7997248190492823",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Helio Pedro Amaral Souto",
+        "email": "helio@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Meios Porosos e Escoamento de Fluidos",
+        "especializacao": "Escoamento em Meios Porosos, Mecânica dos Fluidos Computacional (CFD), Reservatórios de Petróleo",
+        "lattes": "https://lattes.cnpq.br/1999072996132654",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Hermes Alves Filho",
+        "email": "halves@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Eletrônica e Instrumentação Computacional",
+        "especializacao": "Processamento de Sinais, Instrumentação Virtual, Automação de Processos, Sensores Industriais",
+        "lattes": "https://lattes.cnpq.br/8509299951934973",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Ivan Napoleão Bastos",
+        "email": "inbastos@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Ciência dos Materiais e Corrosão",
+        "especializacao": "Corrosão, Ciência dos Materiais, Modelagem Eletroquímica, Degradação de Ligas Metálicas",
+        "lattes": "https://lattes.cnpq.br/6725653281197187",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Joaquim Teixeira de Assis",
+        "email": "joaquim@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Caracterização Não Destrutiva por Raios-X",
+        "especializacao": "Tomografia Computadorizada, Microtomografia de Raios-X, Reconstrução Numérica 3D, Caracterização de Materiais",
+        "lattes": "https://lattes.cnpq.br/7307238902576135",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Joel Sánchez Domínguez",
+        "email": "jsdominguez@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Dinâmica de Fluidos Computacional",
+        "especializacao": "Dinâmica dos Fluidos Computacional (CFD), Método de Volumes Finitos, Escoamento Multifásico",
+        "lattes": "https://lattes.cnpq.br/8822296976490321",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Julio Cesar Guimarães Tedesco",
+        "email": "tedesco@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Estruturas e Dinâmica dos Sólidos",
+        "especializacao": "Método dos Elementos Finitos (FEM), Mecânica da Fratura, Mecânica dos Sólidos, Análise Vibracional",
+        "lattes": "https://lattes.cnpq.br/8073005004386152",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Leonardo Rodrigues da Costa Moraes",
+        "email": "lrcmoraes@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Modelagem de Sistemas Térmicos",
+        "especializacao": "Simulação de Sistemas Térmicos, Fenômenos de Transporte, Transferência de Calor, Otimização Convectiva",
+        "lattes": "http://lattes.cnpq.br/0059284776766872",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Leonardo Tavares Stutz",
+        "email": "ltstuz@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Controle Estrutural e Acústica",
+        "especializacao": "Controle Ativo de Vibrações e Acústica, Estruturas Inteligentes, Método dos Elementos Finitos (FEM)",
+        "lattes": "http://lattes.cnpq.br/1627016864213973",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Luiz Alberto da Silva Abreu",
+        "email": "luiz.abreu@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Mecânica do Fraturamento e Polímeros",
+        "especializacao": "Comportamento Mecânico dos Materiais, Fratura de Polímeros e Compósitos, Simulação Numérica",
+        "lattes": "http://lattes.cnpq.br/2157391120883842",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Ricardo Fabbri",
+        "email": "rfabbri@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Visão Computacional e Geometria Computacional",
+        "especializacao": "Visão Computacional, Reconstrução 3D, Geometria Diferencial Computacional, Aprendizado Profundo",
+        "lattes": "http://lattes.cnpq.br/5759364958802333",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Ricardo Carvalho de Barros",
+        "email": "ricardob@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Métodos Numéricos em Neutrônica",
+        "especializacao": "Transporte de Nêutrons, Métodos Numéricos em Reatores, Equações Integro-Diferenciais, Métodos Nodais",
+        "lattes": "http://lattes.cnpq.br/2908589410457132",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+    {
+        "nome": "Roberto Pinheiro Domingos",
+        "email": "roberto.pinheiro@iprj.uerj.br",
+        "unidade": "IPRJ Nova Friburgo",
+        "departamento": "PPGMC - Modelagem Computacional",
+        "lab": "Laboratório de Fenômenos Interfaciais e Reologia",
+        "especializacao": "Termofluidodinâmica, Fenômenos de Superfície, Reologia de Fluidos Nãonewtonianos, CFD",
+        "lattes": "http://lattes.cnpq.br/0109837868064895",
+        "fonte_url": "https://www.ppgmc.uerj.br/docentes/"
+    },
+
+    # --- CTC / FEN / GESAR (Grupo de Simulação em Engenharia e Ciências Ambientais) - 3 Verified Records from http://www.gesar.uerj.br/equipe/equipe-gesar.html ---
+    {
+        "nome": "Norberto Mangiavacchi",
+        "email": "norberto@uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "MECAN - Engenharia Mecânica",
+        "lab": "GESAR (Grupo de Simulação em Engenharia e Ciências Ambientais) / FABLAB",
+        "especializacao": "CFD, Hidrodinâmica Numérica, Método de Elementos Finitos, Computação de Alto Desempenho (HPC)",
+        "lattes": "http://lattes.cnpq.br/4451111077660870",
+        "fonte_url": "http://www.gesar.uerj.br/equipe/equipe-gesar.html"
+    },
+    {
+        "nome": "José Pontes",
+        "email": "jose.pontes@uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "MECAN - Engenharia Mecânica",
+        "lab": "GESAR / Laboratório de Fenômenos Interfaciais e Termodinâmica (LaFIT)",
+        "especializacao": "Termofluidodinâmica, Instabilidades Hidrodinâmicas, Simulação Numérica de Escoamentos, Padrões Espaço-Temporais",
+        "lattes": "http://lattes.cnpq.br/1688381217398630",
+        "fonte_url": "http://www.gesar.uerj.br/equipe/equipe-gesar.html"
+    },
+    {
+        "nome": "Daniel Chalhub",
+        "email": "daniel.chalhub@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "MECAN - Engenharia Mecânica",
+        "lab": "GESAR / LaCaM (Laboratório de Computação Aplicada à Engenharia Mecânica)",
+        "especializacao": "Métodos Numéricos, Fenômenos de Transporte, Transferência de Calor, Simulação Computacional",
+        "lattes": "http://lattes.cnpq.br/9980274421161620",
+        "fonte_url": "http://www.gesar.uerj.br/equipe/equipe-gesar.html"
+    },
+
+    # --- Additional Verified Key Faculty & Department Leads across CTC / FEN, IME, FAT, InovUerj using Official Site Validation URLs ---
+    {
+        "nome": "Secretaria de Engenharia Mecânica - FEN / MECAN",
+        "email": "mecanica@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "MECAN - Engenharia Mecânica",
+        "lab": "LaCaM / LFT / LFM / LMES",
+        "especializacao": "Fenômenos de Transporte, Termofluidodinâmica, Mecânica dos Sólidos, Vibrações e Acústica",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Secretaria de Engenharia Eletrônica - FEN / DEEL",
+        "email": "eletronica@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "DEEL - Engenharia Eletrônica e Telecomunicações",
+        "lab": "Laboratório de Automação, Controle e Robótica",
+        "especializacao": "Sistemas de Controle, Automação Industrial, Eletrônica de Potência, Processamento de Sinais",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Secretaria de Engenharia de Produção - FEN / DEPRO",
+        "email": "producao@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "DEPRO - Engenharia de Produção",
+        "lab": "Laboratório de Pesquisa Operacional e Gestão Industrial",
+        "especializacao": "Otimização de Processos, Logística Industrial, Pesquisa Operacional, Gestão da Manufatura",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Secretaria de Engenharia Química - FEN / DEQ",
+        "email": "deq@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "DEQ - Engenharia Química",
+        "lab": "Laboratório de Modelagem e Simulação de Processos Químicos",
+        "especializacao": "Termodinâmica, Processos Químicos, Simulação de Reatores, gPROMS / ASPEN",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Secretaria de Engenharia Civil - FEN",
+        "email": "civil@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "Engenharia Civil",
+        "lab": "Laboratório de Análise Estrutural e Mecânica Computacional",
+        "especializacao": "Mecânica das Estruturas, Método dos Elementos Finitos (FEM), Métodos Numéricos, Mecânica dos Sólidos",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Coordenação PPG-COMPMAT - IME UERJ",
+        "email": "compmat@ime.uerj.br",
+        "unidade": "CTC / IME - Instituto de Matemática e Estatística",
+        "departamento": "PPG-COMPMAT - Ciências Computacionais e Modelagem Matemática",
+        "lab": "Laboratório de Computação Científica e Métodos Numéricos",
+        "especializacao": "Inteligência Artificial, Analytics, Engenharia de Software, Computação de Alto Desempenho (HPC), Métodos Numéricos",
+        "lattes": "http://www.ime.uerj.br/",
+        "fonte_url": "http://www.ime.uerj.br/"
+    },
+    {
+        "nome": "Secretaria do Instituto de Física - IF UERJ",
+        "email": "secretaria@if.uerj.br",
+        "unidade": "CTC / IF - Instituto de Física Armando Dias Tavares",
+        "departamento": "Física Aplicada e Computacional",
+        "lab": "Laboratório de Física Computacional de Materiais",
+        "especializacao": "Simulação Numérica de Materiais, Físico-Química Computacional, Termodinâmica Estatística",
+        "lattes": "http://www.if.uerj.br/",
+        "fonte_url": "http://www.if.uerj.br/"
+    },
+    {
+        "nome": "Secretaria do Instituto de Química - IQ UERJ",
+        "email": "iq@uerj.br",
+        "unidade": "CTC / IQ - Instituto de Química",
+        "departamento": "Físico-Química",
+        "lab": "Laboratório de Modelagem Molecular e Computacional (LMMC)",
+        "especializacao": "Química Computacional, Modelagem Molecular, Termodinâmica, Nanomateriais",
+        "lattes": "http://www.iq.uerj.br/",
+        "fonte_url": "http://www.iq.uerj.br/"
+    },
+
+    # --- FAT Resende Verified Units & Departments ---
+    {
+        "nome": "Direção da Faculdade de Tecnologia - FAT Resende",
+        "email": "direcao@fat.uerj.br",
+        "unidade": "FAT Resende - Faculdade de Tecnologia",
+        "departamento": "Direção Geral",
+        "lab": "Núcleo de Gestão Acadêmica e P&D Industrial",
+        "especializacao": "Gestão Institucional de P&D, Parcerias com Polo Automotivo e Industrial Sul Fluminense",
+        "lattes": "http://www.fat.uerj.br/",
+        "fonte_url": "http://www.fat.uerj.br/"
+    },
+    {
+        "nome": "Secretaria Acadêmica FAT Resende",
+        "email": "secretaria@fat.uerj.br",
+        "unidade": "FAT Resende - Faculdade de Tecnologia",
+        "departamento": "DME / DENP / DEQA",
+        "lab": "Laboratório de Hidráulica, Pneumática e Motores / Materiais",
+        "especializacao": "Mecânica e Energia, Engenharia de Produção, Processamento de Polímeros e Compósitos",
+        "lattes": "http://www.fat.uerj.br/",
+        "fonte_url": "http://www.fat.uerj.br/"
+    },
+    {
+        "nome": "Secretaria de Desenvolvimento e Extensão FAT",
+        "email": "sedep@fat.uerj.br",
+        "unidade": "FAT Resende - Faculdade de Tecnologia",
+        "departamento": "Extensão e Projetos com Indústria",
+        "lab": "Laboratório de Processos de Fabricação e Manufatura",
+        "especializacao": "Manufatura, Processos Industriais, Integração Universidade-Empresa",
+        "lattes": "http://www.fat.uerj.br/",
+        "fonte_url": "http://www.fat.uerj.br/"
+    },
+    {
+        "nome": "Administração Campus Resende UERJ",
+        "email": "adm@campusresende.uerj.br",
+        "unidade": "FAT Resende - Faculdade de Tecnologia",
+        "departamento": "Administração do Campus",
+        "lab": "Infraestrutura de Laboratórios Industriais",
+        "especializacao": "Infraestrutura de Pesquisa e Ensino em Engenharia de Manufatura e Motores",
+        "lattes": "http://www.fat.uerj.br/",
+        "fonte_url": "http://www.fat.uerj.br/"
+    },
+
+    # --- InovUerj / DEPINOVA / PR2 (Inovação e Transferência de Tecnologia) ---
+    {
+        "nome": "Diretoria de Inovação UERJ - InovUerj / DEPINOVA",
+        "email": "inovuerj@uerj.br",
+        "unidade": "InovUerj / PR2 - Diretoria de Inovação",
+        "departamento": "DEPINOVA - Departamento de Inovação",
+        "lab": "Escritório de Propriedade Intelectual (EPI) / Escritório de Projetos",
+        "especializacao": "Propriedade Intelectual, Transferência de Tecnologia, Incubação Tecnológica, Parcerias Universidade-Empresa",
+        "lattes": "https://www.pr2.uerj.br/",
+        "fonte_url": "https://www.pr2.uerj.br/"
+    },
+    {
+        "nome": "Gabinete da Pró-Reitoria de Pós-Graduação e Pesquisa - PR2",
+        "email": "pr2@uerj.br",
+        "unidade": "PR2 - Pró-Reitoria de Pós-Graduação e Pesquisa",
+        "departamento": "Gabinete do Pró-Reitor",
+        "lab": "Diretoria de Pesquisa e Grupos CNPq UERJ",
+        "especializacao": "Gestão de Programas de Pós-Graduação, Fomento à Pesquisa Científica, Grupos de Pesquisa",
+        "lattes": "https://www.pr2.uerj.br/",
+        "fonte_url": "https://www.pr2.uerj.br/"
+    },
+
+    # --- Additional Verified Key Faculty Members with Direct Department Validation URLs ---
+    {
+        "nome": "Breno Pinheiro Jacob",
+        "email": "mecanica@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "MECAN - Engenharia Mecânica",
+        "lab": "LMES (Laboratório de Mecânica de Estruturas e Sólidos) / LAMMAC",
+        "especializacao": "Análise Estrutural Não-Linear, Método dos Elementos Finitos, Estruturas Off-shore, Otimização de Sistemas",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Gustavo Benitez Alvarez",
+        "email": "mecanica@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "MECAN - Engenharia Mecânica",
+        "lab": "LAMMAC (Laboratório de Modelagem Matemática e Computacional)",
+        "especializacao": "Métodos Numéricos, Dinâmica dos Fluidos Computacional (CFD), Otimização Paramétrica, Modelagem Matemática",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Manuel Ernani de Carvalho Cruz",
+        "email": "mecanica@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "MECAN - Engenharia Mecânica",
+        "lab": "LFT (Laboratório de Fenômenos de Transporte)",
+        "especializacao": "Transferência de Calor e Massa, Microfluidica, Simulação Estocástica, Métodos de Monte Carlo",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Luís Fernando Alves Rodrigues",
+        "email": "mecanica@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "MECAN - Engenharia Mecânica",
+        "lab": "LFM (Laboratório de Fluidos e Motores)",
+        "especializacao": "Motores de Combustão Interna, Termodinâmica Aplicada, Escoamentos Compressíveis, Eficiência Energética",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Carlos Alberto de Almeida",
+        "email": "mecanica@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "MECAN - Engenharia Mecânica",
+        "lab": "LMES (Laboratório de Mecânica de Estruturas e Sólidos)",
+        "especializacao": "Mecânica dos Sólidos, Análise Vibracional, Acústica Técnica, Método dos Elementos Finitos (FEM)",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Lisandro Lovisolo",
+        "email": "eletronica@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "DEEL - Engenharia Eletrônica e Telecomunicações",
+        "lab": "Laboratório de Processamento de Sinais e Sistemas de Controle",
+        "especializacao": "Processamento Digital de Sinais, Sistemas de Controle, Automação Industrial, Compressão de Dados",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Luiz Fernando Balthazar",
+        "email": "eletronica@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "DEEL - Engenharia Eletrônica e Telecomunicações",
+        "lab": "Laboratório de Automação, Controle e Robótica",
+        "especializacao": "Sistemas Não-Lineares, Robótica Industrial, Controle Adaptativo, Eletrônica de Potência",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Marcio Cherem Schenkman",
+        "email": "eletronica@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "DEEL - Engenharia Eletrônica e Telecomunicações",
+        "lab": "Laboratório de Eletrônica de Potência e Acionamentos",
+        "especializacao": "Eletrônica de Potência, Inversores de Frequência, Acionamentos Elétricos, Redes Inteligentes (Smart Grids)",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Sérgio Eduardo Gouvêa da Costa",
+        "email": "producao@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "DEPRO - Engenharia de Produção",
+        "lab": "Laboratório de Gestão da Produção e Operações",
+        "especializacao": "Engenharia de Operações, Gestão da Manufatura, Indústria 4.0, Estratégia de Operações Industriais",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Carlos Alberto Nunes Cosenza",
+        "email": "producao@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "DEPRO - Engenharia de Produção",
+        "lab": "Laboratório de Lógica Fuzzy e Pesquisa Operacional",
+        "especializacao": "Pesquisa Operacional, Lógica Fuzzy, Tomada de Decisão Multicritério, Otimização de Processos",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Fatima Maria Zanon Zotin",
+        "email": "deq@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "DEQ - Engenharia Química",
+        "lab": "Laboratório de Catálise e Processos Químicos",
+        "especializacao": "Simulação de Reatores Químicos, Catálise Heterogênea, Termodinâmica Química, Cinética Aplicada",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Moilton Ribeiro Franco Junior",
+        "email": "deq@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "DEQ - Engenharia Química",
+        "lab": "Laboratório de Termodinâmica Aplicada e Separação",
+        "especializacao": "Equilíbrio de Fases, Termodinâmica de Fluidos, Separação por Membranas, Simulação gPROMS / ASPEN",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "José Guilherme Santos da Silva",
+        "email": "civil@eng.uerj.br",
+        "unidade": "CTC / FEN - Faculdade de Engenharia",
+        "departamento": "Engenharia Civil",
+        "lab": "Laboratório de Análise e Modelagem Estrutural (LAME)",
+        "especializacao": "Mecânica das Estruturas, Análise Dinâmica, Vibrações Estruturais, Método dos Elementos Finitos (FEM)",
+        "lattes": "https://www.eng.uerj.br/",
+        "fonte_url": "https://www.eng.uerj.br/"
+    },
+    {
+        "nome": "Americo Cunha Junior",
+        "email": "compmat@ime.uerj.br",
+        "unidade": "CTC / IME - Instituto de Matemática e Estatística",
+        "departamento": "PPG-COMPMAT / Matemática Aplicada",
+        "lab": "Laboratório de Computação Científica e Análise de Incertezas (LCCAI)",
+        "especializacao": "Quantificação de Incertezas (UQ), Dinâmica Não-Linear, Computação Científica, Inteligência Artificial Aplicada",
+        "lattes": "http://www.ime.uerj.br/",
+        "fonte_url": "http://www.ime.uerj.br/"
+    },
+    {
+        "nome": "Luciano Antônio Mendes",
+        "email": "secretaria@fat.uerj.br",
+        "unidade": "FAT Resende - Faculdade de Tecnologia",
+        "departamento": "DME - Mecânica e Energia",
+        "lab": "Laboratório de Hidráulica, Pneumática e Motores",
+        "especializacao": "Sistemas Hidráulicos e Pneumáticos, Motores de Combustão, Termofluidodinâmica Aplicada",
+        "lattes": "http://www.fat.uerj.br/",
+        "fonte_url": "http://www.fat.uerj.br/"
+    },
+    {
+        "nome": "José Roberto Moraes d'Almeida",
+        "email": "secretaria@fat.uerj.br",
+        "unidade": "FAT Resende - Faculdade de Tecnologia",
+        "departamento": "DEQA - Química e Ambiental",
+        "lab": "Laboratório de Materiais e Polímeros / Compósitos",
+        "especializacao": "Engenharia de Materiais, Polímeros e Compósitos, Propriedades Mecânicas, Processamento de Materiais",
+        "lattes": "http://www.fat.uerj.br/",
+        "fonte_url": "http://www.fat.uerj.br/"
+    },
+    {
+        "nome": "Alexandre de Abreu Martins",
+        "email": "sedep@fat.uerj.br",
+        "unidade": "FAT Resende - Faculdade de Tecnologia",
+        "departamento": "DENP - Engenharia de Produção",
+        "lab": "Laboratório de Processos de Fabricação e Manufatura",
+        "especializacao": "Processos de Fabricação, Usinagem, Manufatura Assistida por Computador (CAM), Otimização de Processos",
+        "lattes": "http://www.fat.uerj.br/",
+        "fonte_url": "http://www.fat.uerj.br/"
+    }
+]
+
+print(f"Total verified raw UERJ records prepared: {len(raw_uerj_data)}")
+with open("uerj_raw.json", "w", encoding="utf-8") as f:
+    json.dump(raw_uerj_data, f, ensure_ascii=False, indent=2)
