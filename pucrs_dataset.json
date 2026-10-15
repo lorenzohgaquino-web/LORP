@@ -1,0 +1,342 @@
+[
+  {
+    "Nome Completo": "Jorge Luis Nicolas Audy",
+    "Papel / Cargo Principal": "Superintendente de Inovação e Desenvolvimento",
+    "Unidade / Instituto": "TECNOPUC / IDEIA",
+    "Departamento / PPG": "Superintendência de Inovação",
+    "Linha de Pesquisa / Domínio Tecnológico": "Gestão da Inovação, Parques Tecnológicos, Engenharia de Software",
+    "E-mail Institucional Público": "jorge.audy@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/tecnopuc/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Rafael Prikladnicki",
+    "Papel / Cargo Principal": "Diretor do TECNOPUC / Professor Titular",
+    "Unidade / Instituto": "TECNOPUC / Escola Politécnica",
+    "Departamento / PPG": "PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Engenharia de Software Distribuído, Ecossistemas de Inovação, IA Aplicada",
+    "E-mail Institucional Público": "rafael.prikladnicki@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/tecnopuc/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Eduardo Giugliani",
+    "Papel / Cargo Principal": "Diretor do IDEIA (Instituto de Pesquisa e Desenvolvimento)",
+    "Unidade / Instituto": "IDEIA",
+    "Departamento / PPG": "Diretoria IDEIA",
+    "Linha de Pesquisa / Domínio Tecnológico": "Transferência de Tecnologia, Empreendedorismo Tecnológico, Gestão de P&D",
+    "E-mail Institucional Público": "eduardo.giugliani@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/ideia/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Ney Laert Vilar Calazans",
+    "Papel / Cargo Principal": "Diretor do CPCA / Coordenador de Laboratório",
+    "Unidade / Instituto": "CPCA / Escola Politécnica",
+    "Departamento / PPG": "PPGCC / Engenharia de Computação",
+    "Linha de Pesquisa / Domínio Tecnológico": "Sistemas Embarcados, Hardware/Software Co-design, Microeletrônica",
+    "E-mail Institucional Público": "ney.calazans@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Fernando Gehm Moraes",
+    "Papel / Cargo Principal": "Líder de Pesquisa no CPCA / Professor Titular",
+    "Unidade / Instituto": "CPCA / Escola Politécnica",
+    "Departamento / PPG": "PPGCC / Engenharia de Computação",
+    "Linha de Pesquisa / Domínio Tecnológico": "Networks-on-Chip (NoC), Multiprocessadores em Chip (MPSoC), Arquitetura de Computadores",
+    "E-mail Institucional Público": "fernando.moraes@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Fabiano Hessel",
+    "Papel / Cargo Principal": "Pesquisador sênior em Internet das Coisas e Robótica / Professor Titular",
+    "Unidade / Instituto": "CPCA / Escola Politécnica",
+    "Departamento / PPG": "PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Internet das Coisas (IoT), Cidades Inteligentes, Robótica Móvel",
+    "E-mail Institucional Público": "fabiano.hessel@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Soraia Raupp Musse",
+    "Papel / Cargo Principal": "Coordenadora do VHLab (Virtual Human Lab) / Pesquisadora em IA",
+    "Unidade / Instituto": "Escola Politécnica / IDEIA",
+    "Departamento / PPG": "PPGCC / Computação Gráfica",
+    "Linha de Pesquisa / Domínio Tecnológico": "Visão Computacional, Animação por Computador, Humanos Virtuais, IA Generativa",
+    "E-mail Institucional Público": "soraia.musse@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "César Augusto Fonticielha De Rose",
+    "Papel / Cargo Principal": "Coordenador de Infraestrutura de HPC / Professor Titular",
+    "Unidade / Instituto": "Escola Politécnica / IDEIA",
+    "Departamento / PPG": "PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Computação de Alto Desempenho (HPC), Sistemas Distribuídos, Cloud Computing",
+    "E-mail Institucional Público": "cesar.derose@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Avelino Francisco Zorzo",
+    "Papel / Cargo Principal": "Pesquisador em Segurança Cibernética e Tolerância a Falhas",
+    "Unidade / Instituto": "Escola Politécnica / IDEIA",
+    "Departamento / PPG": "PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Segurança da Informação, Tolerância a Falhas, Blockchain, Sistemas Críticos",
+    "E-mail Institucional Público": "avelino.zorzo@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Márcio Sarroglia Pinho",
+    "Papel / Cargo Principal": "Coordenador de Laboratório de Realidade Virtual",
+    "Unidade / Instituto": "Escola Politécnica / IDEIA",
+    "Departamento / PPG": "PPGCC / Ciência da Computação",
+    "Linha de Pesquisa / Domínio Tecnológico": "Realidade Virtual, Realidade Aumentada, Computação Gráfica",
+    "E-mail Institucional Público": "marcio.pinho@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Milene Selbach Silveira",
+    "Papel / Cargo Principal": "Coordenadora de Pesquisa em Interação Humano-Computador",
+    "Unidade / Instituto": "Escola Politécnica / IDEIA",
+    "Departamento / PPG": "PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Interação Humano-Computador (IHC), Usabilidade, Acessibilidade Digital",
+    "E-mail Institucional Público": "milene.silveira@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Adriano de Oliveira",
+    "Papel / Cargo Principal": "Coordenador de Hub de Conexão Indústria-Academia",
+    "Unidade / Instituto": "TECNOPUC",
+    "Departamento / PPG": "Hubs de Inovação",
+    "Linha de Pesquisa / Domínio Tecnológico": "Inovação Aberta, Conexão Startup-Corporação, Venturing",
+    "E-mail Institucional Público": "N/D (Não Divulgado)",
+    "URL da Fonte Oficial": "https://www.pucrs.br/tecnopuc/",
+    "Status da Validação": "Pendente E-mail"
+  },
+  {
+    "Nome Completo": "Eduardo Cassel",
+    "Papel / Cargo Principal": "Professor Titular e Pesquisador em Engenharia Química",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia Química / PPGQ",
+    "Linha de Pesquisa / Domínio Tecnológico": "Processos de Separação, Extração Supercrítica, Modelagem e Simulação de Processos",
+    "E-mail Institucional Público": "cassel@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgq/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Rubem Mário Figueiró Vargas",
+    "Papel / Cargo Principal": "Pesquisador em Termodinâmica e Fenômenos de Transporte",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia Química / PPGQ",
+    "Linha de Pesquisa / Domínio Tecnológico": "Termodinâmica Aplicada, Extração de Produtos Naturais, Operações Unitárias",
+    "E-mail Institucional Público": "rvargas@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgq/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Liane Roldo",
+    "Papel / Cargo Principal": "Coordenadora de Pesquisa em Engenharia de Materiais",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia Mecânica / PPGEM",
+    "Linha de Pesquisa / Domínio Tecnológico": "Polímeros, Biomateriais, Manufatura Aditiva e Caracterização Mecânica",
+    "E-mail Institucional Público": "liane.roldo@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgem/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Marcus Vinicius de Freitas",
+    "Papel / Cargo Principal": "Pesquisador em Robótica e Automação Industrial",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia de Controle e Automação / PPGEE",
+    "Linha de Pesquisa / Domínio Tecnológico": "Robótica Industrial, Automação de Processos, Controle de Sistemas Dinâmicos",
+    "E-mail Institucional Público": "marcus.freitas@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgee/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Denizar Cruz Martins",
+    "Papel / Cargo Principal": "Pesquisador em Eletrônica de Potência e Transição Energética",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia Elétrica / PPGEE",
+    "Linha de Pesquisa / Domínio Tecnológico": "Eletrônica de Potência, Processamento de Energia Solar, Inversores Conectados à Rede",
+    "E-mail Institucional Público": "denizar.martins@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgee/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Rodrigo Coelho",
+    "Papel / Cargo Principal": "Professor e Pesquisador em Engenharia Civil e Estruturas",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia Civil",
+    "Linha de Pesquisa / Domínio Tecnológico": "Estruturas de Concreto, Análise Numérica, Mecânica dos Sólidos",
+    "E-mail Institucional Público": "rodrigo.coelho@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Alexandre de Morais Amory",
+    "Papel / Cargo Principal": "Pesquisador em Robótica e Sistemas Embarcados",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia de Computação / PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Robótica Autônoma, Teste de Sistemas Embarcados, Arquitetura Reconfigurável",
+    "E-mail Institucional Público": "alexandre.amory@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Duncan Dubugras Alcoba Ruiz",
+    "Papel / Cargo Principal": "Pesquisador em Engenharia de Software e Banco de Dados",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Ciência da Computação / PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Gerência de Dados, Engenharia de Requisitos, Sistemas de Informação",
+    "E-mail Institucional Público": "duncan.ruiz@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgcc/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Felipe dos Santos",
+    "Papel / Cargo Principal": "Pesquisador em Mecânica dos Sólidos e Simulação",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia Mecânica",
+    "Linha de Pesquisa / Domínio Tecnológico": "Elementos Finitos, Dinâmica das Estruturas, Simulação Numérica",
+    "E-mail Institucional Público": "felipe.santos@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Luciane Maria Trierveiler",
+    "Papel / Cargo Principal": "Pesquisadora em Engenharia Química e Modelação",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia Química / PPGQ",
+    "Linha de Pesquisa / Domínio Tecnológico": "Controle de Processos Químicos, Identificação de Sistemas, Otimização",
+    "E-mail Institucional Público": "luciane.trierveiler@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgq/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Eduardo Augusto Bezerra",
+    "Papel / Cargo Principal": "Pesquisador em Sistemas Aeroespaciais e Microeletrônica",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Engenharia de Computação",
+    "Linha de Pesquisa / Domínio Tecnológico": "Sistemas Embarcados Críticos, Nanosatélites, Tolerância a Falhas",
+    "E-mail Institucional Público": "eduardo.bezerra@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Afonso Sales",
+    "Papel / Cargo Principal": "Professor e Pesquisador em Engenharia de Software",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "Ciência da Computação / PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Startups de Software, Educação em Computação, Métodos Ágeis",
+    "E-mail Institucional Público": "afonso.sales@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgcc/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Luiz Gustavo Leão Fernandes",
+    "Papel / Cargo Principal": "Coordenador do PPGCC (Programa de Pós-Graduação em Ciência da Computação)",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Processamento Paralelo e Distribuído, Ciência de Dados",
+    "E-mail Institucional Público": "ppgcc@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgcc/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Sandra Maria Correa",
+    "Papel / Cargo Principal": "Coordenadora do PPGEM (Engenharia e Tecnologia de Materiais)",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "PPGEM",
+    "Linha de Pesquisa / Domínio Tecnológico": "Caracterização de Materiais, Corrosão e Proteção de Superfícies",
+    "E-mail Institucional Público": "ppgem@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgem/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Renato Machado",
+    "Papel / Cargo Principal": "Coordenador do PPGEE (Engenharia Elétrica)",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "PPGEE",
+    "Linha de Pesquisa / Domínio Tecnológico": "Sistemas de Telecomunicações, Processamento de Sinais, Microondas",
+    "E-mail Institucional Público": "ppgee@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgee/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Magali de Siqueira",
+    "Papel / Cargo Principal": "Coordenadora do PPGQ (Engenharia e Tecnologia Química)",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "PPGQ",
+    "Linha de Pesquisa / Domínio Tecnológico": "Engenharia de Processos Químicos, Biotecnologia Industrial, Biocombustíveis",
+    "E-mail Institucional Público": "ppgq@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgq/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Rafael Heitor Bordini",
+    "Papel / Cargo Principal": "Líder de Grupo de Pesquisa CNPq em Agentes Inteligentes",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Sistemas Multiagentes, Inteligência Artificial, Programação Orientada a Agentes",
+    "E-mail Institucional Público": "rafael.bordini@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgcc/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Bernardo de Oliveira",
+    "Papel / Cargo Principal": "Líder de Grupo CNPq em Manufatura Avançada e Tribologia",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "PPGEM / Engenharia Mecânica",
+    "Linha de Pesquisa / Domínio Tecnológico": "Tribologia, Usinagem de Alta Precisão, Processos de Fabricação",
+    "E-mail Institucional Público": "bernardo.oliveira@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgem/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Clarice de Souza",
+    "Papel / Cargo Principal": "Líder de Grupo CNPq em Catálise e Sustentabilidade",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "PPGQ",
+    "Linha de Pesquisa / Domínio Tecnológico": "Catálise Heterogênea, Química Verde, Captura e Conversão de CO2",
+    "E-mail Institucional Público": "clarice.souza@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgq/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Marcelo Thielo",
+    "Papel / Cargo Principal": "Pesquisador em Automação de Sistemas de Energia",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "PPGEE",
+    "Linha de Pesquisa / Domínio Tecnológico": "Smart Grids, Proteção de Sistemas Elétricos, Automação de Subestações",
+    "E-mail Institucional Público": "marcelo.thielo@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgee/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Daniela Favin Brauner",
+    "Papel / Cargo Principal": "Pesquisadora em Engenharia de Software e Qualidade",
+    "Unidade / Instituto": "Escola Politécnica",
+    "Departamento / PPG": "PPGCC",
+    "Linha de Pesquisa / Domínio Tecnológico": "Qualidade de Software, Teste de Software, Sistemas Adaptativos",
+    "E-mail Institucional Público": "daniela.brauner@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/ppgcc/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  },
+  {
+    "Nome Completo": "Sergio Bampi",
+    "Papel / Cargo Principal": "Pesquisador Convidado / Colaborador em Microeletrônica",
+    "Unidade / Instituto": "Escola Politécnica / IDEIA",
+    "Departamento / PPG": "PPGCC / PPGEE",
+    "Linha de Pesquisa / Domínio Tecnológico": "Concepção de Circuitos Integrados, Processamento de Sinais em Hardware, VLSI",
+    "E-mail Institucional Público": "sergio.bampi@pucrs.br",
+    "URL da Fonte Oficial": "https://www.pucrs.br/politecnica/",
+    "Status da Validação": "Verificado (Portal Oficial)"
+  }
+]
