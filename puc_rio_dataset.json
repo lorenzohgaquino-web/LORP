@@ -1,0 +1,407 @@
+[
+  {
+    "Nome Completo": "Angela Ourivio Nieckele",
+    "E-mail Institucional Público": "nieckele@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / SIMDUT / Laboratório de Escoamento Multifásico e CFD",
+    "Área de Especialização Técnica": "Mecânica dos Fluidos Computacional (CFD), Escoamento Multifásico, Transientes Hidráulicos, Dutos e Termociências (STAR-CCM+ / Simcenter)",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Paulo Roberto de Souza Mendes",
+    "E-mail Institucional Público": "pmendes@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / GVP (Grupo de Reologia e Fluidos Complexos) / LMTC",
+    "Área de Especialização Técnica": "Reologia de Fluidos Complexos, Escoamentos Multifásicos, Tixotropia, Petróleo & Gás e Garantia de Escoamento",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Márcio da Silveira Carvalho",
+    "E-mail Institucional Público": "msc@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / LMTC (Laboratório de Microhidrodinâmica e Meios Porosos)",
+    "Área de Especialização Técnica": "Microfluídica, Meios Porosos, Reologia, Revestimento de Filmes e Recuperação Avançada de Petróleo (EOR)",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Mônica Feijó Naccache",
+    "E-mail Institucional Público": "naccache@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / LMTC / GVP",
+    "Área de Especialização Técnica": "Escoamento de Fluidos Não-Newtonianos, MUDs/Cimentação de Poços, Reologia e Termociências",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Luís Fernando Alzuguir Azevedo",
+    "E-mail Institucional Público": "lfaa@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / LCF (Laboratório de Caracterização de Fluidos) / LRA",
+    "Área de Especialização Técnica": "Transferência de Calor, Escoamento Multifásico, Anemometria Laser (PIV/LDV) e Termofluidos",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Jaime Tupiassú Pinho de Castro",
+    "E-mail Institucional Público": "jtcastro@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / GDIS (Grupo de Dinâmica e Integridade Estrutural / Fadiga)",
+    "Área de Especialização Técnica": "Integridade Estrutural, Fadiga de Materiais, Mecânica da Fratura e Propagação de Trincas em Dutos/Risers",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Marco Antonio Meggiolaro",
+    "E-mail Institucional Público": "meggi@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / GDIS / LARM (Laboratório de Robótica e Mecatrônica)",
+    "Área de Especialização Técnica": "Robótica Subsea, Mecânica da Fratura, Fadiga Multiaxial, Automação e Veículos Autônomos",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Ivan Fabio Mota de Menezes",
+    "E-mail Institucional Público": "ivan@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM / Tecgraf",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / Tecgraf / Laboratório de Otimização Numérica",
+    "Área de Especialização Técnica": "Método dos Elementos Finitos (FEM), Otimização Topológica, Métodos Numéricos e Computação Gráfica",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Anderson Pereira",
+    "E-mail Institucional Público": "anderson@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / GDIS / Análise Numérica",
+    "Área de Especialização Técnica": "Otimização de Estruturas, Elementos Finitos, Mecânica dos Sólidos e Métodos Estocásticos",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Florian Alain Yannick Pradelle",
+    "E-mail Institucional Público": "pradelle@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / LRA (Laboratório de Refrigeração e Ar Condicionado) / Combustão",
+    "Área de Especialização Técnica": "Termodinâmica, Transição Energética, Combustão, Biocombustíveis e Simulação de Sistemas Térmicos",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Hans Ingo Weber",
+    "E-mail Institucional Público": "hans@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / Laboratório de Dinâmica e Rotor-Desequilíbrio",
+    "Área de Especialização Técnica": "Dinâmica de Máquinas Rotativas, Vibrações Mecânicas, Rotor Dynamics e Controle de Sistemas VIBR",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Rubens Sampaio Filho",
+    "E-mail Institucional Público": "rsampaio@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / Mecânica Aplicada e Estocástica",
+    "Área de Especialização Técnica": "Dinâmica de Sistemas, Mecânica Estocástica, Quantificação de Incertezas (UQ) e Modelagem Numérica",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Roberta de Queiroz Lima",
+    "E-mail Institucional Público": "robertalima@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / Métodos Computacionais e Dinâmica",
+    "Área de Especialização Técnica": "Mecânica Aplicada, Quantificação de Incertezas, Dinâmica Estocástica e Simulação Numérica",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Sergio Leal Braga",
+    "E-mail Institucional Público": "slbraga@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / LRA / Termociências",
+    "Área de Especialização Técnica": "Termociências, Refrigeração, Troca de Calor e Armazenamento de Energia Térmica",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Rafael Menezes de Oliveira",
+    "E-mail Institucional Público": "rmo@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / Dinâmica de Fluidos Computacional",
+    "Área de Especialização Técnica": "Turbulência, CFD Avançado, Métodos Numéricos em Transferência de Calor e Massa",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Ivan Rosa de Siqueira",
+    "E-mail Institucional Público": "irs@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / LMTC / Hidrodinâmica",
+    "Área de Especialização Técnica": "Escoamentos Microfluídicos, Suspensões Celulares, Reologia e Métodos Boundary Element/CFD",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Wellington Campos",
+    "E-mail Institucional Público": "wcampos@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / Perfuração e Elevação de Petróleo / SIMDUT",
+    "Área de Especialização Técnica": "Engenharia de Petróleo, Escoamento Multifásico em Poços e Elevação Artificial",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "João Carlos Ribeiro Plácido",
+    "E-mail Institucional Público": "jcrp@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEM (Departamento de Engenharia Mecânica)",
+    "Laboratório / Grupo de Pesquisa Associado": "POSMEC / Perfuração de Poços / SIMDUT",
+    "Área de Especialização Técnica": "Mecânica de Perfuração, Escoamentos de Perfuração offshore, Hidráulica de Poços",
+    "URL Exata da Fonte de Validação": "https://mec.puc-rio.br/pessoal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Luiz Fernando Martha",
+    "E-mail Institucional Público": "lfm@tecgraf.puc-rio.br",
+    "Departamento / Centro / Unidade": "Tecgraf/PUC-Rio & CTC / DEC",
+    "Laboratório / Grupo de Pesquisa Associado": "Tecgraf / Laboratório de Métodos Computacionais em Engenharia",
+    "Área de Especialização Técnica": "Simulação Numérica por Elementos Finitos (FEM/BEM), Computação Gráfica Interativa, Mecânica da Fratura e Dutos",
+    "URL Exata da Fonte de Validação": "https://www.tecgraf.puc-rio.br/equipe.html",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Marcelo Gattass",
+    "E-mail Institucional Público": "gattass@tecgraf.puc-rio.br",
+    "Departamento / Centro / Unidade": "Tecgraf/PUC-Rio & CTC / DI",
+    "Laboratório / Grupo de Pesquisa Associado": "Tecgraf / Grupo de Computação Gráfica e Visualização",
+    "Área de Especialização Técnica": "Visualização Científica, Computação Gráfica, Processamento de Imagens e Modelagem Geológica 3D para Óleo & Gás",
+    "URL Exata da Fonte de Validação": "https://www.tecgraf.puc-rio.br/equipe.html",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Alberto Barbosa Raposo",
+    "E-mail Institucional Público": "abraposo@inf.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DI & Tecgraf/PUC-Rio",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGI / Tecgraf / Grupo de Realidade Virtual",
+    "Área de Especialização Técnica": "Realidade Virtual e Aumentada, Ambientes Colaborativos 3D, Interação Humano-Computador e Gêmeos Digitais Industriais",
+    "URL Exata da Fonte de Validação": "https://www.inf.puc-rio.br/pos-graduacao/coordenadores/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Waldemar Celes Filho",
+    "E-mail Institucional Público": "celes@inf.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DI & Tecgraf/PUC-Rio",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGI / Tecgraf / Computação Gráfica",
+    "Área de Especialização Técnica": "Renderização em Tempo Real, Linguagem Lua, Visualização Estrutural e Simulação em GPU",
+    "URL Exata da Fonte de Validação": "https://www.inf.puc-rio.br/departamento/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Edward Hermann Haeusler",
+    "E-mail Institucional Público": "hermann@inf.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DI (Departamento de Informática)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGI / Laboratório de Métodos Formais",
+    "Área de Especialização Técnica": "Lógica Aplicada, Verificação Formal de Software, Engenharia de Software e Prova de Teoremas",
+    "URL Exata da Fonte de Validação": "https://www.inf.puc-rio.br/departamento/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "José Alberto Rodrigues Pereira Sardinha",
+    "E-mail Institucional Público": "sardinha@inf.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DI (Departamento de Informática)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGI / Laboratório de Inteligência Artificial (LIA)",
+    "Área de Especialização Técnica": "Inteligência Artificial, Sistemas Multiagente, Aprendizado de Máquina e Coordenação de Pós-Graduação (PPGI)",
+    "URL Exata da Fonte de Validação": "https://www.inf.puc-rio.br/pos-graduacao/coordenadores/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Hélio Côrtes Vieira Lopes",
+    "E-mail Institucional Público": "lopes@inf.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DI (Departamento de Informática)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGI / LBD (Laboratório de Banco de Dados) / Data Science",
+    "Área de Especialização Técnica": "Ciência de Dados, Modelagem Geométrica, Análise de Dados Massivos e Computação Gráfica",
+    "URL Exata da Fonte de Validação": "https://www.inf.puc-rio.br/departamento/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Carlos José Pereira de Lucena",
+    "E-mail Institucional Público": "lucena@inf.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DI (Departamento de Informática)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGI / LES (Laboratório de Engenharia de Software)",
+    "Área de Especialização Técnica": "Engenharia de Software, Sistemas Multiagente, Arquitetura de Software e Desenvolvimento de Software Orientado a Objetos",
+    "URL Exata da Fonte de Validação": "https://www.inf.puc-rio.br/departamento/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Arndt von Staa",
+    "E-mail Institucional Público": "arndt@inf.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DI (Departamento de Informática)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGI / LES",
+    "Área de Especialização Técnica": "Qualidade de Software, Teste de Software, Tolerância a Falhas e Engenharia de Software",
+    "URL Exata da Fonte de Validação": "https://www.inf.puc-rio.br/departamento/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Daniel Ratton Figueiredo",
+    "E-mail Institucional Público": "daniel@inf.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DI (Departamento de Informática)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGI / Laboratório de Redes e Sistemas Distribuídos",
+    "Área de Especialização Técnica": "Redes de Computadores, Sistemas Distribuídos, Análise de Redes Complexas e Desempenho de Sistemas",
+    "URL Exata da Fonte de Validação": "https://www.inf.puc-rio.br/departamento/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Marco Antonio Casanova",
+    "E-mail Institucional Público": "casanova@inf.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DI (Departamento de Informática)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGI / LBD (Laboratório de Bancos de Dados)",
+    "Área de Especialização Técnica": "Bancos de Dados, Informação Geográfica (GIS), Dados Abertos e Gerenciamento de Dados em Nuvem",
+    "URL Exata da Fonte de Validação": "https://www.inf.puc-rio.br/departamento/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "José Roberto Moraes d'Almeida",
+    "E-mail Institucional Público": "dalmeida@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEQM (Departamento de Engenharia Química e de Materiais)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEM / Laboratório de Materiais Compósitos e Polímeros",
+    "Área de Especialização Técnica": "Caracterização Mecânica de Materiais, Compósitos, Polímeros, Análise de Falhas e Integridade de Materiais",
+    "URL Exata da Fonte de Validação": "https://www.deqm.puc-rio.br/corpo-docente/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Fernando Luiz Pellegrini Pessoa",
+    "E-mail Institucional Público": "pessoa@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEQM (Departamento de Engenharia Química e de Materiais)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEQ / Laboratório de Termodinâmica Aplicada e Simulação de Processos",
+    "Área de Especialização Técnica": "Termodinâmica de Fluidos, Simulação e Otimização de Processos Químicos, Fluido Supercrítico e Separação (gPROMS)",
+    "URL Exata da Fonte de Validação": "https://www.deqm.puc-rio.br/corpo-docente/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Maria Isabel Pais da Silva",
+    "E-mail Institucional Público": "isabel@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEQM (Departamento de Engenharia Química e de Materiais)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEQ / Laboratório de Catálise e Cinética Química",
+    "Área de Especialização Técnica": "Catálise Heterogênea, Reatores Químicos, Processamento de Petróleo e Biocombustíveis",
+    "URL Exata da Fonte de Validação": "https://www.deqm.puc-rio.br/corpo-docente/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Sérgio de Souza Camargo Júnior",
+    "E-mail Institucional Público": "camargo@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEQM (Departamento de Engenharia Química e de Materiais)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEM / Laboratório de Filmes Finos e Superfícies",
+    "Área de Especialização Técnica": "Engenharia de Superfícies, Filmes Finos, Revestimentos Tribológicos, Proteção contra Corrosão e Carbono Amorfo",
+    "URL Exata da Fonte de Validação": "https://www.deqm.puc-rio.br/corpo-docente/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Roberto Ribeiro de Avillez",
+    "E-mail Institucional Público": "avillez@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEQM (Departamento de Engenharia Química e de Materiais)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEM / Laboratório de Difração de Raio-X e Caracterização Microestrutural",
+    "Área de Especialização Técnica": "Caracterização Microestrutural, Difração de Raio-X, Transformação de Fases e Metalurgia Física",
+    "URL Exata da Fonte de Validação": "https://www.deqm.puc-rio.br/corpo-docente/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Guilherme Penello Temporão",
+    "E-mail Institucional Público": "temporao@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEE (Departamento de Engenharia Elétrica)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEE / Laboratório de Comunicações Ópticas / Automação",
+    "Área de Especialização Técnica": "Sistemas de Potência, Comunicações Ópticas, Criptografia Quântica e Processamento de Sinais",
+    "URL Exata da Fonte de Validação": "https://www.ele.puc-rio.br/pessoal/corpodocente/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Rodrigo Florêncio da Silva",
+    "E-mail Institucional Público": "rodrigoflorencio@ele.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEE (Departamento de Engenharia Elétrica)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEE / LAC (Laboratório de Automação e Controle)",
+    "Área de Especialização Técnica": "Controle de Sistemas Dinâmicos, Robótica Industrial, Mecatrônica e Automação de Processos Industriais",
+    "URL Exata da Fonte de Validação": "https://www.ele.puc-rio.br/pessoal/corpodocente/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Robson Francisco da Silva Dias",
+    "E-mail Institucional Público": "robson@ele.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEE (Departamento de Engenharia Elétrica)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEE / Laboratório de Sistemas de Potência",
+    "Área de Especialização Técnica": "Sistemas Elétricos de Potência, Estabilidade de Redes, Transitórios Eletromagnéticos e Smart Grids",
+    "URL Exata da Fonte de Validação": "https://www.ele.puc-rio.br/pessoal/corpodocente/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Silvio Hamacher",
+    "E-mail Institucional Público": "hamacher@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEI (Departamento de Engenharia Industrial)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEP / Laboratório de Otimização e Logística (LOG)",
+    "Área de Especialização Técnica": "Otimização de Supply Chain, Planejamento e Programação da Produção, Simulação em Petróleo & Gás",
+    "URL Exata da Fonte de Validação": "https://www.ind.puc-rio.br/tipo-de-equipe/docentes/quadro-principal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Luiz Felipe Roriz Scavarda do Carmo",
+    "E-mail Institucional Público": "lf.scavarda@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEI (Departamento de Engenharia Industrial)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEP / Laboratório de Gestão da Cadeia de Suprimentos",
+    "Área de Especialização Técnica": "Gestão de Operações Industriais, Indústria 4.0, Planejamento da Produção e Cadeias Globais de Suprimentos",
+    "URL Exata da Fonte de Validação": "https://www.ind.puc-rio.br/tipo-de-equipe/docentes/quadro-principal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Rafael Martinelli Pinto",
+    "E-mail Institucional Público": "martinelli@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEI (Departamento de Engenharia Industrial)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEP / Laboratório de Pesquisa Operacional",
+    "Área de Especialização Técnica": "Pesquisa Operacional, Programação Inteira, Algoritmos Combinatórios e Otimização Logística",
+    "URL Exata da Fonte de Validação": "https://www.ind.puc-rio.br/tipo-de-equipe/docentes/quadro-principal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Raul Rosas e Silva",
+    "E-mail Institucional Público": "raul@civ.puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEC (Departamento de Engenharia Civil e Ambiental)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEC / Laboratório de Computação Científica / Mecânica das Estruturas",
+    "Área de Especialização Técnica": "Análise por Elementos Finitos (FEM), Mecânica das Estruturas, Análise Não-Linear e Estruturas Offshore",
+    "URL Exata da Fonte de Validação": "https://www.civ.puc-rio.br/corpo-docente-quadro-principal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Deane de Mesquita Roehl",
+    "E-mail Institucional Público": "droehl@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEC (Departamento de Engenharia Civil e Ambiental)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEC / LCC (Laboratório de Computação Científica)",
+    "Área de Especialização Técnica": "Geotecnia Computacional, Elementos Finitos, Geomecânica do Sal / Pré-Sal e Modelação de Poços",
+    "URL Exata da Fonte de Validação": "https://www.civ.puc-rio.br/corpo-docente-quadro-principal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Eurípedes do Amaral Vargas Júnior",
+    "E-mail Institucional Público": "vargas@puc-rio.br",
+    "Departamento / Centro / Unidade": "CTC / DEC (Departamento de Engenharia Civil e Ambiental)",
+    "Laboratório / Grupo de Pesquisa Associado": "PPGEC / Laboratório de Geomecânica e Computação",
+    "Área de Especialização Técnica": "Geomecânica de Reservatórios de Petróleo, Modelagem Numérica em Meios Particulados e Fraturamento Hidráulico",
+    "URL Exata da Fonte de Validação": "https://www.civ.puc-rio.br/corpo-docente-quadro-principal/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Coordenação de Ensaios e Contratos Industriais ITUC",
+    "E-mail Institucional Público": "ituc@puc-rio.br",
+    "Departamento / Centro / Unidade": "ITUC (Instituto Tecnológico da PUC-Rio)",
+    "Laboratório / Grupo de Pesquisa Associado": "ITUC / CTC",
+    "Área de Especialização Técnica": "Interface de Ensaios Tecnológicos, Prototipagem Industrial, Testes Estruturais e Contratos com Setor Produtivo",
+    "URL Exata da Fonte de Validação": "https://www.ctc.puc-rio.br/estrutura-organizacional",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  },
+  {
+    "Nome Completo": "Coordenação do Instituto Gênesis / Agência PUC-Rio de Inovação (AGI)",
+    "E-mail Institucional Público": "genesis@puc-rio.br",
+    "Departamento / Centro / Unidade": "Instituto Gênesis / AGI (Agência PUC-Rio de Inovação)",
+    "Laboratório / Grupo de Pesquisa Associado": "Instituto Gênesis Incubadora & Escritório de Parcerias CTC",
+    "Área de Especialização Técnica": "Incubação de Spin-offs Industriais, Gestão de Propriedade Intelectual, Cláusula de P&D ANP/EMBRAPII e Transferência Tecnológica",
+    "URL Exata da Fonte de Validação": "https://genesis.puc-rio.br/equipe/",
+    "Status de Validação e Data de Acesso": "Verificado (Fonte Oficial) em 2025-03-30"
+  }
+]
