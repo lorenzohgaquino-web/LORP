@@ -1,0 +1,66 @@
+# Dataset Institucional ITA (Instituto Tecnológico de Aeronáutica)
+
+Mapeamento institucional aprofundado cobrindo divisões prioritárias e programas de pós-graduação.
+
+| Nome completo | E-mail institucional | Unidade | Departamento | Laboratório / Grupo | URL da Fonte | Status | Data de Acesso |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Brett Vern Carlson | brett@ita.br | IEF | Física | Física Nuclear | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| César Henrique Lenzi | chlenzi@ita.br | IEF | Física | Física Nuclear | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Mariana Dutra | marianad@ita.br | IEF | Física | Física Nuclear | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Odilon Lourenço | odilon@ita.br | IEF | Física | Física Nuclear | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Pedro Jose Pompeia | pompeia@ita.br | IEF | Física | Física Nuclear | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Tobias Frederico | tobias@ita.br | IEF | Física | Física Nuclear | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Wayne Leonardo de Paula | wayne@ita.br | IEF | Física | Física Nuclear | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Franciole Marinho | franciole@ita.br | IEF | Física | Física Nuclear | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| André Jorge Carvalho Chaves | andrejck@ita.br | IEF | Física | Física Atômica e Molecular | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Filipe Matusalém | fmatusalem@ita.br | IEF | Física | Física Atômica e Molecular | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Francisco Bolivar Correto Machado | fmachado@ita.br | IEF | Física | Física Atômica e Molecular | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Ivan Guilhon Mitoso Rocha | guilhon@ita.br | IEF | Física | Física Atômica e Molecular | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Lara Kuhl Teles | lkteles@ita.br | IEF | Física | Física Atômica e Molecular | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Luiz Fernando de Araújo Ferrão | ferrao@ita.br | IEF | Física | Física Atômica e Molecular | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Marcelo Marques | mmarques@ita.br | IEF | Física | Física Atômica e Molecular | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Renê Felipe Keidel Spada | rfkspada@ita.br | IEF | Física | Física Atômica e Molecular | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Argemiro Soares da Silva Sobrinho | argemiro@ita.br | IEF | Física | Física de Plasmas | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| André Luis de Jesus Pereira | andreljp@ita.br | IEF | Física | Física de Plasmas | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Homero Santiago Maciel | odairtur@gmail.com | IEF | Física | Física de Plasmas | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Rodrigo Sávio Pessoa | rspessoa@ita.br | IEF | Física | Física de Plasmas | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Érico Luiz Rempel | rempel@ita.br | IEF | Física | Dinâmica não Linear e Sistemas Complexos | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Jayr de Amorim Filho | jayr.de.amorim@gmail.com | IEF | Física | Dinâmica não Linear e Sistemas Complexos | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Marco Antonio Ridenti | aridenti@ita.br | IEF | Física | Dinâmica não Linear e Sistemas Complexos | [https://www.pgfis.ita.br/pt/post/docentes](https://www.pgfis.ita.br/pt/post/docentes) | Verificado | 2026-06-19 |
+| Denis Silva Loubach | dloubach@ita.br | IEC | Chefia-IEC | Sistemas de Computação | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Valério Rosset | rosset@ita.br | IEC | Vice-chefia IEC | Sistemas de Computação | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Marcos Ricardo O. de A. Máximo | mmaximo@ita.br | IEC | Metodologias de Computação | Sistemas Autônomos | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Mariá C. V. Nascimento | mariah@ita.br | IEC | Metodologias de Computação | Otimização Combinatória | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Inaldo Capistrano Costa | inaldo@ita.br | IEC | Software e Sistemas de Informação | Sistemas Críticos | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Ana Carolina Lorena | aclorena@ita.br | IEC | Metodologias de Computação | Inteligência Artificial | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Joicymara Santos Xavier | joicymara@ita.br | IEC | Software e Sistemas de Informação | Bioinformática | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Juliana de Melo Bezerra | juliana@ita.br | IEC | Sistemas de Computação | Engenharia de Software | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Cecília de Azevedo Castro César | cecilia@ita.br | IEC | Sistemas de Computação | Redes de Computadores | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Celso Massaki Hirata | hirata@ita.br | IEC | Sistemas de Computação | Simulação | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Cesar Augusto C. Marcondes | cmarcondes@ita.br | IEC | Sistemas de Computação | Segurança Cibernética | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Lourenço Alves Pereira Junior | ljr@ita.br | IEC | Sistemas de Computação | Defesa Cibernética | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Vitor Venceslau Curtis | curtis@ita.br | IEC | Sistemas de Computação | HPC | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Karla Donato Fook | karla@ita.br | IEC | Software e Sistemas de Informação | Engenharia de Software | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Elton Felipe Sbruzzi | elton@ita.br | IEC | Software e Sistemas de Informação | Ciência de Dados | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Johnny Cardoso Marques | johnny@ita.br | IEC | Software e Sistemas de Informação | Sistemas Críticos | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| José Maria Parente de Oliveira | parente@ita.br | IEC | Software e Sistemas de Informação | Big Data | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Maylon Pires Macedo | maylon@ita.br | IEC | Software e Sistemas de Informação | Engenharia de Software | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Adilson Marques da Cunha | cunha@ita.br | IEC | Software e Sistemas de Informação | Inteligência Artificial | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Luís Vieira Dias | vdias@ita.br | IEC | Software e Sistemas de Informação | Qualidade de Software | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Carlos A. Alonso Sanches | alonso@ita.br | IEC | Teoria da Computação | Algoritmos Paralelos | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Armando Ramos Gouveia | armando@ita.br | IEC | Teoria da Computação | Teoria da Computação | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Carlos Henrique Q. Foster | forster@ita.br | IEC | Teoria da Computação | Visão Robótica | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Luiz Gustavo B. Mirisola | lgm@ita.br | IEC | Teoria da Computação | Robótica | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Guilherme Oliveira Chagas | guilhermechagas@ita.br | IEC | Teoria da Computação | Teoria da Computação | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Carlos Henrique C. Ribeiro | carlos@ita.br | IEC | Metodologias de Computação | Aprendizagem por Reforço | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Paulo Marcelo Tasinaffo | tasinaffo@ita.br | IEC | Metodologias de Computação | Redes Neurais | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Paulo André L. Castro | pauloac@ita.br | IEC | Metodologias de Computação | Finanças Computacionais | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| Filipe Alves Neto Verri | verri@ita.br | IEC | Metodologias de Computação | Complex Networks | [https://www.comp.ita.br/organizacao/](https://www.comp.ita.br/organizacao/) | Verificado | 2026-06-19 |
+| André V. G. Cavalieri | andre@ita.br | IEAer | Aeronáutica | Aeroacústica | [http://www.off-ladhyx.polytechnique.fr/people/lutz/pdfs/Cavalieri_AMR_2019.pdf](http://www.off-ladhyx.polytechnique.fr/people/lutz/pdfs/Cavalieri_AMR_2019.pdf) | Verificado | 2026-06-19 |
+| Mauricio Vicente Donadon | donadon@ita.br | IEAer | Aeronáutica | Estruturas Compósitas | [https://www.researchgate.net/publication/287458338_A_Numerical_Study_on_Smart_Material_Selection_for_Flapped_and_Twisted_Morphing_Wing_Configurations](https://www.researchgate.net/publication/287458338_A_Numerical_Study_on_Smart_Material_Selection_for_Flapped_and_Twisted_Morphing_Wing_Configurations) | Verificado | 2026-06-19 |
+| Roberto Gil Annes da Silva | roberto.gil@gp.ita.br | IEAer | Aeronáutica | Aeroelasticidade | [http://www.ita.br/sites/default/files/pages/collection/CAT%C3%81LOGO-PG-2023-Revisado_0.pdf](http://www.ita.br/sites/default/files/pages/collection/CAT%C3%81LOGO-PG-2023-Revisado_0.pdf) | Verificado | 2026-06-19 |
+| Ney Rafael Secco | ney.secco@gp.ita.br | IEAer | Aeronáutica | Projeto de Aeronaves | [http://www.ita.br/sites/default/files/pages/collection/CAT%C3%81LOGO-PG-2023-Revisado_0.pdf](http://www.ita.br/sites/default/files/pages/collection/CAT%C3%81LOGO-PG-2023-Revisado_0.pdf) | Verificado | 2026-06-19 |
+| Cleverson Bringhenti | cleverson@ita.br | IEM | Mecânica | Turbinas a Gás | [https://www.mec.ita.br/chefia/](https://www.mec.ita.br/chefia/) | Verificado | 2026-06-19 |
+| Thiago de Paula Sales | tpsales@ita.br | IEM | Mecânica | Dinâmica de Sistemas | [https://www.mec.ita.br/chefia/](https://www.mec.ita.br/chefia/) | Verificado | 2026-06-19 |
+| Cláudio Jorge Pinto Alves | claudioj@ita.br | IEI | Civil | Transporte Aéreo | [https://scispace.com/pdf/innovation-system-in-air-transport-management-yz1e1k5614.pdf](https://scispace.com/pdf/innovation-system-in-air-transport-management-yz1e1k5614.pdf) | Verificado | 2026-06-19 |
+| Mauro Caetano | caetano@ita.br | IEI | Civil | Inovação em Transporte Aéreo | [http://www.ita.br/sites/default/files/pages/Fase%202%20-%20Disciplinas%20eletivas%20ofertadas%20ao%20alunos%202-25.pdf](http://www.ita.br/sites/default/files/pages/Fase%202%20-%20Disciplinas%20eletivas%20ofertadas%20ao%20alunos%202-25.pdf) | Verificado | 2026-06-19 |
